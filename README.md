@@ -1,8 +1,8 @@
-# chatGPT 中文使用指南
+# 🤖 chatGPT 中文使用指南 🤖
 
 
 ## 使用途径
-### [OpenAI 官网](https://ai.com) 
+### 💻 [OpenAI 官网](https://ai.com)
 
 (推荐) 注册后免费使用，无次数限制，官方出品，性能最强，技术最佳。缺点是国内注册困难：
 * 需要科学上网，使用的代理 IP 质量不好的话无法成功
@@ -11,13 +11,13 @@
 
 ![chatGPT](imgs/openai_chatgpt.jpg)
 
-### [poe](https://poe.com/chatgpt)
+### 💻 [poe](https://poe.com/chatgpt)
 
-(推荐) 注册后免费使用，可免费试用当前最先进的 GPT-4，提供多种模型选择。能科学上网即可注册，有 iphone 客户端可以使用。
+(推荐) 注册后免费使用，可免费试用当前最先进的 GPT-4，提供多种模型选择。能科学上网即可注册，有 iPhone 客户端可以使用。
 
 ![poe](imgs/poe.jpg)
 
-### [微软必应](https://www.bing.com/)
+### 💻 [微软必应](https://www.bing.com/)
 
 (推荐) 注册后免费使用，有次数限制(经常调整)，需要使用微软的 Edge 浏览器访问 www.bing.com, 国内会重定向到 cn.bing.com 导致无法使用。国内使用有两种方法：
 * 科学上网访问 www.bing.com
@@ -27,22 +27,22 @@
 
 ![new_bing](imgs/new_bing.jpg)
 
-### 替代品
+### 💻 替代品
 
-#### [YouChat](https://you.com/)
+#### 💻 [YouChat](https://you.com/)
 
 注册登陆后即可免费使用，并且由于 you.com 本身是搜索引擎，侧边栏会出现实时搜索结果
 
 ![youchat](imgs/you_chat.jpg)
 
-### [ChatSonic](https://writesonic.com/chat)
+### 💻 [ChatSonic](https://writesonic.com/chat)
 
 注册后提供一定免费额度，超出免费额度需付费
 
 ![chatSonic](imgs/writesonic.jpg)
 
 
-### [Claude](https://www.anthropic.com/product)
+### 💻 [Claude](https://www.anthropic.com/product)
 
 脱胎于 OpenAI 的初创公司 Anthropic 产品 Claude 模型，需申请使用
 
@@ -50,21 +50,22 @@
 
 
 
-### 国产 chatGPT 类似产品
+### 💻 国产 chatGPT 类似产品
 
-#### [文心一言](https://yiyan.baidu.com/welcome)
+#### 💻 [文心一言](https://yiyan.baidu.com/welcome)
 
 百度出品，目前未大规模开放，可申请使用
 
 ![wenxin](imgs/wenxin.jpg)
 
-#### [ChatYuan: 元语功能型对话大模型](https://huggingface.co/spaces/tianpanyu/ChatYuan-Demo)
+
+#### 💻 [ChatYuan: 元语功能型对话大模型](https://huggingface.co/spaces/tianpanyu/ChatYuan-Demo)
 
 2023 年 2 月曾短暂发布，后因未知原因关闭，可使用抱抱脸体验 demo, 实测性能与 OpenAI 的 chatGPT 有一定差距。代码和模型已开源 [[GitHub 代码](https://github.com/clue-ai/ChatYuan)].
 
 ![chatYuan](imgs/chatYuan.jpg)
 
-#### [MOSS](https://moss.fastnlp.top/)
+#### 💻 [MOSS](https://moss.fastnlp.top/)
 
 现已无法使用
 
@@ -125,20 +126,20 @@ ChatGPT 和 Wolfram|Alpha 结合，补足 chatGPT 数学计算方面的补足。
 
 ## 如何与 chatGPT 高效对话？——好的提示语学习
 
-### [让生产力加倍的 ChatGPT 快捷指令](https://newzone.top/chatgpt/)
+### 💡 [让生产力加倍的 ChatGPT 快捷指令](https://newzone.top/chatgpt/)
 
 如何让 chatGPT 的回答更准确，更符合我们的要求，网站提供了许多例子供参考。
 
 ![chatgpt_sc](imgs/chatGPT_shortcut.jpg)
 
 
-### [学习如何提示：Learn Prompting](https://learnprompting.org/zh-Hans/)
+### 💡 [学习如何提示：Learn Prompting](https://learnprompting.org/zh-Hans/)
 
 学习如何使用 prompt，支持中文
 
 ![learnPrompt](imgs/learning_prompting.jpg)
 
-### [提示语自动生成](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator)  
+### 💡 [提示语自动生成](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator)  
 
 如果感觉自己写的 prompt 不够好， 可以让模型帮你写，然后再输入 chatGPT .
 
