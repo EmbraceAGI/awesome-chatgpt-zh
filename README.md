@@ -1,5 +1,7 @@
 # 🤖 chatGPT 中文使用指南 🤖
 
+[GitHub 持续更新，欢迎关注~](https://github.com/yzfly/awesome-chatgpt-zh)
+
 ## 什么是 chatGPT ?
 
 以下是 chatGPT 为大家做的自我介绍：
