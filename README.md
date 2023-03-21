@@ -13,7 +13,7 @@
 
 ### [poe](https://poe.com/chatgpt)
 
-(推荐) 注册后免费使用，可免费试用当前最先进的 GPT-4。能科学上网即可注册，有 iphone 客户端可以使用。
+(推荐) 注册后免费使用，可免费试用当前最先进的 GPT-4，提供多种模型选择。能科学上网即可注册，有 iphone 客户端可以使用。
 
 ![poe](imgs/poe.jpg)
 
@@ -35,6 +35,41 @@
 
 ![youchat](imgs/you_chat.jpg)
 
+### [ChatSonic](https://writesonic.com/chat)
+
+注册后提供一定免费额度，超出免费额度需付费
+
+![chatSonic](imgs/writesonic.jpg)
+
+
+### [Claude](https://www.anthropic.com/product)
+
+脱胎于 OpenAI 的初创公司 Anthropic 产品 Claude 模型，需申请使用
+
+![claude](imgs/claude.jpg)
+
+
+
+### 国产 chatGPT 类似产品
+
+#### [文心一言](https://yiyan.baidu.com/welcome)
+
+百度出品，目前未大规模开放，可申请使用
+
+![wenxin](imgs/wenxin.jpg)
+
+#### [ChatYuan: 元语功能型对话大模型](https://huggingface.co/spaces/tianpanyu/ChatYuan-Demo)
+
+2023 年 2 月曾短暂发布，后因未知原因关闭，可使用抱抱脸体验 demo, 实测性能与 OpenAI 的 chatGPT 有一定差距。代码和模型已开源 [[GitHub 代码](https://github.com/clue-ai/ChatYuan)].
+
+![chatYuan](imgs/chatYuan.jpg)
+
+#### [MOSS](https://moss.fastnlp.top/)
+
+现已无法使用
+
+![MOSS](imgs/MOSS.jpg)
+
 
 #### 更多工具
 [chatGPT 用法和 APP](https://gpt3demo.com/)
@@ -54,27 +89,76 @@
 
 ![chatPDF_paper](imgs/chatPDF_paper.jpg) 
 
+### [科研助手：researchgpt](https://github.com/mukulpatnaik/researchgpt)
+
+与上面的 chatPDF 功能比较类似，就不放图了。[[GitHub 代码](https://github.com/mukulpatnaik/researchgpt)] [[网站](https://researchgpt.ue.r.appspot.com/)]
+
 ### [打工人福利: 周报生成器](https://weeklyreport.avemaria.fun/zh)
 
 生成各种组会、周会汇报内容，周一、五、六、日可免费使用，其余时间需要自备 OpenAI API Key
 
 ![zhoubao](imgs/zhoubao_gpt.jpg)
 
+### [程序猿利器：帮你生成完整 Github README](https://readme.rustc.cloud/zh)
+简单描述项目简介即可快速生成 GitHub README 内容
+
+![github_readme](imgs/gpt_readme.jpg)
+
+### [写作助手: rytr](https://rytr.me/)
+
+邮件，博客等各类文档智能写作助手，支持中文
+
+![rytr](imgs/rytr.jpg)
+
 ### [visual chatGPT](https://huggingface.co/spaces/microsoft/visual_chatgpt)
-为 chatGPT 添加图片能力
+为 chatGPT 添加图片能力. 
+
+[论文：[Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
+](https://arxiv.org/abs/2303.04671)]  [[GitHub 代码](https://github.com/microsoft/visual-chatgpt)]
 ![visual_gpt](imgs/visual_gpt.gif)
 
+### [提高 chatGPT 数学能力: WolframAlpha](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain)
+
+ChatGPT 和 Wolfram|Alpha 结合，补足 chatGPT 数学计算方面的补足。
+![gpt_wolfram](imgs/GPT_wolfram.jpg)
+
+
 ## 如何与 chatGPT 高效对话？——好的提示语学习
-[提示语自动生成](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator)  
+
+### [让生产力加倍的 ChatGPT 快捷指令](https://newzone.top/chatgpt/)
+
+如何让 chatGPT 的回答更准确，更符合我们的要求，网站提供了许多例子供参考。
+
+![chatgpt_sc](imgs/chatGPT_shortcut.jpg)
+
+
+### [学习如何提示：Learn Prompting](https://learnprompting.org/zh-Hans/)
+
+学习如何使用 prompt，支持中文
+
+![learnPrompt](imgs/learning_prompting.jpg)
+
+### [提示语自动生成](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator)  
+
+如果感觉自己写的 prompt 不够好， 可以让模型帮你写，然后再输入 chatGPT .
 
 ![prompt-gen](imgs/chatGPT_promote_gen.jpg)
 
-
-## chatGPT 学习资源
-
-
-
-## 相关项目
+### 提示词学习相关资料
 * [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 * [🧠ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 * [ChatGPT调教指南-咒语指南-聊天提示词指南](https://github.com/wikieden/Awesome-ChatGPT-Prompts-CN)
+
+
+## 类 chatGPT 开源模型
+
+OpenAI 的 chatGPT 大型语言模型（LLM）并未开源，这部分收录一些深度学习开源的 LLM 供感兴趣的同学学习参考。
+
+### [OpenChatKit](https://github.com/togethercomputer/OpenChatKit#pre-trained-weights)
+
+GitHub:
+> https://github.com/togethercomputer/OpenChatKit#pre-trained-weights
+
+开源了数据、模型和权重，以及提供训练，微调教程，下面是项目介绍
+
+![openChatKit](imgs/openChatKit.jpg)
