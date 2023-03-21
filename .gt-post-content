@@ -1,4 +1,4 @@
-img[src*="#w50"] {
+img {
   display: block;
   width: 50%;
   height: auto;
