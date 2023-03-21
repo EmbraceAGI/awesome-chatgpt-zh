@@ -2,11 +2,29 @@
 
 
 ## 使用途径
-* [OpenAI 官网](https://ai.com)
+### [OpenAI 官网](https://ai.com) 
+
+(推荐) 注册后免费使用，无次数限制，官方出品，性能最强，技术最佳。缺点是国内注册困难：
+* 需要科学上网，使用的代理 IP 质量不好的话无法成功
+* 需要国外手机号验证，google voice 等虚拟号码无法通过验证，可使用淘宝解决 or [海外号码](https://sms-activate.org/)
+* 国内注册教程: https://cloud.tencent.com/developer/article/2190154
+
 ![chatGPT](imgs/openai_chatgpt.jpg)
-* [poe](https://poe.com/chatgpt) (推荐)
+
+### [poe](https://poe.com/chatgpt)
+
+(推荐) 注册后免费使用，可免费试用当前最先进的 GPT-4。能科学上网即可注册，有 iphone 客户端可以使用。
+
 ![poe](imgs/poe.jpg)
-* [微软必应](https://www.bing.com/)
+
+### [微软必应](https://www.bing.com/)
+
+(推荐) 注册后免费使用，有次数限制(经常调整)，需要使用微软的 Edge 浏览器访问 www.bing.com, 国内会重定向到 cn.bing.com 导致无法使用。国内使用有两种方法：
+* 科学上网访问 www.bing.com
+* 重定向访问 www.bing.com
+* [国内使用教程](https://zhuanlan.zhihu.com/p/612500707):https://zhuanlan.zhihu.com/p/612500707
+* [如果不想使用 Edge 想使用 Chrome 教程](https://cloud.tencent.com/developer/article/2235566)
+
 ![new_bing](imgs/new_bing.jpg)
 
 ### 替代品
