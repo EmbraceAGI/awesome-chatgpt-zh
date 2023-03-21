@@ -32,7 +32,12 @@
 
 ![new_bing](imgs/new_bing.jpg)
 
-### 💻 替代品
+### 💻 国外竞品
+
+#### 💻 [Bard](https://bard.google.com/)
+谷歌出品，使用需申请，与 OpenAI chatGPT 相比不支持代码功能，需翻墙注册使用
+
+![Bard](imgs/bard.jpg)
 
 #### 💻 [YouChat](https://you.com/)
 
