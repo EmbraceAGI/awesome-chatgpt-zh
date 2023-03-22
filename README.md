@@ -135,6 +135,10 @@
 ChatGPT 和 Wolfram|Alpha 结合，补足 chatGPT 数学计算方面的补足。
 ![gpt_wolfram](imgs/GPT_wolfram.jpg)
 
+### [AI代码助手: codeium](https://codeium.com/)
+个人使用免费，有 vscode 插件，github copilot 平替
+
+![codeium](imgs/codeium.jpg)
 
 ## 如何与 chatGPT 高效对话？——好的提示语学习
 
