@@ -168,6 +168,7 @@ GPT-4 驱动的一款强大代码编辑器，可以辅助程序员进行日常�
 ![prompt-gen](imgs/chatGPT_promote_gen.jpg)
 
 ### 提示词学习相关资料
+* [awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt)
 * [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 * [🧠ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 * [ChatGPT调教指南-咒语指南-聊天提示词指南](https://github.com/wikieden/Awesome-ChatGPT-Prompts-CN)
