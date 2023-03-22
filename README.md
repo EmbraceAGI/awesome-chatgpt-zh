@@ -189,6 +189,7 @@ GPT-4 驱动的一款强大代码编辑器，可以辅助程序员进行日常�
 ### chatGPT 浏览器插件
 * [chatGPT 接入谷歌: chatgpt-google-extension](https://chatgpt4google.com/)
 * [chatGPT 协助回答知乎问题: chat-gpt-zhihu-extension](https://chrome.google.com/webstore/detail/chatgpt-for-zhihu/dgoinfidjelfolhnkaableghhppplbak)
+* [邮件助手：ChatGPT for Email - Remail](https://chrome.google.com/webstore/detail/chatgpt-for-email-remail/jjplpolfahlhoodebebfjdbpcbopcmlk)
 
 ## 如何与 chatGPT 高效对话？——好的提示语学习
 
