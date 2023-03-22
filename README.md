@@ -187,8 +187,8 @@ GPT-4 驱动的一款强大代码编辑器，可以辅助程序员进行日常�
 ![codeium](imgs/cursor.jpg)
 
 ### chatGPT 浏览器插件
-* [chatGPT 接入谷歌: chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension)
-* [chatGPT 协助回答知乎问题: chat-gpt-zhihu-extension](https://github.com/no13bus/chat-gpt-zhihu-extension)
+* [chatGPT 接入谷歌: chatgpt-google-extension](https://chatgpt4google.com/)
+* [chatGPT 协助回答知乎问题: chat-gpt-zhihu-extension](https://chrome.google.com/webstore/detail/chatgpt-for-zhihu/dgoinfidjelfolhnkaableghhppplbak)
 
 ## 如何与 chatGPT 高效对话？——好的提示语学习
 
