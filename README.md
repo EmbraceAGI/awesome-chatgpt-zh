@@ -126,9 +126,8 @@
 
 ## chatGPT 玩法
 
-#### 对话例子
+#### 使用示例
 - [chatGPT 教你一步一步实现 CIFAR10 数据集图像分类任务](examples/ImageClassificationCifar10Tutorials_ChatGPT.md)
-
 
 ### chatGPT 学习英语
 * 安装 chrome 插件: [Voice Control for ChatGPT](https://chrome.google.com/webstore/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn)
@@ -186,6 +185,10 @@ ChatGPT 和 Wolfram|Alpha 结合，补足 chatGPT 数学计算方面的补足。
 GPT-4 驱动的一款强大代码编辑器，可以辅助程序员进行日常的编码，目前免费。
 
 ![codeium](imgs/cursor.jpg)
+
+### chatGPT 浏览器插件
+* [chatGPT 接入谷歌: chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension)
+* [chatGPT 协助回答知乎问题: chat-gpt-zhihu-extension](https://github.com/no13bus/chat-gpt-zhihu-extension)
 
 ## 如何与 chatGPT 高效对话？——好的提示语学习
 
