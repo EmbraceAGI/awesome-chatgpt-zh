@@ -2,6 +2,35 @@
 
 [GitHub 持续更新，欢迎关注~](https://github.com/yzfly/awesome-chatgpt-zh)
 
+这个项目旨在帮助中文用户了解和使用ChatGPT。我们收集了各种免费和付费的ChatGPT资源，以及如何更有效地与ChatGPT进行交流的方法。在这个仓库中，您将找到各种使用ChatGPT的工具、应用和示例。
+
+- [目录](#-chatgpt-中文使用指南-)
+  - [什么是 chatGPT ?](#什么是-chatgpt-)
+  - [使用途径](#使用途径)
+    - [💻 [OpenAI 官网](https://ai.com)](#-openai-官网)
+    - [💻 [poe](https://poe.com/chatgpt)](#-poe)
+    - [💻 [微软必应](https://www.bing.com/)](#-微软必应)
+    - [💻 国外竞品](#-国外竞品)
+      - [💻 [Bard](https://bard.google.com/)](#-bard)
+      - [💻 [YouChat](https://you.com/)](#-youchat)
+    - [💻 [ChatSonic](https://writesonic.com/chat)](#-chatsonic)
+    - [💻 [Claude](https://www.anthropic.com/product)](#-claude)
+    - [💻 国产 chatGPT 类似产品](#-国产-chatgpt-类似产品)
+      - [💻 [文心一言](https://yiyan.baidu.com/welcome)](#-文心一言)
+      - [💻 [ChatYuan: 元语功能型对话大模型](https://huggingface.co/spaces/tianpanyu/ChatYuan-Demo)](#-chatyuan-元语功能型对话大模型)
+      - [💻 [MOSS](https://moss.fastnlp.top/)](#-moss)
+  - [chatGPT 玩法](#chatgpt-玩法)
+    - [chatGPT 学习英语](#chatgpt-学习英语)
+    - [[科研狗福音 chatPDF: 像聊天一样阅读 PDF](https://www.chatpdf.com/)](#科研狗福音-chatpdf-像聊天一样阅读-pdf)
+    - [[科研助手：researchgpt](https://github.com/mukulpatnaik/researchgpt)](#科研助手researchgpt)
+    - [[打工人福利: 周报生成器](https://weeklyreport.avemaria.fun/zh)](#打工人福利-周报生成器)
+    - [[程序猿利器：帮你生成完整 Github README](https://readme.rustc.cloud/zh)](#程序猿利器帮你生成完整-github-readme)
+    - [[写作助手: rytr](https://rytr.me/)](#写作助手-rytr)
+    - [[visual chatGPT](https://huggingface.co/spaces/microsoft/visual_chatgpt)](#visual-chatgpt)
+    - [[提高 chatGPT 数学能力: WolframAlpha](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain)](#提高-chatgpt-数学能力-wolframalpha)
+    - [[AI代码助手: codeium
+
+
 ## 什么是 chatGPT ?
 
 以下是 chatGPT 为大家做的自我介绍：
@@ -47,14 +76,14 @@
 
 ![youchat](imgs/you_chat.jpg)
 
-### 💻 [ChatSonic](https://writesonic.com/chat)
+#### 💻 [ChatSonic](https://writesonic.com/chat)
 
 注册后提供一定免费额度，超出免费额度需付费
 
 ![chatSonic](imgs/writesonic.jpg)
 
 
-### 💻 [Claude](https://www.anthropic.com/product)
+#### 💻 [Claude](https://www.anthropic.com/product)
 
 脱胎于 OpenAI 的初创公司 Anthropic 产品 Claude 模型，需申请使用
 
