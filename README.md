@@ -120,12 +120,16 @@
 
 ![MOSS](imgs/MOSS.jpg)
 
-
 #### 更多工具
 [chatGPT 用法和 APP](https://gpt3demo.com/)
 ![gpt3_demo](imgs/gpt3_demo.jpg)
 
 ## chatGPT 玩法
+
+#### 对话例子
+- [chatGPT 教你一步一步实现 CIFAR10 数据集图像分类任务](examples/ImageClassificationCifar10Tutorials_ChatGPT.md)
+
+
 ### chatGPT 学习英语
 * 安装 chrome 插件: [Voice Control for ChatGPT](https://chrome.google.com/webstore/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn)
 
