@@ -140,6 +140,12 @@ ChatGPT 和 Wolfram|Alpha 结合，补足 chatGPT 数学计算方面的补足。
 
 ![codeium](imgs/codeium.jpg)
 
+### [GPT 驱动的代码编辑器: Cursor](https://www.cursor.so/)
+
+GPT-4 驱动的一款强大代码编辑器，可以辅助程序员进行日常的编码，目前免费。
+
+![codeium](imgs/cursor.jpg)
+
 ## 如何与 chatGPT 高效对话？——好的提示语学习
 
 ### 💡 [让生产力加倍的 ChatGPT 快捷指令](https://newzone.top/chatgpt/)
