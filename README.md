@@ -44,12 +44,12 @@
   - [相关资料](#相关资料)
   - [类 chatGPT 开源模型](#类-chatgpt-开源模型)
     - [OpenChatKit](#openchatkit)
-    - [更多 AI 工具](#更多-ai-工具)
-      - [AI 绘画](#ai-绘画)
-      - [代码生成](#代码生成)
-      - [AI辅助写作](#ai辅助写作)
-      - [PPT生成](#ppt生成)
-      - [语音/视频合成](#语音视频合成)
+  - [更多 AI 工具](#更多-ai-工具)
+    - [AI 绘画](#ai-绘画)
+    - [代码生成](#代码生成)
+    - [AI辅助写作](#ai辅助写作)
+    - [PPT生成](#ppt生成)
+    - [语音/视频合成](#语音视频合成)
   - [思考](#思考)
     - [chatGPT 之父 Sam Altman: 万物摩尔定律](#chatgpt-之父-sam-altman-万物摩尔定律)
 
@@ -263,21 +263,21 @@ GitHub:
 
 ![openChatKit](imgs/openChatKit.jpg)
 
-### 更多 AI 工具
+## 更多 AI 工具
 
-#### AI 绘画
+### AI 绘画
 
 - [Midjourney](https://www.midjourney.com/home/)  
 - [Stable Diffusion](https://stablediffusionweb.com/)  
 - [DALL·E 2](https://labs.openai.com/)
 
-#### 代码生成
+### 代码生成
 
 - [Copilot](https://github.com/features/copilot)  
 - [Codeium](https://codeium.com/)  
 - [Replit](https://replit.com/)
 
-#### AI辅助写作
+### AI辅助写作
 
 - [ChatGPT](https://chat.openai.com/)  
 - [Craft](https://www.craft.do/)  
@@ -287,11 +287,11 @@ GitHub:
 - [Jasper](https://www.jasper.ai/)  
 - [copysmith](https://copysmith.ai/)
 
-#### PPT生成
+### PPT生成
 
 - [Tome](https://beta.tome.app/)
 
-#### 语音/视频合成
+### 语音/视频合成
 
 - [Murf AI](https://murf.ai/)  
 - [Resemble AI](https://www.resemble.ai/)  
