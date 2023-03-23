@@ -191,6 +191,7 @@ GPT-4 驱动的一款强大代码编辑器，可以辅助程序员进行日常�
 * [chatGPT 协助回答知乎问题: chat-gpt-zhihu-extension](https://chrome.google.com/webstore/detail/chatgpt-for-zhihu/dgoinfidjelfolhnkaableghhppplbak)
 * [邮件助手：ChatGPT for Email - Remail](https://chrome.google.com/webstore/detail/chatgpt-for-email-remail/jjplpolfahlhoodebebfjdbpcbopcmlk)
 
+
 ## 如何与 chatGPT 高效对话？——好的提示语学习
 
 ### 💡 [让生产力加倍的 ChatGPT 快捷指令](https://newzone.top/chatgpt/)
@@ -231,3 +232,38 @@ GitHub:
 开源了数据、模型和权重，以及提供训练，微调教程，下面是项目介绍
 
 ![openChatKit](imgs/openChatKit.jpg)
+
+### 更多 AI 工具
+
+#### AI 绘画
+
+- [Midjourney](https://www.midjourney.com/home/)  
+- [Stable Diffusion](https://stablediffusionweb.com/)  
+- [DALL·E 2](https://labs.openai.com/)
+
+#### 代码生成
+
+- [Copilot](https://github.com/features/copilot)  
+- [Codeium](https://codeium.com/)  
+- [Replit](https://replit.com/)
+
+#### AI辅助写作
+
+- [ChatGPT](https://chat.openai.com/)  
+- [Craft](https://www.craft.do/)  
+- [Notion](https://notion.so/)  
+- [Compose AI](https://www.compose.ai/)  
+- [copy.ai](http://copy.ai/)  
+- [Jasper](https://www.jasper.ai/)  
+- [copysmith](https://copysmith.ai/)
+
+#### PPT生成
+
+- [Tome](https://beta.tome.app/)
+
+#### 语音/视频合成
+
+- [Murf AI](https://murf.ai/)  
+- [Resemble AI](https://www.resemble.ai/)  
+- [Synthesia](https://www.synthesia.io/)  
+- [Adobe Podcast](https://podcast.adobe.com/)
