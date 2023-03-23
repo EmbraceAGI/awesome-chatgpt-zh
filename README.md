@@ -152,10 +152,7 @@
 
 ![zhoubao](imgs/zhoubao_gpt.jpg)
 
-### [程序猿利器：帮你生成完整 Github README](https://readme.rustc.cloud/zh)
-简单描述项目简介即可快速生成 GitHub README 内容
 
-![github_readme](imgs/gpt_readme.jpg)
 
 ### [写作助手: rytr](https://rytr.me/)
 
@@ -175,16 +172,26 @@
 ChatGPT 和 Wolfram|Alpha 结合，补足 chatGPT 数学计算方面的补足。
 ![gpt_wolfram](imgs/GPT_wolfram.jpg)
 
-### [AI代码助手: codeium](https://codeium.com/)
+### 程序猿专区
+#### [AI代码助手: codeium](https://codeium.com/)
 个人使用免费，有 vscode 插件，github copilot 平替
 
 ![codeium](imgs/codeium.jpg)
 
-### [GPT 驱动的代码编辑器: Cursor](https://www.cursor.so/)
+#### [GPT 驱动的代码编辑器: Cursor](https://www.cursor.so/)
 
 GPT-4 驱动的一款强大代码编辑器，可以辅助程序员进行日常的编码，目前免费。
 
 ![codeium](imgs/cursor.jpg)
+
+#### [帮你生成完整 Github README](https://readme.rustc.cloud/zh)
+简单描述项目简介即可快速生成 GitHub README 内容
+
+![github_readme](imgs/gpt_readme.jpg)
+
+#### [以后 git 提交 commit 信息不用抓耳挠腮了：GPTcommit](https://github.com/zurawiki/gptcommit)
+
+#### [自动生成任何编程语言的文档: AutoDoc-ChatGPT](https://github.com/awekrx/AutoDoc-ChatGPT)
 
 ### chatGPT 浏览器插件
 * [chatGPT 接入谷歌: chatgpt-google-extension](https://chatgpt4google.com/)
