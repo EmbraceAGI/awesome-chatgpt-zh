@@ -24,6 +24,8 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
   - [chatGPT 玩法](#chatgpt-玩法)
       - [使用示例](#使用示例)
     - [chatGPT 学习英语](#chatgpt-学习英语)
+    - [翻译: OpenAI Translator](#翻译-openai-translator)
+    - [RoomGPT](#roomgpt)
     - [科研狗福音 chatPDF: 像聊天一样阅读 PDF](#科研狗福音-chatpdf-像聊天一样阅读-pdf)
     - [科研助手：researchgpt](#科研助手researchgpt)
     - [打工人福利: 周报生成器](#打工人福利-周报生成器)
@@ -155,15 +157,34 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 
 ![improveEnglish](imgs/chatgpt_improve_english.jpg)
 
+### [翻译: OpenAI Translator](https://chrome.google.com/webstore/detail/openai-translator/ogjibjphoadhljaoicdnjnmgokohngcc?hl=zh-CN)
+
+基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用。 
+
+[Chrome 插件地址](https://chrome.google.com/webstore/detail/openai-translator/ogjibjphoadhljaoicdnjnmgokohngcc?hl=zh-CN), [GitHub 开源地址](https://github.com/yetone/openai-translator)
+
+![translator](imgs/open_translator.jpg)
+
+### [RoomGPT](https://www.roomgpt.io/)
+
+使用 AI 设计自己梦想的房间，上传图片即可得到概念图。
+
+![RoomGPT](imgs/roomGPT.io.png)
+
 ### [科研狗福音 chatPDF: 像聊天一样阅读 PDF](https://www.chatpdf.com/)
 
-科研狗福音，上传科研论文 PDF ,可以让 chatPDF 帮助快速总结文章内容，创新点，贡献点，实验结果，以下是一个例子
+科研狗福音，上传科研论文 PDF ,可以让 chatPDF 帮助快速总结文章内容，创新点，贡献点，实验结果。以下是一个例子
 
 ![chatPDF_paper](imgs/chatPDF_paper.jpg) 
 
+类似工具：
+* [PandaGPT](https://www.pandagpt.io/)
+
 ### [科研助手：researchgpt](https://github.com/mukulpatnaik/researchgpt)
 
-与上面的 chatPDF 功能比较类似，就不放图了。[[GitHub 代码](https://github.com/mukulpatnaik/researchgpt)] [[网站](https://researchgpt.ue.r.appspot.com/)]
+与上面的 chatPDF 功能比较类似，就不放图了。
+
+[[GitHub 代码](https://github.com/mukulpatnaik/researchgpt)] [[网站](https://researchgpt.ue.r.appspot.com/)]
 
 ### [打工人福利: 周报生成器](https://weeklyreport.avemaria.fun/zh)
 
