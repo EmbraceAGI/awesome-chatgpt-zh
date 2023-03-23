@@ -189,9 +189,17 @@ GPT-4 驱动的一款强大代码编辑器，可以辅助程序员进行日常�
 
 ![github_readme](imgs/gpt_readme.jpg)
 
+#### [GitHub 官方出品新一代代码编辑器：copilot-x](https://github.com/features/preview/copilot-x)
+
+目前可申请内测
+
+![copilot_x](imgs/github_copilot_x.png)
+
+
 #### [以后 git 提交 commit 信息不用抓耳挠腮了：GPTcommit](https://github.com/zurawiki/gptcommit)
 
 #### [自动生成任何编程语言的文档: AutoDoc-ChatGPT](https://github.com/awekrx/AutoDoc-ChatGPT)
+
 
 ### chatGPT 浏览器插件
 * [chatGPT 接入谷歌: chatgpt-google-extension](https://chatgpt4google.com/)
