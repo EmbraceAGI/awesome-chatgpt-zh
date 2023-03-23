@@ -36,10 +36,15 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
       - [AI代码助手: codeium](#ai代码助手-codeium)
       - [GPT 驱动的代码编辑器: Cursor](#gpt-驱动的代码编辑器-cursor)
       - [帮你生成完整 Github README](#帮你生成完整-github-readme)
+      - [shell 中使用 chatGPT](#shell-中使用-chatgpt)
       - [GitHub 官方出品新一代代码编辑器：copilot-x](#github-官方出品新一代代码编辑器copilot-x)
+      - [开发自己的 chatGPT 应用：langchain](#开发自己的-chatgpt-应用langchain)
+      - [OpenAI 官方使用指南：openai-cookbook](#openai-官方使用指南openai-cookbook)
+      - [OpenAI python 接口](#openai-python-接口)
       - [以后 git 提交 commit 信息不用抓耳挠腮了：GPTcommit](#以后-git-提交-commit-信息不用抓耳挠腮了gptcommit)
       - [自动生成任何编程语言的文档: AutoDoc-ChatGPT](#自动生成任何编程语言的文档-autodoc-chatgpt)
       - [使用ChatGPT搭建微信聊天机器人](#使用chatgpt搭建微信聊天机器人)
+      - [开源 chatGPT 替代品列表](#开源-chatgpt-替代品列表)
     - [chatGPT 浏览器插件](#chatgpt-浏览器插件)
   - [如何与 chatGPT 高效对话？——好的提示语学习](#如何与-chatgpt-高效对话好的提示语学习)
     - [💡 让生产力加倍的 ChatGPT 快捷指令](#-让生产力加倍的-chatgpt-快捷指令)
@@ -229,18 +234,29 @@ GPT-4 驱动的一款强大代码编辑器，可以辅助程序员进行日常�
 
 ![github_readme](imgs/gpt_readme.jpg)
 
+#### [shell 中使用 chatGPT](https://github.com/TheR1D/shell_gpt)
+
+![shellGPT](imgs/shell_gpt.gif)
+
 #### [GitHub 官方出品新一代代码编辑器：copilot-x](https://github.com/features/preview/copilot-x)
 
 目前可申请内测
 
 ![copilot_x](imgs/github_copilot_x.png)
 
+#### [开发自己的 chatGPT 应用：langchain](https://github.com/hwchase17/langchain)
+
+#### [OpenAI 官方使用指南：openai-cookbook](https://github.com/openai/openai-cookbook)
+
+#### [OpenAI python 接口](https://github.com/openai/openai-python)
 
 #### [以后 git 提交 commit 信息不用抓耳挠腮了：GPTcommit](https://github.com/zurawiki/gptcommit)
 
 #### [自动生成任何编程语言的文档: AutoDoc-ChatGPT](https://github.com/awekrx/AutoDoc-ChatGPT)
 
 #### [使用ChatGPT搭建微信聊天机器人](https://github.com/zhayujie/chatgpt-on-wechat)
+
+#### [开源 chatGPT 替代品列表](https://github.com/nichtdax/awesome-totally-open-chatgpt)
 
 ### chatGPT 浏览器插件
 * [chatGPT 接入谷歌: chatgpt-google-extension](https://chatgpt4google.com/)
@@ -272,6 +288,7 @@ GPT-4 驱动的一款强大代码编辑器，可以辅助程序员进行日常�
 ## 相关资料
 * [awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt)
 * [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+* [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 * [🧠ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 * [ChatGPT调教指南-咒语指南-聊天提示词指南](https://github.com/wikieden/Awesome-ChatGPT-Prompts-CN)
 
