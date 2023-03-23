@@ -25,7 +25,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
       - [使用示例](#使用示例)
     - [chatGPT 学习英语](#chatgpt-学习英语)
     - [翻译: OpenAI Translator](#翻译-openai-translator)
-    - [RoomGPT](#roomgpt)
+    - [设计梦想的房间: RoomGPT](#设计梦想的房间-roomgpt)
     - [科研狗福音 chatPDF: 像聊天一样阅读 PDF](#科研狗福音-chatpdf-像聊天一样阅读-pdf)
     - [科研助手：researchgpt](#科研助手researchgpt)
     - [打工人福利: 周报生成器](#打工人福利-周报生成器)
@@ -165,7 +165,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 
 ![translator](imgs/open_translator.jpg)
 
-### [RoomGPT](https://www.roomgpt.io/)
+### [设计梦想的房间: RoomGPT](https://www.roomgpt.io/)
 
 使用 AI 设计自己梦想的房间，上传图片即可得到概念图。
 
