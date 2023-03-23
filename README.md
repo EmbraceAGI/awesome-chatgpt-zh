@@ -277,7 +277,9 @@ GitHub:
 
 
 ## 思考
-* [chatGPT 之父 Sam Altman: 万物摩尔定律] [英文原文](https://moores.samaltman.com/) [中文翻译](https://zhuanlan.zhihu.com/p/577620007)
+### chatGPT 之父 Sam Altman: 万物摩尔定律
+
+[英文原文](https://moores.samaltman.com/) [中文翻译](https://zhuanlan.zhihu.com/p/577620007)
 
 本文来自2021年Sam Altman的博客，他在文章中写了对人工智能革命的思考。我认为他自己总结的很好，下面是观点摘要：
 
