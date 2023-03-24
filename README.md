@@ -155,6 +155,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 
 #### 使用示例
 - [chatGPT 教你一步一步实现 CIFAR10 数据集图像分类任务](examples/ImageClassificationCifar10Tutorials_ChatGPT.md)
+- - [一句话让 ChatGPT 帮助你实现 YOLO 目标检测](examples/YOLOV4.md)
 
 ### chatGPT 学习英语
 * 安装 chrome 插件: [Voice Control for ChatGPT](https://chrome.google.com/webstore/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn)
