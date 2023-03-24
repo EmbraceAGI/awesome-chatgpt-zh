@@ -39,6 +39,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
       - [AI代码助手: codeium](#ai代码助手-codeium)
       - [GPT 驱动的代码编辑器: Cursor](#gpt-驱动的代码编辑器-cursor)
       - [帮你生成完整 Github README](#帮你生成完整-github-readme)
+      - [智能测试： codium](#智能测试-codium)
       - [shell 中使用 chatGPT](#shell-中使用-chatgpt)
       - [GitHub 官方出品新一代代码编辑器：copilot-x](#github-官方出品新一代代码编辑器copilot-x)
       - [开发自己的 chatGPT 应用：langchain](#开发自己的-chatgpt-应用langchain)
@@ -241,12 +242,18 @@ ChatGPT 和 Wolfram|Alpha 结合，补足 chatGPT 数学计算方面的补足。
 
 GPT-4 驱动的一款强大代码编辑器，可以辅助程序员进行日常的编码，目前免费。
 
-![codeium](imgs/cursor.jpg)
+![cursor](imgs/cursor.jpg)
 
 #### [帮你生成完整 Github README](https://readme.rustc.cloud/zh)
 简单描述项目简介即可快速生成 GitHub README 内容
 
 ![github_readme](imgs/gpt_readme.jpg)
+
+#### [智能测试： codium](https://www.codium.ai/)
+
+CodiumAI这个项目构建了一个名为TestGPT的语言模型，是一个专注于软件测试方面的AI，用它通过对话式来生成代码分析、测试计划和测试代码。目前有vscode和jetbrains的插件可供使用。
+
+![codium](imgs/codium_chatgpt.jpg)
 
 #### [shell 中使用 chatGPT](https://github.com/TheR1D/shell_gpt)
 
