@@ -29,6 +29,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [翻译: OpenAI Translator](#翻译-openai-translator)
     - [设计梦想的房间: RoomGPT](#设计梦想的房间-roomgpt)
     - [科研狗福音 chatPDF: 像聊天一样阅读 PDF](#科研狗福音-chatpdf-像聊天一样阅读-pdf)
+      - [与视频对话：ChatYoutube](#与视频对话chatyoutube)
     - [科研助手：researchgpt](#科研助手researchgpt)
     - [打工人福利: 周报生成器](#打工人福利-周报生成器)
     - [写作助手: rytr](#写作助手-rytr)
@@ -192,6 +193,13 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 类似工具：
 * [PandaGPT](https://www.pandagpt.io/)
 
+#### [与视频对话：ChatYoutube]()
+
+丢一个 YouTube 视频链接，与任何YouTube视频对话。
+
+![ChatYoutube](imgs/chatYoutube.jpg)
+
+
 ### [科研助手：researchgpt](https://github.com/mukulpatnaik/researchgpt)
 
 与上面的 chatPDF 功能比较类似，就不放图了。
@@ -203,7 +211,6 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 生成各种组会、周会汇报内容，周一、五、六、日可免费使用，其余时间需要自备 OpenAI API Key
 
 ![zhoubao](imgs/zhoubao_gpt.jpg)
-
 
 
 ### [写作助手: rytr](https://rytr.me/)
