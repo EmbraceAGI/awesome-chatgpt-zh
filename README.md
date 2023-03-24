@@ -50,6 +50,9 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
       - [开源 chatGPT 替代品列表](#开源-chatgpt-替代品列表)
     - [chatGPT 浏览器插件](#chatgpt-浏览器插件)
   - [如何与 chatGPT 高效对话？——好的提示语学习](#如何与-chatgpt-高效对话好的提示语学习)
+    - [Prompt 框架](#prompt-框架)
+      - [Elavis Saravia 总结的框架：](#elavis-saravia-总结的框架)
+      - [Matt Nigh 总结的 CRISPE 框架：](#matt-nigh-总结的-crispe-框架)
     - [💡 让生产力加倍的 ChatGPT 快捷指令](#-让生产力加倍的-chatgpt-快捷指令)
     - [💡 学习如何提示：Learn Prompting](#-学习如何提示learn-prompting)
     - [💡 提示语自动生成](#-提示语自动生成)
@@ -271,6 +274,28 @@ GPT-4 驱动的一款强大代码编辑器，可以辅助程序员进行日常�
 
 
 ## 如何与 chatGPT 高效对话？——好的提示语学习
+
+### Prompt 框架
+
+#### Elavis Saravia 总结的框架：
+
+- Instruction（必须）： 指令，即你希望模型执行的具体任务。
+- Context（选填）： 背景信息，或者说是上下文信息，这可以引导模型做出更好的反应。
+- Input Data（选填）： 输入数据，告知模型需要处理的数据。
+- Output Indicator（选填）： 输出指示器，告知模型我们要输出的类型或格式。
+https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/guides/prompts-intro.md
+
+#### Matt Nigh 总结的 CRISPE 框架：
+
+更加复杂，但完备性会比较高，比较适合用于编写 prompt 模板。
+CRISPE 分别代表以下含义：
+
+- CR： Capacity and Role（能力与角色）。你希望 ChatGPT 扮演怎样的角色。
+- I： Insight（洞察力），背景信息和上下文（坦率说来我觉得用 Context 更好）。
+- S： Statement（指令），你希望 ChatGPT 做什么。
+- P： Personality（个性），你希望 ChatGPT 以什么风格或方式回答你。
+- E： Experiment（尝试），要求 ChatGPT 为你提供多个答案。
+https://github.com/mattnigh/ChatGPT3-Free-Prompt-List
 
 ### 💡 [让生产力加倍的 ChatGPT 快捷指令](https://newzone.top/chatgpt/)
 
