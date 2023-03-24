@@ -22,7 +22,9 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
       - [💻 MOSS](#-moss)
       - [更多工具](#更多工具)
   - [chatGPT 玩法](#chatgpt-玩法)
-      - [使用示例](#使用示例)
+    - [使用示例](#使用示例)
+      - [chatGPT 教你一步一步实现 CIFAR10 数据集图像分类任务](#chatgpt-教你一步一步实现-cifar10-数据集图像分类任务)
+      - [一句话让 ChatGPT 帮助你实现 YOLO 目标检测](#一句话让-chatgpt-帮助你实现-yolo-目标检测)
     - [chatGPT 学习英语](#chatgpt-学习英语)
     - [翻译: OpenAI Translator](#翻译-openai-translator)
     - [设计梦想的房间: RoomGPT](#设计梦想的房间-roomgpt)
@@ -153,9 +155,9 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 
 ## chatGPT 玩法
 
-#### 使用示例
-- [chatGPT 教你一步一步实现 CIFAR10 数据集图像分类任务](examples/ImageClassificationCifar10Tutorials_ChatGPT.md)
-- - [一句话让 ChatGPT 帮助你实现 YOLO 目标检测](examples/YOLOV4.md)
+### 使用示例
+#### [chatGPT 教你一步一步实现 CIFAR10 数据集图像分类任务](examples/ImageClassificationCifar10Tutorials_ChatGPT.md)
+#### [一句话让 ChatGPT 帮助你实现 YOLO 目标检测](examples/YOLOV4.md)
 
 ### chatGPT 学习英语
 * 安装 chrome 插件: [Voice Control for ChatGPT](https://chrome.google.com/webstore/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn)
