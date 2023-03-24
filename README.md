@@ -39,6 +39,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
       - [shell 中使用 chatGPT](#shell-中使用-chatgpt)
       - [GitHub 官方出品新一代代码编辑器：copilot-x](#github-官方出品新一代代码编辑器copilot-x)
       - [开发自己的 chatGPT 应用：langchain](#开发自己的-chatgpt-应用langchain)
+      - [CopilotForXcode - Copilot Xcode Source Editor Extension.](#copilotforxcode---copilot-xcode-source-editor-extension)
       - [OpenAI 官方使用指南：openai-cookbook](#openai-官方使用指南openai-cookbook)
       - [OpenAI python 接口](#openai-python-接口)
       - [以后 git 提交 commit 信息不用抓耳挠腮了：GPTcommit](#以后-git-提交-commit-信息不用抓耳挠腮了gptcommit)
@@ -245,6 +246,8 @@ GPT-4 驱动的一款强大代码编辑器，可以辅助程序员进行日常�
 ![copilot_x](imgs/github_copilot_x.png)
 
 #### [开发自己的 chatGPT 应用：langchain](https://github.com/hwchase17/langchain)
+
+#### [CopilotForXcode](https://github.com/intitni/CopilotForXcode) - Copilot Xcode Source Editor Extension.
 
 #### [OpenAI 官方使用指南：openai-cookbook](https://github.com/openai/openai-cookbook)
 
