@@ -1,6 +1,6 @@
 # 🤖 ChatGPT 中文指南 🤖
 
-[GitHub 持续更新，欢迎关注~](https://github.com/yzfly/awesome-chatgpt-zh)
+[GitHub 持续更新，欢迎 star + 关注~](https://github.com/yzfly/awesome-chatgpt-zh)
 
 ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我们收集了各种免费和付费的ChatGPT资源，以及如何更有效地与ChatGPT进行交流的方法。在这个仓库中，您将找到各种使用ChatGPT的工具、应用和示例。
 
