@@ -283,6 +283,7 @@ GPT-4 驱动的一款强大代码编辑器，可以辅助程序员进行日常�
 - Context（选填）： 背景信息，或者说是上下文信息，这可以引导模型做出更好的反应。
 - Input Data（选填）： 输入数据，告知模型需要处理的数据。
 - Output Indicator（选填）： 输出指示器，告知模型我们要输出的类型或格式。
+  
 https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/guides/prompts-intro.md
 
 #### Matt Nigh 总结的 CRISPE 框架：
@@ -295,6 +296,7 @@ CRISPE 分别代表以下含义：
 - S： Statement（指令），你希望 ChatGPT 做什么。
 - P： Personality（个性），你希望 ChatGPT 以什么风格或方式回答你。
 - E： Experiment（尝试），要求 ChatGPT 为你提供多个答案。
+  
 https://github.com/mattnigh/ChatGPT3-Free-Prompt-List
 
 ### 💡 [让生产力加倍的 ChatGPT 快捷指令](https://newzone.top/chatgpt/)
