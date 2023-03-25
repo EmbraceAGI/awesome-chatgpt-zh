@@ -51,6 +51,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
       - [自动生成任何编程语言的文档: AutoDoc-ChatGPT](#自动生成任何编程语言的文档-autodoc-chatgpt)
       - [使用ChatGPT搭建微信聊天机器人](#使用chatgpt搭建微信聊天机器人)
       - [开源 chatGPT 替代品列表](#开源-chatgpt-替代品列表)
+      - [人人都能创建 GPT 工具: AI Anything](#人人都能创建-gpt-工具-ai-anything)
     - [chatGPT 浏览器插件](#chatgpt-浏览器插件)
   - [如何与 chatGPT 高效对话？——好的提示语学习](#如何与-chatgpt-高效对话好的提示语学习)
     - [Prompt 框架](#prompt-框架)
@@ -285,6 +286,8 @@ CodiumAI这个项目构建了一个名为TestGPT的语言模型，是一个专�
 #### [使用ChatGPT搭建微信聊天机器人](https://github.com/zhayujie/chatgpt-on-wechat)
 
 #### [开源 chatGPT 替代品列表](https://github.com/nichtdax/awesome-totally-open-chatgpt)
+
+#### [人人都能创建 GPT 工具: AI Anything](https://github.com/KeJunMao/ai-anything/blob/main/README.zh-cn.md)
 
 ### chatGPT 浏览器插件
 * [chatGPT 接入谷歌: chatgpt-google-extension](https://chatgpt4google.com/)
