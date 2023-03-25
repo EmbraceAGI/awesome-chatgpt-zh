@@ -34,8 +34,9 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [科研助手：researchgpt](#科研助手researchgpt)
     - [打工人福利: 周报生成器](#打工人福利-周报生成器)
     - [写作助手: rytr](#写作助手-rytr)
-    - [visual chatGPT](#visual-chatgpt)
     - [提高 chatGPT 数学能力: WolframAlpha](#提高-chatgpt-数学能力-wolframalpha)
+    - [visual chatGPT](#visual-chatgpt)
+    - [Multimedia GPT](#multimedia-gpt)
     - [程序猿专区](#程序猿专区)
       - [AI代码助手: codeium](#ai代码助手-codeium)
       - [GPT 驱动的代码编辑器: Cursor](#gpt-驱动的代码编辑器-cursor)
@@ -227,6 +228,11 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 
 ![rytr](imgs/rytr.jpg)
 
+### [提高 chatGPT 数学能力: WolframAlpha](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain)
+
+ChatGPT 和 Wolfram|Alpha 结合，补足 chatGPT 数学计算方面的补足。
+![gpt_wolfram](imgs/GPT_wolfram.jpg)
+
 ### [visual chatGPT](https://huggingface.co/spaces/microsoft/visual_chatgpt)
 为 chatGPT 添加图片能力. 
 
@@ -234,10 +240,11 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 ](https://arxiv.org/abs/2303.04671)]  [[GitHub 代码](https://github.com/microsoft/visual-chatgpt)]
 ![visual_gpt](imgs/visual_gpt.gif)
 
-### [提高 chatGPT 数学能力: WolframAlpha](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain)
+### [Multimedia GPT](https://github.com/fengyuli-dev/multimedia-gpt)
 
-ChatGPT 和 Wolfram|Alpha 结合，补足 chatGPT 数学计算方面的补足。
-![gpt_wolfram](imgs/GPT_wolfram.jpg)
+将OpenAI GPT与视觉和音频连接起来。您现在可以使用OpenAI API密钥发送图像、音频记录和pdf文档，并获得文本和图像格式的响应。目前正在增加对视频的支持。
+
+![multimedia_gpt](imgs/multimedia_gpt.jpg)
 
 ### 程序猿专区
 #### [AI代码助手: codeium](https://codeium.com/)
