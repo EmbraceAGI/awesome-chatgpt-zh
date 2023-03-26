@@ -174,6 +174,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 ## ChatGPT 黑魔法
 
 通过黑魔法指令解除 OpenAI 对 ChatGPT 的限制，慎用！（实测对 GPT-4 可能无效）
+
 <ul>
 <li>
 <details>
@@ -203,9 +204,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 </details>
 </li>
 
-<ul>
-
-
+</ul>
 
 
 ## ChatGPT 工具
