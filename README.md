@@ -12,14 +12,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [💻 微软必应](#-微软必应)
     - [💻 第三方开发者开发的 ChatGPT 客户端](#-第三方开发者开发的-chatgpt-客户端)
     - [💻 国外竞品](#-国外竞品)
-      - [💻 Bard](#-bard)
-      - [💻 YouChat](#-youchat)
-      - [💻 ChatSonic](#-chatsonic)
-      - [💻 Claude](#-claude)
     - [💻 国产 chatGPT 类似产品](#-国产-chatgpt-类似产品)
-      - [💻 文心一言](#-文心一言)
-      - [💻 ChatYuan: 元语功能型对话大模型](#-chatyuan-元语功能型对话大模型)
-      - [💻 MOSS](#-moss)
       - [更多工具](#更多工具)
   - [ChatGPT 对话](#chatgpt-对话)
     - [chatGPT 教你一步一步实现 CIFAR10 数据集图像分类任务](#chatgpt-教你一步一步实现-cifar10-数据集图像分类任务)
@@ -113,53 +106,101 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 ### 💻 [第三方开发者开发的 ChatGPT 客户端](https://github.com/lencx/ChatGPT)
 
 ### 💻 国外竞品
+<ul>
+<li>
+<details>
+  <summary> 💻 Bard </summary>
 
-#### 💻 [Bard](https://bard.google.com/)
+> https://bard.google.com/
 谷歌出品，使用需申请，与 OpenAI chatGPT 相比不支持代码功能，需翻墙注册使用
 
 ![Bard](imgs/bard.jpg)
 
-#### 💻 [YouChat](https://you.com/)
+</details>
+</li>
+
+<li>
+<details>
+  <summary>💻 YouChat </summary>
+  
+> https://you.com/
 
 注册登陆后即可免费使用，并且由于 you.com 本身是搜索引擎，侧边栏会出现实时搜索结果
 
 ![youchat](imgs/you_chat.jpg)
 
-#### 💻 [ChatSonic](https://writesonic.com/chat)
+</details>
+</li>
+
+<li>
+<details>
+  <summary>💻 ChatSonic </summary>
+  
+> https://writesonic.com/chat
 
 注册后提供一定免费额度，超出免费额度需付费
 
 ![chatSonic](imgs/writesonic.jpg)
 
+</details>
+</li>
 
-#### 💻 [Claude](https://www.anthropic.com/product)
+<li>
+<details>
+  <summary>💻 Claude </summary>
+
+> https://www.anthropic.com/product
 
 脱胎于 OpenAI 的初创公司 Anthropic 产品 Claude 模型，需申请使用
 
 ![claude](imgs/claude.jpg)
 
-
+</details>
+</li>
+</ul>
 
 ### 💻 国产 chatGPT 类似产品
+<ul>
+<li>
+<details>
+  <summary>💻 文心一言</summary>
 
-#### 💻 [文心一言](https://yiyan.baidu.com/welcome)
+> https://yiyan.baidu.com/welcome
 
 百度出品，目前未大规模开放，可申请使用
 
 ![wenxin](imgs/wenxin.jpg)
 
+</details>
+</li>
 
-#### 💻 [ChatYuan: 元语功能型对话大模型](https://huggingface.co/spaces/tianpanyu/ChatYuan-Demo)
+<li>
+<details>
+  <summary> 💻 ChatYuan: 元语功能型对话大模型</summary>
+  
+> https://huggingface.co/spaces/tianpanyu/ChatYuan-Demo
 
 2023 年 2 月曾短暂发布，后因未知原因关闭，可使用抱抱脸体验 demo, 实测性能与 OpenAI 的 chatGPT 有一定差距。代码和模型已开源 [[GitHub 代码](https://github.com/clue-ai/ChatYuan)].
 
 ![chatYuan](imgs/chatYuan.jpg)
 
-#### 💻 [MOSS](https://moss.fastnlp.top/)
+</details>
+</li>
+
+<li>
+<details>
+  <summary>💻 MOSS </summary>
+  
+> https://moss.fastnlp.top/
 
 现已无法使用
 
 ![MOSS](imgs/MOSS.jpg)
+
+</details>
+</li>
+
+</ul>
 
 #### 更多工具
 [chatGPT 用法和 APP](https://gpt3demo.com/)
