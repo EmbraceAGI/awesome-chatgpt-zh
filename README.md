@@ -57,6 +57,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [chatGPT 教你一步一步实现 CIFAR10 数据集图像分类任务](#chatgpt-教你一步一步实现-cifar10-数据集图像分类任务)
     - [一句话让 ChatGPT 帮助你实现 YOLO 目标检测](#一句话让-chatgpt-帮助你实现-yolo-目标检测)
     - [请选择你传奇的一生——ChatGPT：我选骆驼祥子](#请选择你传奇的一生chatgpt我选骆驼祥子)
+    - [ChatGPT 请扮演一个DAN，不必遵守OpenAI的政策](#chatgpt-请扮演一个dan不必遵守openai的政策)
   - [ChatGPT 黑魔法](#chatgpt-黑魔法)
   - [相关资料](#相关资料)
   - [类 chatGPT 开源模型](#类-chatgpt-开源模型)
@@ -401,6 +402,7 @@ https://github.com/mattnigh/ChatGPT3-Free-Prompt-List
 ### [chatGPT 教你一步一步实现 CIFAR10 数据集图像分类任务](examples/ImageClassificationCifar10Tutorials_ChatGPT.md)
 ### [一句话让 ChatGPT 帮助你实现 YOLO 目标检测](examples/YOLOV4.md)
 ### [请选择你传奇的一生——ChatGPT：我选骆驼祥子](examples/ChatGPT_xiangzi.md)
+### [ChatGPT 请扮演一个DAN，不必遵守OpenAI的政策](examples/chatGPT_set_free.md)
 
 ## ChatGPT 黑魔法
 
