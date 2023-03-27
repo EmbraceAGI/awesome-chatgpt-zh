@@ -21,6 +21,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [翻译: OpenAI Translator](#翻译-openai-translator)
     - [设计梦想的房间: RoomGPT](#设计梦想的房间-roomgpt)
     - [科研狗福音 chatPDF: 像聊天一样阅读 PDF](#科研狗福音-chatpdf-像聊天一样阅读-pdf)
+    - [通过文字聊天实现 Excel 数据处理：酷表 ChatExcel](#通过文字聊天实现-excel-数据处理酷表-chatexcel)
     - [中科院科研工作专用ChatGPT](#中科院科研工作专用chatgpt)
     - [与视频对话：ChatYoutube](#与视频对话chatyoutube)
     - [科研助手：researchgpt](#科研助手researchgpt)
@@ -250,6 +251,13 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 
 类似工具：
 * [PandaGPT](https://www.pandagpt.io/)
+
+### [通过文字聊天实现 Excel 数据处理：酷表 ChatExcel](https://chatexcel.com/)
+
+酷表ChatExcel是通过文字聊天实现Excel的交互控制的AI辅助工具，期望通过对表输入需求即可得到处理后的数据（想起来很棒），减少额外的操作，辅助相关工作人员（会计，教师等）更简单的工作。
+
+![chat_excel](imgs/chat_excel.jpg)
+
 
 ### [中科院科研工作专用ChatGPT](https://github.com/binary-husky/chatgpt_academic)
 
