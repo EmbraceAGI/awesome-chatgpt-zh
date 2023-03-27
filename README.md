@@ -21,6 +21,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [翻译: OpenAI Translator](#翻译-openai-translator)
     - [设计梦想的房间: RoomGPT](#设计梦想的房间-roomgpt)
     - [科研狗福音 chatPDF: 像聊天一样阅读 PDF](#科研狗福音-chatpdf-像聊天一样阅读-pdf)
+    - [中科院科研工作专用ChatGPT](#中科院科研工作专用chatgpt)
     - [与视频对话：ChatYoutube](#与视频对话chatyoutube)
     - [科研助手：researchgpt](#科研助手researchgpt)
     - [打工人福利: 周报生成器](#打工人福利-周报生成器)
@@ -247,6 +248,13 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 
 类似工具：
 * [PandaGPT](https://www.pandagpt.io/)
+
+### [中科院科研工作专用ChatGPT](https://github.com/binary-husky/chatgpt_academic)
+
+中科院科研工作专用ChatGPT，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，本地Python工程剖析功能/自我剖析
+
+![chat_academic](imgs/chatgpt_academic.png) 
+
 
 ### [与视频对话：ChatYoutube](https://chatyoutube.com/)
 
