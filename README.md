@@ -10,6 +10,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [💻 OpenAI 官网](#-openai-官网)
     - [💻 poe](#-poe)
     - [💻 微软必应](#-微软必应)
+    - [可以直接在国内访问的ChatGPT网站](#可以直接在国内访问的chatgpt网站)
     - [💻 第三方开发者开发的 ChatGPT 客户端](#-第三方开发者开发的-chatgpt-客户端)
     - [💻 国外竞品](#-国外竞品)
     - [💻 国产 chatGPT 类似产品](#-国产-chatgpt-类似产品)
@@ -105,6 +106,8 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 * [如果不想使用 Edge 想使用 Chrome 教程](https://cloud.tencent.com/developer/article/2235566)
 
 ![new_bing](imgs/new_bing.jpg)
+
+### [可以直接在国内访问的ChatGPT网站](examples/free_chatgpt_website.md)
 
 ### 💻 [第三方开发者开发的 ChatGPT 客户端](https://github.com/lencx/ChatGPT)
 
