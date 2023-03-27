@@ -10,6 +10,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [💻 OpenAI 官网](#-openai-官网)
     - [💻 poe](#-poe)
     - [💻 微软必应](#-微软必应)
+    - [国内可使用ChatGPT镜像站点: carrot](#国内可使用chatgpt镜像站点-carrot)
     - [可以直接在国内访问的ChatGPT网站](#可以直接在国内访问的chatgpt网站)
     - [💻 第三方开发者开发的 ChatGPT 客户端](#-第三方开发者开发的-chatgpt-客户端)
     - [💻 国外竞品](#-国外竞品)
@@ -74,7 +75,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
   - [思考](#思考)
     - [chatGPT 之父 Sam Altman: 万物摩尔定律](#chatgpt-之父-sam-altman-万物摩尔定律)
     - [GPT-4 ，人类迈向AGI的第一步](#gpt-4-人类迈向agi的第一步)
-  - [Stargazers](#stargazers)
+  - [Star History](#star-history)
 
 
 ## 什么是 chatGPT ?
@@ -109,6 +110,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 
 ![new_bing](imgs/new_bing.jpg)
 
+### [国内可使用ChatGPT镜像站点: carrot](https://github.com/xx025/carrot)
 ### [可以直接在国内访问的ChatGPT网站](examples/free_chatgpt_website.md)
 
 ### 💻 [第三方开发者开发的 ChatGPT 客户端](https://github.com/lencx/ChatGPT)
@@ -552,6 +554,6 @@ Dolly 使用 Alpaca 数据，对两年前的开源EleutherAI 60亿参数模型�
 [《GPT-4 ，通⽤⼈⼯智能的⽕花》论⽂内容精选与翻译](files/《GPT_4，通用人工智能的火花》论文内容精选与翻译_.pdf)
 
 
-## Stargazers
+## Star History
 
 [![Stargazers over time](https://starchart.cc/yzfly/awesome-chatgpt-zh.svg)](https://starchart.cc/yzfly/awesome-chatgpt-zh)
