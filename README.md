@@ -44,6 +44,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
       - [使用ChatGPT搭建微信聊天机器人](#使用chatgpt搭建微信聊天机器人)
       - [开源 chatGPT 替代品列表](#开源-chatgpt-替代品列表)
       - [人人都能创建 GPT 工具: AI Anything](#人人都能创建-gpt-工具-ai-anything)
+      - [Portal](#portal)
     - [chatGPT 浏览器插件](#chatgpt-浏览器插件)
   - [ChatGPT 插件](#chatgpt-插件)
   - [如何与 chatGPT 高效对话？——好的提示语学习](#如何与-chatgpt-高效对话好的提示语学习)
@@ -341,6 +342,10 @@ CodiumAI这个项目构建了一个名为TestGPT的语言模型，是一个专�
 #### [开源 chatGPT 替代品列表](https://github.com/nichtdax/awesome-totally-open-chatgpt)
 
 #### [人人都能创建 GPT 工具: AI Anything](https://github.com/KeJunMao/ai-anything/blob/main/README.zh-cn.md)
+
+#### [Portal](https://github.com/lxfater/Portal) 
+
+Portal是一款传输工具，旨在将ChatGPT的能力整合到用户的工作流程中。它把整个操作系统当成自己的舞台，可以在任意软件上操作ChatGPT。
 
 ### chatGPT 浏览器插件
 * [chatGPT 接入谷歌: chatgpt-google-extension](https://chatgpt4google.com/)
