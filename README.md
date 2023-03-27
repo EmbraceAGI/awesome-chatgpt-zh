@@ -51,6 +51,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
       - [在任意软件上操作ChatGPT: Portal](#在任意软件上操作chatgpt-portal)
     - [chatGPT 浏览器插件](#chatgpt-浏览器插件)
   - [ChatGPT 插件](#chatgpt-插件)
+    - [中文开发指南](#中文开发指南)
   - [如何与 chatGPT 高效对话？——好的提示语学习](#如何与-chatgpt-高效对话好的提示语学习)
     - [Prompt 框架](#prompt-框架)
       - [Elavis Saravia 总结的框架：](#elavis-saravia-总结的框架)
@@ -390,7 +391,13 @@ Portal是一款传输工具，旨在将ChatGPT的能力整合到用户的工作�
 ## ChatGPT 插件
 OpenAI 现已经支持插件功能，可以预见这个插件平台将成为新时代的 Apple Store，将会带来巨大的被动流量，新时代的机会！
 
-[官方文档](https://platform.openai.com/docs/plugins/introduction)
+- [官方文档](https://platform.openai.com/docs/plugins/introduction)
+
+### 中文开发指南
+指南中介绍了开发者申请开发插件的流程，与网页浏览器插件、代码解释器插件、Retrieval 插件、第三方插件等插件的功能、交互样式，详细介绍了开发流程，并通过“待办事项列表(to-do list)插件”的案例开发过程进行了演示。
+
+- [开发指南：ChatGPT 插件开发（上）](https://mp.weixin.qq.com/s/AmNkiLOqJo7tEJZPX34oeg) 
+- [开发指南：ChatGPT 插件开发（下）](https://mp.weixin.qq.com/s?__biz=MzIzNjE2NTI3NQ==&mid=2247485810&idx=2&sn=8bc4da188c39e1e2e9f808a362b6271f&scene=21#wechat_redirect)
 
 
 ## 如何与 chatGPT 高效对话？——好的提示语学习
