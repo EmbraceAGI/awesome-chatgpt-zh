@@ -1,6 +1,6 @@
 # 🤖 ChatGPT 中文指南 🤖
 
-[GitHub 持续更新，欢迎 star + 关注~](https://github.com/yzfly/awesome-chatgpt-zh)
+[GitHub 持续更新，欢迎关注，欢迎 star , 欢迎贡献~](https://github.com/yzfly/awesome-chatgpt-zh)
 
 ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我们收集了各种免费和付费的ChatGPT资源，以及如何更有效地与ChatGPT进行交流的方法。在这个仓库中，您将找到各种使用ChatGPT的工具、应用和示例。
 
@@ -46,7 +46,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
       - [使用ChatGPT搭建微信聊天机器人](#使用chatgpt搭建微信聊天机器人)
       - [开源 chatGPT 替代品列表](#开源-chatgpt-替代品列表)
       - [人人都能创建 GPT 工具: AI Anything](#人人都能创建-gpt-工具-ai-anything)
-      - [Portal](#portal)
+      - [在任意软件上操作ChatGPT: Portal](#在任意软件上操作chatgpt-portal)
     - [chatGPT 浏览器插件](#chatgpt-浏览器插件)
   - [ChatGPT 插件](#chatgpt-插件)
   - [如何与 chatGPT 高效对话？——好的提示语学习](#如何与-chatgpt-高效对话好的提示语学习)
@@ -77,6 +77,8 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [chatGPT 之父 Sam Altman: 万物摩尔定律](#chatgpt-之父-sam-altman-万物摩尔定律)
     - [GPT-4 ，人类迈向AGI的第一步](#gpt-4-人类迈向agi的第一步)
   - [Star History](#star-history)
+  - [贡献指南](#贡献指南)
+  - [致谢](#致谢)
 
 
 ## 什么是 chatGPT ?
@@ -354,7 +356,7 @@ CodiumAI这个项目构建了一个名为TestGPT的语言模型，是一个专�
 
 #### [人人都能创建 GPT 工具: AI Anything](https://github.com/KeJunMao/ai-anything/blob/main/README.zh-cn.md)
 
-#### [Portal](https://github.com/lxfater/Portal) 
+#### [在任意软件上操作ChatGPT: Portal](https://github.com/lxfater/Portal) 
 
 Portal是一款传输工具，旨在将ChatGPT的能力整合到用户的工作流程中。它把整个操作系统当成自己的舞台，可以在任意软件上操作ChatGPT。
 
@@ -565,3 +567,23 @@ Dolly 使用 Alpaca 数据，对两年前的开源EleutherAI 60亿参数模型�
 ## Star History
 
 [![Stargazers over time](https://starchart.cc/yzfly/awesome-chatgpt-zh.svg)](https://starchart.cc/yzfly/awesome-chatgpt-zh)
+
+## 贡献指南
+
+欢迎通过 issue 或 PR 提交 ChatGPT 的相关项目，玩法，优质资源~
+
+也欢迎各种贡献，包括修复错误、添加新功能和改进文档。
+
+
+## 致谢
+
+我们要对以下个人和项目表示衷心的感谢，他们为我们提供了宝贵的贡献和灵感：
+
+- [OpenAI](https://www.openai.com/)，因为开发了 GPT 系列语言模型。
+- [awesome-chatgpt-zh 社区](https://github.com/yzfly/awesome-chatgpt-zh/graphs/contributors)，因为他们的持续支持和贡献。
+- [GPT-4](https://github.com/openai/gpt-4)，因为提供了底层语言模型。
+- [Hugging Face](https://huggingface.co/)，因为他们在 NLP 和开源工具上的广泛工作。
+- [awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt)，因为他们在 ChatGPT 方面的出色工作。
+- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompt)，因为他们提供了一系列有趣的 ChatGPT 提示。
+
+如果您做出了重大贡献并希望得到认可，请随时与我们联系或提交一个更新此部分的 Pull Request。
