@@ -20,28 +20,29 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [chatGPT 学习英语](#chatgpt-学习英语)
     - [翻译: OpenAI Translator](#翻译-openai-translator)
     - [设计梦想的房间: RoomGPT](#设计梦想的房间-roomgpt)
-    - [科研狗福音 chatPDF: 像聊天一样阅读 PDF](#科研狗福音-chatpdf-像聊天一样阅读-pdf)
-    - [通过文字聊天实现 Excel 数据处理：酷表 ChatExcel](#通过文字聊天实现-excel-数据处理酷表-chatexcel)
     - [中科院科研工作专用ChatGPT](#中科院科研工作专用chatgpt)
-    - [与视频对话：ChatYoutube](#与视频对话chatyoutube)
+    - [科研狗福音 chatPDF: 像聊天一样阅读 PDF](#科研狗福音-chatpdf-像聊天一样阅读-pdf)
     - [科研助手：researchgpt](#科研助手researchgpt)
-    - [打工人福利: 周报生成器](#打工人福利-周报生成器)
+    - [通过文字聊天实现 Excel 数据处理：酷表 ChatExcel](#通过文字聊天实现-excel-数据处理酷表-chatexcel)
+    - [Doc 文件阅读助手: ChatDoc ](#doc-文件阅读助手-chatdoc-)
     - [写作助手: rytr](#写作助手-rytr)
+    - [与视频对话：ChatYoutube](#与视频对话chatyoutube)
+    - [打工人福利: 周报生成器](#打工人福利-周报生成器)
     - [提高 chatGPT 数学能力: WolframAlpha](#提高-chatgpt-数学能力-wolframalpha)
     - [visual chatGPT](#visual-chatgpt)
     - [Multimedia GPT](#multimedia-gpt)
     - [程序猿专区](#程序猿专区)
-      - [OpenAI 官方开发教程：OpenAI Cookbook](#openai-官方开发教程openai-cookbook)
+      - [OpenAI 官方使用指南：openai-cookbook](#openai-官方使用指南openai-cookbook)
+      - [OpenAI python 接口](#openai-python-接口)
+      - [开发自己的 chatGPT 应用：langchain](#开发自己的-chatgpt-应用langchain)
       - [AI代码助手: codeium](#ai代码助手-codeium)
+      - [将 OpenAI ChatGPT 集成到 VSCode: vscode-chatgpt](#将-openai-chatgpt-集成到-vscode-vscode-chatgpt)
       - [GPT 驱动的代码编辑器: Cursor](#gpt-驱动的代码编辑器-cursor)
       - [帮你生成完整 Github README](#帮你生成完整-github-readme)
       - [智能测试： codium](#智能测试-codium)
       - [shell 中使用 chatGPT](#shell-中使用-chatgpt)
       - [GitHub 官方出品新一代代码编辑器：copilot-x](#github-官方出品新一代代码编辑器copilot-x)
-      - [开发自己的 chatGPT 应用：langchain](#开发自己的-chatgpt-应用langchain)
       - [CopilotForXcode - Copilot Xcode Source Editor Extension.](#copilotforxcode---copilot-xcode-source-editor-extension)
-      - [OpenAI 官方使用指南：openai-cookbook](#openai-官方使用指南openai-cookbook)
-      - [OpenAI python 接口](#openai-python-接口)
       - [以后 git 提交 commit 信息不用抓耳挠腮了：GPTcommit](#以后-git-提交-commit-信息不用抓耳挠腮了gptcommit)
       - [自动生成任何编程语言的文档: AutoDoc-ChatGPT](#自动生成任何编程语言的文档-autodoc-chatgpt)
       - [使用ChatGPT搭建微信聊天机器人](#使用chatgpt搭建微信聊天机器人)
@@ -54,6 +55,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [Prompt 框架](#prompt-框架)
       - [Elavis Saravia 总结的框架：](#elavis-saravia-总结的框架)
       - [Matt Nigh 总结的 CRISPE 框架：](#matt-nigh-总结的-crispe-框架)
+    - [Prompt 编写模式：如何将思维框架赋予机器](#prompt-编写模式如何将思维框架赋予机器)
     - [一个可以帮你自动生成优质Prompt的工具: AIPRM](#一个可以帮你自动生成优质prompt的工具-aiprm)
     - [💡 让生产力加倍的 ChatGPT 快捷指令](#-让生产力加倍的-chatgpt-快捷指令)
     - [💡 学习如何提示：Learn Prompting](#-学习如何提示learn-prompting)
@@ -243,6 +245,12 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 
 ![RoomGPT](imgs/roomGPT.io.png)
 
+### [中科院科研工作专用ChatGPT](https://github.com/binary-husky/chatgpt_academic)
+
+中科院科研工作专用ChatGPT，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，本地Python工程剖析功能/自我剖析
+
+![chat_academic](imgs/chatgpt_academic.png) 
+
 ### [科研狗福音 chatPDF: 像聊天一样阅读 PDF](https://www.chatpdf.com/)
 
 科研狗福音，上传科研论文 PDF ,可以让 chatPDF 帮助快速总结文章内容，创新点，贡献点，实验结果。以下是一个例子
@@ -252,6 +260,12 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 类似工具：
 * [PandaGPT](https://www.pandagpt.io/)
 
+### [科研助手：researchgpt](https://github.com/mukulpatnaik/researchgpt)
+
+与上面的 chatPDF 功能比较类似，就不放图了。
+
+[[GitHub 代码](https://github.com/mukulpatnaik/researchgpt)] [[网站](https://researchgpt.ue.r.appspot.com/)]
+
 ### [通过文字聊天实现 Excel 数据处理：酷表 ChatExcel](https://chatexcel.com/)
 
 酷表ChatExcel是通过文字聊天实现Excel的交互控制的AI辅助工具，期望通过对表输入需求即可得到处理后的数据（想起来很棒），减少额外的操作，辅助相关工作人员（会计，教师等）更简单的工作。
@@ -259,11 +273,18 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 ![chat_excel](imgs/chat_excel.jpg)
 
 
-### [中科院科研工作专用ChatGPT](https://github.com/binary-husky/chatgpt_academic)
+### [Doc 文件阅读助手: ChatDoc ](https://chatdoc.com/)
 
-中科院科研工作专用ChatGPT，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，本地Python工程剖析功能/自我剖析
+基于 ChatGPT 的文件阅读助手，支持中英文，可以快速从上传研究论文、书籍、手册等文件中提取、定位和汇总文件信息，并通过聊天的方式在几秒钟内给出问题的答案。
 
-![chat_academic](imgs/chatgpt_academic.png) 
+![chat_doc](imgs/chat_doc.png)
+
+
+### [写作助手: rytr](https://rytr.me/)
+
+邮件，博客等各类文档智能写作助手，支持中文
+
+![rytr](imgs/rytr.jpg)
 
 
 ### [与视频对话：ChatYoutube](https://chatyoutube.com/)
@@ -273,12 +294,6 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 ![ChatYoutube](imgs/chatYoutube.jpg)
 
 
-### [科研助手：researchgpt](https://github.com/mukulpatnaik/researchgpt)
-
-与上面的 chatPDF 功能比较类似，就不放图了。
-
-[[GitHub 代码](https://github.com/mukulpatnaik/researchgpt)] [[网站](https://researchgpt.ue.r.appspot.com/)]
-
 ### [打工人福利: 周报生成器](https://weeklyreport.avemaria.fun/zh)
 
 生成各种组会、周会汇报内容，周一、五、六、日可免费使用，其余时间需要自备 OpenAI API Key
@@ -286,11 +301,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 ![zhoubao](imgs/zhoubao_gpt.jpg)
 
 
-### [写作助手: rytr](https://rytr.me/)
 
-邮件，博客等各类文档智能写作助手，支持中文
-
-![rytr](imgs/rytr.jpg)
 
 ### [提高 chatGPT 数学能力: WolframAlpha](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain)
 
@@ -312,12 +323,19 @@ ChatGPT 和 Wolfram|Alpha 结合，补足 chatGPT 数学计算方面的补足。
 
 ### 程序猿专区
 
-#### [OpenAI 官方开发教程：OpenAI Cookbook](https://github.com/openai/openai-cookbook)
+#### [OpenAI 官方使用指南：openai-cookbook](https://github.com/openai/openai-cookbook)
+
+#### [OpenAI python 接口](https://github.com/openai/openai-python)
+
+#### [开发自己的 chatGPT 应用：langchain](https://github.com/hwchase17/langchain)
+
 
 #### [AI代码助手: codeium](https://codeium.com/)
 个人使用免费，有 vscode 插件，github copilot 平替
 
 ![codeium](imgs/codeium.jpg)
+
+#### [将 OpenAI ChatGPT 集成到 VSCode: vscode-chatgpt](https://github.com/gencay/vscode-chatgpt)
 
 #### [GPT 驱动的代码编辑器: Cursor](https://www.cursor.so/)
 
@@ -346,13 +364,9 @@ CodiumAI这个项目构建了一个名为TestGPT的语言模型，是一个专�
 
 ![copilot_x](imgs/github_copilot_x.png)
 
-#### [开发自己的 chatGPT 应用：langchain](https://github.com/hwchase17/langchain)
 
 #### [CopilotForXcode](https://github.com/intitni/CopilotForXcode) - Copilot Xcode Source Editor Extension.
 
-#### [OpenAI 官方使用指南：openai-cookbook](https://github.com/openai/openai-cookbook)
-
-#### [OpenAI python 接口](https://github.com/openai/openai-python)
 
 #### [以后 git 提交 commit 信息不用抓耳挠腮了：GPTcommit](https://github.com/zurawiki/gptcommit)
 
@@ -404,6 +418,16 @@ CRISPE 分别代表以下含义：
 - E： Experiment（尝试），要求 ChatGPT 为你提供多个答案。
   
 https://github.com/mattnigh/ChatGPT3-Free-Prompt-List
+
+### [Prompt 编写模式：如何将思维框架赋予机器](https://github.com/prompt-engineering/prompt-patterns)
+
+Prompt 编写模式是一份中文教程，介绍了系列 Prompt 编写模式，以实现更好地应用 Prompt 对 AI 进行编程。
+
+项目逻辑清晰，示例丰富，作者对比了不同 Prompt 模式下 AI 输出内容的显著差异，撰写逻辑也是非常“中文”的。适合中文使用！
+
+项目结构与速查表
+
+![chatGPT Prompt cheatsheet](imgs/prompt-simple-cheatsheet.jpg)
 
 ### [一个可以帮你自动生成优质Prompt的工具: AIPRM](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj)
 
