@@ -27,6 +27,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [visual chatGPT](#visual-chatgpt)
     - [Multimedia GPT](#multimedia-gpt)
     - [程序猿专区](#程序猿专区)
+      - [OpenAI 官方开发教程：OpenAI Cookbook](#openai-官方开发教程openai-cookbook)
       - [AI代码助手: codeium](#ai代码助手-codeium)
       - [GPT 驱动的代码编辑器: Cursor](#gpt-驱动的代码编辑器-cursor)
       - [帮你生成完整 Github README](#帮你生成完整-github-readme)
@@ -284,6 +285,9 @@ ChatGPT 和 Wolfram|Alpha 结合，补足 chatGPT 数学计算方面的补足。
 ![multimedia_gpt](imgs/multimedia_gpt.jpg)
 
 ### 程序猿专区
+
+#### [OpenAI 官方开发教程：OpenAI Cookbook](https://github.com/openai/openai-cookbook)
+
 #### [AI代码助手: codeium](https://codeium.com/)
 个人使用免费，有 vscode 插件，github copilot 平替
 
