@@ -619,7 +619,6 @@ Dolly 使用 Alpaca 数据，对两年前的开源EleutherAI 60亿参数模型�
 我们要对以下个人和项目表示衷心的感谢，他们为我们提供了宝贵的贡献和灵感：
 
 - [OpenAI](https://www.openai.com/)，因为开发了 GPT 系列语言模型。
-- [awesome-chatgpt-zh 社区](https://github.com/yzfly/awesome-chatgpt-zh/graphs/contributors)，因为他们的持续支持和贡献。
 - [GPT-4](https://github.com/openai/gpt-4)，因为提供了底层语言模型。
 - [Hugging Face](https://huggingface.co/)，因为他们在 NLP 和开源工具上的广泛工作。
 - [awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt)，因为他们在 ChatGPT 方面的出色工作。
