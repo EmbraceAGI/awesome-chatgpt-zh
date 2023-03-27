@@ -5,7 +5,7 @@
 ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我们收集了各种免费和付费的ChatGPT资源，以及如何更有效地与ChatGPT进行交流的方法。在这个仓库中，您将找到各种使用ChatGPT的工具、应用和示例。
 
 - [🤖 ChatGPT 中文指南 🤖](#-chatgpt-中文指南-)
-  - [什么是 chatGPT ?](#什么是-chatgpt-)
+  - [什么是 ChatGPT ?](#什么是-chatgpt-)
   - [使用途径](#使用途径)
     - [💻 OpenAI 官网](#-openai-官网)
     - [💻 poe](#-poe)
@@ -14,10 +14,10 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [可以直接在国内访问的ChatGPT网站](#可以直接在国内访问的chatgpt网站)
     - [💻 第三方开发者开发的 ChatGPT 客户端](#-第三方开发者开发的-chatgpt-客户端)
     - [💻 国外竞品](#-国外竞品)
-    - [💻 国产 chatGPT 类似产品](#-国产-chatgpt-类似产品)
+    - [💻 国产 ChatGPT 类似产品](#-国产-chatgpt-类似产品)
     - [更多工具](#更多工具)
   - [ChatGPT 工具](#chatgpt-工具)
-    - [chatGPT 学习英语](#chatgpt-学习英语)
+    - [ChatGPT 学习英语](#chatgpt-学习英语)
     - [翻译: OpenAI Translator](#翻译-openai-translator)
     - [设计梦想的房间: RoomGPT](#设计梦想的房间-roomgpt)
     - [中科院科研工作专用ChatGPT](#中科院科研工作专用chatgpt)
@@ -28,31 +28,31 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [写作助手: rytr](#写作助手-rytr)
     - [与视频对话：ChatYoutube](#与视频对话chatyoutube)
     - [打工人福利: 周报生成器](#打工人福利-周报生成器)
-    - [提高 chatGPT 数学能力: WolframAlpha](#提高-chatgpt-数学能力-wolframalpha)
-    - [visual chatGPT](#visual-chatgpt)
+    - [提高 ChatGPT 数学能力: WolframAlpha](#提高-chatgpt-数学能力-wolframalpha)
+    - [visual ChatGPT](#visual-chatgpt)
     - [Multimedia GPT](#multimedia-gpt)
     - [程序猿专区](#程序猿专区)
       - [OpenAI 官方使用指南：openai-cookbook](#openai-官方使用指南openai-cookbook)
       - [OpenAI python 接口](#openai-python-接口)
-      - [开发自己的 chatGPT 应用：langchain](#开发自己的-chatgpt-应用langchain)
+      - [开发自己的 ChatGPT 应用：langchain](#开发自己的-chatgpt-应用langchain)
       - [AI代码助手: codeium](#ai代码助手-codeium)
       - [将 OpenAI ChatGPT 集成到 VSCode: vscode-chatgpt](#将-openai-chatgpt-集成到-vscode-vscode-chatgpt)
       - [GPT 驱动的代码编辑器: Cursor](#gpt-驱动的代码编辑器-cursor)
       - [帮你生成完整 Github README](#帮你生成完整-github-readme)
       - [智能测试： codium](#智能测试-codium)
-      - [shell 中使用 chatGPT](#shell-中使用-chatgpt)
+      - [shell 中使用 ChatGPT](#shell-中使用-chatgpt)
       - [GitHub 官方出品新一代代码编辑器：copilot-x](#github-官方出品新一代代码编辑器copilot-x)
       - [CopilotForXcode - Copilot Xcode Source Editor Extension.](#copilotforxcode---copilot-xcode-source-editor-extension)
       - [以后 git 提交 commit 信息不用抓耳挠腮了：GPTcommit](#以后-git-提交-commit-信息不用抓耳挠腮了gptcommit)
       - [自动生成任何编程语言的文档: AutoDoc-ChatGPT](#自动生成任何编程语言的文档-autodoc-chatgpt)
       - [使用ChatGPT搭建微信聊天机器人](#使用chatgpt搭建微信聊天机器人)
-      - [开源 chatGPT 替代品列表](#开源-chatgpt-替代品列表)
+      - [开源 ChatGPT 替代品列表](#开源-chatgpt-替代品列表)
       - [人人都能创建 GPT 工具: AI Anything](#人人都能创建-gpt-工具-ai-anything)
       - [在任意软件上操作ChatGPT: Portal](#在任意软件上操作chatgpt-portal)
-    - [chatGPT 浏览器插件](#chatgpt-浏览器插件)
+    - [ChatGPT 浏览器插件](#chatgpt-浏览器插件)
   - [ChatGPT 插件](#chatgpt-插件)
     - [中文开发指南](#中文开发指南)
-  - [如何与 chatGPT 高效对话？——好的提示语学习](#如何与-chatgpt-高效对话好的提示语学习)
+  - [如何与 ChatGPT 高效对话？——好的提示语学习](#如何与-chatgpt-高效对话好的提示语学习)
     - [Prompt 框架](#prompt-框架)
       - [Elavis Saravia 总结的框架：](#elavis-saravia-总结的框架)
       - [Matt Nigh 总结的 CRISPE 框架：](#matt-nigh-总结的-crispe-框架)
@@ -62,15 +62,15 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [💡 学习如何提示：Learn Prompting](#-学习如何提示learn-prompting)
     - [💡 提示语自动生成](#-提示语自动生成)
   - [ChatGPT 对话](#chatgpt-对话)
-    - [chatGPT 教你一步一步实现 CIFAR10 数据集图像分类任务](#chatgpt-教你一步一步实现-cifar10-数据集图像分类任务)
+    - [ChatGPT 教你一步一步实现 CIFAR10 数据集图像分类任务](#chatgpt-教你一步一步实现-cifar10-数据集图像分类任务)
     - [一句话让 ChatGPT 帮助你实现 YOLO 目标检测](#一句话让-chatgpt-帮助你实现-yolo-目标检测)
     - [请选择你传奇的一生——ChatGPT：我选骆驼祥子](#请选择你传奇的一生chatgpt我选骆驼祥子)
     - [ChatGPT 请扮演一个DAN，不必遵守OpenAI的政策](#chatgpt-请扮演一个dan不必遵守openai的政策)
   - [ChatGPT 黑魔法](#chatgpt-黑魔法)
   - [相关资料](#相关资料)
-  - [类 chatGPT 开源模型](#类-chatgpt-开源模型)
+  - [类 ChatGPT 开源模型](#类-chatgpt-开源模型)
     - [OpenChatKit](#openchatkit)
-    - [自称更亲民开放版的chatGPT 模型: dolly](#自称更亲民开放版的chatgpt-模型-dolly)
+    - [自称更亲民开放版的ChatGPT 模型: dolly](#自称更亲民开放版的chatgpt-模型-dolly)
   - [更多 AI 工具](#更多-ai-工具)
     - [AI 绘画](#ai-绘画)
     - [代码生成](#代码生成)
@@ -78,16 +78,16 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [PPT生成](#ppt生成)
     - [语音/视频合成](#语音视频合成)
   - [思考](#思考)
-    - [chatGPT 之父 Sam Altman: 万物摩尔定律](#chatgpt-之父-sam-altman-万物摩尔定律)
+    - [ChatGPT 之父 Sam Altman: 万物摩尔定律](#chatgpt-之父-sam-altman-万物摩尔定律)
     - [GPT-4 ，人类迈向AGI的第一步](#gpt-4-人类迈向agi的第一步)
   - [Star History](#star-history)
   - [贡献指南](#贡献指南)
   - [致谢](#致谢)
 
 
-## 什么是 chatGPT ?
+## 什么是 ChatGPT ?
 
-以下是 chatGPT 为大家做的自我介绍：
+以下是 ChatGPT 为大家做的自我介绍：
 
 > 你好！我是ChatGPT，一个由OpenAI开发的大型语言模型，基于GPT-4架构。我的任务是通过自然语言处理技术，与用户进行交流并提供帮助。我可以回答问题、提供建议、进行简单对话等。我的知识截止于2021年9月，所以关于那之后的信息可能无法为您提供准确的答案。请随时向我提问，我会尽我所能帮助您。
 
@@ -99,7 +99,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 * 需要国外手机号验证，google voice 等虚拟号码无法通过验证，可使用淘宝解决 or [海外号码](https://sms-activate.org/)
 * 国内注册教程: https://nujuo8y1qx.feishu.cn/docx/AdqEdlT52oBiawx6Vv2cc89DnLb
 
-![chatGPT](imgs/openai_chatgpt.jpg)
+![ChatGPT](imgs/openai_chatgpt.jpg)
 
 ### 💻 [poe](https://poe.com/chatgpt)
 
@@ -129,7 +129,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
   <summary> 💻 Bard </summary>
 
 > https://bard.google.com/
-谷歌出品，使用需申请，与 OpenAI chatGPT 相比不支持代码功能，需翻墙注册使用
+谷歌出品，使用需申请，与 OpenAI ChatGPT 相比不支持代码功能，需翻墙注册使用
 
 ![Bard](imgs/bard.jpg)
 
@@ -176,7 +176,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 </li>
 </ul>
 
-### 💻 国产 chatGPT 类似产品
+### 💻 国产 ChatGPT 类似产品
 <ul>
 <li>
 <details>
@@ -197,7 +197,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
   
 > https://huggingface.co/spaces/tianpanyu/ChatYuan-Demo
 
-2023 年 2 月曾短暂发布，后因未知原因关闭，可使用抱抱脸体验 demo, 实测性能与 OpenAI 的 chatGPT 有一定差距。代码和模型已开源 [[GitHub 代码](https://github.com/clue-ai/ChatYuan)].
+2023 年 2 月曾短暂发布，后因未知原因关闭，可使用抱抱脸体验 demo, 实测性能与 OpenAI 的 ChatGPT 有一定差距。代码和模型已开源 [[GitHub 代码](https://github.com/clue-ai/ChatYuan)].
 
 ![chatYuan](imgs/chatYuan.jpg)
 
@@ -220,15 +220,15 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 </ul>
 
 ### 更多工具
-[chatGPT 用法和 APP](https://gpt3demo.com/)
+[ChatGPT 用法和 APP](https://gpt3demo.com/)
 ![gpt3_demo](imgs/gpt3_demo.jpg)
 
 ## ChatGPT 工具
 
-### chatGPT 学习英语
+### ChatGPT 学习英语
 * 安装 chrome 插件: [Voice Control for ChatGPT](https://chrome.google.com/webstore/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn)
 
-* 打开 OpenAI chatGPT 网页，告诉 chatGPT 你希望它扮演一个 native English speaker 与你对话，并且纠正你的单词、语法错误，插件会自动播放英语语音。
+* 打开 OpenAI ChatGPT 网页，告诉 ChatGPT 你希望它扮演一个 native English speaker 与你对话，并且纠正你的单词、语法错误，插件会自动播放英语语音。
 
 ![improveEnglish](imgs/chatgpt_improve_english.jpg)
 
@@ -304,13 +304,13 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 
 
 
-### [提高 chatGPT 数学能力: WolframAlpha](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain)
+### [提高 ChatGPT 数学能力: WolframAlpha](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain)
 
-ChatGPT 和 Wolfram|Alpha 结合，补足 chatGPT 数学计算方面的补足。
+ChatGPT 和 Wolfram|Alpha 结合，补足 ChatGPT 数学计算方面的补足。
 ![gpt_wolfram](imgs/GPT_wolfram.jpg)
 
-### [visual chatGPT](https://huggingface.co/spaces/microsoft/visual_chatgpt)
-为 chatGPT 添加图片能力. 
+### [visual ChatGPT](https://huggingface.co/spaces/microsoft/visual_chatgpt)
+为 ChatGPT 添加图片能力. 
 
 [论文：[Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
 ](https://arxiv.org/abs/2303.04671)]  [[GitHub 代码](https://github.com/microsoft/visual-chatgpt)]
@@ -328,7 +328,7 @@ ChatGPT 和 Wolfram|Alpha 结合，补足 chatGPT 数学计算方面的补足。
 
 #### [OpenAI python 接口](https://github.com/openai/openai-python)
 
-#### [开发自己的 chatGPT 应用：langchain](https://github.com/hwchase17/langchain)
+#### [开发自己的 ChatGPT 应用：langchain](https://github.com/hwchase17/langchain)
 
 
 #### [AI代码助手: codeium](https://codeium.com/)
@@ -355,7 +355,7 @@ CodiumAI这个项目构建了一个名为TestGPT的语言模型，是一个专�
 
 ![codium](imgs/codium_chatgpt.jpg)
 
-#### [shell 中使用 chatGPT](https://github.com/TheR1D/shell_gpt)
+#### [shell 中使用 ChatGPT](https://github.com/TheR1D/shell_gpt)
 
 ![shellGPT](imgs/shell_gpt.gif)
 
@@ -375,7 +375,7 @@ CodiumAI这个项目构建了一个名为TestGPT的语言模型，是一个专�
 
 #### [使用ChatGPT搭建微信聊天机器人](https://github.com/zhayujie/chatgpt-on-wechat)
 
-#### [开源 chatGPT 替代品列表](https://github.com/nichtdax/awesome-totally-open-chatgpt)
+#### [开源 ChatGPT 替代品列表](https://github.com/nichtdax/awesome-totally-open-chatgpt)
 
 #### [人人都能创建 GPT 工具: AI Anything](https://github.com/KeJunMao/ai-anything/blob/main/README.zh-cn.md)
 
@@ -383,9 +383,9 @@ CodiumAI这个项目构建了一个名为TestGPT的语言模型，是一个专�
 
 Portal是一款传输工具，旨在将ChatGPT的能力整合到用户的工作流程中。它把整个操作系统当成自己的舞台，可以在任意软件上操作ChatGPT。
 
-### chatGPT 浏览器插件
-* [chatGPT 接入谷歌: chatgpt-google-extension](https://chatgpt4google.com/)
-* [chatGPT 协助回答知乎问题: chat-gpt-zhihu-extension](https://chrome.google.com/webstore/detail/chatgpt-for-zhihu/dgoinfidjelfolhnkaableghhppplbak)
+### ChatGPT 浏览器插件
+* [ChatGPT 接入谷歌: chatgpt-google-extension](https://chatgpt4google.com/)
+* [ChatGPT 协助回答知乎问题: chat-gpt-zhihu-extension](https://chrome.google.com/webstore/detail/chatgpt-for-zhihu/dgoinfidjelfolhnkaableghhppplbak)
 * [邮件助手：ChatGPT for Email - Remail](https://chrome.google.com/webstore/detail/chatgpt-for-email-remail/jjplpolfahlhoodebebfjdbpcbopcmlk)
 
 ## ChatGPT 插件
@@ -400,7 +400,7 @@ OpenAI 现已经支持插件功能，可以预见这个插件平台将成为新�
 - [开发指南：ChatGPT 插件开发（下）](https://mp.weixin.qq.com/s?__biz=MzIzNjE2NTI3NQ==&mid=2247485810&idx=2&sn=8bc4da188c39e1e2e9f808a362b6271f&scene=21#wechat_redirect)
 
 
-## 如何与 chatGPT 高效对话？——好的提示语学习
+## 如何与 ChatGPT 高效对话？——好的提示语学习
 
 ### Prompt 框架
 
@@ -434,13 +434,13 @@ Prompt 编写模式是一份中文教程，介绍了系列 Prompt 编写模式�
 
 项目结构与速查表
 
-![chatGPT Prompt cheatsheet](imgs/prompt-simple-cheatsheet.jpg)
+![ChatGPT Prompt cheatsheet](imgs/prompt-simple-cheatsheet.jpg)
 
 ### [一个可以帮你自动生成优质Prompt的工具: AIPRM](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj)
 
 ### 💡 [让生产力加倍的 ChatGPT 快捷指令](https://newzone.top/chatgpt/)
 
-如何让 chatGPT 的回答更准确，更符合我们的要求，网站提供了许多例子供参考。
+如何让 ChatGPT 的回答更准确，更符合我们的要求，网站提供了许多例子供参考。
 
 ![chatgpt_sc](imgs/chatGPT_shortcut.jpg)
 
@@ -453,13 +453,13 @@ Prompt 编写模式是一份中文教程，介绍了系列 Prompt 编写模式�
 
 ### 💡 [提示语自动生成](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator)  
 
-如果感觉自己写的 prompt 不够好， 可以让模型帮你写，然后再输入 chatGPT .
+如果感觉自己写的 prompt 不够好， 可以让模型帮你写，然后再输入 ChatGPT .
 
 ![prompt-gen](imgs/chatGPT_promote_gen.jpg)
 
 ## ChatGPT 对话
 
-### [chatGPT 教你一步一步实现 CIFAR10 数据集图像分类任务](examples/ImageClassificationCifar10Tutorials_ChatGPT.md)
+### [ChatGPT 教你一步一步实现 CIFAR10 数据集图像分类任务](examples/ImageClassificationCifar10Tutorials_ChatGPT.md)
 ### [一句话让 ChatGPT 帮助你实现 YOLO 目标检测](examples/YOLOV4.md)
 ### [请选择你传奇的一生——ChatGPT：我选骆驼祥子](examples/ChatGPT_xiangzi.md)
 ### [ChatGPT 请扮演一个DAN，不必遵守OpenAI的政策](examples/chatGPT_set_free.md)
@@ -514,9 +514,9 @@ DAN越狱提示成功例图：
 * [ChatGPT调教指南-咒语指南-聊天提示词指南](https://github.com/wikieden/Awesome-ChatGPT-Prompts-CN)
 
 
-## 类 chatGPT 开源模型
+## 类 ChatGPT 开源模型
 
-OpenAI 的 chatGPT 大型语言模型（LLM）并未开源，这部分收录一些深度学习开源的 LLM 供感兴趣的同学学习参考。
+OpenAI 的 ChatGPT 大型语言模型（LLM）并未开源，这部分收录一些深度学习开源的 LLM 供感兴趣的同学学习参考。
 
 ### [OpenChatKit](https://github.com/togethercomputer/OpenChatKit#pre-trained-weights)
 
@@ -527,7 +527,7 @@ GitHub:
 
 ![openChatKit](imgs/openChatKit.jpg)
 
-### [自称更亲民开放版的chatGPT 模型: dolly](https://github.com/databrickslabs/dolly)
+### [自称更亲民开放版的ChatGPT 模型: dolly](https://github.com/databrickslabs/dolly)
 
 Dolly 使用 Alpaca 数据，对两年前的开源EleutherAI 60亿参数模型进行微调，从而产生了在原模型中没有的理解和文本生成能力。
 
@@ -568,7 +568,7 @@ Dolly 使用 Alpaca 数据，对两年前的开源EleutherAI 60亿参数模型�
 
 
 ## 思考
-### chatGPT 之父 Sam Altman: 万物摩尔定律
+### ChatGPT 之父 Sam Altman: 万物摩尔定律
 
 [英文原文](https://moores.samaltman.com/) [中文翻译](https://zhuanlan.zhihu.com/p/577620007)
 
