@@ -552,6 +552,7 @@ Dolly 使用 Alpaca 数据，对两年前的开源EleutherAI 60亿参数模型�
 ### AI 绘画
 
 - [Midjourney](https://www.midjourney.com/home/)  
+- [MidJourney提示词工具](https://aijiaolian.chat/midjourney)
 - [Stable Diffusion](https://stablediffusionweb.com/)  
 - [DALL·E 2](https://labs.openai.com/)
 
