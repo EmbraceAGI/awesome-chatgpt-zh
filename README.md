@@ -392,6 +392,12 @@ CodiumAI这个项目构建了一个名为TestGPT的语言模型，是一个专�
 Portal是一款传输工具，旨在将ChatGPT的能力整合到用户的工作流程中。它把整个操作系统当成自己的舞台，可以在任意软件上操作ChatGPT。
 
 ### ChatGPT 浏览器插件
+* [ChatGPT Sidebar](https://www.chatgpt-sidebar.com/)
+
+Chat-GPT 超级挂件，以侧边窗口的形式提供服务，可以在阅读书籍时划选文本点击按钮给你解释，总结和提取；也可以在使用笔记软件时为笔记润色，翻译和补充.....
+
+![sidebar](imgs/chatgpt_sidebar.png)
+
 * [ChatGPT 接入谷歌: chatgpt-google-extension](https://chatgpt4google.com/)
 * [ChatGPT 协助回答知乎问题: chat-gpt-zhihu-extension](https://chrome.google.com/webstore/detail/chatgpt-for-zhihu/dgoinfidjelfolhnkaableghhppplbak)
 * [邮件助手：ChatGPT for Email - Remail](https://chrome.google.com/webstore/detail/chatgpt-for-email-remail/jjplpolfahlhoodebebfjdbpcbopcmlk)
