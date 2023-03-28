@@ -36,6 +36,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
       - [OpenAI 官方使用指南：openai-cookbook](#openai-官方使用指南openai-cookbook)
       - [OpenAI python 接口](#openai-python-接口)
       - [开发自己的 ChatGPT 应用：langchain](#开发自己的-chatgpt-应用langchain)
+      - [OpenGPT](#opengpt)
       - [AI代码助手: codeium](#ai代码助手-codeium)
       - [将 OpenAI ChatGPT 集成到 VSCode: vscode-chatgpt](#将-openai-chatgpt-集成到-vscode-vscode-chatgpt)
       - [GPT 驱动的代码编辑器: Cursor](#gpt-驱动的代码编辑器-cursor)
@@ -338,6 +339,11 @@ Copilot Hub 是一个帮助你基于私有数据创建智能知识库 & 人格�
 
 #### [开发自己的 ChatGPT 应用：langchain](https://github.com/hwchase17/langchain)
 
+#### [OpenGPT](https://open-gpt.app/)
+
+立即使用海量的 ChatGPT 应用，或在几秒钟内创建属于自己的应用。
+
+![open_gpt_app](imgs/open_gpt_app.jpg)
 
 #### [AI代码助手: codeium](https://codeium.com/)
 个人使用免费，有 vscode 插件，github copilot 平替
