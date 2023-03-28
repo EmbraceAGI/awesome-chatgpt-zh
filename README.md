@@ -72,6 +72,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
   - [类 ChatGPT 开源模型](#类-chatgpt-开源模型)
     - [OpenChatKit](#openchatkit)
     - [自称更亲民开放版的ChatGPT 模型: dolly](#自称更亲民开放版的chatgpt-模型-dolly)
+    - [🤖 LLMs: awesome-totally-open-chatgpt](#-llms-awesome-totally-open-chatgpt)
   - [更多 AI 工具](#更多-ai-工具)
     - [AI 绘画](#ai-绘画)
     - [代码生成](#代码生成)
@@ -537,6 +538,8 @@ GitHub:
 ### [自称更亲民开放版的ChatGPT 模型: dolly](https://github.com/databrickslabs/dolly)
 
 Dolly 使用 Alpaca 数据，对两年前的开源EleutherAI 60亿参数模型进行微调，从而产生了在原模型中没有的理解和文本生成能力。
+
+### [🤖 LLMs: awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt)
 
 ## 更多 AI 工具
 
