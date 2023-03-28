@@ -31,6 +31,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [提高 ChatGPT 数学能力: WolframAlpha](#提高-chatgpt-数学能力-wolframalpha)
     - [visual ChatGPT](#visual-chatgpt)
     - [Multimedia GPT](#multimedia-gpt)
+    - [基于 ChatGPT 创建个人的知识库 AI: Copilot Hub](#基于-chatgpt-创建个人的知识库-ai-copilot-hub)
     - [程序猿专区](#程序猿专区)
       - [OpenAI 官方使用指南：openai-cookbook](#openai-官方使用指南openai-cookbook)
       - [OpenAI python 接口](#openai-python-接口)
@@ -321,6 +322,12 @@ ChatGPT 和 Wolfram|Alpha 结合，补足 ChatGPT 数学计算方面的补足。
 将OpenAI GPT与视觉和音频连接起来。您现在可以使用OpenAI API密钥发送图像、音频记录和pdf文档，并获得文本和图像格式的响应。目前正在增加对视频的支持。
 
 ![multimedia_gpt](imgs/multimedia_gpt.jpg)
+
+### [基于 ChatGPT 创建个人的知识库 AI: Copilot Hub](https://app.copilothub.co)
+
+Copilot Hub 是一个帮助你基于私有数据创建智能知识库 & 人格化 AI 的平台。你可以基于文档、网站、Notion database 或其他数据源在几分钟内创建一个自定义的 ChatGPT。
+
+![chatgpt_copilot_hub](imgs/chatgpt_copilot_hub.jpg)
 
 ### 程序猿专区
 
