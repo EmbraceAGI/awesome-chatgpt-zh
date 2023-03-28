@@ -615,7 +615,8 @@ Dolly 使用 Alpaca 数据，对两年前的开源EleutherAI 60亿参数模型�
 
 ## Star History
 
-[![Stargazers over time](https://starchart.cc/yzfly/awesome-chatgpt-zh.svg)](https://starchart.cc/yzfly/awesome-chatgpt-zh)
+[![Star History Chart](https://api.star-history.com/svg?repos=yzfly/awesome-chatgpt-zh&type=Date)](https://star-history.com/#yzfly/awesome-chatgpt-zh&Date)
+
 
 ## 贡献指南
 
