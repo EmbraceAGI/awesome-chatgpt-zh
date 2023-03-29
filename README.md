@@ -100,7 +100,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 (推荐) 注册后免费使用，无次数限制，官方出品，性能最强，技术最佳。缺点是国内注册困难：
 * 需要科学上网，使用的代理 IP 质量不好的话无法成功
 * 需要国外手机号验证，google voice 等虚拟号码无法通过验证，可使用淘宝解决 or [海外号码](https://sms-activate.org/)
-* 国内注册教程: https://nujuo8y1qx.feishu.cn/docx/AdqEdlT52oBiawx6Vv2cc89DnLb
+* 国内注册教程及各种问题解决: https://nujuo8y1qx.feishu.cn/docx/AdqEdlT52oBiawx6Vv2cc89DnLb
 
 ![ChatGPT](imgs/openai_chatgpt.jpg)
 
