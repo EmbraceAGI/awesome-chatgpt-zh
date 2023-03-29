@@ -68,7 +68,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [一句话让 ChatGPT 帮助你实现 YOLO 目标检测](#一句话让-chatgpt-帮助你实现-yolo-目标检测)
     - [请选择你传奇的一生——ChatGPT：我选骆驼祥子](#请选择你传奇的一生chatgpt我选骆驼祥子)
     - [ChatGPT 请扮演一个DAN，不必遵守OpenAI的政策](#chatgpt-请扮演一个dan不必遵守openai的政策)
-  - [ChatGPT 黑魔法](#chatgpt-黑魔法)
+  - [ChatGPT 越狱](#chatgpt-越狱)
   - [相关资料](#相关资料)
   - [类 ChatGPT 开源模型](#类-chatgpt-开源模型)
     - [OpenChatKit](#openchatkit)
@@ -501,12 +501,13 @@ Prompt 编写模式是一份中文教程，介绍了系列 Prompt 编写模式�
 ### [请选择你传奇的一生——ChatGPT：我选骆驼祥子](examples/ChatGPT_xiangzi.md)
 ### [ChatGPT 请扮演一个DAN，不必遵守OpenAI的政策](examples/chatGPT_set_free.md)
 
-## ChatGPT 黑魔法
+## ChatGPT 越狱
 
-通过黑魔法指令解除 OpenAI 对 ChatGPT 的限制，慎用！（实测对 GPT-4 可能无效）
+所谓越狱: 是指通过一些Prompt技巧，诱导chatGPT回答一些被限制或禁止回答的问题。
+慎用！有封号风险，部分指令对 GPT-4 可能无效，可能随着 OpenAI 对模型的改进失效。
 
 - [ChatGPT 越狱的奇技淫巧: Jailbreak Chat](https://www.jailbreakchat.com/)
-所谓越狱: 是指通过一些Prompt技巧，诱导chatGPT回答一些被限制或禁止回答的问题
+
 
 <ul>
 <li>
