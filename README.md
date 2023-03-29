@@ -158,6 +158,19 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 
 <li>
 <details>
+  <summary>💻 Phind </summary>
+  
+> https://phind.com/
+
+无需注册直接使用，并且由于 phind.com 本身是搜索引擎，侧边栏会出现实时搜索结果
+
+![phind](imgs/phind.png)
+
+</details>
+</li>
+
+<li>
+<details>
   <summary>💻 ChatSonic </summary>
   
 > https://writesonic.com/chat
