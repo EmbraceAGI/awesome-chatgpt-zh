@@ -93,6 +93,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
   - [思考](#思考)
     - [ChatGPT 之父 Sam Altman: 万物摩尔定律](#chatgpt-之父-sam-altman-万物摩尔定律)
     - [GPT-4 ，人类迈向AGI的第一步](#gpt-4-人类迈向agi的第一步)
+  - [ChatGPT 使用交流](#chatgpt-使用交流)
   - [Star History](#star-history)
   - [贡献指南](#贡献指南)
   - [致谢](#致谢)
@@ -699,6 +700,14 @@ Alpaca-CoT项目旨在探究如何更好地通过instruction-tuning的方式来�
 这篇论文不管是测试方法还是测试结论都非常精彩，强烈推荐看一遍，传送门在此 。[https://arxiv.org/pdf/2303.12712v1.pdf](https://arxiv.org/pdf/2303.12712v1.pdf)
 
 [《GPT-4 ，通⽤⼈⼯智能的⽕花》论⽂内容精选与翻译](files/《GPT_4，通用人工智能的火花》论文内容精选与翻译_.pdf)
+
+
+## ChatGPT 使用交流
+
+欢迎加入电报交流群讨论 ChatGPT 相关资源及日常使用等相关话题：
+
+- 🚀[电报频道：ChatGPT 精选](https://t.me/AwesomeChatGPT)🚀
+- 🚀[电报交流群：ChatGPT 精选 Chat](https://t.me/+cBIhxVSwABg4Y2M5)🚀
 
 
 ## Star History
