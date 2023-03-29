@@ -28,6 +28,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [写作助手: rytr](#写作助手-rytr)
     - [与视频对话：ChatYoutube](#与视频对话chatyoutube)
     - [打工人福利: 周报生成器](#打工人福利-周报生成器)
+    - [小红书小作文生成器](#小红书小作文生成器)
     - [提高 ChatGPT 数学能力: WolframAlpha](#提高-chatgpt-数学能力-wolframalpha)
     - [visual ChatGPT](#visual-chatgpt)
     - [Multimedia GPT](#multimedia-gpt)
@@ -322,7 +323,11 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 ![zhoubao](imgs/zhoubao_gpt.jpg)
 
 
+### [小红书小作文生成器](https://open-gpt.app/app/clf2awmv0001mjt08hjtcpe90)
 
+帮助姐妹们一键生成小作文，在舆论场里立于不败之地。
+
+![chatgpt_xhs](imgs/chatGPT_xhs.jpg)
 
 ### [提高 ChatGPT 数学能力: WolframAlpha](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain)
 
