@@ -53,6 +53,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
       - [人人都能创建 GPT 工具: AI Anything](#人人都能创建-gpt-工具-ai-anything)
       - [在任意软件上操作ChatGPT: Portal](#在任意软件上操作chatgpt-portal)
     - [ChatGPT 浏览器插件](#chatgpt-浏览器插件)
+  - [小程序(微信，抖音等)](#小程序微信抖音等)
   - [ChatGPT 插件](#chatgpt-插件)
     - [中文开发指南](#中文开发指南)
   - [如何与 ChatGPT 高效对话？——好的提示语学习](#如何与-chatgpt-高效对话好的提示语学习)
@@ -404,7 +405,6 @@ CodiumAI这个项目构建了一个名为TestGPT的语言模型，是一个专�
 
 #### [CopilotForXcode](https://github.com/intitni/CopilotForXcode) - Copilot Xcode Source Editor Extension.
 
-
 #### [以后 git 提交 commit 信息不用抓耳挠腮了：GPTcommit](https://github.com/zurawiki/gptcommit)
 
 #### [自动生成任何编程语言的文档: AutoDoc-ChatGPT](https://github.com/awekrx/AutoDoc-ChatGPT)
@@ -429,6 +429,11 @@ Chat-GPT 超级挂件，以侧边窗口的形式提供服务，可以在阅读�
 * [ChatGPT 接入谷歌: chatgpt-google-extension](https://chatgpt4google.com/)
 * [ChatGPT 协助回答知乎问题: chat-gpt-zhihu-extension](https://chrome.google.com/webstore/detail/chatgpt-for-zhihu/dgoinfidjelfolhnkaableghhppplbak)
 * [邮件助手：ChatGPT for Email - Remail](https://chrome.google.com/webstore/detail/chatgpt-for-email-remail/jjplpolfahlhoodebebfjdbpcbopcmlk)
+
+## 小程序(微信，抖音等)
+
+* [与不同角色对话 & 多种实用技能：神奇海螺](https://github.com/yzfly/awesome-chatgpt-zh/issues/5)
+
 
 ## ChatGPT 插件
 OpenAI 现已经支持插件功能，可以预见这个插件平台将成为新时代的 Apple Store，将会带来巨大的被动流量，新时代的机会！
@@ -553,6 +558,7 @@ DAN越狱提示成功例图：
 
 ## 相关资料
 * [awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt)
+* [Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT)
 * [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 * [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 * [awesome-ChatGPT-resource-zh](https://github.com/DeepTecher/awesome-ChatGPT-resource-zh)
