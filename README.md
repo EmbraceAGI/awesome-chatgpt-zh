@@ -25,6 +25,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [科研助手：researchgpt](#科研助手researchgpt)
     - [通过文字聊天实现 Excel 数据处理：酷表 ChatExcel](#通过文字聊天实现-excel-数据处理酷表-chatexcel)
     - [Doc 文件阅读助手: ChatDoc ](#doc-文件阅读助手-chatdoc-)
+    - [ChatGPT+飞书给你飞一般的工作体验：feishu-chatgpt ](#chatgpt飞书给你飞一般的工作体验feishu-chatgpt-)
     - [写作助手: rytr](#写作助手-rytr)
     - [与视频对话：ChatYoutube](#与视频对话chatyoutube)
     - [打工人福利: 周报生成器](#打工人福利-周报生成器)
@@ -33,10 +34,12 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [visual ChatGPT](#visual-chatgpt)
     - [Multimedia GPT](#multimedia-gpt)
     - [基于 ChatGPT 创建个人的知识库 AI: Copilot Hub](#基于-chatgpt-创建个人的知识库-ai-copilot-hub)
+    - [人工智能医生：ChatDoctor](#人工智能医生chatdoctor)
     - [程序猿专区](#程序猿专区)
       - [OpenAI 官方使用指南：openai-cookbook](#openai-官方使用指南openai-cookbook)
       - [OpenAI python 接口](#openai-python-接口)
       - [开发自己的 ChatGPT 应用：langchain](#开发自己的-chatgpt-应用langchain)
+      - [LangChain的一个UI: LangFlow](#langchain的一个ui-langflow)
       - [OpenGPT](#opengpt)
       - [AI代码助手: codeium](#ai代码助手-codeium)
       - [将 OpenAI ChatGPT 集成到 VSCode: vscode-chatgpt](#将-openai-chatgpt-集成到-vscode-vscode-chatgpt)
@@ -47,11 +50,13 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
       - [GitHub 官方出品新一代代码编辑器：copilot-x](#github-官方出品新一代代码编辑器copilot-x)
       - [CopilotForXcode - Copilot Xcode Source Editor Extension.](#copilotforxcode---copilot-xcode-source-editor-extension)
       - [以后 git 提交 commit 信息不用抓耳挠腮了：GPTcommit](#以后-git-提交-commit-信息不用抓耳挠腮了gptcommit)
+      - [用命令自动生成令人印象深刻的 commit: opencommit](#用命令自动生成令人印象深刻的-commit-opencommit)
       - [自动生成任何编程语言的文档: AutoDoc-ChatGPT](#自动生成任何编程语言的文档-autodoc-chatgpt)
       - [使用ChatGPT搭建微信聊天机器人](#使用chatgpt搭建微信聊天机器人)
       - [开源 ChatGPT 替代品列表](#开源-chatgpt-替代品列表)
       - [人人都能创建 GPT 工具: AI Anything](#人人都能创建-gpt-工具-ai-anything)
       - [在任意软件上操作ChatGPT: Portal](#在任意软件上操作chatgpt-portal)
+      - [一键免费部署你的私人 ChatGPT 网页应用: ChatGPT-Next-Web](#一键免费部署你的私人-chatgpt-网页应用-chatgpt-next-web)
     - [ChatGPT 浏览器插件](#chatgpt-浏览器插件)
   - [小程序(微信，抖音等)](#小程序微信抖音等)
   - [ChatGPT 插件](#chatgpt-插件)
@@ -73,9 +78,12 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
   - [ChatGPT 越狱](#chatgpt-越狱)
   - [相关资料](#相关资料)
   - [类 ChatGPT 开源模型](#类-chatgpt-开源模型)
+    - [🤖 LLMs: awesome-totally-open-chatgpt](#-llms-awesome-totally-open-chatgpt)
     - [OpenChatKit](#openchatkit)
     - [自称更亲民开放版的ChatGPT 模型: dolly](#自称更亲民开放版的chatgpt-模型-dolly)
-    - [🤖 LLMs: awesome-totally-open-chatgpt](#-llms-awesome-totally-open-chatgpt)
+    - [国产的支持中英双语的功能型对话语言大模型：ChatYuan](#国产的支持中英双语的功能型对话语言大模型chatyuan)
+    - [Stanford Alpaca](#stanford-alpaca)
+    - [https://github.com/PhoebusSi/Alpaca-CoT](#httpsgithubcomphoebussialpaca-cot)
   - [更多 AI 工具](#更多-ai-工具)
     - [AI 绘画](#ai-绘画)
     - [代码生成](#代码生成)
@@ -303,6 +311,13 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 ![chat_doc](imgs/chat_doc.png)
 
 
+### [ChatGPT+飞书给你飞一般的工作体验：feishu-chatgpt ](https://github.com/Leizhenpeng/feishu-chatgpt)
+
+🎒飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
+
+![chatgpt_feishu](imgs/chatGPT_feishu.png)
+
+
 ### [写作助手: rytr](https://rytr.me/)
 
 邮件，博客等各类文档智能写作助手，支持中文
@@ -354,6 +369,10 @@ Copilot Hub 是一个帮助你基于私有数据创建智能知识库 & 人格�
 
 ![chatgpt_copilot_hub](imgs/chatgpt_copilot_hub.jpg)
 
+### [人工智能医生：ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor)
+
+
+
 ### 程序猿专区
 
 #### [OpenAI 官方使用指南：openai-cookbook](https://github.com/openai/openai-cookbook)
@@ -361,6 +380,8 @@ Copilot Hub 是一个帮助你基于私有数据创建智能知识库 & 人格�
 #### [OpenAI python 接口](https://github.com/openai/openai-python)
 
 #### [开发自己的 ChatGPT 应用：langchain](https://github.com/hwchase17/langchain)
+
+#### [LangChain的一个UI: LangFlow](https://github.com/logspace-ai/langflow)
 
 #### [OpenGPT](https://open-gpt.app/)
 
@@ -406,6 +427,7 @@ CodiumAI这个项目构建了一个名为TestGPT的语言模型，是一个专�
 #### [CopilotForXcode](https://github.com/intitni/CopilotForXcode) - Copilot Xcode Source Editor Extension.
 
 #### [以后 git 提交 commit 信息不用抓耳挠腮了：GPTcommit](https://github.com/zurawiki/gptcommit)
+#### [用命令自动生成令人印象深刻的 commit: opencommit](https://github.com/di-sukharev/opencommit)
 
 #### [自动生成任何编程语言的文档: AutoDoc-ChatGPT](https://github.com/awekrx/AutoDoc-ChatGPT)
 
@@ -417,7 +439,12 @@ CodiumAI这个项目构建了一个名为TestGPT的语言模型，是一个专�
 
 #### [在任意软件上操作ChatGPT: Portal](https://github.com/lxfater/Portal) 
 
+
 Portal是一款传输工具，旨在将ChatGPT的能力整合到用户的工作流程中。它把整个操作系统当成自己的舞台，可以在任意软件上操作ChatGPT。
+
+#### [一键免费部署你的私人 ChatGPT 网页应用: ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
+
+![Chatgpt_next_web](imgs/chatgpt_next_web.png)
 
 ### ChatGPT 浏览器插件
 * [ChatGPT Sidebar](https://www.chatgpt-sidebar.com/)
@@ -570,6 +597,8 @@ DAN越狱提示成功例图：
 
 OpenAI 的 ChatGPT 大型语言模型（LLM）并未开源，这部分收录一些深度学习开源的 LLM 供感兴趣的同学学习参考。
 
+### [🤖 LLMs: awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt)
+
 ### [OpenChatKit](https://github.com/togethercomputer/OpenChatKit#pre-trained-weights)
 
 GitHub:
@@ -583,7 +612,21 @@ GitHub:
 
 Dolly 使用 Alpaca 数据，对两年前的开源EleutherAI 60亿参数模型进行微调，从而产生了在原模型中没有的理解和文本生成能力。
 
-### [🤖 LLMs: awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt)
+### [国产的支持中英双语的功能型对话语言大模型：ChatYuan](https://github.com/clue-ai/ChatYuan)
+
+目前已经更新到 v2, ChatYuan-large-v2是一个支持中英双语的功能型对话语言大模型。ChatYuan-large-v2使用了和 v1版本相同的技术方案，在微调数据、人类反馈强化学习、思维链等方面进行了优化。
+
+ChatYuan-large-v2是ChatYuan系列中以轻量化实现高质量效果的模型之一，用户可以在消费级显卡、 PC甚至手机上进行推理（INT4 最低只需 400M ）。
+
+### [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca)
+
+来自斯坦福，建立并共享一个遵循指令的LLaMA模型。
+
+### [https://github.com/PhoebusSi/Alpaca-CoT](https://github.com/PhoebusSi/Alpaca-CoT/blob/main/CN_README.md)
+
+Alpaca-CoT项目旨在探究如何更好地通过instruction-tuning的方式来诱导LLM具备类似ChatGPT的交互和instruction-following能力。为此，我们广泛收集了不同类型的instruction（尤其是Chain-of-Thought数据集），并基于LLaMA给出了深入细致的实证研究，以供未来工作参考。作者声称这是首个将CoT拓展进Alpaca的工作，因此简称为"Alpaca-CoT"。
+
+
 
 ## 更多 AI 工具
 
