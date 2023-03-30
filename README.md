@@ -35,6 +35,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [提高 ChatGPT 数学能力: WolframAlpha](#提高-chatgpt-数学能力-wolframalpha)
     - [visual ChatGPT](#visual-chatgpt)
     - [Multimedia GPT](#multimedia-gpt)
+    - [多模态聊天机器人: genmo](#多模态聊天机器人-genmo)
     - [基于 ChatGPT 创建个人的知识库 AI: Copilot Hub](#基于-chatgpt-创建个人的知识库-ai-copilot-hub)
     - [人工智能医生：ChatDoctor](#人工智能医生chatdoctor)
     - [程序猿专区](#程序猿专区)
@@ -367,6 +368,10 @@ ChatGPT 和 Wolfram|Alpha 结合，补足 ChatGPT 数学计算方面的补足。
 将OpenAI GPT与视觉和音频连接起来。您现在可以使用OpenAI API密钥发送图像、音频记录和pdf文档，并获得文本和图像格式的响应。目前正在增加对视频的支持。
 
 ![multimedia_gpt](imgs/multimedia_gpt.jpg)
+
+### [多模态聊天机器人: genmo](https://www.genmo.ai/)
+
+Genmo Chat 是一款多模态聊天机器人，可以提供文本、图像、视频的内容生成服务，简单来说可以用它来做一些图片和视频编辑工作。
 
 ### [基于 ChatGPT 创建个人的知识库 AI: Copilot Hub](https://app.copilothub.co)
 
