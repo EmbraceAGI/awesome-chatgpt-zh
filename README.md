@@ -98,6 +98,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
   - [ChatGPT 使用交流](#chatgpt-使用交流)
   - [Star History](#star-history)
   - [贡献指南](#贡献指南)
+  - [关于赞赏——感谢您的认可，Star 和转发已经是最好的支持！](#关于赞赏感谢您的认可star-和转发已经是最好的支持)
   - [致谢](#致谢)
 
 
@@ -230,7 +231,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
   
 > https://huggingface.co/spaces/tianpanyu/ChatYuan-Demo
 
-2023 年 2 月曾短暂发布，后因未知原因关闭，可使用抱抱脸体验 demo, 实测性能与 OpenAI 的 ChatGPT 有一定差距。代码和模型已开源 [[GitHub 代码](https://github.com/clue-ai/ChatYuan)].
+2023 年 2 月曾短暂发布，后因未知原因关闭，现在已经更新升级到 v2 版本，可使用抱抱脸体验 demo, 性能与 OpenAI 的 ChatGPT 有一定差距。代码和模型已开源 [[GitHub 代码](https://github.com/clue-ai/ChatYuan)].
 
 ![chatYuan](imgs/chatYuan.jpg)
 
@@ -703,6 +704,8 @@ Alpaca-CoT项目旨在探究如何更好地通过instruction-tuning的方式来�
 
 [《GPT-4 ，通⽤⼈⼯智能的⽕花》论⽂内容精选与翻译](files/《GPT_4，通用人工智能的火花》论文内容精选与翻译_.pdf)
 
+中文翻译全文在此：
+[《GPT-4 ，通⽤⼈⼯智能的⽕花》](files/%E3%80%8AGPT_4%EF%BC%8C%E9%80%9A%E7%94%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E7%81%AB%E8%8A%B1%E3%80%8B154%E9%A1%B5%E5%BE%AE%E8%BD%AFGPT%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A%EF%BC%88%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%89.pdf)
 
 ## ChatGPT 使用交流
 
@@ -723,6 +726,11 @@ Alpaca-CoT项目旨在探究如何更好地通过instruction-tuning的方式来�
 
 也欢迎各种贡献，包括修复错误、添加新功能和改进文档。
 
+## 关于赞赏——感谢您的认可，Star 和转发已经是最好的支持！
+
+有朋友咨询是否可以赞赏，在此回复如下。
+
+收集维护本项目的过程，对自己也是学习和成长的过程。在这个过程中能够获得大家的认可以及支持我已深感荣幸，也深感惶恐。目前本人学习工作还算顺利，暂时没有遇到经济上的困难，因此谢谢大家的好意和认可，你们的 Star 和转发已经是对本项目最好的支持，暂不考虑开通赞赏功能！
 
 ## 致谢
 
