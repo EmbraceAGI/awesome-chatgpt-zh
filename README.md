@@ -2,6 +2,8 @@
 
 [GitHub 持续更新，欢迎关注，欢迎 star , 欢迎贡献~](https://github.com/yzfly/awesome-chatgpt-zh)
 
+[为方便国内访问, GitLab 镜像同步更新~](https://gitlab.com/awesomeai/awesome-chatgpt-zh)
+
 ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我们收集了各种免费和付费的ChatGPT资源，以及如何更有效地使用中文与 ChatGPT 进行交流的方法。在这个仓库中，您将找到丰富的 ChatGPT工具、应用和示例。
 
 - [🤖 ChatGPT 中文指南 🤖](#-chatgpt-中文指南-)
