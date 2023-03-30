@@ -27,6 +27,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [科研助手：researchgpt](#科研助手researchgpt)
     - [通过文字聊天实现 Excel 数据处理：酷表 ChatExcel](#通过文字聊天实现-excel-数据处理酷表-chatexcel)
     - [Doc 文件阅读助手: ChatDoc ](#doc-文件阅读助手-chatdoc-)
+    - [跟任何一本书聊天：BookAI](#跟任何一本书聊天bookai)
     - [ChatGPT+飞书给你飞一般的工作体验：feishu-chatgpt ](#chatgpt飞书给你飞一般的工作体验feishu-chatgpt-)
     - [写作助手: rytr](#写作助手-rytr)
     - [与视频对话：ChatYoutube](#与视频对话chatyoutube)
@@ -317,6 +318,11 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 
 ![chat_doc](imgs/chat_doc.png)
 
+### [跟任何一本书聊天：BookAI](https://www.bookai.chat/)
+
+输入书名你就可以跟任何一本书聊天。但需要注意背后还是那个会胡编答案的ChatGPT，所以不会 100% 准确地利用这些书籍的知识来跟你对话。估计基于真实图书数据的 ChatGPT 很快就会出现（事实上基于各种真实数据库的各种 chat 都已经在路上了）。
+
+![chatbook](imgs/chatgpt_book.jpg)
 
 ### [ChatGPT+飞书给你飞一般的工作体验：feishu-chatgpt ](https://github.com/Leizhenpeng/feishu-chatgpt)
 
