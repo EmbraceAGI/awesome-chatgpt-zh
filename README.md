@@ -134,7 +134,8 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 * 重定向访问 www.bing.com
 * [国内使用教程](https://juejin.cn/post/7199557716998078522)
 * [如果不想使用 Edge 想使用 Chrome 教程](https://cloud.tencent.com/developer/article/2235566)
-
+* [第三方开发者开发的 bing 客户端：BingGPT](https://github.com/dice2o/BingGPT)
+  
 ![new_bing](imgs/new_bing.jpg)
 
 ### [国内可使用ChatGPT镜像站点: carrot](https://github.com/xx025/carrot)
