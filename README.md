@@ -87,6 +87,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [国产的支持中英双语的功能型对话语言大模型：ChatYuan](#国产的支持中英双语的功能型对话语言大模型chatyuan)
     - [Stanford Alpaca](#stanford-alpaca)
     - [Alpaca-CoT](#alpaca-cot)
+    - [大型多模态模型训练和评估开源框架：OpenFlamingo](#大型多模态模型训练和评估开源框架openflamingo)
   - [更多 AI 工具](#更多-ai-工具)
     - [AI 绘画](#ai-绘画)
     - [代码生成](#代码生成)
@@ -636,6 +637,9 @@ ChatYuan-large-v2是ChatYuan系列中以轻量化实现高质量效果的模型�
 
 Alpaca-CoT项目旨在探究如何更好地通过instruction-tuning的方式来诱导LLM具备类似ChatGPT的交互和instruction-following能力。为此，我们广泛收集了不同类型的instruction（尤其是Chain-of-Thought数据集），并基于LLaMA给出了深入细致的实证研究，以供未来工作参考。作者声称这是首个将CoT拓展进Alpaca的工作，因此简称为"Alpaca-CoT"。
 
+### [大型多模态模型训练和评估开源框架：OpenFlamingo](https://github.com/mlfoundations/open_flamingo)
+
+OpenFlamingo 是一个用于评估和训练大型多模态模型的开源框架，是 DeepMind Flamingo 模型的开源版本，也是 AI 世界关于大模型进展的一大步。
 
 
 ## 更多 AI 工具
