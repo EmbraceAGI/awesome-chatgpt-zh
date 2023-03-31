@@ -499,6 +499,7 @@ Chat-GPT 超级挂件，以侧边窗口的形式提供服务，可以在阅读�
 * [使用 GPT-4 实现浏览器自动化: TaxyAI](https://github.com/TaxyAI/browser-extension)
 * [ChatGPT 协助回答知乎问题: chat-gpt-zhihu-extension](https://chrome.google.com/webstore/detail/chatgpt-for-zhihu/dgoinfidjelfolhnkaableghhppplbak)
 * [邮件助手：ChatGPT for Email - Remail](https://chrome.google.com/webstore/detail/chatgpt-for-email-remail/jjplpolfahlhoodebebfjdbpcbopcmlk)
+* [分享你与 ChatGPT 的对话：ShareGPT](https://github.com/domeccleston/sharegpt)
 
 ### 小程序(微信，抖音等)
 
