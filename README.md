@@ -86,6 +86,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [OpenChatKit](#openchatkit)
     - [自称更亲民开放版的ChatGPT 模型: dolly](#自称更亲民开放版的chatgpt-模型-dolly)
     - [国产的支持中英双语的功能型对话语言大模型：ChatYuan](#国产的支持中英双语的功能型对话语言大模型chatyuan)
+    - [gpt4all](#gpt4all)
     - [Stanford Alpaca](#stanford-alpaca)
     - [Alpaca-CoT](#alpaca-cot)
     - [大型多模态模型训练和评估开源框架：OpenFlamingo](#大型多模态模型训练和评估开源框架openflamingo)
@@ -472,6 +473,7 @@ Chat-GPT 超级挂件，以侧边窗口的形式提供服务，可以在阅读�
 ![sidebar](imgs/chatgpt_sidebar.png)
 
 * [ChatGPT 接入谷歌: chatgpt-google-extension](https://chatgpt4google.com/)
+* [使用 GPT-4 实现浏览器自动化: TaxyAI](https://github.com/TaxyAI/browser-extension)
 * [ChatGPT 协助回答知乎问题: chat-gpt-zhihu-extension](https://chrome.google.com/webstore/detail/chatgpt-for-zhihu/dgoinfidjelfolhnkaableghhppplbak)
 * [邮件助手：ChatGPT for Email - Remail](https://chrome.google.com/webstore/detail/chatgpt-for-email-remail/jjplpolfahlhoodebebfjdbpcbopcmlk)
 
@@ -635,6 +637,12 @@ Dolly 使用 Alpaca 数据，对两年前的开源EleutherAI 60亿参数模型�
 目前已经更新到 v2, ChatYuan-large-v2是一个支持中英双语的功能型对话语言大模型。ChatYuan-large-v2使用了和 v1版本相同的技术方案，在微调数据、人类反馈强化学习、思维链等方面进行了优化。
 
 ChatYuan-large-v2是ChatYuan系列中以轻量化实现高质量效果的模型之一，用户可以在消费级显卡、 PC甚至手机上进行推理（INT4 最低只需 400M ）。
+
+### [gpt4all](https://github.com/nomic-ai/gpt4all)
+
+基于 LLaMa 的 LLM 助手，提供训练代码、数据和演示，训练一个自己的 AI 助手。
+
+![gpt4all](imgs/gpt4all.gif)
 
 ### [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca)
 
