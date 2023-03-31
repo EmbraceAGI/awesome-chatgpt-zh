@@ -39,6 +39,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [多模态聊天机器人: genmo](#多模态聊天机器人-genmo)
     - [基于 ChatGPT 创建个人的知识库 AI: Copilot Hub](#基于-chatgpt-创建个人的知识库-ai-copilot-hub)
     - [人工智能医生：ChatDoctor](#人工智能医生chatdoctor)
+    - [与AI对话生成思维导图 ChatMind](#与ai对话生成思维导图-chatmind)
     - [程序猿专区](#程序猿专区)
       - [OpenAI 官方使用指南：openai-cookbook](#openai-官方使用指南openai-cookbook)
       - [OpenAI python 接口](#openai-python-接口)
@@ -62,7 +63,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
       - [在任意软件上操作ChatGPT: Portal](#在任意软件上操作chatgpt-portal)
       - [一键免费部署你的私人 ChatGPT 网页应用: ChatGPT-Next-Web](#一键免费部署你的私人-chatgpt-网页应用-chatgpt-next-web)
     - [ChatGPT 浏览器插件](#chatgpt-浏览器插件)
-  - [小程序(微信，抖音等)](#小程序微信抖音等)
+    - [小程序(微信，抖音等)](#小程序微信抖音等)
   - [ChatGPT 插件](#chatgpt-插件)
     - [中文开发指南](#中文开发指南)
   - [如何与 ChatGPT 高效对话？——好的提示语学习](#如何与-chatgpt-高效对话好的提示语学习)
@@ -396,7 +397,9 @@ Copilot Hub 是一个帮助你基于私有数据创建智能知识库 & 人格�
 
 ### [人工智能医生：ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor)
 
+### [与AI对话生成思维导图 ChatMind](https://www.chatmind.tech/)
 
+![chatmind](imgs/chatmind.jpg)
 
 ### 程序猿专区
 
@@ -483,7 +486,7 @@ Chat-GPT 超级挂件，以侧边窗口的形式提供服务，可以在阅读�
 * [ChatGPT 协助回答知乎问题: chat-gpt-zhihu-extension](https://chrome.google.com/webstore/detail/chatgpt-for-zhihu/dgoinfidjelfolhnkaableghhppplbak)
 * [邮件助手：ChatGPT for Email - Remail](https://chrome.google.com/webstore/detail/chatgpt-for-email-remail/jjplpolfahlhoodebebfjdbpcbopcmlk)
 
-## 小程序(微信，抖音等)
+### 小程序(微信，抖音等)
 
 * [与不同角色对话 & 多种实用技能：神奇海螺](https://github.com/yzfly/awesome-chatgpt-zh/issues/5)
 
