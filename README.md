@@ -93,6 +93,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [中文LLaMA\&Alpaca大语言模型+本地部署: Chinese-LLaMA-Alpaca](#中文llamaalpaca大语言模型本地部署-chinese-llama-alpaca)
     - [Visual OpenLLM](#visual-openllm)
     - [高效微调一个聊天机器人：LLaMA-Adapter🚀](#高效微调一个聊天机器人llama-adapter)
+    - [⚡ Lit-LLaMA](#-lit-llama)
   - [更多 AI 工具](#更多-ai-工具)
     - [AI 绘画](#ai-绘画)
     - [代码生成](#代码生成)
@@ -675,6 +676,11 @@ OpenFlamingo 是一个用于评估和训练大型多模态模型的开源框架�
 
 ### [高效微调一个聊天机器人：LLaMA-Adapter🚀](https://github.com/ZrrSkywalker/LLaMA-Adapter)
 
+### [⚡ Lit-LLaMA](https://github.com/Lightning-AI/lit-llama)
+
+Lightning-AI 基于nanoGPT的LLaMA语言模型的实现。支持量化，LoRA微调，预训练。
+
+![lit_llama](imgs/Lite-LLaMA.gif)
 
 ## 更多 AI 工具
 
