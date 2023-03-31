@@ -67,7 +67,8 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
       - [一键免费部署你的私人 ChatGPT 网页应用: ChatGPT-Next-Web](#一键免费部署你的私人-chatgpt-网页应用-chatgpt-next-web)
     - [ChatGPT 浏览器插件](#chatgpt-浏览器插件)
     - [小程序(微信，抖音等)](#小程序微信抖音等)
-  - [ChatGPT 插件](#chatgpt-插件)
+  - [ChatGPT 插件功能](#chatgpt-插件功能)
+    - [现有插件](#现有插件)
     - [中文开发指南](#中文开发指南)
   - [如何与 ChatGPT 高效对话？——好的提示语学习](#如何与-chatgpt-高效对话好的提示语学习)
     - [Prompt 框架](#prompt-框架)
@@ -494,11 +495,19 @@ Chat-GPT 超级挂件，以侧边窗口的形式提供服务，可以在阅读�
 * [与不同角色对话 & 多种实用技能：神奇海螺](https://github.com/yzfly/awesome-chatgpt-zh/issues/5)
 
 
-## ChatGPT 插件
+## ChatGPT 插件功能
+
 OpenAI 现已经支持插件功能，可以预见这个插件平台将成为新时代的 Apple Store，将会带来巨大的被动流量，新时代的机会！
 
 - [官方文档](https://platform.openai.com/docs/plugins/introduction)
+- [ChatGPT plugins waitlist 申请地址](https://openai.com/waitlist/plugins)
 
+
+### 现有插件
+- [用日常语言提问，轻松搜索和查找个人或工作文件: ChatGPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin)
+
+
+  
 ### 中文开发指南
 指南中介绍了开发者申请开发插件的流程，与网页浏览器插件、代码解释器插件、Retrieval 插件、第三方插件等插件的功能、交互样式，详细介绍了开发流程，并通过“待办事项列表(to-do list)插件”的案例开发过程进行了演示。
 
