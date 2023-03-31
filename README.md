@@ -100,6 +100,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [AI辅助写作](#ai辅助写作)
     - [PPT生成](#ppt生成)
     - [语音/视频合成](#语音视频合成)
+    - [AI 研究所](#ai-研究所)
   - [思考](#思考)
     - [ChatGPT 之父 Sam Altman: 万物摩尔定律](#chatgpt-之父-sam-altman-万物摩尔定律)
     - [GPT-4 ，人类迈向AGI的第一步](#gpt-4-人类迈向agi的第一步)
@@ -150,6 +151,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT): 使用 rust 编写的, 基于 tauri 的跨平台 ChatGPT 客户端. 支持: Windows, Linux, MacOS. 本质是应用内嵌入 ChatGPT 网页, 需要翻墙.
 - [chatbox](https://github.com/Bin-Huang/chatbox) 开源的ChatGPT桌面应用，prompt 开发神器，全平台支持，下载安装包就能用
+- [ChatGPT-Desktop](https://github.com/ChatGPT-Desktop/ChatGPT-Desktop) 基于 tauri + vue3 开发的跨平台桌面端应用，需要自行准备 API KEY 使用。
 - [token/ChatGpt.Desktop](https://github.com/239573049/ChatGpt.Desktop): 使用 C# 编写的, 基于 Blazor Web Assembly 的跨平台客户端. 支持: Windows, Linux, MacOS, Android, iOS, Web. 本质是程序内内嵌自建网页并调用 API, 所以你需要一个 OpenAI 账户, 需要翻墙.
 - [SlimeNull/OpenGptChat](https://github.com/SlimeNull/OpenGptChat): 使用 C# 编写的, 基于 WPF 的原生 Windows 客户端. 支持: Windows. 本质是调用 OpenAI 的 API, 所以你需要一个 OpenAI 账户. 内置反向代理, 国内可用.
 
@@ -718,6 +720,11 @@ Lightning-AI 基于nanoGPT的LLaMA语言模型的实现。支持量化，LoRA微
 - [Synthesia](https://www.synthesia.io/)  
 - [Adobe Podcast](https://podcast.adobe.com/)
 
+### [AI 研究所](https://www.aiyjs.com/)
+
+AI研究所：一个收录 AI 相关工具和AI资讯的中文网站
+
+![ai_yjs](imgs/ai_yjs.jpg)
 
 ## 思考
 ### ChatGPT 之父 Sam Altman: 万物摩尔定律
