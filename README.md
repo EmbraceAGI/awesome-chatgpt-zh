@@ -282,11 +282,16 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 ## ChatGPT 工具
 
 ### ChatGPT 学习英语
+
+直接使用 [speechgpt](https://speechgpt.app/) 或者使用下面 Chrome 插件
+
 * 安装 chrome 插件: [Voice Control for ChatGPT](https://chrome.google.com/webstore/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn)
 
 * 打开 OpenAI ChatGPT 网页，告诉 ChatGPT 你希望它扮演一个 native English speaker 与你对话，并且纠正你的单词、语法错误，插件会自动播放英语语音。
 
 ![improveEnglish](imgs/chatgpt_improve_english.jpg)
+
+
 
 ### [翻译: OpenAI Translator](https://chrome.google.com/webstore/detail/openai-translator/ogjibjphoadhljaoicdnjnmgokohngcc?hl=zh-CN)
 
