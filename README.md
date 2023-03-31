@@ -92,6 +92,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [大型多模态模型训练和评估开源框架：OpenFlamingo](#大型多模态模型训练和评估开源框架openflamingo)
     - [中文LLaMA\&Alpaca大语言模型+本地部署: Chinese-LLaMA-Alpaca](#中文llamaalpaca大语言模型本地部署-chinese-llama-alpaca)
     - [Visual OpenLLM](#visual-openllm)
+    - [高效微调一个聊天机器人：LLaMA-Adapter🚀](#高效微调一个聊天机器人llama-adapter)
   - [更多 AI 工具](#更多-ai-工具)
     - [AI 绘画](#ai-绘画)
     - [代码生成](#代码生成)
@@ -671,6 +672,8 @@ OpenFlamingo 是一个用于评估和训练大型多模态模型的开源框架�
 * 开源版的"文心一言"
 
 ![visual_openllm](imgs/visual_openllm.gif)
+
+### [高效微调一个聊天机器人：LLaMA-Adapter🚀](https://github.com/ZrrSkywalker/LLaMA-Adapter)
 
 
 ## 更多 AI 工具
