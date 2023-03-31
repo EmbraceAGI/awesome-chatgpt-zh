@@ -88,7 +88,9 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
   - [ChatGPT 越狱](#chatgpt-越狱)
   - [相关资料](#相关资料)
   - [类 ChatGPT 开源模型](#类-chatgpt-开源模型)
-    - [🤖 LLMs: awesome-totally-open-chatgpt](#-llms-awesome-totally-open-chatgpt)
+    - [开源LLMs 收集：🤖 LLMs: awesome-totally-open-chatgpt](#开源llms-收集-llms-awesome-totally-open-chatgpt)
+    - [能在本地运行的资源 LLMs 收集: awesome-decentralized-llm](#能在本地运行的资源-llms-收集-awesome-decentralized-llm)
+    - [minGPT](#mingpt)
     - [OpenChatKit](#openchatkit)
     - [自称更亲民开放版的ChatGPT 模型: dolly](#自称更亲民开放版的chatgpt-模型-dolly)
     - [国产的支持中英双语的功能型对话语言大模型：ChatYuan](#国产的支持中英双语的功能型对话语言大模型chatyuan)
@@ -100,6 +102,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [Visual OpenLLM](#visual-openllm)
     - [高效微调一个聊天机器人：LLaMA-Adapter🚀](#高效微调一个聊天机器人llama-adapter)
     - [⚡ Lit-LLaMA](#-lit-llama)
+    - [FastChat](#fastchat)
   - [更多 AI 工具](#更多-ai-工具)
     - [AI 绘画](#ai-绘画)
     - [代码生成](#代码生成)
@@ -645,7 +648,13 @@ DAN越狱提示成功例图：
 
 OpenAI 的 ChatGPT 大型语言模型（LLM）并未开源，这部分收录一些深度学习开源的 LLM 供感兴趣的同学学习参考。
 
-### [🤖 LLMs: awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt)
+### [开源LLMs 收集：🤖 LLMs: awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt)
+
+### [能在本地运行的资源 LLMs 收集: awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) 
+
+### [minGPT](https://github.com/karpathy/minGPT)
+
+karpathy大神发布的一个 OpenAI GPT(生成预训练转换器)训练的最小 PyTorch 实现，代码十分简洁明了，适合用于动手学习 GPT 模型。
 
 ### [OpenChatKit](https://github.com/togethercomputer/OpenChatKit#pre-trained-weights)
 
@@ -680,6 +689,7 @@ ChatYuan-large-v2是ChatYuan系列中以轻量化实现高质量效果的模型�
 
 Alpaca-CoT项目旨在探究如何更好地通过instruction-tuning的方式来诱导LLM具备类似ChatGPT的交互和instruction-following能力。为此，我们广泛收集了不同类型的instruction（尤其是Chain-of-Thought数据集），并基于LLaMA给出了深入细致的实证研究，以供未来工作参考。作者声称这是首个将CoT拓展进Alpaca的工作，因此简称为"Alpaca-CoT"。
 
+
 ### [大型多模态模型训练和评估开源框架：OpenFlamingo](https://github.com/mlfoundations/open_flamingo)
 
 OpenFlamingo 是一个用于评估和训练大型多模态模型的开源框架，是 DeepMind Flamingo 模型的开源版本，也是 AI 世界关于大模型进展的一大步。
@@ -705,6 +715,10 @@ OpenFlamingo 是一个用于评估和训练大型多模态模型的开源框架�
 Lightning-AI 基于nanoGPT的LLaMA语言模型的实现。支持量化，LoRA微调，预训练。
 
 ![lit_llama](imgs/Lite-LLaMA.gif)
+
+### [FastChat](https://github.com/lm-sys/FastChat)
+
+继草泥马（Alpaca）后，斯坦福联手CMU、UC伯克利等机构的学者再次发布了130亿参数模型骆马（Vicuna），仅需300美元就能实现ChatGPT 90%的性能。FastChat 是Vicuna 的GitHub 开源仓库。
 
 ## 更多 AI 工具
 
