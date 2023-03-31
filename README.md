@@ -1,6 +1,6 @@
 # 🤖 ChatGPT 中文指南 🤖
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  ![GitHub Repo stars](https://img.shields.io/github/stars/yzfly/awesome-chatgpt-zh?style=social&logo=github&color=ff69b4)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
 
 [GitHub 持续更新，欢迎关注，欢迎 star , 欢迎贡献~](https://github.com/yzfly/awesome-chatgpt-zh)
