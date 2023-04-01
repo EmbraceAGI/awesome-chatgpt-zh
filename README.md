@@ -65,6 +65,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
       - [人人都能创建 GPT 工具: AI Anything](#人人都能创建-gpt-工具-ai-anything)
       - [在任意软件上操作ChatGPT: Portal](#在任意软件上操作chatgpt-portal)
       - [一键免费部署你的私人 ChatGPT 网页应用: ChatGPT-Next-Web](#一键免费部署你的私人-chatgpt-网页应用-chatgpt-next-web)
+      - [通过聊天生成 SQL 操作数据库：SQL Chat](#通过聊天生成-sql-操作数据库sql-chat)
     - [ChatGPT 浏览器插件](#chatgpt-浏览器插件)
     - [小程序(微信，抖音等)](#小程序微信抖音等)
   - [ChatGPT 插件功能](#chatgpt-插件功能)
@@ -491,6 +492,8 @@ Portal是一款传输工具，旨在将ChatGPT的能力整合到用户的工作�
 #### [一键免费部署你的私人 ChatGPT 网页应用: ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
 
 ![Chatgpt_next_web](imgs/chatgpt_next_web.png)
+
+#### [通过聊天生成 SQL 操作数据库：SQL Chat](https://github.com/sqlchat/sqlchat)
 
 ### ChatGPT 浏览器插件
 * [ChatGPT Sidebar](https://www.chatgpt-sidebar.com/)
