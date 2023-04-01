@@ -66,8 +66,8 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
       - [在任意软件上操作ChatGPT: Portal](#在任意软件上操作chatgpt-portal)
       - [一键免费部署你的私人 ChatGPT 网页应用: ChatGPT-Next-Web](#一键免费部署你的私人-chatgpt-网页应用-chatgpt-next-web)
       - [通过聊天生成 SQL 操作数据库：SQL Chat](#通过聊天生成-sql-操作数据库sql-chat)
-    - [ChatGPT 浏览器插件](#chatgpt-浏览器插件)
-    - [小程序(微信，抖音等)](#小程序微信抖音等)
+      - [电报 ChatGPT 机器人：Chatgpt-Telegram-bot](#电报-chatgpt-机器人chatgpt-telegram-bot)
+    - [ChatGPT 浏览器插件和小程序](#chatgpt-浏览器插件和小程序)
   - [ChatGPT 插件功能](#chatgpt-插件功能)
     - [现有插件](#现有插件)
     - [中文开发指南](#中文开发指南)
@@ -495,7 +495,9 @@ Portal是一款传输工具，旨在将ChatGPT的能力整合到用户的工作�
 
 #### [通过聊天生成 SQL 操作数据库：SQL Chat](https://github.com/sqlchat/sqlchat)
 
-### ChatGPT 浏览器插件
+#### [电报 ChatGPT 机器人：Chatgpt-Telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot)
+
+### ChatGPT 浏览器插件和小程序
 * [ChatGPT Sidebar](https://www.chatgpt-sidebar.com/)
 
 Chat-GPT 超级挂件，以侧边窗口的形式提供服务，可以在阅读书籍时划选文本点击按钮给你解释，总结和提取；也可以在使用笔记软件时为笔记润色，翻译和补充.....
@@ -507,9 +509,6 @@ Chat-GPT 超级挂件，以侧边窗口的形式提供服务，可以在阅读�
 * [ChatGPT 协助回答知乎问题: chat-gpt-zhihu-extension](https://chrome.google.com/webstore/detail/chatgpt-for-zhihu/dgoinfidjelfolhnkaableghhppplbak)
 * [邮件助手：ChatGPT for Email - Remail](https://chrome.google.com/webstore/detail/chatgpt-for-email-remail/jjplpolfahlhoodebebfjdbpcbopcmlk)
 * [分享你与 ChatGPT 的对话：ShareGPT](https://github.com/domeccleston/sharegpt)
-
-### 小程序(微信，抖音等)
-
 * [与不同角色对话 & 多种实用技能：神奇海螺](https://github.com/yzfly/awesome-chatgpt-zh/issues/5)
 
 
