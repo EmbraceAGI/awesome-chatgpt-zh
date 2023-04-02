@@ -68,7 +68,8 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
       - [通过聊天生成 SQL 操作数据库：SQL Chat](#通过聊天生成-sql-操作数据库sql-chat)
       - [电报 ChatGPT 机器人：Chatgpt-Telegram-bot](#电报-chatgpt-机器人chatgpt-telegram-bot)
       - [搭建属于自己的 ChatGPT 网站: ChatBot-UI 需要使用 API KEY](#搭建属于自己的-chatgpt-网站-chatbot-ui-需要使用-api-key)
-      - [给GPT服务添加缓存：gptcache，减少chatgpt使用成本，目前提供python库](#gptcache)
+      - [AIGC 应用程序的memcache: gptcache](#aigc-应用程序的memcache-gptcache)
+      - [将代码从一个语言翻译为另一个语言：ai-code-translator](#将代码从一个语言翻译为另一个语言ai-code-translator)
     - [ChatGPT 浏览器插件和小程序](#chatgpt-浏览器插件和小程序)
   - [ChatGPT 插件功能](#chatgpt-插件功能)
     - [现有插件](#现有插件)
@@ -501,9 +502,13 @@ Portal是一款传输工具，旨在将ChatGPT的能力整合到用户的工作�
 
 #### [搭建属于自己的 ChatGPT 网站: ChatBot-UI](https://github.com/mckaywrigley/chatbot-ui) 需要使用 API KEY
 
-#### [gptcache](https://github.com/zilliztech/gptcache)
+#### [AIGC 应用程序的memcache: gptcache](https://github.com/zilliztech/gptcache)
 
 一个强大的缓存库，可用于加速和降低依赖 LLM 服务的聊天应用程序的成本，可用作 AIGC 应用程序的memcache，类似于 Redis 用于传统应用程序的方式。[知乎简介](https://zhuanlan.zhihu.com/p/618630093)：有效果实测图和基本介绍。
+
+#### [将代码从一个语言翻译为另一个语言：ai-code-translator](https://github.com/mckaywrigley/ai-code-translator)
+
+![code_translator](imgs/ai_code_translator.png)
 
 
 ### ChatGPT 浏览器插件和小程序
