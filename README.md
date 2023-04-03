@@ -109,6 +109,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [高效微调一个聊天机器人：LLaMA-Adapter🚀](#高效微调一个聊天机器人llama-adapter)
     - [⚡ Lit-LLaMA](#-lit-llama)
     - [FastChat](#fastchat)
+    - [LMFlow](#lmflow)
     - [ChatGPT 控制所有AI模型: HuggingGPT](#chatgpt-控制所有ai模型-hugginggpt)
   - [更多 AI 工具](#更多-ai-工具)
     - [AI 绘画](#ai-绘画)
@@ -756,6 +757,10 @@ Lightning-AI 基于nanoGPT的LLaMA语言模型的实现。支持量化，LoRA微
 ### [FastChat](https://github.com/lm-sys/FastChat)
 
 继草泥马（Alpaca）后，斯坦福联手CMU、UC伯克利等机构的学者再次发布了130亿参数模型骆马（Vicuna），仅需300美元就能实现ChatGPT 90%的性能。FastChat 是Vicuna 的GitHub 开源仓库。
+
+### [LMFlow](https://github.com/OptimalScale/LMFlow)
+
+共建大模型社区，让每个人都训得起大模型。
 
 ### [ChatGPT 控制所有AI模型: HuggingGPT](https://arxiv.org/abs/2303.17580)
 
