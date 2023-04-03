@@ -43,6 +43,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [基于 ChatGPT 创建个人的知识库 AI: Copilot Hub](#基于-chatgpt-创建个人的知识库-ai-copilot-hub)
     - [人工智能医生：ChatDoctor](#人工智能医生chatdoctor)
     - [与AI对话生成思维导图 ChatMind](#与ai对话生成思维导图-chatmind)
+    - [自动化企业管理：Auto-GPT](#自动化企业管理auto-gpt)
     - [程序猿专区](#程序猿专区)
       - [OpenAI 官方使用指南：openai-cookbook](#openai-官方使用指南openai-cookbook)
       - [OpenAI python 接口](#openai-python-接口)
@@ -422,6 +423,13 @@ Copilot Hub 是一个帮助你基于私有数据创建智能知识库 & 人格�
 ### [与AI对话生成思维导图 ChatMind](https://www.chatmind.tech/)
 
 ![chatmind](imgs/chatmind.jpg)
+
+### [自动化企业管理：Auto-GPT](https://github.com/Torantulino/Auto-GPT)
+
+使用 GPT-4 实现自动化自主开发和管理企业以实现盈利。
+
+https://user-images.githubusercontent.com/22963551/228855501-2f5777cf-755b-4407-a643-c7299e5b6419.mp4
+
 
 ### 程序猿专区
 
