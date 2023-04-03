@@ -1,7 +1,8 @@
 # 🤖 ChatGPT 中文指南 🤖
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
-
+[![Code License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/yzfly/awesome-chatgpt-zh/blob/main/LICENSE)
+[![slack badge](https://img.shields.io/badge/Telegrem-join-blueviolet?logo=telegrem&amp)](https://t.me/AwesomeChatGPT)
 
 [GitHub 持续更新，欢迎关注，欢迎 star ~](https://github.com/yzfly/awesome-chatgpt-zh)
 
@@ -108,6 +109,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [高效微调一个聊天机器人：LLaMA-Adapter🚀](#高效微调一个聊天机器人llama-adapter)
     - [⚡ Lit-LLaMA](#-lit-llama)
     - [FastChat](#fastchat)
+    - [ChatGPT 控制所有AI模型: HuggingGPT](#chatgpt-控制所有ai模型-hugginggpt)
   - [更多 AI 工具](#更多-ai-工具)
     - [AI 绘画](#ai-绘画)
     - [代码生成](#代码生成)
@@ -754,6 +756,30 @@ Lightning-AI 基于nanoGPT的LLaMA语言模型的实现。支持量化，LoRA微
 ### [FastChat](https://github.com/lm-sys/FastChat)
 
 继草泥马（Alpaca）后，斯坦福联手CMU、UC伯克利等机构的学者再次发布了130亿参数模型骆马（Vicuna），仅需300美元就能实现ChatGPT 90%的性能。FastChat 是Vicuna 的GitHub 开源仓库。
+
+### [ChatGPT 控制所有AI模型: HuggingGPT](https://arxiv.org/abs/2303.17580)
+
+[GitHub](https://github.com/microsoft/JARVIS)
+
+[Arxiv 论文]((https://arxiv.org/abs/2303.17580))
+
+大语言模型LLM在语言理解、生成、交互和推理方面的表现，让人想到：
+
+> 可以将它们作为中间控制器，来管理现有的所有AI模型，通过“调动和组合每个人的力量”，来解决复杂的AI任务。
+
+在这个系统中，语言是通用的接口。
+
+于是，HuggingGPT就诞生了。
+
+它的工程流程分为四步：
+
+* 首先，任务规划。ChatGPT将用户的需求解析为任务列表，并确定任务之间的执行顺序和资源依赖关系。
+
+* 其次，模型选择。ChatGPT根据HuggingFace上托管的各专家模型的描述，为任务分配合适的模型。
+
+* 接着，任务执行。混合端点（包括本地推理和HuggingFace推理）上被选定的专家模型根据任务顺序和依赖关系执行分配的任务，并将执行信息和结果给到ChatGPT。
+
+* 最后，输出结果。由ChatGPT总结各模型的执行过程日志和推理结果，给出最终的输出。
 
 ## 更多 AI 工具
 
