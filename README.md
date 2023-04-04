@@ -86,6 +86,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [💡 学习如何提示：Learn Prompting](#-学习如何提示learn-prompting)
     - [💡 提示语自动生成](#-提示语自动生成)
     - [创建，使用，分享 ChatGPT prompts: OpenPrompt](#创建使用分享-chatgpt-prompts-openprompt)
+    - [生成AI绘图灵感](#生成ai绘图灵感)
   - [ChatGPT 对话](#chatgpt-对话)
     - [ChatGPT 教你一步一步实现 CIFAR10 数据集图像分类任务](#chatgpt-教你一步一步实现-cifar10-数据集图像分类任务)
     - [一句话让 ChatGPT 帮助你实现 YOLO 目标检测](#一句话让-chatgpt-帮助你实现-yolo-目标检测)
@@ -618,6 +619,11 @@ Prompt 编写模式是一份中文教程，介绍了系列 Prompt 编写模式�
 
 ### [创建，使用，分享 ChatGPT prompts: OpenPrompt](https://openprompt.co/) 
 
+### [生成AI绘图灵感](https://www.aigenprompt.com/zh-CN)
+
+输入简单的词，这个工具会帮你优化成适合生成带有艺术感画面的一连串prompt，可以在大部分绘画工具使用。
+
+![aigenprompt](imgs/aigenprompt.jpg)
 
 ## ChatGPT 对话
 
