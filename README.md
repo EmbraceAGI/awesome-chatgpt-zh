@@ -16,8 +16,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [💻 OpenAI 官网](#-openai-官网)
     - [💻 poe](#-poe)
     - [💻 微软必应](#-微软必应)
-    - [国内可使用ChatGPT镜像站点: carrot](#国内可使用chatgpt镜像站点-carrot)
-    - [可以直接在国内访问的ChatGPT网站](#可以直接在国内访问的chatgpt网站)
+    - [国内可使用ChatGPT镜像站点](#国内可使用chatgpt镜像站点)
     - [💻 第三方开发者开发的 ChatGPT 客户端](#-第三方开发者开发的-chatgpt-客户端)
     - [💻 国外竞品](#-国外竞品)
     - [💻 国产 ChatGPT 类似产品](#-国产-chatgpt-类似产品)
@@ -164,8 +163,10 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
   
 ![new_bing](imgs/new_bing.jpg)
 
-### [国内可使用ChatGPT镜像站点: carrot](https://github.com/xx025/carrot)
-### [可以直接在国内访问的ChatGPT网站](examples/free_chatgpt_website.md)
+### 国内可使用ChatGPT镜像站点
+* [国内可使用ChatGPT镜像站点: carrot](https://github.com/xx025/carrot)
+* [免费的 ChatGPT 镜像网站列表](https://github.com/LiLittleCat/awesome-free-chatgpt)
+* [可以直接在国内访问的ChatGPT网站](examples/free_chatgpt_website.md)
 
 ### 💻 第三方开发者开发的 ChatGPT 客户端
 
