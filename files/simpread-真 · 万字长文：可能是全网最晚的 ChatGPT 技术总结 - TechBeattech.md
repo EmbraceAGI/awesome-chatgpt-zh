@@ -1,4 +1,4 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.techbeat.net](https://www.techbeat.net/article-info?id=4766&bl=yes)
+> 原文地址 [www.techbeat.net](https://www.techbeat.net/article-info?id=4766&bl=yes)
 
 > TechBeat 是荟聚全球华人 AI 精英的成长社区，每周上新来自顶尖大厂、明星创业公司、国际顶级高校相关专业在读博士的最新研究工作。我们希望为 AI 人才打造更专业的服务和体验，加速并陪伴其成长。
 
