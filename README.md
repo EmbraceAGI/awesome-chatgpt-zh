@@ -925,6 +925,6 @@ ChatGPT的强大能力是显而易见的，但对于人工智能领域不太熟�
 我们非常感谢所有为这个项目做出贡献的个人，你们的努力和付出使这个项目不断进步和发展：
 
 - [SlimeNull](https://github.com/SlimeNull)
-
+- [SimFG](https://github.com/SimFG)
 
 如果您做出了重大贡献并希望得到认可，请随时与我们联系或提交一个更新此部分的 Pull Request。
