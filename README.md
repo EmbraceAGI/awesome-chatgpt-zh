@@ -122,7 +122,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [ChatGPT 之父 Sam Altman: 万物摩尔定律](#chatgpt-之父-sam-altman-万物摩尔定律)
     - [GPT-4 ，人类迈向AGI的第一步](#gpt-4-人类迈向agi的第一步)
     - [OpenAI GPT4 技术报告](#openai-gpt4-技术报告)
-    - [真·万字长文：可能是全网最晚的ChatGPT技术总结](#真万字长文可能是全网最晚的chatgpt技术总结)
+    - [\[真·万字长文：可能是全网最晚的ChatGPT技术总结\](files/simpread-真 · 万字长文：可能是全网最晚的 ChatGPT 技术总结 - TechBeattech.md)](#真万字长文可能是全网最晚的chatgpt技术总结filessimpread-真--万字长文可能是全网最晚的-chatgpt-技术总结---techbeattechmd)
   - [ChatGPT 使用交流](#chatgpt-使用交流)
   - [关于赞赏——感谢您的认可，Star 和转发已经是最好的支持！](#关于赞赏感谢您的认可star-和转发已经是最好的支持)
   - [Star History](#star-history)
@@ -881,7 +881,9 @@ https://arxiv.org/abs/2303.08774
 
 GPT-4的发布直接填补了之前GPT系列的跨模态信息生成能力的空缺，GPT-4目前已经可以同时接受图像和文本输入，来生成用户需要的文本。并且OpenAI团队在多个测试基准上对其进行了评估，GPT-4在大部分测试上已经与人类水平相当了。有很多学者分析，GPT-4相比前代的GPT-3.5以及ChatGPT”涌现“出了更加成熟的智能，其内部原因可能是投入了更大的训练数据库和训练算力，真有一些力大砖飞的感觉。但是不可否认的是，GPT-4仍然面临着生成”幻觉“ (Hallucination)的问题，即仍有可能产生事实性错误的生成文本。此外，GPT-4主打的多模态生成模式是否也会进一步带来生成具有政治导向、错误价值观、暴力倾向等内容的风险呢，那么如何灵活的应对这些局限性和风险性，对GPT-4的健康落地也具有非常重要的意义。
 
-### [真·万字长文：可能是全网最晚的ChatGPT技术总结](https://www.techbeat.net/article-info?id=4766)
+### [真·万字长文：可能是全网最晚的ChatGPT技术总结](files/simpread-真 · 万字长文：可能是全网最晚的 ChatGPT 技术总结 - TechBeattech.md)
+
+[原文链接](https://www.techbeat.net/article-info?id=4766)
 
 ChatGPT的强大能力是显而易见的，但对于人工智能领域不太熟悉的人，对这种黑盒的技术仍然会担忧或者不信任。恐惧通常来自于不了解，因此本文将为大家全面剖析ChatGPT的技术原理，尽量以简单通俗的文字为大家解惑。
 
