@@ -950,7 +950,8 @@ ChatGPT的强大能力是显而易见的，但对于人工智能领域不太熟�
 加入链接：https://t.zsxq.com/0cYzbXzeT
 
 或者微信扫码
-![zsxq](imgs/zsxq.jpg)
+<img src=imgs/zsxq.jpg width=40% />
+
 
 ### 电报群
 
