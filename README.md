@@ -271,6 +271,17 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 
 <li>
 <details>
+  <summary>💻 通义千问</summary>
+
+阿里达摩院出品，目前未大规模开放，可申请使用
+
+![tongyi](imgs/ali_llm.jpg)
+
+</details>
+</li>
+
+<li>
+<details>
   <summary> 💻 ChatYuan: 元语功能型对话大模型</summary>
   
 > https://huggingface.co/spaces/tianpanyu/ChatYuan-Demo
