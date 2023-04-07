@@ -248,6 +248,8 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 
 脱胎于 OpenAI 的初创公司 Anthropic 产品 Claude 模型，需申请使用
 
+更新：Claude 模型现已经可以通过 slack 免费使用，地址: https://www.anthropic.com/claude-in-slack
+
 ![claude](imgs/claude.jpg)
 
 </details>
