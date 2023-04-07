@@ -71,6 +71,8 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
       - [搭建属于自己的 ChatGPT 网站: ChatBot-UI 需要使用 API KEY](#搭建属于自己的-chatgpt-网站-chatbot-ui-需要使用-api-key)
       - [AIGC 应用程序的memcache: gptcache](#aigc-应用程序的memcache-gptcache)
       - [将代码从一个语言翻译为另一个语言：ai-code-translator](#将代码从一个语言翻译为另一个语言ai-code-translator)
+      - [LLMs 驱动的操作系统的 Shell: engshell](#llms-驱动的操作系统的-shell-engshell)
+      - [使用 LLMs 通过自然语言生成任意函数：AI Functions](#使用-llms-通过自然语言生成任意函数ai-functions)
     - [ChatGPT 浏览器插件和小程序](#chatgpt-浏览器插件和小程序)
   - [ChatGPT 插件功能](#chatgpt-插件功能)
     - [现有插件](#现有插件)
@@ -111,6 +113,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [FastChat](#fastchat)
     - [LMFlow](#lmflow)
     - [ChatGPT 控制所有AI模型: HuggingGPT](#chatgpt-控制所有ai模型-hugginggpt)
+  - [babyagi](#babyagi)
   - [更多 AI 工具](#更多-ai-工具)
     - [AI 绘画](#ai-绘画)
     - [代码生成](#代码生成)
@@ -525,6 +528,30 @@ Portal是一款传输工具，旨在将ChatGPT的能力整合到用户的工作�
 
 ![code_translator](imgs/ai_code_translator.png)
 
+#### [LLMs 驱动的操作系统的 Shell: engshell](https://github.com/emcf/engshell)
+
+#### [使用 LLMs 通过自然语言生成任意函数：AI Functions](https://www.askmarvin.ai/)
+
+使用 OpenAI GPT4, 描述函数功能即刻得到相应的函数代码，使用 GPT4 替代程序猿更近一步了，下面是核心代码：
+
+[GitHub 开源实现：AI-Functions](https://github.com/Torantulino/AI-Functions)
+
+```
+import openai
+
+def ai_function(function, args, description, model = "gpt-4"):
+    # parse args to comma seperated string
+    args = ", ".join(args)
+    messages = [{"role": "system", "content": f"You are now the following python function: ```# {description}\n{function}```\n\nOnly respond with your `return` value. no verbose, no chat."},{"role": "user", "content": args}]
+
+    response = openai.ChatCompletion.create(
+        model=model,
+        messages=messages,
+        temperature=0
+    )
+
+    return response.choices[0].message["content"]
+```
 
 ### ChatGPT 浏览器插件和小程序
 * [ChatGPT Sidebar](https://www.chatgpt-sidebar.com/)
@@ -793,6 +820,15 @@ Lightning-AI 基于nanoGPT的LLaMA语言模型的实现。支持量化，LoRA微
 * 接着，任务执行。混合端点（包括本地推理和HuggingFace推理）上被选定的专家模型根据任务顺序和依赖关系执行分配的任务，并将执行信息和结果给到ChatGPT。
 
 * 最后，输出结果。由ChatGPT总结各模型的执行过程日志和推理结果，给出最终的输出。
+
+## [babyagi](https://github.com/yoheinakajima/babyagi)
+
+babyagi 是一个智能任务管理和解决工具，它结合了OpenAI GPT-4和Pinecone向量搜索引擎的力量，以自动完成和管理一系列任务，从一个初始任务开始，babyagi使用GPT4生成解决方案和新任务，并将解决方案存储在Pinecone中以便进一步检索。
+
+[中文博客-babyagi: 人工智能任务管理系统](https://juejin.cn/post/7218815501433946173)
+
+![babyagi](imgs/babyagi.jpg)
+
 
 ## 更多 AI 工具
 
