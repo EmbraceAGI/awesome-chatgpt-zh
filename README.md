@@ -113,7 +113,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [FastChat](#fastchat)
     - [LMFlow](#lmflow)
     - [ChatGPT 控制所有AI模型: HuggingGPT](#chatgpt-控制所有ai模型-hugginggpt)
-  - [babyagi](#babyagi)
+    - [babyagi](#babyagi)
   - [更多 AI 工具](#更多-ai-工具)
     - [AI 绘画](#ai-绘画)
     - [代码生成](#代码生成)
@@ -126,6 +126,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [GPT-4 ，人类迈向AGI的第一步](#gpt-4-人类迈向agi的第一步)
     - [OpenAI GPT4 技术报告](#openai-gpt4-技术报告)
     - [真·万字长文：可能是全网最晚的ChatGPT技术总结](#真万字长文可能是全网最晚的chatgpt技术总结)
+    - [OpenAI: Our approach to AI safety](#openai-our-approach-to-ai-safety)
   - [ChatGPT 使用交流](#chatgpt-使用交流)
   - [关于赞赏——感谢您的认可，Star 和转发已经是最好的支持！](#关于赞赏感谢您的认可star-和转发已经是最好的支持)
   - [Star History](#star-history)
@@ -821,7 +822,7 @@ Lightning-AI 基于nanoGPT的LLaMA语言模型的实现。支持量化，LoRA微
 
 * 最后，输出结果。由ChatGPT总结各模型的执行过程日志和推理结果，给出最终的输出。
 
-## [babyagi](https://github.com/yoheinakajima/babyagi)
+### [babyagi](https://github.com/yoheinakajima/babyagi)
 
 babyagi 是一个智能任务管理和解决工具，它结合了OpenAI GPT-4和Pinecone向量搜索引擎的力量，以自动完成和管理一系列任务，从一个初始任务开始，babyagi使用GPT4生成解决方案和新任务，并将解决方案存储在Pinecone中以便进一步检索。
 
@@ -922,6 +923,13 @@ GPT-4的发布直接填补了之前GPT系列的跨模态信息生成能力的空
 [原文链接](https://www.techbeat.net/article-info?id=4766)  [备份](files/simpread-真%20·%20万字长文：可能是全网最晚的%20ChatGPT%20技术总结%20-%20TechBeattech.md)
 
 ChatGPT的强大能力是显而易见的，但对于人工智能领域不太熟悉的人，对这种黑盒的技术仍然会担忧或者不信任。恐惧通常来自于不了解，因此本文将为大家全面剖析ChatGPT的技术原理，尽量以简单通俗的文字为大家解惑。
+
+### [OpenAI: Our approach to AI safety](https://openai.com/blog/our-approach-to-ai-safety)
+
+* 英文原文: [《Our approach to AI safety》](https://openai.com/blog/our-approach-to-ai-safety)
+* 中文报道：[界面新闻：OpenAI回应安全性质疑，公布保障AI模型安全方法](https://www.jiemian.com/article/9194641.html)
+
+文章介绍了ChatGPT六个方面的安全部署，包括构建日益安全的AI系统、在实际使用中学习改进安全措施、保护儿童、尊重隐私、提高事实准确性，以及持续研究和参与。
 
 ## ChatGPT 使用交流
 
