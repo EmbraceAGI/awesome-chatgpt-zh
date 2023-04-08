@@ -44,6 +44,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [人工智能医生：ChatDoctor](#人工智能医生chatdoctor)
     - [与AI对话生成思维导图 ChatMind](#与ai对话生成思维导图-chatmind)
     - [自动化企业管理：Auto-GPT](#自动化企业管理auto-gpt)
+      - [Meta发布“分割一切”AI模型，CV或迎来GPT-3时刻: SAM](#meta发布分割一切ai模型cv或迎来gpt-3时刻-sam)
     - [程序猿专区](#程序猿专区)
       - [OpenAI 官方使用指南：openai-cookbook](#openai-官方使用指南openai-cookbook)
       - [OpenAI python 接口](#openai-python-接口)
@@ -455,6 +456,16 @@ Copilot Hub 是一个帮助你基于私有数据创建智能知识库 & 人格�
 使用 GPT-4 实现自动化自主开发和管理企业以实现盈利。
 
 https://user-images.githubusercontent.com/22963551/228855501-2f5777cf-755b-4407-a643-c7299e5b6419.mp4
+
+#### [Meta发布“分割一切”AI模型，CV或迎来GPT-3时刻: SAM](https://github.com/facebookresearch/segment-anything)
+
+Meta发布“分割一切”AI模型，CV或迎来GPT-3时刻！多模态 ChatGPT 距离现实应用不远了！
+
+分割作为计算机视觉的核心任务，已经得到广泛应用。但是，为特定任务创建准确的分割模型通常需要技术专家进行高度专业化的工作，此外，该任务还需要大量的领域标注数据，种种因素限制了图像分割的进一步发展。
+
+Meta 发布的 SAM 模型只做了一件事情：（零样本）分割一切。类似 GPT-4 已经做到的“回答一切”。
+
+![sam](imgs/sam.jpg)
 
 
 ### 程序猿专区
