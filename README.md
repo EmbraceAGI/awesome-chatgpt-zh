@@ -39,6 +39,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [与视频对话：ChatYoutube](#与视频对话chatyoutube)
     - [打工人福利: 周报生成器](#打工人福利-周报生成器)
     - [小红书小作文生成器](#小红书小作文生成器)
+    - [与文件对话：chatfiles](#与文件对话chatfiles)
     - [提高 ChatGPT 数学能力: WolframAlpha](#提高-chatgpt-数学能力-wolframalpha)
     - [visual ChatGPT](#visual-chatgpt)
     - [Multimedia GPT](#multimedia-gpt)
@@ -47,7 +48,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [人工智能医生：ChatDoctor](#人工智能医生chatdoctor)
     - [与AI对话生成思维导图 ChatMind](#与ai对话生成思维导图-chatmind)
     - [自动化企业管理：Auto-GPT](#自动化企业管理auto-gpt)
-      - [Meta发布“分割一切”AI模型，CV或迎来GPT-3时刻: SAM](#meta发布分割一切ai模型cv或迎来gpt-3时刻-sam)
+    - [Meta发布“分割一切”AI模型，CV或迎来GPT-3时刻: SAM](#meta发布分割一切ai模型cv或迎来gpt-3时刻-sam)
     - [程序猿专区](#程序猿专区)
       - [OpenAI 官方使用指南：openai-cookbook](#openai-官方使用指南openai-cookbook)
       - [OpenAI python 接口](#openai-python-接口)
@@ -438,6 +439,12 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 
 ![chatgpt_xhs](imgs/chatGPT_xhs.jpg)
 
+### [与文件对话：chatfiles](https://github.com/guangzhengli/ChatFiles/blob/main/README.zh.md)
+
+上传文件然后与之对话
+
+![chatfiles](imgs/chatfiles.png)
+
 ### [提高 ChatGPT 数学能力: WolframAlpha](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain)
 
 ChatGPT 和 Wolfram|Alpha 结合，补足 ChatGPT 数学计算方面的补足。
@@ -478,7 +485,7 @@ Copilot Hub 是一个帮助你基于私有数据创建智能知识库 & 人格�
 
 https://user-images.githubusercontent.com/22963551/228855501-2f5777cf-755b-4407-a643-c7299e5b6419.mp4
 
-#### [Meta发布“分割一切”AI模型，CV或迎来GPT-3时刻: SAM](https://github.com/facebookresearch/segment-anything)
+### [Meta发布“分割一切”AI模型，CV或迎来GPT-3时刻: SAM](https://github.com/facebookresearch/segment-anything)
 
 Meta发布“分割一切”AI模型，CV或迎来GPT-3时刻！多模态 ChatGPT 距离现实应用不远了！
 
