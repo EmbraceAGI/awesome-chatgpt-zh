@@ -82,6 +82,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
       - [嵌入式数据库：chroma](#嵌入式数据库chroma)
       - [向量数据库：weaviate](#向量数据库weaviate)
       - [PineCone](#pinecone)
+      - [Milvus](#Milvus)
     - [ChatGPT 浏览器插件和小程序](#chatgpt-浏览器插件和小程序)
   - [ChatGPT 插件功能](#chatgpt-插件功能)
     - [现有插件](#现有插件)
@@ -655,6 +656,12 @@ results = collection.query(
 #### [PineCone](https://www.pinecone.io/)
 
 Pinecone为向量数据提供了数据存储解决方案。
+
+#### [Milvus](https://milvus.io/)
+
+Milvus 是一个开源矢量数据库，旨在为嵌入相似性搜索和 AI 应用程序提供支持。 除了向量，Milvus 还支持布尔型、整数、浮点数等数据类型。 Milvus 中的一个集合可以包含多个字段，用于容纳不同的数据特征或属性。 Milvus 将标量过滤与强大的向量相似性搜索相结合，为分析非结构化数据提供了一个现代、灵活的平台。 Milvus 使非结构化数据搜索更易于访问，并提供一致的用户体验，无论部署环境如何。 Milvus 2.0 是一个存储计算分离的云原生矢量数据库。 这个重构版本的 Milvus 中的所有组件都是无状态的，以增强弹性和灵活性。 更多架构细节，请参见 Milvus 架构概述。 Milvus 于 2019 年 10 月在开源 Apache License 2.0 下发布，目前是 LF AI & Data Foundation 的研究生项目。
+
+目前提供多种部署方式，支持docker, k8s, embed-milvus(pip install嵌入安装)，同时也有[在线云服务](https://cloud.zilliz.com/)。
 
 
 ### ChatGPT 浏览器插件和小程序
