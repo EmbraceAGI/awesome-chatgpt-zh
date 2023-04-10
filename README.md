@@ -78,6 +78,10 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
       - [将代码从一个语言翻译为另一个语言：ai-code-translator](#将代码从一个语言翻译为另一个语言ai-code-translator)
       - [LLMs 驱动的操作系统的 Shell: engshell](#llms-驱动的操作系统的-shell-engshell)
       - [使用 LLMs 通过自然语言生成任意函数：AI Functions](#使用-llms-通过自然语言生成任意函数ai-functions)
+    - [向量数据库](#向量数据库)
+      - [嵌入式数据库：chroma](#嵌入式数据库chroma)
+      - [向量数据库：weaviate](#向量数据库weaviate)
+      - [PineCone](#pinecone)
     - [ChatGPT 浏览器插件和小程序](#chatgpt-浏览器插件和小程序)
   - [ChatGPT 插件功能](#chatgpt-插件功能)
     - [现有插件](#现有插件)
@@ -229,6 +233,21 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 
 <li>
 <details>
+  <summary>💻 Claude </summary>
+
+> https://www.anthropic.com/product
+
+脱胎于 OpenAI 的初创公司 Anthropic 产品 Claude 模型，需申请使用
+
+更新：Claude 模型现已经可以通过 slack 免费使用，地址: https://www.anthropic.com/claude-in-slack
+
+![claude](imgs/claude.jpg)
+
+</details>
+</li>
+
+<li>
+<details>
   <summary>💻 YouChat </summary>
   
 > https://you.com/
@@ -262,21 +281,6 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 注册后提供一定免费额度，超出免费额度需付费
 
 ![chatSonic](imgs/writesonic.jpg)
-
-</details>
-</li>
-
-<li>
-<details>
-  <summary>💻 Claude </summary>
-
-> https://www.anthropic.com/product
-
-脱胎于 OpenAI 的初创公司 Anthropic 产品 Claude 模型，需申请使用
-
-更新：Claude 模型现已经可以通过 slack 免费使用，地址: https://www.anthropic.com/claude-in-slack
-
-![claude](imgs/claude.jpg)
 
 </details>
 </li>
@@ -610,6 +614,48 @@ def ai_function(function, args, description, model = "gpt-4"):
 
     return response.choices[0].message["content"]
 ```
+### 向量数据库
+
+如果说 ChatGPT 是 LLM 的处理核心，prompts 是 code，那么向量数据库就是 LLM 需要的存储。
+
+#### [嵌入式数据库：chroma](https://github.com/chroma-core/chroma)
+
+Chroma 是一个用于 Python / JavaScript LLM 应用程序的嵌入式数据库，它具有内存快速访问的优势。它只有 4 个核心函数：
+
+```
+import chromadb
+# setup Chroma in-memory, for easy prototyping. Can add persistence easily!
+client = chromadb.Client()
+
+# Create collection. get_collection, get_or_create_collection, delete_collection also available!
+collection = client.create_collection("all-my-documents") 
+
+# Add docs to the collection. Can also update and delete. Row-based API coming soon!
+collection.add(
+    documents=["This is document1", "This is document2"], # we handle tokenization, embedding, and indexing automatically. You can skip that and add your own embeddings as well
+    metadatas=[{"source": "notion"}, {"source": "google-docs"}], # filter on these!
+    ids=["doc1", "doc2"], # unique for each doc 
+)
+
+# Query/search 2 most similar results. You can also .get by id
+results = collection.query(
+    query_texts=["This is a query document"],
+    n_results=2,
+    # where={"metadata_field": "is_equal_to_this"}, # optional filter
+    # where_document={"$contains":"search_string"}  # optional filter
+)
+```
+
+![imgs](imgs/vectordb_chroma.jpg)
+
+#### [向量数据库：weaviate](https://github.com/weaviate/weaviate)
+
+开源的向量数据库，可以存储对象和向量，允许将向量搜索与结构化过滤相结合，并具有云原生数据库的容错性和可扩展性，可通过 GraphQL、REST 和各种语言客户端进行访问。
+
+#### [PineCone](https://www.pinecone.io/)
+
+Pinecone为向量数据提供了数据存储解决方案。
+
 
 ### ChatGPT 浏览器插件和小程序
 * [ChatGPT Sidebar](https://www.chatgpt-sidebar.com/)
