@@ -82,7 +82,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
       - [嵌入式数据库：chroma](#嵌入式数据库chroma)
       - [向量数据库：weaviate](#向量数据库weaviate)
       - [PineCone](#pinecone)
-      - [Milvus](#Milvus)
+      - [Milvus](#milvus)
     - [ChatGPT 浏览器插件和小程序](#chatgpt-浏览器插件和小程序)
   - [ChatGPT 插件功能](#chatgpt-插件功能)
     - [现有插件](#现有插件)
@@ -107,6 +107,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
   - [相关资料](#相关资料)
   - [类 ChatGPT 开源模型](#类-chatgpt-开源模型)
     - [开源LLMs 收集：🤖 LLMs: awesome-totally-open-chatgpt](#开源llms-收集-llms-awesome-totally-open-chatgpt)
+    - [Awesome-LLM](#awesome-llm)
     - [能在本地运行的资源 LLMs 收集: awesome-decentralized-llm](#能在本地运行的资源-llms-收集-awesome-decentralized-llm)
     - [minGPT](#mingpt)
     - [OpenChatKit](#openchatkit)
@@ -121,6 +122,8 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [高效微调一个聊天机器人：LLaMA-Adapter🚀](#高效微调一个聊天机器人llama-adapter)
     - [⚡ Lit-LLaMA](#-lit-llama)
     - [FastChat](#fastchat)
+    - [在羊驼基础上改进的新的聊天机器人考拉:EasyLM](#在羊驼基础上改进的新的聊天机器人考拉easylm)
+    - [实现在MacBook上运行模型: llama.cpp](#实现在macbook上运行模型-llamacpp)
     - [LMFlow](#lmflow)
     - [ChatGPT 控制所有AI模型: HuggingGPT](#chatgpt-控制所有ai模型-hugginggpt)
     - [babyagi](#babyagi)
@@ -834,6 +837,11 @@ OpenAI 的 ChatGPT 大型语言模型（LLM）并未开源，这部分收录一�
 
 ### [开源LLMs 收集：🤖 LLMs: awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt)
 
+### [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
+
+大型语言模型的论文列表，特别是与 ChatGPT相关的论文，还包含LLM培训框架、部署LLM的工具、关于LLM的课程和教程以及所有公开可用的LLM 权重和 api
+
+
 ### [能在本地运行的资源 LLMs 收集: awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) 
 
 ### [minGPT](https://github.com/karpathy/minGPT)
@@ -903,6 +911,11 @@ Lightning-AI 基于nanoGPT的LLaMA语言模型的实现。支持量化，LoRA微
 ### [FastChat](https://github.com/lm-sys/FastChat)
 
 继草泥马（Alpaca）后，斯坦福联手CMU、UC伯克利等机构的学者再次发布了130亿参数模型骆马（Vicuna），仅需300美元就能实现ChatGPT 90%的性能。FastChat 是Vicuna 的GitHub 开源仓库。
+
+### [在羊驼基础上改进的新的聊天机器人考拉:EasyLM](https://github.com/young-geng/EasyLM#koala)
+[介绍页](https://bair.berkeley.edu/blog/2023/04/03/koala/)
+
+### [实现在MacBook上运行模型: llama.cpp](https://github.com/ggerganov/llama.cpp)
 
 ### [LMFlow](https://github.com/OptimalScale/LMFlow)
 
