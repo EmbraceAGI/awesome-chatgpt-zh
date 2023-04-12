@@ -56,6 +56,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
       - [LangChain的一个UI: LangFlow](#langchain的一个ui-langflow)
       - [OpenGPT](#opengpt)
       - [AI代码助手: codeium](#ai代码助手-codeium)
+      - [Github Copilot 开源平替，可本地部署: Tabby ](#github-copilot-开源平替可本地部署-tabby-)
       - [将 OpenAI ChatGPT 集成到 VSCode: vscode-chatgpt](#将-openai-chatgpt-集成到-vscode-vscode-chatgpt)
       - [GPT 驱动的代码编辑器: Cursor](#gpt-驱动的代码编辑器-cursor)
       - [帮你生成完整 Github README](#帮你生成完整-github-readme)
@@ -126,7 +127,6 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [实现在MacBook上运行模型: llama.cpp](#实现在macbook上运行模型-llamacpp)
     - [LMFlow](#lmflow)
     - [ChatGPT 控制所有AI模型: HuggingGPT](#chatgpt-控制所有ai模型-hugginggpt)
-    - [babyagi](#babyagi)
   - [更多 AI 工具](#更多-ai-工具)
     - [AI 绘画](#ai-绘画)
     - [代码生成](#代码生成)
@@ -134,6 +134,10 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [PPT生成](#ppt生成)
     - [语音/视频合成](#语音视频合成)
     - [AI 研究所](#ai-研究所)
+  - [通用人工智能(AGI) 尝试](#通用人工智能agi-尝试)
+    - [Auto-GPT](#auto-gpt)
+    - [babyagi](#babyagi)
+    - [AgentGPT](#agentgpt)
   - [思考](#思考)
     - [ChatGPT 之父 Sam Altman: 万物摩尔定律](#chatgpt-之父-sam-altman-万物摩尔定律)
     - [GPT-4 ，人类迈向AGI的第一步](#gpt-4-人类迈向agi的第一步)
@@ -527,6 +531,8 @@ Meta 发布的 SAM 模型只做了一件事情：（零样本）分割一切。�
 个人使用免费，有 vscode 插件，github copilot 平替
 
 ![codeium](imgs/codeium.jpg)
+
+#### [Github Copilot 开源平替，可本地部署: Tabby ](https://github.com/TabbyML/tabby)
 
 #### [将 OpenAI ChatGPT 集成到 VSCode: vscode-chatgpt](https://github.com/gencay/vscode-chatgpt)
 
@@ -945,14 +951,6 @@ Lightning-AI 基于nanoGPT的LLaMA语言模型的实现。支持量化，LoRA微
 
 * 最后，输出结果。由ChatGPT总结各模型的执行过程日志和推理结果，给出最终的输出。
 
-### [babyagi](https://github.com/yoheinakajima/babyagi)
-
-babyagi 是一个智能任务管理和解决工具，它结合了OpenAI GPT-4和Pinecone向量搜索引擎的力量，以自动完成和管理一系列任务，从一个初始任务开始，babyagi使用GPT4生成解决方案和新任务，并将解决方案存储在Pinecone中以便进一步检索。
-
-[中文博客-babyagi: 人工智能任务管理系统](https://juejin.cn/post/7218815501433946173)
-
-![babyagi](imgs/babyagi.jpg)
-
 
 ## 更多 AI 工具
 
@@ -995,6 +993,26 @@ babyagi 是一个智能任务管理和解决工具，它结合了OpenAI GPT-4和
 AI研究所：一个收录 AI 相关工具和AI资讯的中文网站
 
 ![ai_yjs](imgs/ai_yjs.jpg)
+
+
+## 通用人工智能(AGI) 尝试
+
+### [Auto-GPT](https://github.com/Torantulino/Auto-GPT)
+使GPT-4 实现完全自主性的开源实验。
+
+### [babyagi](https://github.com/yoheinakajima/babyagi)
+
+babyagi 是一个智能任务管理和解决工具，它结合了OpenAI GPT-4和Pinecone向量搜索引擎的力量，以自动完成和管理一系列任务，从一个初始任务开始，babyagi使用GPT4生成解决方案和新任务，并将解决方案存储在Pinecone中以便进一步检索。
+
+[中文博客-babyagi: 人工智能任务管理系统](https://juejin.cn/post/7218815501433946173)
+
+![babyagi](imgs/babyagi.jpg)
+
+### [AgentGPT](https://github.com/reworkd/AgentGPT)
+
+通过AgentGPT配置和部署“Autonomous AI agent”。命名你自己的自定义AI，让它开始任何你能想到的目标。它会通过思考要做的任务，执行它们，并从结果中学习来试图达到目标.
+
+
 
 ## 思考
 ### ChatGPT 之父 Sam Altman: 万物摩尔定律
