@@ -49,6 +49,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [与AI对话生成思维导图 ChatMind](#与ai对话生成思维导图-chatmind)
     - [自动化企业管理：Auto-GPT](#自动化企业管理auto-gpt)
     - [Meta发布“分割一切”AI模型，CV或迎来GPT-3时刻: SAM](#meta发布分割一切ai模型cv或迎来gpt-3时刻-sam)
+    - [支持 ChatGPT 的智能音箱 wukong-robot](#支持-chatgpt-的智能音箱-wukong-robot)
     - [程序猿专区](#程序猿专区)
       - [OpenAI 官方使用指南：openai-cookbook](#openai-官方使用指南openai-cookbook)
       - [OpenAI python 接口](#openai-python-接口)
@@ -510,6 +511,11 @@ Meta 发布的 SAM 模型只做了一件事情：（零样本）分割一切。�
 
 ![sam](imgs/sam.jpg)
 
+### [支持 ChatGPT 的智能音箱 wukong-robot](https://github.com/wzpan/wukong-robot)
+
+wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，目的是让中国的 Maker 和 Haker 们也能快速打造个性化的智能音箱。支持ChatGPT多轮对话能力，还可能是第一个开源的脑机唤醒智能音箱。
+
+<a href="https://github.com/wzpan/wukong-robot" rel="wukong-robot"><img src="https://wzpan-1253537070.cos.ap-guangzhou.myqcloud.com/wukong/wukong-robot-3.3.0.png" alt="wukong-robot" width="800px" /></a>
 
 ### 程序猿专区
 
