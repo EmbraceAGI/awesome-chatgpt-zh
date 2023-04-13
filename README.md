@@ -128,6 +128,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [实现在MacBook上运行模型: llama.cpp](#实现在macbook上运行模型-llamacpp)
     - [LMFlow](#lmflow)
     - [ChatGPT 控制所有AI模型: HuggingGPT](#chatgpt-控制所有ai模型-hugginggpt)
+    - [开源可商用 LLM：dolly](#开源可商用-llmdolly)
   - [更多 AI 工具](#更多-ai-工具)
     - [AI 绘画](#ai-绘画)
     - [代码生成](#代码生成)
@@ -135,10 +136,12 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [PPT生成](#ppt生成)
     - [语音/视频合成](#语音视频合成)
     - [AI 研究所](#ai-研究所)
-  - [通用人工智能(AGI) 尝试](#通用人工智能agi-尝试)
+  - [AGI](#agi)
     - [Auto-GPT](#auto-gpt)
     - [babyagi](#babyagi)
     - [AgentGPT](#agentgpt)
+    - [OpenAGI](#openagi)
+    - [llm驱动的自动机器人平台: ai-legion](#llm驱动的自动机器人平台-ai-legion)
   - [思考](#思考)
     - [ChatGPT 之父 Sam Altman: 万物摩尔定律](#chatgpt-之父-sam-altman-万物摩尔定律)
     - [GPT-4 ，人类迈向AGI的第一步](#gpt-4-人类迈向agi的第一步)
@@ -957,6 +960,13 @@ Lightning-AI 基于nanoGPT的LLaMA语言模型的实现。支持量化，LoRA微
 
 * 最后，输出结果。由ChatGPT总结各模型的执行过程日志和推理结果，给出最终的输出。
 
+### [开源可商用 LLM：dolly](https://github.com/databrickslabs/dolly)
+
+在 ChatGPT 的问题上 OpenAI 并不 Open， Meta 开源的羊驼系列模型也因为数据集等问题「仅限于学术研究类应用」。
+
+Databricks 发布的 Dolly 2.0 大语言模型（LLM）的又一个新版本。
+
+Databricks 表示，Dolly 2.0 是业内第一个开源、遵循指令的 LLM，它在透明且免费提供的数据集上进行了微调，该数据集也是开源的，可用于商业目的。这意味着 Dolly 2.0 可用于构建商业应用程序，无需支付 API 访问费用或与第三方共享数据。
 
 ## 更多 AI 工具
 
@@ -1001,10 +1011,16 @@ AI研究所：一个收录 AI 相关工具和AI资讯的中文网站
 ![ai_yjs](imgs/ai_yjs.jpg)
 
 
-## 通用人工智能(AGI) 尝试
+## AGI
 
 ### [Auto-GPT](https://github.com/Torantulino/Auto-GPT)
-使GPT-4 实现完全自主性的开源实验。
+AutoGPT: prompt 工程的下一个前沿，通向 AGI 之路！
+
+具体来说，AutoGPT 相当于给基于 GPT 的模型一个内存和一个身体。有了它，你可以把一项任务交给 AI 智能体，让它自主地提出一个计划，然后执行计划。此外其还具有互联网访问、长期和短期内存管理、用于文本生成的 GPT-4 实例以及使用 GPT-3.5 进行文件存储和生成摘要等功能。AutoGPT 用处很多，可用来分析市场并提出交易策略、提供客户服务、进行营销等其他需要持续更新的任务。
+
+特斯拉前 AI 总监、刚刚回归 OpenAI 的 Andrej Karpathy 也大力宣传，并在推特赞扬：「AutoGPT 是 prompt 工程的下一个前沿。」
+
+AutoGPT 正在互联网上掀起一场风暴，它无处不在。很快，已经有网友上手实验了，该用户让 AutoGPT 建立一个网站，不到 3 分钟 AutoGPT 就成功了。期间 AutoGPT 使用了 React 和 Tailwind CSS，全凭自己，人类没有插手。看来程序员之后真就不再需要编码了。
 
 ### [babyagi](https://github.com/yoheinakajima/babyagi)
 
@@ -1018,7 +1034,11 @@ babyagi 是一个智能任务管理和解决工具，它结合了OpenAI GPT-4和
 
 通过AgentGPT配置和部署“Autonomous AI agent”。命名你自己的自定义AI，让它开始任何你能想到的目标。它会通过思考要做的任务，执行它们，并从结果中学习来试图达到目标.
 
+### [OpenAGI](https://github.com/agiresearch/OpenAGI)
 
+为了促进社区对AGI能力的长期改进和评估，OpenAgi项目开放代码，基准和评估方法。
+
+### [llm驱动的自动机器人平台: ai-legion](https://github.com/eumemic/ai-legion)
 
 ## 思考
 ### ChatGPT 之父 Sam Altman: 万物摩尔定律
@@ -1111,5 +1131,6 @@ ChatGPT的强大能力是显而易见的，但对于人工智能领域不太熟�
 
 - [SlimeNull](https://github.com/SlimeNull)
 - [SimFG](https://github.com/SimFG)
-
+- [SimFG](https://github.com/SimFG)
+- [wzpan](https://github.com/wzpan)
 如果您做出了重大贡献并希望得到认可，请随时与我们联系或提交一个更新此部分的 Pull Request。
