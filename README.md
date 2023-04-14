@@ -137,6 +137,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [语音/视频合成](#语音视频合成)
     - [AI 研究所](#ai-研究所)
   - [AGI](#agi)
+    - [Awesome-AGI](#awesome-agi)
     - [Auto-GPT](#auto-gpt)
     - [babyagi](#babyagi)
     - [AgentGPT](#agentgpt)
@@ -1012,6 +1013,9 @@ AI研究所：一个收录 AI 相关工具和AI资讯的中文网站
 
 
 ## AGI
+
+### [Awesome-AGI](https://github.com/yzfly/Awesome-AGI)
+ AGI 精选资源，持续更新中，欢迎关注和 star~
 
 ### [Auto-GPT](https://github.com/Torantulino/Auto-GPT)
 AutoGPT: prompt 工程的下一个前沿，通向 AGI 之路！
