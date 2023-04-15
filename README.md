@@ -56,6 +56,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
       - [开发自己的 ChatGPT 应用：langchain](#开发自己的-chatgpt-应用langchain)
       - [LangChain的一个UI: LangFlow](#langchain的一个ui-langflow)
       - [OpenGPT](#opengpt)
+      - [亚马逊的免费 AI 代码助手：CodeWhisperer](#亚马逊的免费-ai-代码助手codewhisperer)
       - [AI代码助手: codeium](#ai代码助手-codeium)
       - [Github Copilot 开源平替，可本地部署: Tabby ](#github-copilot-开源平替可本地部署-tabby-)
       - [将 OpenAI ChatGPT 集成到 VSCode: vscode-chatgpt](#将-openai-chatgpt-集成到-vscode-vscode-chatgpt)
@@ -537,6 +538,14 @@ wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智
 立即使用海量的 ChatGPT 应用，或在几秒钟内创建属于自己的应用。
 
 ![open_gpt_app](imgs/open_gpt_app.jpg)
+
+#### [亚马逊的免费 AI 代码助手：CodeWhisperer](https://aws.amazon.com/codewhisperer/)
+
+免费，支持中文的 AI 代码助手，注册教程如下：
+
+官方地址：https://aws.amazon.com/codewhisperer/
+
+知乎保姆级教程：https://zhuanlan.zhihu.com/p/621800084
 
 #### [AI代码助手: codeium](https://codeium.com/)
 个人使用免费，有 vscode 插件，github copilot 平替
