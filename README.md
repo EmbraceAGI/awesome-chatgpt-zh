@@ -113,7 +113,6 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [能在本地运行的资源 LLMs 收集: awesome-decentralized-llm](#能在本地运行的资源-llms-收集-awesome-decentralized-llm)
     - [minGPT](#mingpt)
     - [OpenChatKit](#openchatkit)
-    - [自称更亲民开放版的ChatGPT 模型: dolly](#自称更亲民开放版的chatgpt-模型-dolly)
     - [国产的支持中英双语的功能型对话语言大模型：ChatYuan](#国产的支持中英双语的功能型对话语言大模型chatyuan)
     - [gpt4all](#gpt4all)
     - [Stanford Alpaca](#stanford-alpaca)
@@ -129,6 +128,8 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [LMFlow](#lmflow)
     - [ChatGPT 控制所有AI模型: HuggingGPT](#chatgpt-控制所有ai模型-hugginggpt)
     - [开源可商用 LLM：dolly](#开源可商用-llmdolly)
+    - [FreedomGPT](#freedomgpt)
+    - [text-generation-webui](#text-generation-webui)
   - [更多 AI 工具](#更多-ai-工具)
     - [AI 绘画](#ai-绘画)
     - [代码生成](#代码生成)
@@ -158,7 +159,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 
 ### 知识星球
 
-如果感觉本指南内容对您有帮助，在您经济条件允许的情况下可以考虑加入我的知识星球。与本指南作为资源合集定位所不同的，我将在知识星球与大家一起学习 ChatGPT 及 AI 前沿知识，分享自己在这个技术爆炸时代的深度思考与实践，分享前沿科技成果，分享自己掌握的优质学习资料和教程，最新资讯。
+如果感觉本指南内容对您有帮助，在您经济条件允许的情况下可以考虑加入我的知识星球。每天只需2毛钱，即可与我一起在时代最前沿踏浪逐潮。与本指南作为资源合集定位所不同的，我将在知识星球与大家一起学习 ChatGPT 及 AI 前沿知识，分享自己在这个技术爆炸时代的深度思考与实践，分享前沿科技成果，分享自己掌握的优质学习资料和教程，最新资讯。
 
 建立知识星球也是对自己学习的敦促，也希望能与智慧的你们一起把握时代机遇，预见未来，遇见更好的自己！
 
@@ -873,10 +874,6 @@ GitHub:
 
 ![openChatKit](imgs/openChatKit.jpg)
 
-### [自称更亲民开放版的ChatGPT 模型: dolly](https://github.com/databrickslabs/dolly)
-
-Dolly 使用 Alpaca 数据，对两年前的开源EleutherAI 60亿参数模型进行微调，从而产生了在原模型中没有的理解和文本生成能力。
-
 ### [国产的支持中英双语的功能型对话语言大模型：ChatYuan](https://github.com/clue-ai/ChatYuan)
 
 目前已经更新到 v2, ChatYuan-large-v2是一个支持中英双语的功能型对话语言大模型。ChatYuan-large-v2使用了和 v1版本相同的技术方案，在微调数据、人类反馈强化学习、思维链等方面进行了优化。
@@ -968,6 +965,13 @@ Lightning-AI 基于nanoGPT的LLaMA语言模型的实现。支持量化，LoRA微
 Databricks 发布的 Dolly 2.0 大语言模型（LLM）的又一个新版本。
 
 Databricks 表示，Dolly 2.0 是业内第一个开源、遵循指令的 LLM，它在透明且免费提供的数据集上进行了微调，该数据集也是开源的，可用于商业目的。这意味着 Dolly 2.0 可用于构建商业应用程序，无需支付 API 访问费用或与第三方共享数据。
+
+### [FreedomGPT](https://github.com/ohmplatform/FreedomGPT)
+
+自由无限制的可以在 windows 和 mac 上本地运行的 GPT，基于 Alpaca Lora 模型。
+
+### [text-generation-webui](https://github.com/oobabooga/text-generation-webui)
+一个用于运行大型语言模型(如LLaMA, LLaMA .cpp, GPT-J, Pythia, OPT和GALACTICA)的 web UI。
 
 ## 更多 AI 工具
 
