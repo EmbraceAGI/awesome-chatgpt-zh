@@ -1010,6 +1010,8 @@ Databricks 表示，Dolly 2.0 是业内第一个开源、遵循指令的 LLM，�
 ### PPT生成
 
 - [Tome](https://beta.tome.app/)
+- [beautiful.ai](https://www.beautiful.ai/)
+- [gamma](https://gamma.app/)
 
 ### 语音/视频合成
 
