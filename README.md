@@ -1039,7 +1039,12 @@ AutoGPT: prompt 工程的下一个前沿，通向 AGI 之路！
 
 AutoGPT 正在互联网上掀起一场风暴，它无处不在。很快，已经有网友上手实验了，该用户让 AutoGPT 建立一个网站，不到 3 分钟 AutoGPT 就成功了。期间 AutoGPT 使用了 React 和 Tailwind CSS，全凭自己，人类没有插手。看来程序员之后真就不再需要编码了。
 
+[在线体验](https://www.cognosys.ai/) 目前免费
+
+
 ### [babyagi](https://github.com/yoheinakajima/babyagi)
+
+[在线体验](https://godmode.space/)
 
 babyagi 是一个智能任务管理和解决工具，它结合了OpenAI GPT-4和Pinecone向量搜索引擎的力量，以自动完成和管理一系列任务，从一个初始任务开始，babyagi使用GPT4生成解决方案和新任务，并将解决方案存储在Pinecone中以便进一步检索。
 
@@ -1050,6 +1055,8 @@ babyagi 是一个智能任务管理和解决工具，它结合了OpenAI GPT-4和
 ### [AgentGPT](https://github.com/reworkd/AgentGPT)
 
 通过AgentGPT配置和部署“Autonomous AI agent”。命名你自己的自定义AI，让它开始任何你能想到的目标。它会通过思考要做的任务，执行它们，并从结果中学习来试图达到目标.
+
+[在线体验](https://agentgpt.reworkd.ai/) 目前免费，可自备 key
 
 ### [OpenAGI](https://github.com/agiresearch/OpenAGI)
 
