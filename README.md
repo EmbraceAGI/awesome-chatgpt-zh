@@ -131,6 +131,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [开源可商用 LLM：dolly](#开源可商用-llmdolly)
     - [FreedomGPT](#freedomgpt)
     - [text-generation-webui](#text-generation-webui)
+    - [Open-Assistant](#open-assistant)
   - [更多 AI 工具](#更多-ai-工具)
     - [AI 绘画](#ai-绘画)
     - [代码生成](#代码生成)
@@ -141,6 +142,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
   - [AGI](#agi)
     - [Awesome-AGI](#awesome-agi)
     - [Auto-GPT](#auto-gpt)
+    - [AutoGPT 项目的图形界面：AutoGPT-GUI](#autogpt-项目的图形界面autogpt-gui)
     - [babyagi](#babyagi)
     - [AgentGPT](#agentgpt)
     - [OpenAGI](#openagi)
@@ -982,6 +984,9 @@ Databricks 表示，Dolly 2.0 是业内第一个开源、遵循指令的 LLM，�
 ### [text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 一个用于运行大型语言模型(如LLaMA, LLaMA .cpp, GPT-J, Pythia, OPT和GALACTICA)的 web UI。
 
+### [Open-Assistant](https://github.com/LAION-AI/Open-Assistant)
+知名 AI 机构 LAION-AI 开源的聊天助手，聊天能力很强，目前中文能力较差。
+
 ## 更多 AI 工具
 
 ### AI 绘画
@@ -1043,6 +1048,7 @@ AutoGPT 正在互联网上掀起一场风暴，它无处不在。很快，已经
 
 [在线体验](https://www.cognosys.ai/) 目前免费
 
+### [AutoGPT 项目的图形界面：AutoGPT-GUI](https://github.com/thecookingsenpai/autogpt-gui)
 
 ### [babyagi](https://github.com/yoheinakajima/babyagi)
 
