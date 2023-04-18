@@ -142,6 +142,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
   - [AGI](#agi)
     - [Awesome-AGI](#awesome-agi)
     - [Auto-GPT](#auto-gpt)
+    - [AutoGPT 插件：Auto-GPT-Plugins](#autogpt-插件auto-gpt-plugins)
     - [AutoGPT 项目的图形界面：AutoGPT-GUI](#autogpt-项目的图形界面autogpt-gui)
     - [babyagi](#babyagi)
     - [AgentGPT](#agentgpt)
@@ -1037,7 +1038,7 @@ AI研究所：一个收录 AI 相关工具和AI资讯的中文网站
 ### [Awesome-AGI](https://github.com/yzfly/Awesome-AGI)
  AGI 精选资源，持续更新中，欢迎关注和 star~
 
-### [Auto-GPT](https://github.com/Torantulino/Auto-GPT)
+### [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 AutoGPT: prompt 工程的下一个前沿，通向 AGI 之路！
 
 具体来说，AutoGPT 相当于给基于 GPT 的模型一个内存和一个身体。有了它，你可以把一项任务交给 AI 智能体，让它自主地提出一个计划，然后执行计划。此外其还具有互联网访问、长期和短期内存管理、用于文本生成的 GPT-4 实例以及使用 GPT-3.5 进行文件存储和生成摘要等功能。AutoGPT 用处很多，可用来分析市场并提出交易策略、提供客户服务、进行营销等其他需要持续更新的任务。
@@ -1047,6 +1048,8 @@ AutoGPT: prompt 工程的下一个前沿，通向 AGI 之路！
 AutoGPT 正在互联网上掀起一场风暴，它无处不在。很快，已经有网友上手实验了，该用户让 AutoGPT 建立一个网站，不到 3 分钟 AutoGPT 就成功了。期间 AutoGPT 使用了 React 和 Tailwind CSS，全凭自己，人类没有插手。看来程序员之后真就不再需要编码了。
 
 [在线体验](https://www.cognosys.ai/) 目前免费
+
+### [AutoGPT 插件：Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins)
 
 ### [AutoGPT 项目的图形界面：AutoGPT-GUI](https://github.com/thecookingsenpai/autogpt-gui)
 
