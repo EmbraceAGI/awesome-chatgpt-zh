@@ -94,6 +94,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [Prompt 框架](#prompt-框架)
       - [Elavis Saravia 总结的框架：](#elavis-saravia-总结的框架)
       - [Matt Nigh 总结的 CRISPE 框架：](#matt-nigh-总结的-crispe-框架)
+    - [ChatGPT 学习导航](#chatgpt-学习导航)
     - [Prompt 编写模式：如何将思维框架赋予机器](#prompt-编写模式如何将思维框架赋予机器)
     - [一个可以帮你自动生成优质Prompt的工具: AIPRM](#一个可以帮你自动生成优质prompt的工具-aiprm)
     - [💡 让生产力加倍的 ChatGPT 快捷指令](#-让生产力加倍的-chatgpt-快捷指令)
@@ -757,6 +758,8 @@ CRISPE 分别代表以下含义：
 - E： Experiment（尝试），要求 ChatGPT 为你提供多个答案。
   
 https://github.com/mattnigh/ChatGPT3-Free-Prompt-List
+
+### [ChatGPT 学习导航](https://learningprompt.wiki/docs/chatgpt-learning-path)
 
 ### [Prompt 编写模式：如何将思维框架赋予机器](https://github.com/prompt-engineering/prompt-patterns)
 
