@@ -106,6 +106,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
   - [ChatGPT 越狱](#chatgpt-越狱)
   - [相关资料](#相关资料)
   - [类 ChatGPT 开源模型](#类-chatgpt-开源模型)
+    - [模型列表](#模型列表)
     - [开源可商用 LLM：dolly](#开源可商用-llmdolly)
     - [中文LLaMA\&Alpaca大语言模型+本地部署: Chinese-LLaMA-Alpaca](#中文llamaalpaca大语言模型本地部署-chinese-llama-alpaca)
     - [Visual OpenLLM](#visual-openllm)
@@ -805,6 +806,7 @@ DAN越狱提示成功例图：
 
 OpenAI 的 ChatGPT 大型语言模型（LLM）并未开源，这部分收录一些深度学习开源的 LLM 供感兴趣的同学学习参考。
 
+### 模型列表
 |名称|Stars|简介| 备注 |
 -|-|-|-
 |[🤖 LLMs: awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) |![GitHub Repo stars](https://img.shields.io/github/stars/nichtdax/awesome-totally-open-chatgpt?style=social)|开源LLMs 收集。|-|
