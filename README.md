@@ -82,10 +82,6 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
       - [LLMs 驱动的操作系统的 Shell: engshell](#llms-驱动的操作系统的-shell-engshell)
       - [使用 LLMs 通过自然语言生成任意函数：AI Functions](#使用-llms-通过自然语言生成任意函数ai-functions)
     - [向量数据库](#向量数据库)
-      - [嵌入式数据库：chroma](#嵌入式数据库chroma)
-      - [向量数据库：weaviate](#向量数据库weaviate)
-      - [PineCone](#pinecone)
-      - [Milvus](#milvus)
     - [ChatGPT 浏览器插件和小程序](#chatgpt-浏览器插件和小程序)
   - [ChatGPT 插件功能](#chatgpt-插件功能)
     - [现有插件](#现有插件)
@@ -110,29 +106,11 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
   - [ChatGPT 越狱](#chatgpt-越狱)
   - [相关资料](#相关资料)
   - [类 ChatGPT 开源模型](#类-chatgpt-开源模型)
-    - [开源LLMs 收集：🤖 LLMs: awesome-totally-open-chatgpt](#开源llms-收集-llms-awesome-totally-open-chatgpt)
-    - [Awesome-LLM](#awesome-llm)
-    - [能在本地运行的资源 LLMs 收集: awesome-decentralized-llm](#能在本地运行的资源-llms-收集-awesome-decentralized-llm)
-    - [minGPT](#mingpt)
-    - [OpenChatKit](#openchatkit)
-    - [国产的支持中英双语的功能型对话语言大模型：ChatYuan](#国产的支持中英双语的功能型对话语言大模型chatyuan)
-    - [gpt4all](#gpt4all)
-    - [Stanford Alpaca](#stanford-alpaca)
-    - [Alpaca-CoT](#alpaca-cot)
-    - [大型多模态模型训练和评估开源框架：OpenFlamingo](#大型多模态模型训练和评估开源框架openflamingo)
+    - [开源可商用 LLM：dolly](#开源可商用-llmdolly)
     - [中文LLaMA\&Alpaca大语言模型+本地部署: Chinese-LLaMA-Alpaca](#中文llamaalpaca大语言模型本地部署-chinese-llama-alpaca)
     - [Visual OpenLLM](#visual-openllm)
     - [高效微调一个聊天机器人：LLaMA-Adapter🚀](#高效微调一个聊天机器人llama-adapter)
     - [⚡ Lit-LLaMA](#-lit-llama)
-    - [FastChat](#fastchat)
-    - [在羊驼基础上改进的新的聊天机器人考拉:EasyLM](#在羊驼基础上改进的新的聊天机器人考拉easylm)
-    - [实现在MacBook上运行模型: llama.cpp](#实现在macbook上运行模型-llamacpp)
-    - [LMFlow](#lmflow)
-    - [ChatGPT 控制所有AI模型: HuggingGPT](#chatgpt-控制所有ai模型-hugginggpt)
-    - [开源可商用 LLM：dolly](#开源可商用-llmdolly)
-    - [FreedomGPT](#freedomgpt)
-    - [text-generation-webui](#text-generation-webui)
-    - [Open-Assistant](#open-assistant)
   - [更多 AI 工具](#更多-ai-工具)
     - [AI 绘画](#ai-绘画)
     - [代码生成](#代码生成)
@@ -143,12 +121,8 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
   - [AGI](#agi)
     - [Awesome-AGI](#awesome-agi)
     - [Auto-GPT](#auto-gpt)
-    - [AutoGPT 插件：Auto-GPT-Plugins](#autogpt-插件auto-gpt-plugins)
-    - [AutoGPT 项目的图形界面：AutoGPT-GUI](#autogpt-项目的图形界面autogpt-gui)
+    - [ChatGPT 控制所有AI模型: HuggingGPT](#chatgpt-控制所有ai模型-hugginggpt)
     - [babyagi](#babyagi)
-    - [AgentGPT](#agentgpt)
-    - [OpenAGI](#openagi)
-    - [llm驱动的自动机器人平台: ai-legion](#llm驱动的自动机器人平台-ai-legion)
   - [思考](#思考)
     - [ChatGPT 之父 Sam Altman: 万物摩尔定律](#chatgpt-之父-sam-altman-万物摩尔定律)
     - [GPT-4 ，人类迈向AGI的第一步](#gpt-4-人类迈向agi的第一步)
@@ -652,49 +626,12 @@ def ai_function(function, args, description, model = "gpt-4"):
 
 如果说 ChatGPT 是 LLM 的处理核心，prompts 是 code，那么向量数据库就是 LLM 需要的存储。
 
-#### [嵌入式数据库：chroma](https://github.com/chroma-core/chroma)
-
-Chroma 是一个用于 Python / JavaScript LLM 应用程序的嵌入式数据库，它具有内存快速访问的优势。它只有 4 个核心函数：
-
-```
-import chromadb
-# setup Chroma in-memory, for easy prototyping. Can add persistence easily!
-client = chromadb.Client()
-
-# Create collection. get_collection, get_or_create_collection, delete_collection also available!
-collection = client.create_collection("all-my-documents") 
-
-# Add docs to the collection. Can also update and delete. Row-based API coming soon!
-collection.add(
-    documents=["This is document1", "This is document2"], # we handle tokenization, embedding, and indexing automatically. You can skip that and add your own embeddings as well
-    metadatas=[{"source": "notion"}, {"source": "google-docs"}], # filter on these!
-    ids=["doc1", "doc2"], # unique for each doc 
-)
-
-# Query/search 2 most similar results. You can also .get by id
-results = collection.query(
-    query_texts=["This is a query document"],
-    n_results=2,
-    # where={"metadata_field": "is_equal_to_this"}, # optional filter
-    # where_document={"$contains":"search_string"}  # optional filter
-)
-```
-
-![imgs](imgs/vectordb_chroma.jpg)
-
-#### [向量数据库：weaviate](https://github.com/weaviate/weaviate)
-
-开源的向量数据库，可以存储对象和向量，允许将向量搜索与结构化过滤相结合，并具有云原生数据库的容错性和可扩展性，可通过 GraphQL、REST 和各种语言客户端进行访问。
-
-#### [PineCone](https://www.pinecone.io/)
-
-Pinecone为向量数据提供了数据存储解决方案。
-
-#### [Milvus](https://milvus.io/)
-
-Milvus 是一个开源矢量数据库，旨在为嵌入相似性搜索和 AI 应用程序提供支持。 除了向量，Milvus 还支持布尔型、整数、浮点数等数据类型。 Milvus 中的一个集合可以包含多个字段，用于容纳不同的数据特征或属性。 Milvus 将标量过滤与强大的向量相似性搜索相结合，为分析非结构化数据提供了一个现代、灵活的平台。 Milvus 使非结构化数据搜索更易于访问，并提供一致的用户体验，无论部署环境如何。 Milvus 2.0 是一个存储计算分离的云原生矢量数据库。 这个重构版本的 Milvus 中的所有组件都是无状态的，以增强弹性和灵活性。 更多架构细节，请参见 Milvus 架构概述。 Milvus 于 2019 年 10 月在开源 Apache License 2.0 下发布，目前是 LF AI & Data Foundation 的研究生项目。
-
-目前提供多种部署方式，支持docker, k8s, embed-milvus(pip install嵌入安装)，同时也有[在线云服务](https://cloud.zilliz.com/)。
+|名称|Stars|简介| 备注 |
+-|-|-|-
+|[Milvus](https://github.com/milvus-io/milvus) |![GitHub Repo stars](https://img.shields.io/github/stars/milvus-io/milvus?style=social)|Milvus 是一个开源矢量数据库，旨在为嵌入相似性搜索和 AI 应用程序提供支持。 除了向量，Milvus 还支持布尔型、整数、浮点数等数据类型。 Milvus 中的一个集合可以包含多个字段，用于容纳不同的数据特征或属性。 Milvus 将标量过滤与强大的向量相似性搜索相结合，为分析非结构化数据提供了一个现代、灵活的平台。|目前提供多种部署方式，支持docker, k8s, embed-milvus(pip install嵌入安装)，同时也有[在线云服务](https://cloud.zilliz.com/)。|
+|[chroma](https://github.com/chroma-core/chroma) |![GitHub Repo stars](https://img.shields.io/github/stars/chroma-core/chroma?style=social)|Chroma 是一个用于 Python / JavaScript LLM 应用程序的嵌入式数据库，它具有内存快速访问的优势。|-|
+|[weaviate](https://github.com/weaviate/weaviate) |![GitHub Repo stars](https://img.shields.io/github/stars/weaviate/weaviate?style=social)|开源的向量数据库，可以存储对象和向量，允许将向量搜索与结构化过滤相结合，并具有云原生数据库的容错性和可扩展性，可通过 GraphQL、REST 和各种语言客户端进行访问。|-|
+|[PineCone](https://www.pinecone.io/) |-|Pinecone为向量数据提供了数据存储解决方案。|-|
 
 
 ### ChatGPT 浏览器插件和小程序
@@ -867,52 +804,34 @@ DAN越狱提示成功例图：
 
 OpenAI 的 ChatGPT 大型语言模型（LLM）并未开源，这部分收录一些深度学习开源的 LLM 供感兴趣的同学学习参考。
 
-### [开源LLMs 收集：🤖 LLMs: awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt)
+|名称|Stars|简介| 备注 |
+-|-|-|-
+|[🤖 LLMs: awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) |![GitHub Repo stars](https://img.shields.io/github/stars/nichtdax/awesome-totally-open-chatgpt?style=social)|开源LLMs 收集。|-|
+|[Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) |![GitHub Repo stars](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM?style=social)|大型语言模型的论文列表，特别是与 ChatGPT相关的论文，还包含LLM培训框架、部署LLM的工具、关于LLM的课程和教程以及所有公开可用的LLM 权重和 API。|-|
+|[awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) |![GitHub Repo stars](https://img.shields.io/github/stars/imaurer/awesome-decentralized-llm?style=social)|能在本地运行的资源 LLMs。|-|
+|[minGPT](https://github.com/karpathy/minGPT) |![GitHub Repo stars](https://img.shields.io/github/stars/karpathy/minGPT?style=social)|karpathy大神发布的一个 OpenAI GPT(生成预训练转换器)训练的最小 PyTorch 实现，代码十分简洁明了，适合用于动手学习 GPT 模型。|-|
+|[OpenChatKit](https://github.com/togethercomputer/OpenChatKit) |![GitHub Repo stars](https://img.shields.io/github/stars/togethercomputer/OpenChatKit?style=social)|开源了数据、模型和权重，以及提供训练，微调 LLMs 教程。|-|
+|[ChatYuan](https://github.com/clue-ai/ChatYuan) |![GitHub Repo stars](https://img.shields.io/github/stars/clue-ai/ChatYuan?style=social)|ChatYuan-large-v2是ChatYuan系列中以轻量化实现高质量效果的模型之一，用户可以在消费级显卡、 PC甚至手机上进行推理（INT4 最低只需 400M ）。|-|
+|[Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) |![GitHub Repo stars](https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca?style=social)|来自斯坦福，建立并共享一个遵循指令的LLaMA模型。|-|
+|[gpt4all](https://github.com/nomic-ai/gpt4all) |![GitHub Repo stars](https://img.shields.io/github/stars/nomic-ai/gpt4all?style=social)|基于 LLaMa 的 LLM 助手，提供训练代码、数据和演示，训练一个自己的 AI 助手。|-|
+|[FreedomGPT](https://github.com/ohmplatform/FreedomGPT) |![GitHub Repo stars](https://img.shields.io/github/stars/ohmplatform/FreedomGPT?style=social)|自由无限制的可以在 windows 和 mac 上本地运行的 GPT，基于 Alpaca Lora 模型。|-|
+|[LMFlow](https://github.com/OptimalScale/LMFlow) |![GitHub Repo stars](https://img.shields.io/github/stars/OptimalScale/LMFlow?style=social)|共建大模型社区，让每个人都训得起大模型。|-|
+|[FastChat](https://github.com/lm-sys/FastChat) |![GitHub Repo stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social)|继草泥马（Alpaca）后，斯坦福联手CMU、UC伯克利等机构的学者再次发布了130亿参数模型骆马（Vicuna），仅需300美元就能实现ChatGPT 90%的性能。FastChat 是Vicuna 的GitHub 开源仓库。|-|
+|[Open-Assistant](https://github.com/LAION-AI/Open-Assistant)|![GitHub Repo stars](https://img.shields.io/github/stars/LAION-AI/Open-Assistant?style=social)|知名 AI 机构 LAION-AI 开源的聊天助手，聊天能力很强，目前中文能力较差。|-|
+|[llama.cpp](https://github.com/ggerganov/llama.cpp)|![GitHub Repo stars](https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social)|实现在MacBook上运行模型。|-|
+|[EasyLM](https://github.com/young-geng/EasyLM#koala)|![GitHub Repo stars](https://img.shields.io/github/stars/young-geng/EasyLM?style=social)|在羊驼基础上改进的新的聊天机器人考拉。|[介绍页](https://bair.berkeley.edu/blog/2023/04/03/koala/)|
+|[Alpaca-CoT](https://github.com/PhoebusSi/Alpaca-CoT/blob/main/CN_README.md)|![GitHub Repo stars](https://img.shields.io/github/stars/PhoebusSi/Alpaca-CoT?style=social)|Alpaca-CoT项目旨在探究如何更好地通过instruction-tuning的方式来诱导LLM具备类似ChatGPT的交互和instruction-following能力。|-|
+|[OpenFlamingo](https://github.com/mlfoundations/open_flamingo)|![GitHub Repo stars](https://img.shields.io/github/stars/mlfoundations/open_flamingo?style=social)|OpenFlamingo 是一个用于评估和训练大型多模态模型的开源框架，是 DeepMind Flamingo 模型的开源版本，也是 AI 世界关于大模型进展的一大步。|大型多模态模型训练和评估开源框架。|
+|[text-generation-webui](https://github.com/oobabooga/text-generation-webui)|![GitHub Repo stars](https://img.shields.io/github/stars/oobabooga/text-generation-webui?style=social)|一个用于运行大型语言模型(如LLaMA, LLaMA .cpp, GPT-J, Pythia, OPT和GALACTICA)的 web UI。|-|
 
-### [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
+### [开源可商用 LLM：dolly](https://github.com/databrickslabs/dolly)
 
-大型语言模型的论文列表，特别是与 ChatGPT相关的论文，还包含LLM培训框架、部署LLM的工具、关于LLM的课程和教程以及所有公开可用的LLM 权重和 api
+在 ChatGPT 的问题上 OpenAI 并不 Open， Meta 开源的羊驼系列模型也因为数据集等问题「仅限于学术研究类应用」。
 
+Databricks 发布的 Dolly 2.0 大语言模型（LLM）的又一个新版本。
 
-### [能在本地运行的资源 LLMs 收集: awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) 
+Databricks 表示，Dolly 2.0 是业内第一个开源、遵循指令的 LLM，它在透明且免费提供的数据集上进行了微调，该数据集也是开源的，可用于商业目的。这意味着 Dolly 2.0 可用于构建商业应用程序，无需支付 API 访问费用或与第三方共享数据。
 
-### [minGPT](https://github.com/karpathy/minGPT)
-
-karpathy大神发布的一个 OpenAI GPT(生成预训练转换器)训练的最小 PyTorch 实现，代码十分简洁明了，适合用于动手学习 GPT 模型。
-
-### [OpenChatKit](https://github.com/togethercomputer/OpenChatKit#pre-trained-weights)
-
-GitHub:
-> https://github.com/togethercomputer/OpenChatKit#pre-trained-weights
-
-开源了数据、模型和权重，以及提供训练，微调教程，下面是项目介绍
-
-![openChatKit](imgs/openChatKit.jpg)
-
-### [国产的支持中英双语的功能型对话语言大模型：ChatYuan](https://github.com/clue-ai/ChatYuan)
-
-目前已经更新到 v2, ChatYuan-large-v2是一个支持中英双语的功能型对话语言大模型。ChatYuan-large-v2使用了和 v1版本相同的技术方案，在微调数据、人类反馈强化学习、思维链等方面进行了优化。
-
-ChatYuan-large-v2是ChatYuan系列中以轻量化实现高质量效果的模型之一，用户可以在消费级显卡、 PC甚至手机上进行推理（INT4 最低只需 400M ）。
-
-### [gpt4all](https://github.com/nomic-ai/gpt4all)
-
-基于 LLaMa 的 LLM 助手，提供训练代码、数据和演示，训练一个自己的 AI 助手。
-
-![gpt4all](imgs/gpt4all.gif)
-
-### [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca)
-
-来自斯坦福，建立并共享一个遵循指令的LLaMA模型。
-
-### [Alpaca-CoT](https://github.com/PhoebusSi/Alpaca-CoT/blob/main/CN_README.md)
-
-Alpaca-CoT项目旨在探究如何更好地通过instruction-tuning的方式来诱导LLM具备类似ChatGPT的交互和instruction-following能力。为此，我们广泛收集了不同类型的instruction（尤其是Chain-of-Thought数据集），并基于LLaMA给出了深入细致的实证研究，以供未来工作参考。作者声称这是首个将CoT拓展进Alpaca的工作，因此简称为"Alpaca-CoT"。
-
-
-### [大型多模态模型训练和评估开源框架：OpenFlamingo](https://github.com/mlfoundations/open_flamingo)
-
-OpenFlamingo 是一个用于评估和训练大型多模态模型的开源框架，是 DeepMind Flamingo 模型的开源版本，也是 AI 世界关于大模型进展的一大步。
 
 ### [中文LLaMA&Alpaca大语言模型+本地部署: Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca)
 
@@ -936,60 +855,6 @@ Lightning-AI 基于nanoGPT的LLaMA语言模型的实现。支持量化，LoRA微
 
 ![lit_llama](imgs/Lite-LLaMA.gif)
 
-### [FastChat](https://github.com/lm-sys/FastChat)
-
-继草泥马（Alpaca）后，斯坦福联手CMU、UC伯克利等机构的学者再次发布了130亿参数模型骆马（Vicuna），仅需300美元就能实现ChatGPT 90%的性能。FastChat 是Vicuna 的GitHub 开源仓库。
-
-### [在羊驼基础上改进的新的聊天机器人考拉:EasyLM](https://github.com/young-geng/EasyLM#koala)
-[介绍页](https://bair.berkeley.edu/blog/2023/04/03/koala/)
-
-### [实现在MacBook上运行模型: llama.cpp](https://github.com/ggerganov/llama.cpp)
-
-### [LMFlow](https://github.com/OptimalScale/LMFlow)
-
-共建大模型社区，让每个人都训得起大模型。
-
-### [ChatGPT 控制所有AI模型: HuggingGPT](https://arxiv.org/abs/2303.17580)
-
-[GitHub](https://github.com/microsoft/JARVIS)
-
-[Arxiv 论文]((https://arxiv.org/abs/2303.17580))
-
-大语言模型LLM在语言理解、生成、交互和推理方面的表现，让人想到：
-
-> 可以将它们作为中间控制器，来管理现有的所有AI模型，通过“调动和组合每个人的力量”，来解决复杂的AI任务。
-
-在这个系统中，语言是通用的接口。
-
-于是，HuggingGPT就诞生了。
-
-它的工程流程分为四步：
-
-* 首先，任务规划。ChatGPT将用户的需求解析为任务列表，并确定任务之间的执行顺序和资源依赖关系。
-
-* 其次，模型选择。ChatGPT根据HuggingFace上托管的各专家模型的描述，为任务分配合适的模型。
-
-* 接着，任务执行。混合端点（包括本地推理和HuggingFace推理）上被选定的专家模型根据任务顺序和依赖关系执行分配的任务，并将执行信息和结果给到ChatGPT。
-
-* 最后，输出结果。由ChatGPT总结各模型的执行过程日志和推理结果，给出最终的输出。
-
-### [开源可商用 LLM：dolly](https://github.com/databrickslabs/dolly)
-
-在 ChatGPT 的问题上 OpenAI 并不 Open， Meta 开源的羊驼系列模型也因为数据集等问题「仅限于学术研究类应用」。
-
-Databricks 发布的 Dolly 2.0 大语言模型（LLM）的又一个新版本。
-
-Databricks 表示，Dolly 2.0 是业内第一个开源、遵循指令的 LLM，它在透明且免费提供的数据集上进行了微调，该数据集也是开源的，可用于商业目的。这意味着 Dolly 2.0 可用于构建商业应用程序，无需支付 API 访问费用或与第三方共享数据。
-
-### [FreedomGPT](https://github.com/ohmplatform/FreedomGPT)
-
-自由无限制的可以在 windows 和 mac 上本地运行的 GPT，基于 Alpaca Lora 模型。
-
-### [text-generation-webui](https://github.com/oobabooga/text-generation-webui)
-一个用于运行大型语言模型(如LLaMA, LLaMA .cpp, GPT-J, Pythia, OPT和GALACTICA)的 web UI。
-
-### [Open-Assistant](https://github.com/LAION-AI/Open-Assistant)
-知名 AI 机构 LAION-AI 开源的聊天助手，聊天能力很强，目前中文能力较差。
 
 ## 更多 AI 工具
 
@@ -1052,9 +917,29 @@ AutoGPT 正在互联网上掀起一场风暴，它无处不在。很快，已经
 
 [在线体验](https://www.cognosys.ai/) 目前免费
 
-### [AutoGPT 插件：Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins)
+### [ChatGPT 控制所有AI模型: HuggingGPT](https://arxiv.org/abs/2303.17580)
 
-### [AutoGPT 项目的图形界面：AutoGPT-GUI](https://github.com/thecookingsenpai/autogpt-gui)
+[GitHub](https://github.com/microsoft/JARVIS)
+
+[Arxiv 论文]((https://arxiv.org/abs/2303.17580))
+
+大语言模型LLM在语言理解、生成、交互和推理方面的表现，让人想到：
+
+> 可以将它们作为中间控制器，来管理现有的所有AI模型，通过“调动和组合每个人的力量”，来解决复杂的AI任务。
+
+在这个系统中，语言是通用的接口。
+
+于是，HuggingGPT就诞生了。
+
+它的工程流程分为四步：
+
+* 首先，任务规划。ChatGPT将用户的需求解析为任务列表，并确定任务之间的执行顺序和资源依赖关系。
+
+* 其次，模型选择。ChatGPT根据HuggingFace上托管的各专家模型的描述，为任务分配合适的模型。
+
+* 接着，任务执行。混合端点（包括本地推理和HuggingFace推理）上被选定的专家模型根据任务顺序和依赖关系执行分配的任务，并将执行信息和结果给到ChatGPT。
+
+* 最后，输出结果。由ChatGPT总结各模型的执行过程日志和推理结果，给出最终的输出。
 
 ### [babyagi](https://github.com/yoheinakajima/babyagi)
 
@@ -1066,17 +951,18 @@ babyagi 是一个智能任务管理和解决工具，它结合了OpenAI GPT-4和
 
 ![babyagi](imgs/babyagi.jpg)
 
-### [AgentGPT](https://github.com/reworkd/AgentGPT)
-
-通过AgentGPT配置和部署“Autonomous AI agent”。命名你自己的自定义AI，让它开始任何你能想到的目标。它会通过思考要做的任务，执行它们，并从结果中学习来试图达到目标.
-
-[在线体验](https://agentgpt.reworkd.ai/) 目前免费，可自备 key
-
-### [OpenAGI](https://github.com/agiresearch/OpenAGI)
-
-为了促进社区对AGI能力的长期改进和评估，OpenAgi项目开放代码，基准和评估方法。
-
-### [llm驱动的自动机器人平台: ai-legion](https://github.com/eumemic/ai-legion)
+|Name|Stars|Introduction| Notes |
+-|-|-|-
+|[Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) |![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT?style=social)|An experimental open-source attempt to make GPT-4 fully autonomous.|-|
+|[Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins) |![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT-Plugins?style=social)|Plugins for Auto-GPT.|-|
+|[AutoGPT.js](https://github.com/zabirauf/AutoGPT.js)|![GitHub Repo stars](https://img.shields.io/github/stars/zabirauf/AutoGPT.js?style=social)|Auto-GPT on the browser.|-|
+|[AutoGPT-GUI](https://github.com/thecookingsenpai/autogpt-gui)|![GitHub Repo stars](https://img.shields.io/github/stars/thecookingsenpai/autogpt-gui?style=social)|A graphical user interface for AutoGPT.|AutoGPT 项目的图形界面|
+|[AgentGPT](https://github.com/reworkd/AgentGPT) |![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=social)|Assemble, configure, and deploy autonomous AI Agents in your browser.|-|
+|[JARVIS](https://github.com/microsoft/JARVIS)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/JARVIS?style=social)|A system to connect LLMs with ML community.|-|
+|[babyagi](https://github.com/yoheinakajima/babyagi)|![GitHub Repo stars](https://img.shields.io/github/stars/yoheinakajima/babyagi?style=social)|Use OpenAI and Pinecone APIs to create, prioritize, and execute tasks.|[中文博客-babyagi: 人工智能任务管理系统](https://juejin.cn/post/7218815501433946173)|
+|[OpenAGI](https://github.com/agiresearch/OpenAGI) |![GitHub Repo stars](https://img.shields.io/github/stars/agiresearch/OpenAGI?style=social)|When LLM (Large Language Models) Meets Domain Experts.|-|
+|[AI-legion](https://github.com/eumemic/ai-legion)|![GitHub Repo stars](https://img.shields.io/github/stars/eumemic/ai-legion?style=social)|An LLM-powered autonomous agent platform.|-|
+|[MicroGPT](https://github.com/muellerberndt/micro-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/muellerberndt/micro-gpt?style=social)|A minimal generic autonomous agent based on GPT3.5/4. Can analyze stock prices, perform network security tests, create art, and order pizza.|-|
 
 ## 思考
 ### ChatGPT 之父 Sam Altman: 万物摩尔定律
