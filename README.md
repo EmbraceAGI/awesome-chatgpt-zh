@@ -51,12 +51,8 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [Meta发布“分割一切”AI模型，CV或迎来GPT-3时刻: SAM](#meta发布分割一切ai模型cv或迎来gpt-3时刻-sam)
     - [支持 ChatGPT 的智能音箱 wukong-robot](#支持-chatgpt-的智能音箱-wukong-robot)
     - [程序猿专区](#程序猿专区)
-      - [OpenAI 官方使用指南：openai-cookbook](#openai-官方使用指南openai-cookbook)
-      - [OpenAI python 接口](#openai-python-接口)
-      - [开发自己的 ChatGPT 应用：langchain](#开发自己的-chatgpt-应用langchain)
-      - [LangChain的一个UI: LangFlow](#langchain的一个ui-langflow)
+      - [项目列表](#项目列表)
       - [OpenGPT](#opengpt)
-      - [亚马逊的免费 AI 代码助手：CodeWhisperer](#亚马逊的免费-ai-代码助手codewhisperer)
       - [AI代码助手: codeium](#ai代码助手-codeium)
       - [Github Copilot 开源平替，可本地部署: Tabby ](#github-copilot-开源平替可本地部署-tabby-)
       - [将 OpenAI ChatGPT 集成到 VSCode: vscode-chatgpt](#将-openai-chatgpt-集成到-vscode-vscode-chatgpt)
@@ -65,21 +61,8 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
       - [智能测试： codium](#智能测试-codium)
       - [shell 中使用 ChatGPT](#shell-中使用-chatgpt)
       - [GitHub 官方出品新一代代码编辑器：copilot-x](#github-官方出品新一代代码编辑器copilot-x)
-      - [CopilotForXcode - Copilot Xcode Source Editor Extension.](#copilotforxcode---copilot-xcode-source-editor-extension)
-      - [以后 git 提交 commit 信息不用抓耳挠腮了：GPTcommit](#以后-git-提交-commit-信息不用抓耳挠腮了gptcommit)
-      - [用命令自动生成令人印象深刻的 commit: opencommit](#用命令自动生成令人印象深刻的-commit-opencommit)
-      - [自动生成任何编程语言的文档: AutoDoc-ChatGPT](#自动生成任何编程语言的文档-autodoc-chatgpt)
-      - [使用ChatGPT搭建微信聊天机器人](#使用chatgpt搭建微信聊天机器人)
-      - [开源 ChatGPT 替代品列表](#开源-chatgpt-替代品列表)
-      - [人人都能创建 GPT 工具: AI Anything](#人人都能创建-gpt-工具-ai-anything)
-      - [在任意软件上操作ChatGPT: Portal](#在任意软件上操作chatgpt-portal)
       - [一键免费部署你的私人 ChatGPT 网页应用: ChatGPT-Next-Web](#一键免费部署你的私人-chatgpt-网页应用-chatgpt-next-web)
-      - [通过聊天生成 SQL 操作数据库：SQL Chat](#通过聊天生成-sql-操作数据库sql-chat)
-      - [电报 ChatGPT 机器人：Chatgpt-Telegram-bot](#电报-chatgpt-机器人chatgpt-telegram-bot)
-      - [搭建属于自己的 ChatGPT 网站: ChatBot-UI 需要使用 API KEY](#搭建属于自己的-chatgpt-网站-chatbot-ui-需要使用-api-key)
-      - [AIGC 应用程序的memcache: gptcache](#aigc-应用程序的memcache-gptcache)
       - [将代码从一个语言翻译为另一个语言：ai-code-translator](#将代码从一个语言翻译为另一个语言ai-code-translator)
-      - [LLMs 驱动的操作系统的 Shell: engshell](#llms-驱动的操作系统的-shell-engshell)
       - [使用 LLMs 通过自然语言生成任意函数：AI Functions](#使用-llms-通过自然语言生成任意函数ai-functions)
     - [向量数据库](#向量数据库)
     - [ChatGPT 浏览器插件和小程序](#chatgpt-浏览器插件和小程序)
@@ -505,27 +488,37 @@ wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智
 
 ### 程序猿专区
 
-#### [OpenAI 官方使用指南：openai-cookbook](https://github.com/openai/openai-cookbook)
 
-#### [OpenAI python 接口](https://github.com/openai/openai-python)
+#### 项目列表
 
-#### [开发自己的 ChatGPT 应用：langchain](https://github.com/hwchase17/langchain)
-
-#### [LangChain的一个UI: LangFlow](https://github.com/logspace-ai/langflow)
+|名称|Stars|简介|备注|
+|---|---|---|---|
+|[openai-cookbook](https://github.com/openai/openai-cookbook)|![GitHub Repo stars](https://img.shields.io/github/stars/openai/openai-cookbook?style=social)|OpenAI 官方使用指南|-|
+|[openai-python](https://github.com/openai/openai-python)|![GitHub Repo stars](https://img.shields.io/github/stars/openai/openai-python?style=social)|OpenAI python 接口|-|
+|[langchain](https://github.com/hwchase17/langchain)|![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain?style=social)|开发自己的 ChatGPT 应用|-|
+|[LangFlow](https://github.com/logspace-ai/langflow)|![GitHub Repo stars](https://img.shields.io/github/stars/logspace-ai/langflow?style=social)|LangChain的一个UI|-|
+|[CopilotForXcode](https://github.com/intitni/CopilotForXcode)|![GitHub Repo stars](https://img.shields.io/github/stars/intitni/CopilotForXcode?style=social)|Copilot Xcode Source Editor Extension|-|
+|[GPTcommit](https://github.com/zurawiki/gptcommit)|![GitHub Repo stars](https://img.shields.io/github/stars/zurawiki/gptcommit?style=social)|以后 git 提交 commit 信息不用抓耳挠腮了|-|
+|[opencommit](https://github.com/di-sukharev/opencommit)|![GitHub Repo stars](https://img.shields.io/github/stars/di-sukharev/opencommit?style=social)|用命令自动生成令人印象深刻的 commit|-|
+|[AutoDoc-ChatGPT](https://github.com/awekrx/AutoDoc-ChatGPT)|![GitHub Repo stars](https://img.shields.io/github/stars/awekrx/AutoDoc-ChatGPT?style=social)|自动生成任何编程语言的文档|-|
+|[chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)|![GitHub Repo stars](https://img.shields.io/github/stars/zhayujie/chatgpt-on-wechat?style=social)|使用ChatGPT搭建微信聊天机器人|-|
+|[awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/nichtdax/awesome-totally-open-chatgpt?style=social)|开源 ChatGPT 替代品列表|-|
+|[AI Anything](https://github.com/KeJunMao/ai-anything/blob/main/README.zh-cn.md)|![GitHub Repo stars](https://img.shields.io/github/stars/KeJunMao/ai-anything?style=social)|人人都能创建 GPT 工具|-|
+|[Portal](https://github.com/lxfater/Portal) |![GitHub Repo stars](https://img.shields.io/github/stars/lxfater/Portal?style=social)|在任意软件上操作ChatGPT|Portal是一款传输工具，旨在将ChatGPT的能力整合到用户的工作流程中。它把整个操作系统当成自己的舞台，可以在任意软件上操作ChatGPT。|
+|名称|Stars|简介|备注|
+|---|---|---|---|
+|[SQL Chat](https://github.com/sqlchat/sqlchat)|![GitHub Repo stars](https://img.shields.io/github/stars/sqlchat/sqlchat?style=social)|通过聊天生成 SQL 操作数据库|-|
+|[Chatgpt-Telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot)|![GitHub Repo stars](https://img.shields.io/github/stars/n3d1117/chatgpt-telegram-bot?style=social)|电报 ChatGPT 机器人|-|
+|[ChatBot-UI](https://github.com/mckaywrigley/chatbot-ui)|![GitHub Repo stars](https://img.shields.io/github/stars/mckaywrigley/chatbot-ui?style=social)|搭建属于自己的 ChatGPT 网站|需要使用 API KEY|
+|[gptcache](https://github.com/zilliztech/gptcache)|![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/gptcache?style=social)|AIGC 应用程序的memcache|一个强大的缓存库，可用于加速和降低依赖 LLM 服务的聊天应用程序的成本，可用作 AIGC 应用程序的memcache，类似于 Redis 用于传统应用程序的方式。[知乎简介](https://zhuanlan.zhihu.com/p/618630093)：有效果实测图和基本介绍。|
+|[engshell](https://github.com/emcf/engshell)|![GitHub Repo stars](https://img.shields.io/github/stars/emcf/engshell?style=social)|LLMs 驱动的操作系统的 Shell|-|
+|[CodeWhisperer](https://aws.amazon.com/codewhisperer/)|-|亚马逊的免费 AI 代码助手|免费，支持中文的 AI 代码助手，注册教程如下：官方地址：https://aws.amazon.com/codewhisperer/ 知乎保姆级教程：https://zhuanlan.zhihu.com/p/621800084|
 
 #### [OpenGPT](https://open-gpt.app/)
 
 立即使用海量的 ChatGPT 应用，或在几秒钟内创建属于自己的应用。
 
 ![open_gpt_app](imgs/open_gpt_app.jpg)
-
-#### [亚马逊的免费 AI 代码助手：CodeWhisperer](https://aws.amazon.com/codewhisperer/)
-
-免费，支持中文的 AI 代码助手，注册教程如下：
-
-官方地址：https://aws.amazon.com/codewhisperer/
-
-知乎保姆级教程：https://zhuanlan.zhihu.com/p/621800084
 
 #### [AI代码助手: codeium](https://codeium.com/)
 个人使用免费，有 vscode 插件，github copilot 平替
@@ -563,44 +556,15 @@ CodiumAI这个项目构建了一个名为TestGPT的语言模型，是一个专�
 
 ![copilot_x](imgs/github_copilot_x.png)
 
-
-#### [CopilotForXcode](https://github.com/intitni/CopilotForXcode) - Copilot Xcode Source Editor Extension.
-
-#### [以后 git 提交 commit 信息不用抓耳挠腮了：GPTcommit](https://github.com/zurawiki/gptcommit)
-#### [用命令自动生成令人印象深刻的 commit: opencommit](https://github.com/di-sukharev/opencommit)
-
-#### [自动生成任何编程语言的文档: AutoDoc-ChatGPT](https://github.com/awekrx/AutoDoc-ChatGPT)
-
-#### [使用ChatGPT搭建微信聊天机器人](https://github.com/zhayujie/chatgpt-on-wechat)
-
-#### [开源 ChatGPT 替代品列表](https://github.com/nichtdax/awesome-totally-open-chatgpt)
-
-#### [人人都能创建 GPT 工具: AI Anything](https://github.com/KeJunMao/ai-anything/blob/main/README.zh-cn.md)
-
-#### [在任意软件上操作ChatGPT: Portal](https://github.com/lxfater/Portal) 
-
-
-Portal是一款传输工具，旨在将ChatGPT的能力整合到用户的工作流程中。它把整个操作系统当成自己的舞台，可以在任意软件上操作ChatGPT。
-
 #### [一键免费部署你的私人 ChatGPT 网页应用: ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
 
 ![Chatgpt_next_web](imgs/chatgpt_next_web.png)
 
-#### [通过聊天生成 SQL 操作数据库：SQL Chat](https://github.com/sqlchat/sqlchat)
-
-#### [电报 ChatGPT 机器人：Chatgpt-Telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot)
-
-#### [搭建属于自己的 ChatGPT 网站: ChatBot-UI](https://github.com/mckaywrigley/chatbot-ui) 需要使用 API KEY
-
-#### [AIGC 应用程序的memcache: gptcache](https://github.com/zilliztech/gptcache)
-
-一个强大的缓存库，可用于加速和降低依赖 LLM 服务的聊天应用程序的成本，可用作 AIGC 应用程序的memcache，类似于 Redis 用于传统应用程序的方式。[知乎简介](https://zhuanlan.zhihu.com/p/618630093)：有效果实测图和基本介绍。
 
 #### [将代码从一个语言翻译为另一个语言：ai-code-translator](https://github.com/mckaywrigley/ai-code-translator)
 
 ![code_translator](imgs/ai_code_translator.png)
 
-#### [LLMs 驱动的操作系统的 Shell: engshell](https://github.com/emcf/engshell)
 
 #### [使用 LLMs 通过自然语言生成任意函数：AI Functions](https://www.askmarvin.ai/)
 
@@ -955,7 +919,7 @@ babyagi 是一个智能任务管理和解决工具，它结合了OpenAI GPT-4和
 ![babyagi](imgs/babyagi.jpg)
 
 ### 更多 AGI 项目
-|Name|Stars|Introduction| Notes |
+|名称|Stars|简介| 备注 |
 -|-|-|-
 |[Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) |![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT?style=social)|An experimental open-source attempt to make GPT-4 fully autonomous.|-|
 |[Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins) |![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT-Plugins?style=social)|Plugins for Auto-GPT.|-|
