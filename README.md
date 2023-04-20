@@ -35,7 +35,9 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [Prompt 框架](#prompt-框架)
       - [Elavis Saravia 总结的框架：](#elavis-saravia-总结的框架)
       - [Matt Nigh 总结的 CRISPE 框架：](#matt-nigh-总结的-crispe-框架)
-  - [ChatGPT 对话](#chatgpt-对话)
+  - [ChatGPT 对话实例](#chatgpt-对话实例)
+    - [🧠ChatGPT 中文调教指南 囊括了丰富的对话示例](#chatgpt-中文调教指南-囊括了丰富的对话示例)
+    - [ChatGPT 协助快速完成 markdown 表格](#chatgpt-协助快速完成-markdown-表格)
     - [ChatGPT 教你一步一步实现 CIFAR10 数据集图像分类任务](#chatgpt-教你一步一步实现-cifar10-数据集图像分类任务)
     - [一句话让 ChatGPT 帮助你实现 YOLO 目标检测](#一句话让-chatgpt-帮助你实现-yolo-目标检测)
     - [请选择你传奇的一生——ChatGPT：我选骆驼祥子](#请选择你传奇的一生chatgpt我选骆驼祥子)
@@ -389,8 +391,9 @@ CRISPE 分别代表以下含义：
   
 https://github.com/mattnigh/ChatGPT3-Free-Prompt-List
 
-## ChatGPT 对话
-
+## ChatGPT 对话实例
+### [🧠ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) 囊括了丰富的对话示例
+### [ChatGPT 协助快速完成 markdown 表格](examples/help_make_Markdown_table.md)
 ### [ChatGPT 教你一步一步实现 CIFAR10 数据集图像分类任务](examples/ImageClassificationCifar10Tutorials_ChatGPT.md)
 ### [一句话让 ChatGPT 帮助你实现 YOLO 目标检测](examples/YOLOV4.md)
 ### [请选择你传奇的一生——ChatGPT：我选骆驼祥子](examples/ChatGPT_xiangzi.md)
