@@ -504,15 +504,13 @@ wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智
 |[chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)|![GitHub Repo stars](https://img.shields.io/github/stars/zhayujie/chatgpt-on-wechat?style=social)|使用ChatGPT搭建微信聊天机器人|-|
 |[awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/nichtdax/awesome-totally-open-chatgpt?style=social)|开源 ChatGPT 替代品列表|-|
 |[AI Anything](https://github.com/KeJunMao/ai-anything/blob/main/README.zh-cn.md)|![GitHub Repo stars](https://img.shields.io/github/stars/KeJunMao/ai-anything?style=social)|人人都能创建 GPT 工具|-|
-|[Portal](https://github.com/lxfater/Portal) |![GitHub Repo stars](https://img.shields.io/github/stars/lxfater/Portal?style=social)|在任意软件上操作ChatGPT|Portal是一款传输工具，旨在将ChatGPT的能力整合到用户的工作流程中。它把整个操作系统当成自己的舞台，可以在任意软件上操作ChatGPT。|
-|名称|Stars|简介|备注|
-|---|---|---|---|
+|[Portal](https://github.com/lxfater/Portal) |![GitHub Repo stars](https://img.shields.io/github/stars/lxfater/Portal?style=social)|Portal是一款传输工具，旨在将ChatGPT的能力整合到用户的工作流程中。它把整个操作系统当成自己的舞台，可以在任意软件上操作ChatGPT。|在任意软件上操作ChatGPT|
 |[SQL Chat](https://github.com/sqlchat/sqlchat)|![GitHub Repo stars](https://img.shields.io/github/stars/sqlchat/sqlchat?style=social)|通过聊天生成 SQL 操作数据库|-|
 |[Chatgpt-Telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot)|![GitHub Repo stars](https://img.shields.io/github/stars/n3d1117/chatgpt-telegram-bot?style=social)|电报 ChatGPT 机器人|-|
 |[ChatBot-UI](https://github.com/mckaywrigley/chatbot-ui)|![GitHub Repo stars](https://img.shields.io/github/stars/mckaywrigley/chatbot-ui?style=social)|搭建属于自己的 ChatGPT 网站|需要使用 API KEY|
-|[gptcache](https://github.com/zilliztech/gptcache)|![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/gptcache?style=social)|AIGC 应用程序的memcache|一个强大的缓存库，可用于加速和降低依赖 LLM 服务的聊天应用程序的成本，可用作 AIGC 应用程序的memcache，类似于 Redis 用于传统应用程序的方式。[知乎简介](https://zhuanlan.zhihu.com/p/618630093)：有效果实测图和基本介绍。|
+|[gptcache](https://github.com/zilliztech/gptcache)|![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/gptcache?style=social)|AIGC 应用程序的memcache,一个强大的缓存库，可用于加速和降低依赖 LLM 服务的聊天应用程序的成本，可用作 AIGC 应用程序的memcache，类似于 Redis 用于传统应用程序的方式。[知乎简介](https://zhuanlan.zhihu.com/p/618630093)：有效果实测图和基本介绍。|-|
 |[engshell](https://github.com/emcf/engshell)|![GitHub Repo stars](https://img.shields.io/github/stars/emcf/engshell?style=social)|LLMs 驱动的操作系统的 Shell|-|
-|[CodeWhisperer](https://aws.amazon.com/codewhisperer/)|-|亚马逊的免费 AI 代码助手|免费，支持中文的 AI 代码助手，注册教程如下：官方地址：https://aws.amazon.com/codewhisperer/ 知乎保姆级教程：https://zhuanlan.zhihu.com/p/621800084|
+|[CodeWhisperer](https://aws.amazon.com/codewhisperer/)|-|免费，支持中文的 AI 代码助手，注册教程如下：官方地址：https://aws.amazon.com/codewhisperer/ 知乎保姆级教程：https://zhuanlan.zhihu.com/p/621800084|-|
 
 #### [OpenGPT](https://open-gpt.app/)
 
