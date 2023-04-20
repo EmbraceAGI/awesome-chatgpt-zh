@@ -704,10 +704,11 @@ def ai_function(function, args, description, model = "gpt-4"):
 
 |名称|Stars|简介| 备注 |
 -|-|-|-
+|[PineCone](https://www.pinecone.io/) |-|Pinecone为向量数据提供了数据存储解决方案。|提供免费方案，目前注册火爆，需要等待|
 |[Milvus](https://github.com/milvus-io/milvus) |![GitHub Repo stars](https://img.shields.io/github/stars/milvus-io/milvus?style=social)|Milvus 是一个开源矢量数据库，旨在为嵌入相似性搜索和 AI 应用程序提供支持。 除了向量，Milvus 还支持布尔型、整数、浮点数等数据类型。 Milvus 中的一个集合可以包含多个字段，用于容纳不同的数据特征或属性。 Milvus 将标量过滤与强大的向量相似性搜索相结合，为分析非结构化数据提供了一个现代、灵活的平台。|目前提供多种部署方式，支持docker, k8s, embed-milvus(pip install嵌入安装)，同时也有[在线云服务](https://cloud.zilliz.com/)。|
 |[chroma](https://github.com/chroma-core/chroma) |![GitHub Repo stars](https://img.shields.io/github/stars/chroma-core/chroma?style=social)|Chroma 是一个用于 Python / JavaScript LLM 应用程序的嵌入式数据库，它具有内存快速访问的优势。|-|
 |[weaviate](https://github.com/weaviate/weaviate) |![GitHub Repo stars](https://img.shields.io/github/stars/weaviate/weaviate?style=social)|开源的向量数据库，可以存储对象和向量，允许将向量搜索与结构化过滤相结合，并具有云原生数据库的容错性和可扩展性，可通过 GraphQL、REST 和各种语言客户端进行访问。|-|
-|[PineCone](https://www.pinecone.io/) |-|Pinecone为向量数据提供了数据存储解决方案。|-|
+
 
 
 ### ChatGPT 浏览器插件和小程序
