@@ -123,6 +123,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [Auto-GPT](#auto-gpt)
     - [ChatGPT 控制所有AI模型: HuggingGPT](#chatgpt-控制所有ai模型-hugginggpt)
     - [babyagi](#babyagi)
+    - [更多 AGI 项目](#更多-agi-项目)
   - [思考](#思考)
     - [ChatGPT 之父 Sam Altman: 万物摩尔定律](#chatgpt-之父-sam-altman-万物摩尔定律)
     - [GPT-4 ，人类迈向AGI的第一步](#gpt-4-人类迈向agi的第一步)
@@ -951,6 +952,7 @@ babyagi 是一个智能任务管理和解决工具，它结合了OpenAI GPT-4和
 
 ![babyagi](imgs/babyagi.jpg)
 
+### 更多 AGI 项目
 |Name|Stars|Introduction| Notes |
 -|-|-|-
 |[Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) |![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT?style=social)|An experimental open-source attempt to make GPT-4 fully autonomous.|-|
