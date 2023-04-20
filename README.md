@@ -23,7 +23,6 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [💻 第三方开发者开发的 ChatGPT 客户端](#-第三方开发者开发的-chatgpt-客户端)
     - [💻 国外竞品](#-国外竞品)
     - [💻 国产 ChatGPT 类似产品](#-国产-chatgpt-类似产品)
-    - [更多工具](#更多工具)
   - [如何与 ChatGPT 高效对话？——好的提示语学习](#如何与-chatgpt-高效对话好的提示语学习)
     - [ChatGPT Prompt 系统学习](#chatgpt-prompt-系统学习)
     - [Prompt 编写模式：如何将思维框架赋予机器](#prompt-编写模式如何将思维框架赋予机器)
@@ -85,6 +84,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
       - [使用 LLMs 通过自然语言生成任意函数：AI Functions](#使用-llms-通过自然语言生成任意函数ai-functions)
     - [向量数据库](#向量数据库)
     - [ChatGPT 浏览器插件和小程序](#chatgpt-浏览器插件和小程序)
+    - [更多工具](#更多工具)
   - [ChatGPT 插件功能](#chatgpt-插件功能)
     - [现有插件](#现有插件)
     - [中文开发指南](#中文开发指南)
@@ -187,13 +187,15 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 
 第三方客户端很多，基本都是通过调用 OpenAI 的 API 实现，这些客户端往往需要你自备 OpenAI 的 Api Key 使用。
 
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT): 使用 rust 编写的, 基于 tauri 的跨平台 ChatGPT 客户端. 支持: Windows, Linux, MacOS. 本质是应用内嵌入 ChatGPT 网页, 需要翻墙.
-- [chatbox](https://github.com/Bin-Huang/chatbox) 开源的ChatGPT桌面应用，prompt 开发神器，全平台支持，下载安装包就能用
-- [ChatGPT-Desktop](https://github.com/ChatGPT-Desktop/ChatGPT-Desktop) 基于 tauri + vue3 开发的跨平台桌面端应用，需要自行准备 API KEY 使用。
-- [川虎 ChatGPT 🐯 Chuanhu ChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) 为ChatGPT API提供了一个轻快好用的Web图形界面，支持直接在Hugging Face上部署，很方便。
-- [token/ChatGpt.Desktop](https://github.com/239573049/ChatGpt.Desktop): 使用 C# 编写的, 基于 Blazor Web Assembly 的跨平台客户端. 支持: Windows, Linux, MacOS, Android, iOS, Web. 本质是程序内内嵌自建网页并调用 API, 所以你需要一个 OpenAI 账户, 需要翻墙.
-- [SlimeNull/OpenGptChat](https://github.com/SlimeNull/OpenGptChat): 使用 C# 编写的, 基于 WPF 的原生 Windows 客户端. 支持: Windows. 本质是调用 OpenAI 的 API, 所以你需要一个 OpenAI 账户. 内置反向代理, 国内可用.
-- [ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop)
+|名称|Stars|简介|备注|
+|---|---|---|---|
+|[lencx/ChatGPT](https://github.com/lencx/ChatGPT)|![GitHub Repo stars](https://img.shields.io/github/stars/lencx/ChatGPT?style=social)|基于 tauri 的跨平台 ChatGPT 客户端, 支持: Windows, Linux, MacOS, 应用内嵌入 ChatGPT 网页.| 需要翻墙。|
+|[chatbox](https://github.com/Bin-Huang/chatbox)|![GitHub Repo stars](https://img.shields.io/github/stars/Bin-Huang/chatbox?style=social)|开源的ChatGPT桌面应用，prompt 开发神器|全平台支持，下载安装包就能用|
+|[ChatGPT-Desktop](https://github.com/ChatGPT-Desktop/ChatGPT-Desktop)|![GitHub Repo stars](https://img.shields.io/github/stars/ChatGPT-Desktop/ChatGPT-Desktop?style=social)|基于 tauri + vue3 开发的跨平台桌面端应用|需要自行准备 API KEY 使用。|
+|[Chuanhu ChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)|![GitHub Repo stars](https://img.shields.io/github/stars/GaiZhenbiao/ChuanhuChatGPT?style=social)|为ChatGPT API提供了一个轻快好用的 Web 图形界面|支持直接在Hugging Face上部署，很方便。|
+|[token/ChatGpt.Desktop](https://github.com/239573049/ChatGpt.Desktop)|![GitHub Repo stars](https://img.shields.io/github/stars/239573049/ChatGpt.Desktop?style=social)|基于 Blazor Web Assembly 的跨平台客户端,支持: Windows, Linux, MacOS, Android, iOS, Web. 程序内内嵌自建网页并调用 API.| 需要 OpenAI 账户, 需要翻墙。|
+|[SlimeNull/OpenGptChat](https://github.com/SlimeNull/OpenGptChat)|![GitHub Repo stars](https://img.shields.io/github/stars/SlimeNull/OpenGptChat?style=social)|基于 WPF 的原生 Windows 客户端, 调用 OpenAI 的 API, 需要一个 OpenAI 账户.| 内置反向代理, 国内可用。|
+|[ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop)|![GitHub Repo stars](https://img.shields.io/github/stars/Synaptrix/ChatGPT-Desktop?style=social)|ChatGPT-Desktop应用|-|
 
 ### 💻 国外竞品
 <ul>
@@ -317,10 +319,6 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 </li>
 
 </ul>
-
-### 更多工具
-[ChatGPT 用法和 APP](https://gpt3demo.com/)
-![gpt3_demo](imgs/gpt3_demo.jpg)
 
 ## 如何与 ChatGPT 高效对话？——好的提示语学习
 
@@ -744,6 +742,10 @@ Chat-GPT 超级挂件，以侧边窗口的形式提供服务，可以在阅读�
 * [分享你与 ChatGPT 的对话：ShareGPT](https://github.com/domeccleston/sharegpt)
 * [与不同角色对话 & 多种实用技能：神奇海螺](https://github.com/yzfly/awesome-chatgpt-zh/issues/5)
 * [让 ChatGPT 联网: WebChatGPT](https://github.com/qunash/chatgpt-advanced)
+* 
+### 更多工具
+[ChatGPT 用法和 APP](https://gpt3demo.com/)
+![gpt3_demo](imgs/gpt3_demo.jpg)
 
 ## ChatGPT 插件功能
 
