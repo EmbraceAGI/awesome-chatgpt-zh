@@ -733,8 +733,11 @@ Chat-GPT 超级挂件，以侧边窗口的形式提供服务，可以在阅读�
 * [让 ChatGPT 联网: WebChatGPT](https://github.com/qunash/chatgpt-advanced)
 * 
 ### 更多工具
+
 [ChatGPT 用法和 APP](https://gpt3demo.com/)
 ![gpt3_demo](imgs/gpt3_demo.jpg)
+
+[一个十分全面的 AI 工具合集文档](https://bytedance.feishu.cn/base/AIMAbnJxQaNgSGsBAtwcdAkLnvf)
 
 ## ChatGPT 插件功能
 
@@ -914,7 +917,7 @@ MiniGPT-4 项目破解了 GPT4 的魔法，树立了很好的一个示范和方�
 
 1.NLP 部分采用 LLaMA, 效果虽然不如 GPT-4，但是基本合格
 
-2.CV 部分采用了开源的诸多模型如 Timm，DeiT 等
+2.CV 部分采用了开源的诸多模型如 Timm，DeiT 等，展现了开源的力量
 
 代码、文档、视频、演示网站等内容齐全完善，开源质量很高，代码编写也很精妙，值得关注学习！
 
