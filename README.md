@@ -107,6 +107,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [Auto-GPT](#auto-gpt)
     - [ChatGPT 控制所有AI模型: HuggingGPT](#chatgpt-控制所有ai模型-hugginggpt)
     - [babyagi](#babyagi)
+    - [MiniGPT-4](#minigpt-4)
     - [更多 AGI 项目](#更多-agi-项目)
   - [思考](#思考)
     - [ChatGPT 之父 Sam Altman: 万物摩尔定律](#chatgpt-之父-sam-altman-万物摩尔定律)
@@ -907,6 +908,16 @@ babyagi 是一个智能任务管理和解决工具，它结合了OpenAI GPT-4和
 
 ![babyagi](imgs/babyagi.jpg)
 
+### [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)
+
+MiniGPT-4 项目破解了 GPT4 的魔法，树立了很好的一个示范和方向。借助各种基础开源模型模型的组合，迈出了可能实现多模态识别的一步。
+
+1.NLP 部分采用 LLaMA, 效果虽然不如 GPT-4，但是基本合格
+
+2.CV 部分采用了开源的诸多模型如 Timm，DeiT 等
+
+代码、文档、视频、演示网站等内容齐全完善，开源质量很高，代码编写也很精妙，值得关注学习！
+
 ### 更多 AGI 项目
 |名称|Stars|简介| 备注 |
 -|-|-|-
@@ -920,6 +931,7 @@ babyagi 是一个智能任务管理和解决工具，它结合了OpenAI GPT-4和
 |[OpenAGI](https://github.com/agiresearch/OpenAGI) |![GitHub Repo stars](https://img.shields.io/github/stars/agiresearch/OpenAGI?style=social)|When LLM (Large Language Models) Meets Domain Experts.|-|
 |[AI-legion](https://github.com/eumemic/ai-legion)|![GitHub Repo stars](https://img.shields.io/github/stars/eumemic/ai-legion?style=social)|An LLM-powered autonomous agent platform.|-|
 |[MicroGPT](https://github.com/muellerberndt/micro-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/muellerberndt/micro-gpt?style=social)|A minimal generic autonomous agent based on GPT3.5/4. Can analyze stock prices, perform network security tests, create art, and order pizza.|-|
+|[MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)|![GitHub Repo stars](https://img.shields.io/github/stars/Vision-CAIR/MiniGPT-4?style=social)|MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models.|-|
 
 ## 思考
 ### ChatGPT 之父 Sam Altman: 万物摩尔定律
