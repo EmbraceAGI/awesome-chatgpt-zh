@@ -629,6 +629,8 @@ wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智
 |[gptcache](https://github.com/zilliztech/gptcache)|![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/gptcache?style=social)|AIGC 应用程序的memcache,一个强大的缓存库，可用于加速和降低依赖 LLM 服务的聊天应用程序的成本，可用作 AIGC 应用程序的memcache，类似于 Redis 用于传统应用程序的方式。[知乎简介](https://zhuanlan.zhihu.com/p/618630093)：有效果实测图和基本介绍。|-|
 |[engshell](https://github.com/emcf/engshell)|![GitHub Repo stars](https://img.shields.io/github/stars/emcf/engshell?style=social)|LLMs 驱动的操作系统的 Shell|-|
 |[CodeWhisperer](https://aws.amazon.com/codewhisperer/)|-|免费，支持中文的 AI 代码助手，注册教程如下：官方地址：https://aws.amazon.com/codewhisperer/ 知乎保姆级教程：https://zhuanlan.zhihu.com/p/621800084|-|
+|[gpt4free](https://github.com/xtekky/gpt4free)|![GitHub Repo stars](https://img.shields.io/github/stars/xtekky/gpt4free?style=social)|提供 GPT-4/3.5 的来自各种网站的逆向 API，来自 ChatGPT、poe.com 等各种网站，可以像Openai的官方软件包一样使用。|免费的编程接口！还有 GPT-4 ！不错！|
+|[bloop](https://github.com/BloopAI/bloop)|![GitHub Repo stars](https://img.shields.io/github/stars/BloopAI/bloop?style=social)|bloop是一个用Rust编写的快速代码搜索引擎。|基于ChatGPT,和代码对话！|
 
 #### [OpenGPT](https://open-gpt.app/)
 
