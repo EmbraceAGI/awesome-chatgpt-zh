@@ -633,6 +633,8 @@ wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智
 |[CodeWhisperer](https://aws.amazon.com/codewhisperer/)|-|免费，支持中文的 AI 代码助手，注册教程如下：官方地址：https://aws.amazon.com/codewhisperer/ 知乎保姆级教程：https://zhuanlan.zhihu.com/p/621800084|-|
 |[gpt4free](https://github.com/xtekky/gpt4free)|![GitHub Repo stars](https://img.shields.io/github/stars/xtekky/gpt4free?style=social)|提供 GPT-4/3.5 的来自各种网站的逆向 API，来自 ChatGPT、poe.com 等各种网站，可以像Openai的官方软件包一样使用。|免费的编程接口！还有 GPT-4 ！不错！|
 |[bloop](https://github.com/BloopAI/bloop)|![GitHub Repo stars](https://img.shields.io/github/stars/BloopAI/bloop?style=social)|bloop是一个用Rust编写的快速代码搜索引擎。|基于ChatGPT,和代码对话！|
+|[WebGPT](https://github.com/0hq/WebGPT)|![GitHub Repo stars](https://img.shields.io/github/stars/0hq/WebGPT?style=social)|WebGPT 是基于浏览器 WebGPU 能力打造的在流量器运行 GPT 模型的应用|未来可期~|
+
 
 #### [OpenGPT](https://open-gpt.app/)
 
