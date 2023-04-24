@@ -296,9 +296,11 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 <details>
   <summary>💻 MOSS </summary>
   
-> https://moss.fastnlp.top/
+> https://github.com/OpenLMLab/MOSS
 
-现已无法使用
+MOSS是一个支持中英双语和多种插件的开源对话语言模型，moss-moon系列模型具有160亿参数，在FP16精度下可在单张A100/A800或两张3090显卡运行，在INT4/8精度下可在单张3090显卡运行。MOSS基座语言模型在约七千亿中英文以及代码单词上预训练得到，后续经过对话指令微调、插件增强学习和人类偏好训练具备多轮对话能力及使用多种插件的能力。
+
+开源了模型、训练数据和训练权重，有兴趣的朋友可以本地试用。
 
 ![MOSS](imgs/MOSS.jpg)
 
