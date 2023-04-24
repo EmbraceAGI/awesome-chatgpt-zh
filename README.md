@@ -22,6 +22,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [💻 国外竞品](#-国外竞品)
     - [💻 国产 ChatGPT 类似产品](#-国产-chatgpt-类似产品)
   - [如何与 ChatGPT 高效对话？——好的提示语学习](#如何与-chatgpt-高效对话好的提示语学习)
+    - [中文 prompts 精选 🔥](#中文-prompts-精选-)
     - [ChatGPT Prompt 系统学习](#chatgpt-prompt-系统学习)
     - [Prompt 编写模式：如何将思维框架赋予机器](#prompt-编写模式如何将思维框架赋予机器)
     - [💡 让生产力加倍的 ChatGPT 快捷指令](#-让生产力加倍的-chatgpt-快捷指令)
@@ -310,6 +311,10 @@ MOSS是一个支持中英双语和多种插件的开源对话语言模型，moss
 </ul>
 
 ## 如何与 ChatGPT 高效对话？——好的提示语学习
+
+### [中文 prompts 精选](https://github.com/yzfly/wonderful-prompts) 🔥
+
+作者优化、精选了系列中文 ChatGPT Prompts，并提供图文使用示例，让大家能够更好的学习使用 ChatGPT。
 
 ### [ChatGPT Prompt 系统学习](https://learningprompt.wiki/docs/chatgpt-learning-path)
 
