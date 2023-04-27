@@ -69,6 +69,8 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [自动化企业管理：Auto-GPT](#自动化企业管理auto-gpt)
     - [Meta发布“分割一切”AI模型，CV或迎来GPT-3时刻: SAM](#meta发布分割一切ai模型cv或迎来gpt-3时刻-sam)
     - [支持 ChatGPT 的智能音箱 wukong-robot](#支持-chatgpt-的智能音箱-wukong-robot)
+    - [绘图助手 ChartGPT](#绘图助手-chartgpt)
+      - [更多应用](#更多应用)
     - [程序猿专区](#程序猿专区)
       - [项目列表](#项目列表)
       - [OpenGPT](#opengpt)
@@ -611,6 +613,20 @@ wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智
 
 <a href="https://github.com/wzpan/wukong-robot" rel="wukong-robot"><img src="https://wzpan-1253537070.cos.ap-guangzhou.myqcloud.com/wukong/wukong-robot-3.3.0.png" alt="wukong-robot" width="800px" /></a>
 
+### [绘图助手 ChartGPT](https://www.chartgpt.dev/)
+
+使用 ChatGPT 帮忙绘制图表，代码已开源。
+
+https://github.com/whoiskatrin/chart-gpt
+
+![chart](imgs/chartgpt.png)
+
+#### 更多应用
+
+|名称|Stars|简介|备注|
+|---|---|---|---|
+|[openai-cookbook](https://github.com/openai/openai-cookbook)|![GitHub Repo stars](https://img.shields.io/github/stars/openai/openai-cookbook?style=social)|OpenAI 官方使用指南|-|
+
 ### 程序猿专区
 
 
@@ -946,6 +962,8 @@ MiniGPT-4 项目破解了 GPT4 的魔法，树立了很好的一个示范和方�
 |[AI-legion](https://github.com/eumemic/ai-legion)|![GitHub Repo stars](https://img.shields.io/github/stars/eumemic/ai-legion?style=social)|An LLM-powered autonomous agent platform.|-|
 |[MicroGPT](https://github.com/muellerberndt/micro-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/muellerberndt/micro-gpt?style=social)|A minimal generic autonomous agent based on GPT3.5/4. Can analyze stock prices, perform network security tests, create art, and order pizza.|-|
 |[MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)|![GitHub Repo stars](https://img.shields.io/github/stars/Vision-CAIR/MiniGPT-4?style=social)|MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models.|-|
+|[Agent-LLM](https://github.com/Josh-XT/Agent-LLM)|![GitHub Repo stars](https://img.shields.io/github/stars/Josh-XT/Agent-LLM?style=social)|An Artificial Intelligence Automation Platform. AI Instruction management from various providers, has an adaptive memory, and a versatile plugin system with many commands including web browsing.| 人工智能自动化平台。https://agent-llm.com/|
+
 
 ## 思考
 ### ChatGPT 之父 Sam Altman: 万物摩尔定律
@@ -1019,7 +1037,7 @@ ChatGPT的强大能力是显而易见的，但对于人工智能领域不太熟�
 
 建立知识星球也是对自己学习的敦促，也希望能与智慧的你们一起把握时代机遇，预见未来，遇见更好的自己！
 
-加入链接：https://t.zsxq.com/0cYzbXzeT
+加入链接：https://t.zsxq.com/0c5E3vvjM
 
 或者微信扫码
 <img src=imgs/zsxq.jpg width=40% />
