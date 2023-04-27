@@ -122,6 +122,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
   - [ChatGPT 使用交流](#chatgpt-使用交流)
     - [知识星球](#知识星球)
     - [电报群](#电报群)
+    - [微信公众号](#微信公众号)
   - [Star History](#star-history)
   - [贡献指南](#贡献指南)
   - [致谢](#致谢)
@@ -1050,6 +1051,11 @@ ChatGPT的强大能力是显而易见的，但对于人工智能领域不太熟�
 - 🚀[电报频道：ChatGPT 精选](https://t.me/AwesomeChatGPT)🚀
 - 🚀[电报交流群：ChatGPT 精选 Chat](https://t.me/+cBIhxVSwABg4Y2M5)🚀
 
+### 微信公众号
+
+微信公众号内容限制比较多，禁止外链以及内容审核等，所以会随缘发一些内容，欢迎关注~
+
+![wx_gh](imgs/qrcode_for_wx_gh.jpg)
 
 ## Star History
 
