@@ -626,7 +626,10 @@ https://github.com/whoiskatrin/chart-gpt
 
 |名称|Stars|简介|备注|
 |---|---|---|---|
-|[openai-cookbook](https://github.com/openai/openai-cookbook)|![GitHub Repo stars](https://img.shields.io/github/stars/openai/openai-cookbook?style=social)|OpenAI 官方使用指南|-|
+|[Databerry](https://github.com/gmpetrov/databerry)|![GitHub Repo stars](https://img.shields.io/github/stars/gmpetrov/databerry?style=social)|将自定义数据连接到大型语言模型的无代码平台。|使用个人数据打造自己的专属 LLMs 助手。支持个人文档、表格等数据上传，不需要自己编程|
+|[AudioGPT](https://github.com/AIGC-Audio/AudioGPT)|![GitHub Repo stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social)|理解和生成语音，音乐，声音和说话的人头|-|
+
+
 
 ### 程序猿专区
 
