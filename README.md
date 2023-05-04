@@ -969,6 +969,7 @@ MiniGPT-4 项目破解了 GPT4 的魔法，树立了很好的一个示范和方�
 |[MicroGPT](https://github.com/muellerberndt/micro-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/muellerberndt/micro-gpt?style=social)|A minimal generic autonomous agent based on GPT3.5/4. Can analyze stock prices, perform network security tests, create art, and order pizza.|-|
 |[MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)|![GitHub Repo stars](https://img.shields.io/github/stars/Vision-CAIR/MiniGPT-4?style=social)|MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models.|-|
 |[Agent-LLM](https://github.com/Josh-XT/Agent-LLM)|![GitHub Repo stars](https://img.shields.io/github/stars/Josh-XT/Agent-LLM?style=social)|An Artificial Intelligence Automation Platform. AI Instruction management from various providers, has an adaptive memory, and a versatile plugin system with many commands including web browsing.| 人工智能自动化平台。https://agent-llm.com/|
+|[Free-AUTO-GPT-with-NO-API](https://github.com/IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API)|![GitHub Repo stars](https://img.shields.io/github/stars/IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API?style=social)|不用花大价钱使用API key 跑 AutoGPT, BabyAGI, AgentGPT 项目啦。 需要有 ChatGPT 账号，然后浏览器登陆拿到 Cookie Value 使用。 或者使用 huggingFace 的 chat 模型，详情参照项目说明。| - |
 
 
 ## 思考
