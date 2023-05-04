@@ -447,7 +447,7 @@ DAN越狱提示成功例图：
 * [awesome-ChatGPT-resource-zh](https://github.com/DeepTecher/awesome-ChatGPT-resource-zh)
 * [🧠ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 * [ChatGPT调教指南-咒语指南-聊天提示词指南](https://github.com/wikieden/Awesome-ChatGPT-Prompts-CN)
-* [🌟 ChatGPT-Awesomes-Collection 🌟](https://github.com/yzfly/chatgpt-awesomes-collection)
+* [🌟 ChatGPT-Awesomes-Collection 🌟](https://github.com/yzfly/my-awesomes-collection/blob/main/docs/chatgpt.md)
 
 
 ## ChatGPT 工具
