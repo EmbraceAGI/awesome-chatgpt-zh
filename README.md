@@ -319,6 +319,18 @@ MOSS是一个支持中英双语和多种插件的开源对话语言模型，moss
 
 作者优化、精选了系列中文 ChatGPT Prompts，并提供图文使用示例，让大家能够更好的学习使用 ChatGPT。
 
+### [《面向开发者的 ChatGPT 提示词工程》](https://learn.deeplearning.ai/)
+
+目前你在网上看到的所有 AI 助理、智能翻译、角色扮演，本质上还是通过编写 Prompt 来实现。
+
+只要你的 Prompt 写的足够好，ChatGPT 可以帮你快速完成很多工作，包括写爬虫脚本、金融数据分析、文案润色与翻译等等，并且这些工作还做的比一般人出色。
+
+为了帮助大家能更好的掌握 Prompt 工程，DeepLearning.ai 创始人吴恩达与 OpenAI 开发者 Iza Fulford 联手推出了一门面向开发者的技术教程：《**ChatGPT 提示工程**》。
+
+[《面向开发者的 ChatGPT 提示词工程》非官方版中英双语字幕](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese)
+- **中文视频地址：[面向开发者的 ChatGPT 提示词工程](https://space.bilibili.com/15467823/channel/seriesdetail?sid=3247315&ctype=0)**
+- **英文原视频地址：[ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/)**
+
 ### [ChatGPT Prompt 系统学习](https://learningprompt.wiki/docs/chatgpt-learning-path)
 
 提供了初级、中级、高级篇 Prompt 中文学习教程，不错的系统学习 ChatGPT Prompt 教程。
