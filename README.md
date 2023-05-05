@@ -896,7 +896,7 @@ AI研究所：一个收录 AI 相关工具和AI资讯的中文网站
 
 ## AGI
 
-### [Awesome-AGI](https://github.com/yzfly/Awesome-AGI)
+### [Awesome-AGI](https://github.com/EmbraceAGI/Awesome-AGI)
  AGI 精选资源，持续更新中，欢迎关注和 star~
 
 ### [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
