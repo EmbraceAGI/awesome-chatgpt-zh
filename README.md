@@ -182,11 +182,9 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 |---|---|---|---|
 |[lencx/ChatGPT](https://github.com/lencx/ChatGPT)|![GitHub Repo stars](https://img.shields.io/github/stars/lencx/ChatGPT?style=social)|基于 tauri 的跨平台 ChatGPT 客户端, 支持: Windows, Linux, MacOS, 应用内嵌入 ChatGPT 网页.| 需要翻墙。|
 |[chatbox](https://github.com/Bin-Huang/chatbox)|![GitHub Repo stars](https://img.shields.io/github/stars/Bin-Huang/chatbox?style=social)|开源的ChatGPT桌面应用，prompt 开发神器|全平台支持，下载安装包就能用|
-|[ChatGPT-Desktop](https://github.com/ChatGPT-Desktop/ChatGPT-Desktop)|![GitHub Repo stars](https://img.shields.io/github/stars/ChatGPT-Desktop/ChatGPT-Desktop?style=social)|基于 tauri + vue3 开发的跨平台桌面端应用|需要自行准备 API KEY 使用。|
 |[Chuanhu ChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)|![GitHub Repo stars](https://img.shields.io/github/stars/GaiZhenbiao/ChuanhuChatGPT?style=social)|为ChatGPT API提供了一个轻快好用的 Web 图形界面|支持直接在Hugging Face上部署，很方便。|
-|[token/ChatGpt.Desktop](https://github.com/239573049/ChatGpt.Desktop)|![GitHub Repo stars](https://img.shields.io/github/stars/239573049/ChatGpt.Desktop?style=social)|基于 Blazor Web Assembly 的跨平台客户端,支持: Windows, Linux, MacOS, Android, iOS, Web. 程序内内嵌自建网页并调用 API.| 需要 OpenAI 账户, 需要翻墙。|
-|[SlimeNull/OpenGptChat](https://github.com/SlimeNull/OpenGptChat)|![GitHub Repo stars](https://img.shields.io/github/stars/SlimeNull/OpenGptChat?style=social)|基于 WPF 的原生 Windows 客户端, 调用 OpenAI 的 API, 需要一个 OpenAI 账户.| 内置反向代理, 国内可用。|
 |[ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop)|![GitHub Repo stars](https://img.shields.io/github/stars/Synaptrix/ChatGPT-Desktop?style=social)|ChatGPT-Desktop应用|-|
+|[ChatGPT-Desktop](https://github.com/ChatGPT-Desktop/ChatGPT-Desktop)|![GitHub Repo stars](https://img.shields.io/github/stars/ChatGPT-Desktop/ChatGPT-Desktop?style=social)|基于 tauri + vue3 开发的跨平台桌面端应用|需要自行准备 API KEY 使用。|
 
 ### 💻 国外竞品
 <ul>
@@ -640,11 +638,10 @@ https://github.com/whoiskatrin/chart-gpt
 |---|---|---|---|
 |[Databerry](https://github.com/gmpetrov/databerry)|![GitHub Repo stars](https://img.shields.io/github/stars/gmpetrov/databerry?style=social)|将自定义数据连接到大型语言模型的无代码平台。|使用个人数据打造自己的专属 LLMs 助手。支持个人文档、表格等数据上传，不需要自己编程|
 |[AudioGPT](https://github.com/AIGC-Audio/AudioGPT)|![GitHub Repo stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social)|理解和生成语音，音乐，声音和说话的人头|-|
-
+|[Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)|![GitHub Repo stars](https://img.shields.io/github/stars/JushBJJ/Mr.-Ranedeer-AI-Tutor?style=social)|学习助手，解释学习概念，制订学习计划|-|
 
 
 ### 程序猿专区
-
 
 #### 项目列表
 
@@ -654,6 +651,7 @@ https://github.com/whoiskatrin/chart-gpt
 |[openai-python](https://github.com/openai/openai-python)|![GitHub Repo stars](https://img.shields.io/github/stars/openai/openai-python?style=social)|OpenAI python 接口|-|
 |[langchain](https://github.com/hwchase17/langchain)|![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain?style=social)|开发自己的 ChatGPT 应用|-|
 |[LangFlow](https://github.com/logspace-ai/langflow)|![GitHub Repo stars](https://img.shields.io/github/stars/logspace-ai/langflow?style=social)|LangChain的一个UI|-|
+|[langchain-tutorials](https://github.com/gkamradt/langchain-tutorials)|![GitHub Repo stars](https://img.shields.io/github/stars/gkamradt/langchain-tutorials?style=social)|LangChain 教程|-|
 |[CopilotForXcode](https://github.com/intitni/CopilotForXcode)|![GitHub Repo stars](https://img.shields.io/github/stars/intitni/CopilotForXcode?style=social)|Copilot Xcode Source Editor Extension|-|
 |[GPTcommit](https://github.com/zurawiki/gptcommit)|![GitHub Repo stars](https://img.shields.io/github/stars/zurawiki/gptcommit?style=social)|以后 git 提交 commit 信息不用抓耳挠腮了|-|
 |[opencommit](https://github.com/di-sukharev/opencommit)|![GitHub Repo stars](https://img.shields.io/github/stars/di-sukharev/opencommit?style=social)|用命令自动生成令人印象深刻的 commit|-|
@@ -671,6 +669,7 @@ https://github.com/whoiskatrin/chart-gpt
 |[gpt4free](https://github.com/xtekky/gpt4free)|![GitHub Repo stars](https://img.shields.io/github/stars/xtekky/gpt4free?style=social)|提供 GPT-4/3.5 的来自各种网站的逆向 API，来自 ChatGPT、poe.com 等各种网站，可以像Openai的官方软件包一样使用。|免费的编程接口！还有 GPT-4 ！不错！|
 |[bloop](https://github.com/BloopAI/bloop)|![GitHub Repo stars](https://img.shields.io/github/stars/BloopAI/bloop?style=social)|bloop是一个用Rust编写的快速代码搜索引擎。|基于ChatGPT,和代码对话！|
 |[WebGPT](https://github.com/0hq/WebGPT)|![GitHub Repo stars](https://img.shields.io/github/stars/0hq/WebGPT?style=social)|WebGPT 是基于浏览器 WebGPU 能力打造的在流量器运行 GPT 模型的应用|未来可期~|
+|[PentestGPT](https://github.com/GreyDGL/PentestGPT)|![GitHub Repo stars](https://img.shields.io/github/stars/GreyDGL/PentestGPT?style=social)|基于 GPT 能力的渗透测试工具|-|
 
 
 #### [OpenGPT](https://open-gpt.app/)
@@ -753,11 +752,11 @@ def ai_function(function, args, description, model = "gpt-4"):
 
 |名称|Stars|简介| 备注 |
 -|-|-|-
-|[PineCone](https://www.pinecone.io/) |-|Pinecone为向量数据提供了数据存储解决方案。|提供免费方案，目前注册火爆，需要等待|
+|[PineCone](https://www.pinecone.io/) |-|Pinecone为向量数据提供了数据存储解决方案。|提供免费方案，目前注册火爆|
+|[chroma](https://github.com/chroma-core/chroma) |![GitHub Repo stars](https://img.shields.io/github/stars/chroma-core/chroma?style=social)|Chroma 是一个用于 Python / JavaScript LLM 应用程序的本地向量数据库，它具有内存快速访问的优势。|开源免费|
+|[qdrant](https://github.com/qdrant/qdrant) |![GitHub Repo stars](https://img.shields.io/github/stars/qdrant/qdrant?style=social)|QDRANT AI应用程序矢量数据库，也提供云数据库: https://cloud.qdrant.io/|现在注册有 1G 的永久免费数据库|
 |[Milvus](https://github.com/milvus-io/milvus) |![GitHub Repo stars](https://img.shields.io/github/stars/milvus-io/milvus?style=social)|Milvus 是一个开源矢量数据库，旨在为嵌入相似性搜索和 AI 应用程序提供支持。 除了向量，Milvus 还支持布尔型、整数、浮点数等数据类型。 Milvus 中的一个集合可以包含多个字段，用于容纳不同的数据特征或属性。 Milvus 将标量过滤与强大的向量相似性搜索相结合，为分析非结构化数据提供了一个现代、灵活的平台。|目前提供多种部署方式，支持docker, k8s, embed-milvus(pip install嵌入安装)，同时也有[在线云服务](https://cloud.zilliz.com/)。|
-|[chroma](https://github.com/chroma-core/chroma) |![GitHub Repo stars](https://img.shields.io/github/stars/chroma-core/chroma?style=social)|Chroma 是一个用于 Python / JavaScript LLM 应用程序的嵌入式数据库，它具有内存快速访问的优势。|-|
 |[weaviate](https://github.com/weaviate/weaviate) |![GitHub Repo stars](https://img.shields.io/github/stars/weaviate/weaviate?style=social)|开源的向量数据库，可以存储对象和向量，允许将向量搜索与结构化过滤相结合，并具有云原生数据库的容错性和可扩展性，可通过 GraphQL、REST 和各种语言客户端进行访问。|-|
-
 
 
 ### ChatGPT 浏览器插件和小程序
@@ -772,9 +771,8 @@ Chat-GPT 超级挂件，以侧边窗口的形式提供服务，可以在阅读�
 * [ChatGPT 协助回答知乎问题: chat-gpt-zhihu-extension](https://chrome.google.com/webstore/detail/chatgpt-for-zhihu/dgoinfidjelfolhnkaableghhppplbak)
 * [邮件助手：ChatGPT for Email - Remail](https://chrome.google.com/webstore/detail/chatgpt-for-email-remail/jjplpolfahlhoodebebfjdbpcbopcmlk)
 * [分享你与 ChatGPT 的对话：ShareGPT](https://github.com/domeccleston/sharegpt)
-* [与不同角色对话 & 多种实用技能：神奇海螺](https://github.com/yzfly/awesome-chatgpt-zh/issues/5)
 * [让 ChatGPT 联网: WebChatGPT](https://github.com/qunash/chatgpt-advanced)
-* 
+
 ### 更多工具
 
 [ChatGPT 用法和 APP](https://gpt3demo.com/)
