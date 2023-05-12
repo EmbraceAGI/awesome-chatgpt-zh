@@ -808,6 +808,7 @@ OpenAI 的 ChatGPT 大型语言模型（LLM）并未开源，这部分收录一�
 |名称|Stars|简介| 备注 |
 -|-|-|-
 |[🤖 LLMs: awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) |![GitHub Repo stars](https://img.shields.io/github/stars/nichtdax/awesome-totally-open-chatgpt?style=social)|开源LLMs 收集。|-|
+|[Open LLMs](https://github.com/eugeneyan/open-llms) |![GitHub Repo stars](https://img.shields.io/github/stars/eugeneyan/open-llms?style=social)|开源可商用的大模型。|-|
 |[Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) |![GitHub Repo stars](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM?style=social)|大型语言模型的论文列表，特别是与 ChatGPT相关的论文，还包含LLM培训框架、部署LLM的工具、关于LLM的课程和教程以及所有公开可用的LLM 权重和 API。|-|
 |[LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) |![GitHub Repo stars](https://img.shields.io/github/stars/Mooler0410/LLMsPracticalGuide?style=social)|亚马逊科学家杨靖锋等大佬创建的语言大模型实践指南，收集了许多经典的论文、示例和图表，展现了 GPT 这类大模型的发展历程等|-|
 |[awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) |![GitHub Repo stars](https://img.shields.io/github/stars/imaurer/awesome-decentralized-llm?style=social)|能在本地运行的资源 LLMs。|-|
@@ -826,6 +827,10 @@ OpenAI 的 ChatGPT 大型语言模型（LLM）并未开源，这部分收录一�
 |[OpenFlamingo](https://github.com/mlfoundations/open_flamingo)|![GitHub Repo stars](https://img.shields.io/github/stars/mlfoundations/open_flamingo?style=social)|OpenFlamingo 是一个用于评估和训练大型多模态模型的开源框架，是 DeepMind Flamingo 模型的开源版本，也是 AI 世界关于大模型进展的一大步。|大型多模态模型训练和评估开源框架。|
 |[text-generation-webui](https://github.com/oobabooga/text-generation-webui)|![GitHub Repo stars](https://img.shields.io/github/stars/oobabooga/text-generation-webui?style=social)|一个用于运行大型语言模型(如LLaMA, LLaMA .cpp, GPT-J, Pythia, OPT和GALACTICA)的 web UI。|-|
 |[MLC LLM](https://github.com/mlc-ai/mlc-llm)|![GitHub Repo stars](https://img.shields.io/github/stars/mlc-ai/mlc-llm?style=social)|陈天奇大佬力作——MLC LLM，在各类硬件上原生部署任意大型语言模型。可将大模型应用于移动端（例如 iPhone）、消费级电脑端（例如 Mac）和 Web 浏览器。|-|
+|[privateGPT](https://github.com/imartinez/privateGPT)|![GitHub Repo stars](https://img.shields.io/github/stars/imartinez/privateGPT?style=social)|基于 Llama 的本地私人文档助手|-|
+|[Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese)|![GitHub Repo stars](https://img.shields.io/github/stars/SCIR-HI/Huatuo-Llama-Med-Chinese?style=social)|华佗——医疗领域中文大模型|-|
+
+
 
 ### [开源可商用 LLM：dolly](https://github.com/databrickslabs/dolly)
 
