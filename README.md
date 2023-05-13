@@ -329,6 +329,10 @@ MOSS是一个支持中英双语和多种插件的开源对话语言模型，moss
 - **中文视频地址：[面向开发者的 ChatGPT 提示词工程](https://space.bilibili.com/15467823/channel/seriesdetail?sid=3247315&ctype=0)**
 - **英文原视频地址：[ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/)**
 
+### [🚀 LangGPT —— 让人人都可快速编写高质量 Prompt!](https://github.com/yzfly/LangGPT)
+
+LangGPT 项目旨在以结构化、模板化的方式编写高质量 ChatGPT prompt，你可以将其视为一种面向大模型的 prompt 编程语言。
+
 ### [ChatGPT Prompt 系统学习](https://learningprompt.wiki/docs/chatgpt-learning-path)
 
 提供了初级、中级、高级篇 Prompt 中文学习教程，不错的系统学习 ChatGPT Prompt 教程。
