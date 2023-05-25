@@ -146,9 +146,9 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 
 有以下三种方法：
 
-* [Depay卡：](https://github.com/gclhaha/chatGPT-plus-guide) 技术路线是 RMB -> USDT —> Depay 虚拟卡 -> 充值，优点是匿名性好，缺点是操作复杂
+* [Onekey Card 开卡：](https://juejin.cn/post/7223343320298324029) 技术路线是 RMB -> USDT —> Onekey 虚拟卡 -> 充值
 * [nobepay 开卡：](https://zhuanlan.zhihu.com/p/619289623), 【[nobepay 官网](https://www.nobepay.com/)】，【[防止失效备份教程](imgs/nobepay_chatgpt.png)】 技术路线是: RMB -> nobepay 虚拟卡 -> 充值，优点是操作简单，缺点是需要绑定微信手机号等个人信息
-* [最新：Onekey Card 开卡：](https://juejin.cn/post/7223343320298324029) 技术路线是 RMB -> USDT —> Onekey 虚拟卡 -> 充值
+
 
 ![ChatGPT](imgs/openai_chatgpt.jpg)
 
@@ -415,6 +415,7 @@ https://github.com/mattnigh/ChatGPT3-Free-Prompt-List
 
 - [ChatGPT 越狱的奇技淫巧: Jailbreak Chat](https://www.jailbreakchat.com/)
 
+> https://github.com/0xk1h0/ChatGPT_DAN
 
 <ul>
 <li>
@@ -643,6 +644,7 @@ https://github.com/whoiskatrin/chart-gpt
 |[Databerry](https://github.com/gmpetrov/databerry)|![GitHub Repo stars](https://img.shields.io/github/stars/gmpetrov/databerry?style=social)|将自定义数据连接到大型语言模型的无代码平台。|使用个人数据打造自己的专属 LLMs 助手。支持个人文档、表格等数据上传，不需要自己编程|
 |[AudioGPT](https://github.com/AIGC-Audio/AudioGPT)|![GitHub Repo stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social)|理解和生成语音，音乐，声音和说话的人头|-|
 |[Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)|![GitHub Repo stars](https://img.shields.io/github/stars/JushBJJ/Mr.-Ranedeer-AI-Tutor?style=social)|学习助手，解释学习概念，制订学习计划|-|
+|[中文法律知识大模型 LaWGPT](https://github.com/pengxiao-song/LaWGPT)|![GitHub Repo stars](https://img.shields.io/github/stars/pengxiao-song/LaWGPT?style=social)|基于中文法律知识的大语言模型|-|
 
 
 ### 程序猿专区
