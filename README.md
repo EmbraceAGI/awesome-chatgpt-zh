@@ -185,11 +185,11 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 
 |名称|Stars|简介|备注|
 |---|---|---|---|
-|[lencx/ChatGPT](https://github.com/lencx/ChatGPT)|![GitHub Repo stars](https://img.shields.io/github/stars/lencx/ChatGPT?style=social)|基于 tauri 的跨平台 ChatGPT 客户端, 支持: Windows, Linux, MacOS, 应用内嵌入 ChatGPT 网页.| 需要翻墙。|
-|[chatbox](https://github.com/Bin-Huang/chatbox)|![GitHub Repo stars](https://img.shields.io/github/stars/Bin-Huang/chatbox?style=social)|开源的ChatGPT桌面应用，prompt 开发神器|全平台支持，下载安装包就能用|
-|[Chuanhu ChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)|![GitHub Repo stars](https://img.shields.io/github/stars/GaiZhenbiao/ChuanhuChatGPT?style=social)|为ChatGPT API提供了一个轻快好用的 Web 图形界面|支持直接在Hugging Face上部署，很方便。|
-|[ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop)|![GitHub Repo stars](https://img.shields.io/github/stars/Synaptrix/ChatGPT-Desktop?style=social)|ChatGPT-Desktop应用|-|
-|[ChatGPT-Desktop](https://github.com/ChatGPT-Desktop/ChatGPT-Desktop)|![GitHub Repo stars](https://img.shields.io/github/stars/ChatGPT-Desktop/ChatGPT-Desktop?style=social)|基于 tauri + vue3 开发的跨平台桌面端应用|需要自行准备 API KEY 使用。|
+|[lencx/ChatGPT](https://github.com/lencx/ChatGPT)|![GitHub Repo stars](https://badgen.net/github/stars/lencx/ChatGPT)|基于 tauri 的跨平台 ChatGPT 客户端, 支持: Windows, Linux, MacOS, 应用内嵌入 ChatGPT 网页.| 需要翻墙。|
+|[chatbox](https://github.com/Bin-Huang/chatbox)|![GitHub Repo stars](https://badgen.net/github/stars/Bin-Huang/chatbox)|开源的ChatGPT桌面应用，prompt 开发神器|全平台支持，下载安装包就能用|
+|[Chuanhu ChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)|![GitHub Repo stars](https://badgen.net/github/stars/GaiZhenbiao/ChuanhuChatGPT)|为ChatGPT API提供了一个轻快好用的 Web 图形界面|支持直接在Hugging Face上部署，很方便。|
+|[ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop)|![GitHub Repo stars](https://badgen.net/github/stars/Synaptrix/ChatGPT-Desktop)|ChatGPT-Desktop应用|-|
+|[ChatGPT-Desktop](https://github.com/ChatGPT-Desktop/ChatGPT-Desktop)|![GitHub Repo stars](https://badgen.net/github/stars/ChatGPT-Desktop/ChatGPT-Desktop)|基于 tauri + vue3 开发的跨平台桌面端应用|需要自行准备 API KEY 使用。|
 
 ### 💻 国外竞品
 <ul>
@@ -637,10 +637,10 @@ https://github.com/whoiskatrin/chart-gpt
 
 |名称|Stars|简介|备注|
 |---|---|---|---|
-|[Databerry](https://github.com/gmpetrov/databerry)|![GitHub Repo stars](https://img.shields.io/github/stars/gmpetrov/databerry?style=social)|将自定义数据连接到大型语言模型的无代码平台。|使用个人数据打造自己的专属 LLMs 助手。支持个人文档、表格等数据上传，不需要自己编程|
-|[AudioGPT](https://github.com/AIGC-Audio/AudioGPT)|![GitHub Repo stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social)|理解和生成语音，音乐，声音和说话的人头|-|
-|[Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)|![GitHub Repo stars](https://img.shields.io/github/stars/JushBJJ/Mr.-Ranedeer-AI-Tutor?style=social)|学习助手，解释学习概念，制订学习计划|-|
-|[中文法律知识大模型 LaWGPT](https://github.com/pengxiao-song/LaWGPT)|![GitHub Repo stars](https://img.shields.io/github/stars/pengxiao-song/LaWGPT?style=social)|基于中文法律知识的大语言模型|-|
+|[Databerry](https://github.com/gmpetrov/databerry)|![GitHub Repo stars](https://badgen.net/github/stars/gmpetrov/databerry)|将自定义数据连接到大型语言模型的无代码平台。|使用个人数据打造自己的专属 LLMs 助手。支持个人文档、表格等数据上传，不需要自己编程|
+|[AudioGPT](https://github.com/AIGC-Audio/AudioGPT)|![GitHub Repo stars](https://badgen.net/github/stars/AIGC-Audio/AudioGPT)|理解和生成语音，音乐，声音和说话的人头|-|
+|[Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)|![GitHub Repo stars](https://badgen.net/github/stars/JushBJJ/Mr.-Ranedeer-AI-Tutor)|学习助手，解释学习概念，制订学习计划|-|
+|[中文法律知识大模型 LaWGPT](https://github.com/pengxiao-song/LaWGPT)|![GitHub Repo stars](https://badgen.net/github/stars/pengxiao-song/LaWGPT)|基于中文法律知识的大语言模型|-|
 
 
 ### 程序猿专区
@@ -649,29 +649,29 @@ https://github.com/whoiskatrin/chart-gpt
 
 |名称|Stars|简介|备注|
 |---|---|---|---|
-|[openai-cookbook](https://github.com/openai/openai-cookbook)|![GitHub Repo stars](https://img.shields.io/github/stars/openai/openai-cookbook?style=social)|OpenAI 官方使用指南|-|
-|[openai-python](https://github.com/openai/openai-python)|![GitHub Repo stars](https://img.shields.io/github/stars/openai/openai-python?style=social)|OpenAI python 接口|-|
-|[langchain](https://github.com/hwchase17/langchain)|![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain?style=social)|开发自己的 ChatGPT 应用|-|
-|[LangFlow](https://github.com/logspace-ai/langflow)|![GitHub Repo stars](https://img.shields.io/github/stars/logspace-ai/langflow?style=social)|LangChain的一个UI|-|
-|[langchain-tutorials](https://github.com/gkamradt/langchain-tutorials)|![GitHub Repo stars](https://img.shields.io/github/stars/gkamradt/langchain-tutorials?style=social)|LangChain 教程|-|
-|[CopilotForXcode](https://github.com/intitni/CopilotForXcode)|![GitHub Repo stars](https://img.shields.io/github/stars/intitni/CopilotForXcode?style=social)|Copilot Xcode Source Editor Extension|-|
-|[GPTcommit](https://github.com/zurawiki/gptcommit)|![GitHub Repo stars](https://img.shields.io/github/stars/zurawiki/gptcommit?style=social)|以后 git 提交 commit 信息不用抓耳挠腮了|-|
-|[opencommit](https://github.com/di-sukharev/opencommit)|![GitHub Repo stars](https://img.shields.io/github/stars/di-sukharev/opencommit?style=social)|用命令自动生成令人印象深刻的 commit|-|
-|[AutoDoc-ChatGPT](https://github.com/awekrx/AutoDoc-ChatGPT)|![GitHub Repo stars](https://img.shields.io/github/stars/awekrx/AutoDoc-ChatGPT?style=social)|自动生成任何编程语言的文档|-|
-|[chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)|![GitHub Repo stars](https://img.shields.io/github/stars/zhayujie/chatgpt-on-wechat?style=social)|使用ChatGPT搭建微信聊天机器人|-|
-|[awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/nichtdax/awesome-totally-open-chatgpt?style=social)|开源 ChatGPT 替代品列表|-|
-|[AI Anything](https://github.com/KeJunMao/ai-anything/blob/main/README.zh-cn.md)|![GitHub Repo stars](https://img.shields.io/github/stars/KeJunMao/ai-anything?style=social)|人人都能创建 GPT 工具|-|
-|[Portal](https://github.com/lxfater/Portal) |![GitHub Repo stars](https://img.shields.io/github/stars/lxfater/Portal?style=social)|Portal是一款传输工具，旨在将ChatGPT的能力整合到用户的工作流程中。它把整个操作系统当成自己的舞台，可以在任意软件上操作ChatGPT。|在任意软件上操作ChatGPT|
-|[SQL Chat](https://github.com/sqlchat/sqlchat)|![GitHub Repo stars](https://img.shields.io/github/stars/sqlchat/sqlchat?style=social)|通过聊天生成 SQL 操作数据库|-|
-|[Chatgpt-Telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot)|![GitHub Repo stars](https://img.shields.io/github/stars/n3d1117/chatgpt-telegram-bot?style=social)|电报 ChatGPT 机器人|-|
-|[ChatBot-UI](https://github.com/mckaywrigley/chatbot-ui)|![GitHub Repo stars](https://img.shields.io/github/stars/mckaywrigley/chatbot-ui?style=social)|搭建属于自己的 ChatGPT 网站|需要使用 API KEY|
-|[gptcache](https://github.com/zilliztech/gptcache)|![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/gptcache?style=social)|AIGC 应用程序的memcache,一个强大的缓存库，可用于加速和降低依赖 LLM 服务的聊天应用程序的成本，可用作 AIGC 应用程序的memcache，类似于 Redis 用于传统应用程序的方式。[知乎简介](https://zhuanlan.zhihu.com/p/618630093)：有效果实测图和基本介绍。|-|
-|[engshell](https://github.com/emcf/engshell)|![GitHub Repo stars](https://img.shields.io/github/stars/emcf/engshell?style=social)|LLMs 驱动的操作系统的 Shell|-|
+|[openai-cookbook](https://github.com/openai/openai-cookbook)|![GitHub Repo stars](https://badgen.net/github/stars/openai/openai-cookbook)|OpenAI 官方使用指南|-|
+|[openai-python](https://github.com/openai/openai-python)|![GitHub Repo stars](https://badgen.net/github/stars/openai/openai-python)|OpenAI python 接口|-|
+|[langchain](https://github.com/hwchase17/langchain)|![GitHub Repo stars](https://badgen.net/github/stars/hwchase17/langchain)|开发自己的 ChatGPT 应用|-|
+|[LangFlow](https://github.com/logspace-ai/langflow)|![GitHub Repo stars](https://badgen.net/github/stars/logspace-ai/langflow)|LangChain的一个UI|-|
+|[langchain-tutorials](https://github.com/gkamradt/langchain-tutorials)|![GitHub Repo stars](https://badgen.net/github/stars/gkamradt/langchain-tutorials)|LangChain 教程|-|
+|[CopilotForXcode](https://github.com/intitni/CopilotForXcode)|![GitHub Repo stars](https://badgen.net/github/stars/intitni/CopilotForXcode)|Copilot Xcode Source Editor Extension|-|
+|[GPTcommit](https://github.com/zurawiki/gptcommit)|![GitHub Repo stars](https://badgen.net/github/stars/zurawiki/gptcommit)|以后 git 提交 commit 信息不用抓耳挠腮了|-|
+|[opencommit](https://github.com/di-sukharev/opencommit)|![GitHub Repo stars](https://badgen.net/github/stars/di-sukharev/opencommit)|用命令自动生成令人印象深刻的 commit|-|
+|[AutoDoc-ChatGPT](https://github.com/awekrx/AutoDoc-ChatGPT)|![GitHub Repo stars](https://badgen.net/github/stars/awekrx/AutoDoc-ChatGPT)|自动生成任何编程语言的文档|-|
+|[chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)|![GitHub Repo stars](https://badgen.net/github/stars/zhayujie/chatgpt-on-wechat)|使用ChatGPT搭建微信聊天机器人|-|
+|[awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt)|![GitHub Repo stars](https://badgen.net/github/stars/nichtdax/awesome-totally-open-chatgpt)|开源 ChatGPT 替代品列表|-|
+|[AI Anything](https://github.com/KeJunMao/ai-anything/blob/main/README.zh-cn.md)|![GitHub Repo stars](https://badgen.net/github/stars/KeJunMao/ai-anything)|人人都能创建 GPT 工具|-|
+|[Portal](https://github.com/lxfater/Portal) |![GitHub Repo stars](https://badgen.net/github/stars/lxfater/Portal)|Portal是一款传输工具，旨在将ChatGPT的能力整合到用户的工作流程中。它把整个操作系统当成自己的舞台，可以在任意软件上操作ChatGPT。|在任意软件上操作ChatGPT|
+|[SQL Chat](https://github.com/sqlchat/sqlchat)|![GitHub Repo stars](https://badgen.net/github/stars/sqlchat/sqlchat)|通过聊天生成 SQL 操作数据库|-|
+|[Chatgpt-Telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot)|![GitHub Repo stars](https://badgen.net/github/stars/n3d1117/chatgpt-telegram-bot)|电报 ChatGPT 机器人|-|
+|[ChatBot-UI](https://github.com/mckaywrigley/chatbot-ui)|![GitHub Repo stars](https://badgen.net/github/stars/mckaywrigley/chatbot-ui)|搭建属于自己的 ChatGPT 网站|需要使用 API KEY|
+|[gptcache](https://github.com/zilliztech/gptcache)|![GitHub Repo stars](https://badgen.net/github/stars/zilliztech/gptcache)|AIGC 应用程序的memcache,一个强大的缓存库，可用于加速和降低依赖 LLM 服务的聊天应用程序的成本，可用作 AIGC 应用程序的memcache，类似于 Redis 用于传统应用程序的方式。[知乎简介](https://zhuanlan.zhihu.com/p/618630093)：有效果实测图和基本介绍。|-|
+|[engshell](https://github.com/emcf/engshell)|![GitHub Repo stars](https://badgen.net/github/stars/emcf/engshell)|LLMs 驱动的操作系统的 Shell|-|
 |[CodeWhisperer](https://aws.amazon.com/codewhisperer/)|-|免费，支持中文的 AI 代码助手，注册教程如下：官方地址：https://aws.amazon.com/codewhisperer/ 知乎保姆级教程：https://zhuanlan.zhihu.com/p/621800084|-|
-|[gpt4free](https://github.com/xtekky/gpt4free)|![GitHub Repo stars](https://img.shields.io/github/stars/xtekky/gpt4free?style=social)|提供 GPT-4/3.5 的来自各种网站的逆向 API，来自 ChatGPT、poe.com 等各种网站，可以像Openai的官方软件包一样使用。|免费的编程接口！还有 GPT-4 ！不错！|
-|[bloop](https://github.com/BloopAI/bloop)|![GitHub Repo stars](https://img.shields.io/github/stars/BloopAI/bloop?style=social)|bloop是一个用Rust编写的快速代码搜索引擎。|基于ChatGPT,和代码对话！|
-|[WebGPT](https://github.com/0hq/WebGPT)|![GitHub Repo stars](https://img.shields.io/github/stars/0hq/WebGPT?style=social)|WebGPT 是基于浏览器 WebGPU 能力打造的在流量器运行 GPT 模型的应用|未来可期~|
-|[PentestGPT](https://github.com/GreyDGL/PentestGPT)|![GitHub Repo stars](https://img.shields.io/github/stars/GreyDGL/PentestGPT?style=social)|基于 GPT 能力的渗透测试工具|-|
+|[gpt4free](https://github.com/xtekky/gpt4free)|![GitHub Repo stars](https://badgen.net/github/stars/xtekky/gpt4free)|提供 GPT-4/3.5 的来自各种网站的逆向 API，来自 ChatGPT、poe.com 等各种网站，可以像Openai的官方软件包一样使用。|免费的编程接口！还有 GPT-4 ！不错！|
+|[bloop](https://github.com/BloopAI/bloop)|![GitHub Repo stars](https://badgen.net/github/stars/BloopAI/bloop)|bloop是一个用Rust编写的快速代码搜索引擎。|基于ChatGPT,和代码对话！|
+|[WebGPT](https://github.com/0hq/WebGPT)|![GitHub Repo stars](https://badgen.net/github/stars/0hq/WebGPT)|WebGPT 是基于浏览器 WebGPU 能力打造的在流量器运行 GPT 模型的应用|未来可期~|
+|[PentestGPT](https://github.com/GreyDGL/PentestGPT)|![GitHub Repo stars](https://badgen.net/github/stars/GreyDGL/PentestGPT)|基于 GPT 能力的渗透测试工具|-|
 
 
 #### [OpenGPT](https://open-gpt.app/)
@@ -785,27 +785,27 @@ OpenAI 现已经支持插件功能，可以预见这个插件平台将成为新�
 
 |名称|Stars|简介|备注|
 |---|---|---|---|
-|[openai-cookbook](https://github.com/openai/openai-cookbook)|![GitHub Repo stars](https://img.shields.io/github/stars/openai/openai-cookbook?style=social)|Examples and guides for using the OpenAI API|OpenAI API 官方使用指南|
-|[Azure OpenAI Samples](https://github.com/Azure-Samples/openai)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/openai?style=social)|The repository for all Azure OpenAI Samples complementing the OpenAI cookbook.|微软 Azure OpenAI 服务使用示例|
-|[openai-python](https://github.com/openai/openai-python)|![GitHub Repo stars](https://img.shields.io/github/stars/openai/openai-python?style=social)|The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.|OpenAI python 接口|
+|[openai-cookbook](https://github.com/openai/openai-cookbook)|![GitHub Repo stars](https://badgen.net/github/stars/openai/openai-cookbook)|Examples and guides for using the OpenAI API|OpenAI API 官方使用指南|
+|[Azure OpenAI Samples](https://github.com/Azure-Samples/openai)|![GitHub Repo stars](https://badgen.net/github/stars/Azure-Samples/openai)|The repository for all Azure OpenAI Samples complementing the OpenAI cookbook.|微软 Azure OpenAI 服务使用示例|
+|[openai-python](https://github.com/openai/openai-python)|![GitHub Repo stars](https://badgen.net/github/stars/openai/openai-python)|The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.|OpenAI python 接口|
 |[OpenAI 插件开发官方文档](https://platform.openai.com/docs/plugins/introduction)|-|-|-|
-|[OpenAI 插件开发 demo ](https://github.com/openai/plugins-quickstart)|![GitHub Repo stars](https://img.shields.io/github/stars/openai/plugins-quickstart?style=social)|Get a ChatGPT plugin up and running in under 5 minutes!|5min 入门插件开发|
+|[OpenAI 插件开发 demo ](https://github.com/openai/plugins-quickstart)|![GitHub Repo stars](https://badgen.net/github/stars/openai/plugins-quickstart)|Get a ChatGPT plugin up and running in under 5 minutes!|5min 入门插件开发|
 
 ### Prompt 开发资源
 |名称|Stars|简介|备注|
 |---|---|---|---|
 | [吴恩达《面向开发者的 ChatGPT 提示词工程》](https://learn.deeplearning.ai/)|-| DeepLearning.ai 创始人吴恩达与 OpenAI 开发者 Iza Fulford 联手推出了一门面向开发者的技术教程：《**ChatGPT 提示工程**》|[《面向开发者的 ChatGPT 提示词工程》非官方版中英双语字幕](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese) - **中文视频地址：[面向开发者的 ChatGPT 提示词工程](https://space.bilibili.com/15467823/channel/seriesdetail?sid=3247315&ctype=0)** - **英文原视频地址：[ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/)**|
-|[微软 guidance](https://github.com/microsoft/guidance)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/guidance?style=social)|A guidance language for controlling large language models.|更好的控制大模型工具|
-|[高质量导师提示词 Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)|![GitHub Repo stars](https://img.shields.io/github/stars/JushBJJ/Mr.-Ranedeer-AI-Tutor?style=social)|A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.|极具参考价值的提示词|
-|[结构化高质量提示词 LangGPT](https://github.com/yzfly/LangGPT)|![GitHub Repo stars](https://img.shields.io/github/stars/yzfly/LangGPT?style=social)|LangGPT: Empowering everyone to become a prompt expert!🚀 Structured Prompt，结构化提示词。|使用结构化方式写高质量提示词|
+|[微软 guidance](https://github.com/microsoft/guidance)|![GitHub Repo stars](https://badgen.net/github/stars/microsoft/guidance)|A guidance language for controlling large language models.|更好的控制大模型工具|
+|[高质量导师提示词 Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)|![GitHub Repo stars](https://badgen.net/github/stars/JushBJJ/Mr.-Ranedeer-AI-Tutor)|A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.|极具参考价值的提示词|
+|[结构化高质量提示词 LangGPT](https://github.com/yzfly/LangGPT)|![GitHub Repo stars](https://badgen.net/github/stars/yzfly/LangGPT)|LangGPT: Empowering everyone to become a prompt expert!🚀 Structured Prompt，结构化提示词。|使用结构化方式写高质量提示词|
 
 ### LangChain 开发资源
 
 |名称|Stars|简介|备注|
 |---|---|---|---|
-|[langchain](https://github.com/hwchase17/langchain)|![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain?style=social)|Building applications with LLMs through composability|开发自己的 ChatGPT 应用|
-|[LangFlow](https://github.com/logspace-ai/langflow)|![GitHub Repo stars](https://img.shields.io/github/stars/logspace-ai/langflow?style=social)|LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.|LangChain的一个UI|
-|[langchain-tutorials](https://github.com/gkamradt/langchain-tutorials)|![GitHub Repo stars](https://img.shields.io/github/stars/gkamradt/langchain-tutorials?style=social)|Overview and tutorial of the LangChain Library|LangChain 教程|
+|[langchain](https://github.com/hwchase17/langchain)|![GitHub Repo stars](https://badgen.net/github/stars/hwchase17/langchain)|Building applications with LLMs through composability|开发自己的 ChatGPT 应用|
+|[LangFlow](https://github.com/logspace-ai/langflow)|![GitHub Repo stars](https://badgen.net/github/stars/logspace-ai/langflow)|LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.|LangChain的一个UI|
+|[langchain-tutorials](https://github.com/gkamradt/langchain-tutorials)|![GitHub Repo stars](https://badgen.net/github/stars/gkamradt/langchain-tutorials)|Overview and tutorial of the LangChain Library|LangChain 教程|
 |[LangChain 教程](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)|-|-|吴恩达与 LangChain 开发者推出的教程，目前免费|
 
 ### 向量数据库
@@ -815,16 +815,16 @@ OpenAI 现已经支持插件功能，可以预见这个插件平台将成为新�
 |名称|Stars|简介| 备注 |
 -|-|-|-
 |[PineCone](https://www.pinecone.io/) |-|Pinecone为向量数据提供了数据存储解决方案。|提供免费方案，目前注册火爆|
-|[chroma](https://github.com/chroma-core/chroma) |![GitHub Repo stars](https://img.shields.io/github/stars/chroma-core/chroma?style=social)|Chroma 是一个用于 Python / JavaScript LLM 应用程序的本地向量数据库，它具有内存快速访问的优势。|开源免费|
-|[qdrant](https://github.com/qdrant/qdrant) |![GitHub Repo stars](https://img.shields.io/github/stars/qdrant/qdrant?style=social)|QDRANT AI应用程序矢量数据库，也提供云数据库: https://cloud.qdrant.io/|现在注册有 1G 的永久免费数据库|
-|[Milvus](https://github.com/milvus-io/milvus) |![GitHub Repo stars](https://img.shields.io/github/stars/milvus-io/milvus?style=social)|Milvus 是一个开源矢量数据库，旨在为嵌入相似性搜索和 AI 应用程序提供支持。 除了向量，Milvus 还支持布尔型、整数、浮点数等数据类型。 Milvus 中的一个集合可以包含多个字段，用于容纳不同的数据特征或属性。 Milvus 将标量过滤与强大的向量相似性搜索相结合，为分析非结构化数据提供了一个现代、灵活的平台。|目前提供多种部署方式，支持docker, k8s, embed-milvus(pip install嵌入安装)，同时也有[在线云服务](https://cloud.zilliz.com/)。|
-|[weaviate](https://github.com/weaviate/weaviate) |![GitHub Repo stars](https://img.shields.io/github/stars/weaviate/weaviate?style=social)|开源的向量数据库，可以存储对象和向量，允许将向量搜索与结构化过滤相结合，并具有云原生数据库的容错性和可扩展性，可通过 GraphQL、REST 和各种语言客户端进行访问。|-|
+|[chroma](https://github.com/chroma-core/chroma) |![GitHub Repo stars](https://badgen.net/github/stars/chroma-core/chroma)|Chroma 是一个用于 Python / JavaScript LLM 应用程序的本地向量数据库，它具有内存快速访问的优势。|开源免费|
+|[qdrant](https://github.com/qdrant/qdrant) |![GitHub Repo stars](https://badgen.net/github/stars/qdrant/qdrant)|QDRANT AI应用程序矢量数据库，也提供云数据库: https://cloud.qdrant.io/|现在注册有 1G 的永久免费数据库|
+|[Milvus](https://github.com/milvus-io/milvus) |![GitHub Repo stars](https://badgen.net/github/stars/milvus-io/milvus)|Milvus 是一个开源矢量数据库，旨在为嵌入相似性搜索和 AI 应用程序提供支持。 除了向量，Milvus 还支持布尔型、整数、浮点数等数据类型。 Milvus 中的一个集合可以包含多个字段，用于容纳不同的数据特征或属性。 Milvus 将标量过滤与强大的向量相似性搜索相结合，为分析非结构化数据提供了一个现代、灵活的平台。|目前提供多种部署方式，支持docker, k8s, embed-milvus(pip install嵌入安装)，同时也有[在线云服务](https://cloud.zilliz.com/)。|
+|[weaviate](https://github.com/weaviate/weaviate) |![GitHub Repo stars](https://badgen.net/github/stars/weaviate/weaviate)|开源的向量数据库，可以存储对象和向量，允许将向量搜索与结构化过滤相结合，并具有云原生数据库的容错性和可扩展性，可通过 GraphQL、REST 和各种语言客户端进行访问。|-|
 
 ### 其他开发资源
 
 |名称|Stars|简介|备注|
 |---|---|---|---|
-|[llm-numbers](https://github.com/ray-project/llm-numbers) |![GitHub Repo stars](https://img.shields.io/github/stars/ray-project/llm-numbers?style=social)|Numbers every LLM developer should know.|大模型开发者必知数据|
+|[llm-numbers](https://github.com/ray-project/llm-numbers) |![GitHub Repo stars](https://badgen.net/github/stars/ray-project/llm-numbers)|Numbers every LLM developer should know.|大模型开发者必知数据|
 | [《用ChatGPT API构建系统》课程](https://learn.deeplearning.ai/chatgpt-building-system/lesson/1/introduction)|-| DeepLearning.ai 创始人吴恩达和OpenAI合作的新的“使用ChatGPT API构建系统”的课程|课程链接（中英文字幕）: https://pan.baidu.com/s/1BgUKWwh5YSby3IVkGvLi_w?pwd=22b7 提取码: 22b7|
 |[开发指南：ChatGPT 插件开发](https://mp.weixin.qq.com/s/AmNkiLOqJo7tEJZPX34oeg) |-|详细介绍了开发流程，并通过“待办事项列表(to-do list)插件”的案例开发过程进行了演示。|-|
 
@@ -836,28 +836,28 @@ OpenAI 的 ChatGPT 大型语言模型（LLM）并未开源，这部分收录一�
 ### 模型列表
 |名称|Stars|简介| 备注 |
 -|-|-|-
-|[🤖 LLMs: awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) |![GitHub Repo stars](https://img.shields.io/github/stars/nichtdax/awesome-totally-open-chatgpt?style=social)|开源LLMs 收集。|-|
-|[Open LLMs](https://github.com/eugeneyan/open-llms) |![GitHub Repo stars](https://img.shields.io/github/stars/eugeneyan/open-llms?style=social)|开源可商用的大模型。|-|
-|[Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) |![GitHub Repo stars](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM?style=social)|大型语言模型的论文列表，特别是与 ChatGPT相关的论文，还包含LLM培训框架、部署LLM的工具、关于LLM的课程和教程以及所有公开可用的LLM 权重和 API。|-|
-|[LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) |![GitHub Repo stars](https://img.shields.io/github/stars/Mooler0410/LLMsPracticalGuide?style=social)|亚马逊科学家杨靖锋等大佬创建的语言大模型实践指南，收集了许多经典的论文、示例和图表，展现了 GPT 这类大模型的发展历程等|-|
-|[awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) |![GitHub Repo stars](https://img.shields.io/github/stars/imaurer/awesome-decentralized-llm?style=social)|能在本地运行的资源 LLMs。|-|
-|[minGPT](https://github.com/karpathy/minGPT) |![GitHub Repo stars](https://img.shields.io/github/stars/karpathy/minGPT?style=social)|karpathy大神发布的一个 OpenAI GPT(生成预训练转换器)训练的最小 PyTorch 实现，代码十分简洁明了，适合用于动手学习 GPT 模型。|-|
-|[OpenChatKit](https://github.com/togethercomputer/OpenChatKit) |![GitHub Repo stars](https://img.shields.io/github/stars/togethercomputer/OpenChatKit?style=social)|开源了数据、模型和权重，以及提供训练，微调 LLMs 教程。|-|
-|[ChatYuan](https://github.com/clue-ai/ChatYuan) |![GitHub Repo stars](https://img.shields.io/github/stars/clue-ai/ChatYuan?style=social)|ChatYuan-large-v2是ChatYuan系列中以轻量化实现高质量效果的模型之一，用户可以在消费级显卡、 PC甚至手机上进行推理（INT4 最低只需 400M ）。|-|
-|[Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) |![GitHub Repo stars](https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca?style=social)|来自斯坦福，建立并共享一个遵循指令的LLaMA模型。|-|
-|[gpt4all](https://github.com/nomic-ai/gpt4all) |![GitHub Repo stars](https://img.shields.io/github/stars/nomic-ai/gpt4all?style=social)|基于 LLaMa 的 LLM 助手，提供训练代码、数据和演示，训练一个自己的 AI 助手。|-|
-|[FreedomGPT](https://github.com/ohmplatform/FreedomGPT) |![GitHub Repo stars](https://img.shields.io/github/stars/ohmplatform/FreedomGPT?style=social)|自由无限制的可以在 windows 和 mac 上本地运行的 GPT，基于 Alpaca Lora 模型。|-|
-|[LMFlow](https://github.com/OptimalScale/LMFlow) |![GitHub Repo stars](https://img.shields.io/github/stars/OptimalScale/LMFlow?style=social)|共建大模型社区，让每个人都训得起大模型。|-|
-|[FastChat](https://github.com/lm-sys/FastChat) |![GitHub Repo stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social)|继草泥马（Alpaca）后，斯坦福联手CMU、UC伯克利等机构的学者再次发布了130亿参数模型骆马（Vicuna），仅需300美元就能实现ChatGPT 90%的性能。FastChat 是Vicuna 的GitHub 开源仓库。|-|
-|[Open-Assistant](https://github.com/LAION-AI/Open-Assistant)|![GitHub Repo stars](https://img.shields.io/github/stars/LAION-AI/Open-Assistant?style=social)|知名 AI 机构 LAION-AI 开源的聊天助手，聊天能力很强，目前中文能力较差。|-|
-|[llama.cpp](https://github.com/ggerganov/llama.cpp)|![GitHub Repo stars](https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social)|实现在MacBook上运行模型。|-|
-|[EasyLM](https://github.com/young-geng/EasyLM#koala)|![GitHub Repo stars](https://img.shields.io/github/stars/young-geng/EasyLM?style=social)|在羊驼基础上改进的新的聊天机器人考拉。|[介绍页](https://bair.berkeley.edu/blog/2023/04/03/koala/)|
-|[Alpaca-CoT](https://github.com/PhoebusSi/Alpaca-CoT/blob/main/CN_README.md)|![GitHub Repo stars](https://img.shields.io/github/stars/PhoebusSi/Alpaca-CoT?style=social)|Alpaca-CoT项目旨在探究如何更好地通过instruction-tuning的方式来诱导LLM具备类似ChatGPT的交互和instruction-following能力。|-|
-|[OpenFlamingo](https://github.com/mlfoundations/open_flamingo)|![GitHub Repo stars](https://img.shields.io/github/stars/mlfoundations/open_flamingo?style=social)|OpenFlamingo 是一个用于评估和训练大型多模态模型的开源框架，是 DeepMind Flamingo 模型的开源版本，也是 AI 世界关于大模型进展的一大步。|大型多模态模型训练和评估开源框架。|
-|[text-generation-webui](https://github.com/oobabooga/text-generation-webui)|![GitHub Repo stars](https://img.shields.io/github/stars/oobabooga/text-generation-webui?style=social)|一个用于运行大型语言模型(如LLaMA, LLaMA .cpp, GPT-J, Pythia, OPT和GALACTICA)的 web UI。|-|
-|[MLC LLM](https://github.com/mlc-ai/mlc-llm)|![GitHub Repo stars](https://img.shields.io/github/stars/mlc-ai/mlc-llm?style=social)|陈天奇大佬力作——MLC LLM，在各类硬件上原生部署任意大型语言模型。可将大模型应用于移动端（例如 iPhone）、消费级电脑端（例如 Mac）和 Web 浏览器。|-|
-|[privateGPT](https://github.com/imartinez/privateGPT)|![GitHub Repo stars](https://img.shields.io/github/stars/imartinez/privateGPT?style=social)|基于 Llama 的本地私人文档助手|-|
-|[Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese)|![GitHub Repo stars](https://img.shields.io/github/stars/SCIR-HI/Huatuo-Llama-Med-Chinese?style=social)|华佗——医疗领域中文大模型|-|
+|[🤖 LLMs: awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) |![GitHub Repo stars](https://badgen.net/github/stars/nichtdax/awesome-totally-open-chatgpt)|开源LLMs 收集。|-|
+|[Open LLMs](https://github.com/eugeneyan/open-llms) |![GitHub Repo stars](https://badgen.net/github/stars/eugeneyan/open-llms)|开源可商用的大模型。|-|
+|[Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) |![GitHub Repo stars](https://badgen.net/github/stars/Hannibal046/Awesome-LLM)|大型语言模型的论文列表，特别是与 ChatGPT相关的论文，还包含LLM培训框架、部署LLM的工具、关于LLM的课程和教程以及所有公开可用的LLM 权重和 API。|-|
+|[LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) |![GitHub Repo stars](https://badgen.net/github/stars/Mooler0410/LLMsPracticalGuide)|亚马逊科学家杨靖锋等大佬创建的语言大模型实践指南，收集了许多经典的论文、示例和图表，展现了 GPT 这类大模型的发展历程等|-|
+|[awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) |![GitHub Repo stars](https://badgen.net/github/stars/imaurer/awesome-decentralized-llm)|能在本地运行的资源 LLMs。|-|
+|[minGPT](https://github.com/karpathy/minGPT) |![GitHub Repo stars](https://badgen.net/github/stars/karpathy/minGPT)|karpathy大神发布的一个 OpenAI GPT(生成预训练转换器)训练的最小 PyTorch 实现，代码十分简洁明了，适合用于动手学习 GPT 模型。|-|
+|[OpenChatKit](https://github.com/togethercomputer/OpenChatKit) |![GitHub Repo stars](https://badgen.net/github/stars/togethercomputer/OpenChatKit)|开源了数据、模型和权重，以及提供训练，微调 LLMs 教程。|-|
+|[ChatYuan](https://github.com/clue-ai/ChatYuan) |![GitHub Repo stars](https://badgen.net/github/stars/clue-ai/ChatYuan)|ChatYuan-large-v2是ChatYuan系列中以轻量化实现高质量效果的模型之一，用户可以在消费级显卡、 PC甚至手机上进行推理（INT4 最低只需 400M ）。|-|
+|[Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) |![GitHub Repo stars](https://badgen.net/github/stars/tatsu-lab/stanford_alpaca)|来自斯坦福，建立并共享一个遵循指令的LLaMA模型。|-|
+|[gpt4all](https://github.com/nomic-ai/gpt4all) |![GitHub Repo stars](https://badgen.net/github/stars/nomic-ai/gpt4all)|基于 LLaMa 的 LLM 助手，提供训练代码、数据和演示，训练一个自己的 AI 助手。|-|
+|[FreedomGPT](https://github.com/ohmplatform/FreedomGPT) |![GitHub Repo stars](https://badgen.net/github/stars/ohmplatform/FreedomGPT)|自由无限制的可以在 windows 和 mac 上本地运行的 GPT，基于 Alpaca Lora 模型。|-|
+|[LMFlow](https://github.com/OptimalScale/LMFlow) |![GitHub Repo stars](https://badgen.net/github/stars/OptimalScale/LMFlow)|共建大模型社区，让每个人都训得起大模型。|-|
+|[FastChat](https://github.com/lm-sys/FastChat) |![GitHub Repo stars](https://badgen.net/github/stars/lm-sys/FastChat)|继草泥马（Alpaca）后，斯坦福联手CMU、UC伯克利等机构的学者再次发布了130亿参数模型骆马（Vicuna），仅需300美元就能实现ChatGPT 90%的性能。FastChat 是Vicuna 的GitHub 开源仓库。|-|
+|[Open-Assistant](https://github.com/LAION-AI/Open-Assistant)|![GitHub Repo stars](https://badgen.net/github/stars/LAION-AI/Open-Assistant)|知名 AI 机构 LAION-AI 开源的聊天助手，聊天能力很强，目前中文能力较差。|-|
+|[llama.cpp](https://github.com/ggerganov/llama.cpp)|![GitHub Repo stars](https://badgen.net/github/stars/ggerganov/llama.cpp)|实现在MacBook上运行模型。|-|
+|[EasyLM](https://github.com/young-geng/EasyLM#koala)|![GitHub Repo stars](https://badgen.net/github/stars/young-geng/EasyLM)|在羊驼基础上改进的新的聊天机器人考拉。|[介绍页](https://bair.berkeley.edu/blog/2023/04/03/koala/)|
+|[Alpaca-CoT](https://github.com/PhoebusSi/Alpaca-CoT/blob/main/CN_README.md)|![GitHub Repo stars](https://badgen.net/github/stars/PhoebusSi/Alpaca-CoT)|Alpaca-CoT项目旨在探究如何更好地通过instruction-tuning的方式来诱导LLM具备类似ChatGPT的交互和instruction-following能力。|-|
+|[OpenFlamingo](https://github.com/mlfoundations/open_flamingo)|![GitHub Repo stars](https://badgen.net/github/stars/mlfoundations/open_flamingo)|OpenFlamingo 是一个用于评估和训练大型多模态模型的开源框架，是 DeepMind Flamingo 模型的开源版本，也是 AI 世界关于大模型进展的一大步。|大型多模态模型训练和评估开源框架。|
+|[text-generation-webui](https://github.com/oobabooga/text-generation-webui)|![GitHub Repo stars](https://badgen.net/github/stars/oobabooga/text-generation-webui)|一个用于运行大型语言模型(如LLaMA, LLaMA .cpp, GPT-J, Pythia, OPT和GALACTICA)的 web UI。|-|
+|[MLC LLM](https://github.com/mlc-ai/mlc-llm)|![GitHub Repo stars](https://badgen.net/github/stars/mlc-ai/mlc-llm)|陈天奇大佬力作——MLC LLM，在各类硬件上原生部署任意大型语言模型。可将大模型应用于移动端（例如 iPhone）、消费级电脑端（例如 Mac）和 Web 浏览器。|-|
+|[privateGPT](https://github.com/imartinez/privateGPT)|![GitHub Repo stars](https://badgen.net/github/stars/imartinez/privateGPT)|基于 Llama 的本地私人文档助手|-|
+|[Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese)|![GitHub Repo stars](https://badgen.net/github/stars/SCIR-HI/Huatuo-Llama-Med-Chinese)|华佗——医疗领域中文大模型|-|
 
 
 
@@ -1001,19 +1001,19 @@ MiniGPT-4 项目破解了 GPT4 的魔法，树立了很好的一个示范和方�
 ### 更多 AGI 项目
 |名称|Stars|简介| 备注 |
 -|-|-|-
-|[Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) |![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT?style=social)|An experimental open-source attempt to make GPT-4 fully autonomous.|-|
-|[Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins) |![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT-Plugins?style=social)|Plugins for Auto-GPT.|-|
-|[AutoGPT.js](https://github.com/zabirauf/AutoGPT.js)|![GitHub Repo stars](https://img.shields.io/github/stars/zabirauf/AutoGPT.js?style=social)|Auto-GPT on the browser.|-|
-|[AutoGPT-GUI](https://github.com/thecookingsenpai/autogpt-gui)|![GitHub Repo stars](https://img.shields.io/github/stars/thecookingsenpai/autogpt-gui?style=social)|A graphical user interface for AutoGPT.|AutoGPT 项目的图形界面|
-|[AgentGPT](https://github.com/reworkd/AgentGPT) |![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=social)|Assemble, configure, and deploy autonomous AI Agents in your browser.|-|
-|[JARVIS](https://github.com/microsoft/JARVIS)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/JARVIS?style=social)|A system to connect LLMs with ML community.|-|
-|[babyagi](https://github.com/yoheinakajima/babyagi)|![GitHub Repo stars](https://img.shields.io/github/stars/yoheinakajima/babyagi?style=social)|Use OpenAI and Pinecone APIs to create, prioritize, and execute tasks.|[中文博客-babyagi: 人工智能任务管理系统](https://juejin.cn/post/7218815501433946173)|
-|[OpenAGI](https://github.com/agiresearch/OpenAGI) |![GitHub Repo stars](https://img.shields.io/github/stars/agiresearch/OpenAGI?style=social)|When LLM (Large Language Models) Meets Domain Experts.|-|
-|[AI-legion](https://github.com/eumemic/ai-legion)|![GitHub Repo stars](https://img.shields.io/github/stars/eumemic/ai-legion?style=social)|An LLM-powered autonomous agent platform.|-|
-|[MicroGPT](https://github.com/muellerberndt/micro-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/muellerberndt/micro-gpt?style=social)|A minimal generic autonomous agent based on GPT3.5/4. Can analyze stock prices, perform network security tests, create art, and order pizza.|-|
-|[MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)|![GitHub Repo stars](https://img.shields.io/github/stars/Vision-CAIR/MiniGPT-4?style=social)|MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models.|-|
-|[Agent-LLM](https://github.com/Josh-XT/Agent-LLM)|![GitHub Repo stars](https://img.shields.io/github/stars/Josh-XT/Agent-LLM?style=social)|An Artificial Intelligence Automation Platform. AI Instruction management from various providers, has an adaptive memory, and a versatile plugin system with many commands including web browsing.| 人工智能自动化平台。https://agent-llm.com/|
-|[Free-AUTO-GPT-with-NO-API](https://github.com/IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API)|![GitHub Repo stars](https://img.shields.io/github/stars/IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API?style=social)|不用花大价钱使用API key 跑 AutoGPT, BabyAGI, AgentGPT 项目啦。 需要有 ChatGPT 账号，然后浏览器登陆拿到 Cookie Value 使用。 或者使用 huggingFace 的 chat 模型，详情参照项目说明。| - |
+|[Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) |![GitHub Repo stars](https://badgen.net/github/stars/Significant-Gravitas/Auto-GPT)|An experimental open-source attempt to make GPT-4 fully autonomous.|-|
+|[Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins) |![GitHub Repo stars](https://badgen.net/github/stars/Significant-Gravitas/Auto-GPT-Plugins)|Plugins for Auto-GPT.|-|
+|[AutoGPT.js](https://github.com/zabirauf/AutoGPT.js)|![GitHub Repo stars](https://badgen.net/github/stars/zabirauf/AutoGPT.js)|Auto-GPT on the browser.|-|
+|[AutoGPT-GUI](https://github.com/thecookingsenpai/autogpt-gui)|![GitHub Repo stars](https://badgen.net/github/stars/thecookingsenpai/autogpt-gui)|A graphical user interface for AutoGPT.|AutoGPT 项目的图形界面|
+|[AgentGPT](https://github.com/reworkd/AgentGPT) |![GitHub Repo stars](https://badgen.net/github/stars/reworkd/AgentGPT)|Assemble, configure, and deploy autonomous AI Agents in your browser.|-|
+|[JARVIS](https://github.com/microsoft/JARVIS)|![GitHub Repo stars](https://badgen.net/github/stars/microsoft/JARVIS)|A system to connect LLMs with ML community.|-|
+|[babyagi](https://github.com/yoheinakajima/babyagi)|![GitHub Repo stars](https://badgen.net/github/stars/yoheinakajima/babyagi)|Use OpenAI and Pinecone APIs to create, prioritize, and execute tasks.|[中文博客-babyagi: 人工智能任务管理系统](https://juejin.cn/post/7218815501433946173)|
+|[OpenAGI](https://github.com/agiresearch/OpenAGI) |![GitHub Repo stars](https://badgen.net/github/stars/agiresearch/OpenAGI)|When LLM (Large Language Models) Meets Domain Experts.|-|
+|[AI-legion](https://github.com/eumemic/ai-legion)|![GitHub Repo stars](https://badgen.net/github/stars/eumemic/ai-legion)|An LLM-powered autonomous agent platform.|-|
+|[MicroGPT](https://github.com/muellerberndt/micro-gpt)|![GitHub Repo stars](https://badgen.net/github/stars/muellerberndt/micro-gpt)|A minimal generic autonomous agent based on GPT3.5/4. Can analyze stock prices, perform network security tests, create art, and order pizza.|-|
+|[MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)|![GitHub Repo stars](https://badgen.net/github/stars/Vision-CAIR/MiniGPT-4)|MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models.|-|
+|[Agent-LLM](https://github.com/Josh-XT/Agent-LLM)|![GitHub Repo stars](https://badgen.net/github/stars/Josh-XT/Agent-LLM)|An Artificial Intelligence Automation Platform. AI Instruction management from various providers, has an adaptive memory, and a versatile plugin system with many commands including web browsing.| 人工智能自动化平台。https://agent-llm.com/|
+|[Free-AUTO-GPT-with-NO-API](https://github.com/IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API)|![GitHub Repo stars](https://badgen.net/github/stars/IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API)|不用花大价钱使用API key 跑 AutoGPT, BabyAGI, AgentGPT 项目啦。 需要有 ChatGPT 账号，然后浏览器登陆拿到 Cookie Value 使用。 或者使用 huggingFace 的 chat 模型，详情参照项目说明。| - |
 
 
 ## 思考
