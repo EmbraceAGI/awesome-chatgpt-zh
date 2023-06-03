@@ -87,14 +87,14 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
       - [一键免费部署你的私人 ChatGPT 网页应用: ChatGPT-Next-Web](#一键免费部署你的私人-chatgpt-网页应用-chatgpt-next-web)
       - [将代码从一个语言翻译为另一个语言：ai-code-translator](#将代码从一个语言翻译为另一个语言ai-code-translator)
       - [使用 LLMs 通过自然语言生成任意函数：AI Functions](#使用-llms-通过自然语言生成任意函数ai-functions)
-    - [向量数据库](#向量数据库)
     - [ChatGPT 浏览器插件和小程序](#chatgpt-浏览器插件和小程序)
     - [更多工具](#更多工具)
   - [ChatGPT 插件功能](#chatgpt-插件功能)
   - [ChatGPT 应用开发指南](#chatgpt-应用开发指南)
     - [OpenAI 官方开发资源](#openai-官方开发资源)
-    - [LangChain 开发资源](#langchain-开发资源)
     - [Prompt 开发资源](#prompt-开发资源)
+    - [LangChain 开发资源](#langchain-开发资源)
+    - [向量数据库](#向量数据库)
     - [其他开发资源](#其他开发资源)
   - [类 ChatGPT 开源模型](#类-chatgpt-开源模型)
     - [模型列表](#模型列表)
@@ -748,18 +748,6 @@ def ai_function(function, args, description, model = "gpt-4"):
 
     return response.choices[0].message["content"]
 ```
-### 向量数据库
-
-如果说 ChatGPT 是 LLM 的处理核心，prompts 是 code，那么向量数据库就是 LLM 需要的存储。
-
-|名称|Stars|简介| 备注 |
--|-|-|-
-|[PineCone](https://www.pinecone.io/) |-|Pinecone为向量数据提供了数据存储解决方案。|提供免费方案，目前注册火爆|
-|[chroma](https://github.com/chroma-core/chroma) |![GitHub Repo stars](https://img.shields.io/github/stars/chroma-core/chroma?style=social)|Chroma 是一个用于 Python / JavaScript LLM 应用程序的本地向量数据库，它具有内存快速访问的优势。|开源免费|
-|[qdrant](https://github.com/qdrant/qdrant) |![GitHub Repo stars](https://img.shields.io/github/stars/qdrant/qdrant?style=social)|QDRANT AI应用程序矢量数据库，也提供云数据库: https://cloud.qdrant.io/|现在注册有 1G 的永久免费数据库|
-|[Milvus](https://github.com/milvus-io/milvus) |![GitHub Repo stars](https://img.shields.io/github/stars/milvus-io/milvus?style=social)|Milvus 是一个开源矢量数据库，旨在为嵌入相似性搜索和 AI 应用程序提供支持。 除了向量，Milvus 还支持布尔型、整数、浮点数等数据类型。 Milvus 中的一个集合可以包含多个字段，用于容纳不同的数据特征或属性。 Milvus 将标量过滤与强大的向量相似性搜索相结合，为分析非结构化数据提供了一个现代、灵活的平台。|目前提供多种部署方式，支持docker, k8s, embed-milvus(pip install嵌入安装)，同时也有[在线云服务](https://cloud.zilliz.com/)。|
-|[weaviate](https://github.com/weaviate/weaviate) |![GitHub Repo stars](https://img.shields.io/github/stars/weaviate/weaviate?style=social)|开源的向量数据库，可以存储对象和向量，允许将向量搜索与结构化过滤相结合，并具有云原生数据库的容错性和可扩展性，可通过 GraphQL、REST 和各种语言客户端进行访问。|-|
-
 
 ### ChatGPT 浏览器插件和小程序
 * [ChatGPT Sidebar](https://www.chatgpt-sidebar.com/)
@@ -803,6 +791,14 @@ OpenAI 现已经支持插件功能，可以预见这个插件平台将成为新�
 |[OpenAI 插件开发官方文档](https://platform.openai.com/docs/plugins/introduction)|-|-|-|
 |[OpenAI 插件开发 demo ](https://github.com/openai/plugins-quickstart)|![GitHub Repo stars](https://img.shields.io/github/stars/openai/plugins-quickstart?style=social)|Get a ChatGPT plugin up and running in under 5 minutes!|5min 入门插件开发|
 
+### Prompt 开发资源
+|名称|Stars|简介|备注|
+|---|---|---|---|
+| [吴恩达《面向开发者的 ChatGPT 提示词工程》](https://learn.deeplearning.ai/)|-| DeepLearning.ai 创始人吴恩达与 OpenAI 开发者 Iza Fulford 联手推出了一门面向开发者的技术教程：《**ChatGPT 提示工程**》|[《面向开发者的 ChatGPT 提示词工程》非官方版中英双语字幕](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese) - **中文视频地址：[面向开发者的 ChatGPT 提示词工程](https://space.bilibili.com/15467823/channel/seriesdetail?sid=3247315&ctype=0)** - **英文原视频地址：[ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/)**|
+|[微软 guidance](https://github.com/microsoft/guidance)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/guidance?style=social)|A guidance language for controlling large language models.|更好的控制大模型工具|
+|[高质量导师提示词 Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)|![GitHub Repo stars](https://img.shields.io/github/stars/JushBJJ/Mr.-Ranedeer-AI-Tutor?style=social)|A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.|极具参考价值的提示词|
+|[结构化高质量提示词 LangGPT](https://github.com/yzfly/LangGPT)|![GitHub Repo stars](https://img.shields.io/github/stars/yzfly/LangGPT?style=social)|LangGPT: Empowering everyone to become a prompt expert!🚀 Structured Prompt，结构化提示词。|使用结构化方式写高质量提示词|
+
 ### LangChain 开发资源
 
 |名称|Stars|简介|备注|
@@ -812,13 +808,17 @@ OpenAI 现已经支持插件功能，可以预见这个插件平台将成为新�
 |[langchain-tutorials](https://github.com/gkamradt/langchain-tutorials)|![GitHub Repo stars](https://img.shields.io/github/stars/gkamradt/langchain-tutorials?style=social)|Overview and tutorial of the LangChain Library|LangChain 教程|
 |[LangChain 教程](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)|-|-|吴恩达与 LangChain 开发者推出的教程，目前免费|
 
-### Prompt 开发资源
-|名称|Stars|简介|备注|
-|---|---|---|---|
-| [吴恩达《面向开发者的 ChatGPT 提示词工程》](https://learn.deeplearning.ai/)|-| DeepLearning.ai 创始人吴恩达与 OpenAI 开发者 Iza Fulford 联手推出了一门面向开发者的技术教程：《**ChatGPT 提示工程**》|[《面向开发者的 ChatGPT 提示词工程》非官方版中英双语字幕](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese) - **中文视频地址：[面向开发者的 ChatGPT 提示词工程](https://space.bilibili.com/15467823/channel/seriesdetail?sid=3247315&ctype=0)** - **英文原视频地址：[ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/)**|
-|[微软 guidance](https://github.com/microsoft/guidance)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/guidance?style=social)|A guidance language for controlling large language models.|更好的控制大模型工具|
-|[高质量导师提示词 Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)|![GitHub Repo stars](https://img.shields.io/github/stars/JushBJJ/Mr.-Ranedeer-AI-Tutor?style=social)|A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.|极具参考价值的提示词|
-|[结构化高质量提示词 LangGPT](https://github.com/yzfly/LangGPT)|![GitHub Repo stars](https://img.shields.io/github/stars/yzfly/LangGPT?style=social)|LangGPT: Empowering everyone to become a prompt expert!🚀 Structured Prompt，结构化提示词。|使用结构化方式写高质量提示词|
+### 向量数据库
+
+如果说 ChatGPT 是 LLM 的处理核心，prompts 是 code，那么向量数据库就是 LLM 需要的存储。
+
+|名称|Stars|简介| 备注 |
+-|-|-|-
+|[PineCone](https://www.pinecone.io/) |-|Pinecone为向量数据提供了数据存储解决方案。|提供免费方案，目前注册火爆|
+|[chroma](https://github.com/chroma-core/chroma) |![GitHub Repo stars](https://img.shields.io/github/stars/chroma-core/chroma?style=social)|Chroma 是一个用于 Python / JavaScript LLM 应用程序的本地向量数据库，它具有内存快速访问的优势。|开源免费|
+|[qdrant](https://github.com/qdrant/qdrant) |![GitHub Repo stars](https://img.shields.io/github/stars/qdrant/qdrant?style=social)|QDRANT AI应用程序矢量数据库，也提供云数据库: https://cloud.qdrant.io/|现在注册有 1G 的永久免费数据库|
+|[Milvus](https://github.com/milvus-io/milvus) |![GitHub Repo stars](https://img.shields.io/github/stars/milvus-io/milvus?style=social)|Milvus 是一个开源矢量数据库，旨在为嵌入相似性搜索和 AI 应用程序提供支持。 除了向量，Milvus 还支持布尔型、整数、浮点数等数据类型。 Milvus 中的一个集合可以包含多个字段，用于容纳不同的数据特征或属性。 Milvus 将标量过滤与强大的向量相似性搜索相结合，为分析非结构化数据提供了一个现代、灵活的平台。|目前提供多种部署方式，支持docker, k8s, embed-milvus(pip install嵌入安装)，同时也有[在线云服务](https://cloud.zilliz.com/)。|
+|[weaviate](https://github.com/weaviate/weaviate) |![GitHub Repo stars](https://img.shields.io/github/stars/weaviate/weaviate?style=social)|开源的向量数据库，可以存储对象和向量，允许将向量搜索与结构化过滤相结合，并具有云原生数据库的容错性和可扩展性，可通过 GraphQL、REST 和各种语言客户端进行访问。|-|
 
 ### 其他开发资源
 
