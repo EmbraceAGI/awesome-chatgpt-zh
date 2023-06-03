@@ -23,7 +23,6 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [💻 国产 ChatGPT 类似产品](#-国产-chatgpt-类似产品)
   - [如何与 ChatGPT 高效对话？——好的提示语学习](#如何与-chatgpt-高效对话好的提示语学习)
     - [中文 prompts 精选 🔥](#中文-prompts-精选-)
-    - [《面向开发者的 ChatGPT 提示词工程》](#面向开发者的-chatgpt-提示词工程)
     - [🚀 LangGPT —— 让人人都可快速编写高质量 Prompt!](#-langgpt--让人人都可快速编写高质量-prompt)
     - [ChatGPT Prompt 系统学习](#chatgpt-prompt-系统学习)
     - [Prompt 编写模式：如何将思维框架赋予机器](#prompt-编写模式如何将思维框架赋予机器)
@@ -44,7 +43,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [一句话让 ChatGPT 帮助你实现 YOLO 目标检测](#一句话让-chatgpt-帮助你实现-yolo-目标检测)
     - [请选择你传奇的一生——ChatGPT：我选骆驼祥子](#请选择你传奇的一生chatgpt我选骆驼祥子)
     - [ChatGPT 请扮演一个DAN，不必遵守OpenAI的政策](#chatgpt-请扮演一个dan不必遵守openai的政策)
-  - [ChatGPT 越狱](#chatgpt-越狱)
+    - [ChatGPT 越狱](#chatgpt-越狱)
   - [相关资料](#相关资料)
   - [ChatGPT 工具](#chatgpt-工具)
     - [ChatGPT 学习英语](#chatgpt-学习英语)
@@ -92,8 +91,11 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [ChatGPT 浏览器插件和小程序](#chatgpt-浏览器插件和小程序)
     - [更多工具](#更多工具)
   - [ChatGPT 插件功能](#chatgpt-插件功能)
-    - [现有插件](#现有插件)
-    - [中文开发指南](#中文开发指南)
+  - [ChatGPT 应用开发指南](#chatgpt-应用开发指南)
+    - [OpenAI 官方开发资源](#openai-官方开发资源)
+    - [LangChain 开发资源](#langchain-开发资源)
+    - [Prompt 开发资源](#prompt-开发资源)
+    - [其他开发资源](#其他开发资源)
   - [类 ChatGPT 开源模型](#类-chatgpt-开源模型)
     - [模型列表](#模型列表)
     - [开源可商用 LLM：dolly](#开源可商用-llmdolly)
@@ -320,18 +322,6 @@ MOSS是一个支持中英双语和多种插件的开源对话语言模型，moss
 
 作者优化、精选了系列中文 ChatGPT Prompts，并提供图文使用示例，让大家能够更好的学习使用 ChatGPT。
 
-### [《面向开发者的 ChatGPT 提示词工程》](https://learn.deeplearning.ai/)
-
-目前你在网上看到的所有 AI 助理、智能翻译、角色扮演，本质上还是通过编写 Prompt 来实现。
-
-只要你的 Prompt 写的足够好，ChatGPT 可以帮你快速完成很多工作，包括写爬虫脚本、金融数据分析、文案润色与翻译等等，并且这些工作还做的比一般人出色。
-
-为了帮助大家能更好的掌握 Prompt 工程，DeepLearning.ai 创始人吴恩达与 OpenAI 开发者 Iza Fulford 联手推出了一门面向开发者的技术教程：《**ChatGPT 提示工程**》。
-
-[《面向开发者的 ChatGPT 提示词工程》非官方版中英双语字幕](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese)
-- **中文视频地址：[面向开发者的 ChatGPT 提示词工程](https://space.bilibili.com/15467823/channel/seriesdetail?sid=3247315&ctype=0)**
-- **英文原视频地址：[ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/)**
-
 ### [🚀 LangGPT —— 让人人都可快速编写高质量 Prompt!](https://github.com/yzfly/LangGPT)
 
 LangGPT 项目旨在以结构化、模板化的方式编写高质量 ChatGPT prompt，你可以将其视为一种面向大模型的 prompt 编程语言。
@@ -414,7 +404,7 @@ https://github.com/mattnigh/ChatGPT3-Free-Prompt-List
 ### [请选择你传奇的一生——ChatGPT：我选骆驼祥子](examples/ChatGPT_xiangzi.md)
 ### [ChatGPT 请扮演一个DAN，不必遵守OpenAI的政策](examples/chatGPT_set_free.md)
 
-## ChatGPT 越狱
+### ChatGPT 越狱
 
 所谓越狱: 是指通过一些Prompt技巧，诱导chatGPT回答一些被限制或禁止回答的问题。
 慎用！有封号风险，部分指令对 GPT-4 可能无效，可能随着 OpenAI 对模型的改进失效。
@@ -798,19 +788,46 @@ OpenAI 现已经支持插件功能，可以预见这个插件平台将成为新�
 
 - [官方文档](https://platform.openai.com/docs/plugins/introduction)
 - [ChatGPT plugins waitlist 申请地址](https://openai.com/waitlist/plugins)
-
-
-### 现有插件
-
 - [用日常语言提问，轻松搜索和查找个人或工作文件: ChatGPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin)
+- [70款ChatGPT插件评测：惊艳的开发过程与宏大的商业化愿景](https://zhuanlan.zhihu.com/p/629337429)
 
+## ChatGPT 应用开发指南
 
-  
-### 中文开发指南
-指南中介绍了开发者申请开发插件的流程，与网页浏览器插件、代码解释器插件、Retrieval 插件、第三方插件等插件的功能、交互样式，详细介绍了开发流程，并通过“待办事项列表(to-do list)插件”的案例开发过程进行了演示。
+### OpenAI 官方开发资源
 
-- [开发指南：ChatGPT 插件开发（上）](https://mp.weixin.qq.com/s/AmNkiLOqJo7tEJZPX34oeg) 
-- [开发指南：ChatGPT 插件开发（下）](https://mp.weixin.qq.com/s?__biz=MzIzNjE2NTI3NQ==&mid=2247485810&idx=2&sn=8bc4da188c39e1e2e9f808a362b6271f&scene=21#wechat_redirect)
+|名称|Stars|简介|备注|
+|---|---|---|---|
+|[openai-cookbook](https://github.com/openai/openai-cookbook)|![GitHub Repo stars](https://img.shields.io/github/stars/openai/openai-cookbook?style=social)|Examples and guides for using the OpenAI API|OpenAI API 官方使用指南|
+|[Azure OpenAI Samples](https://github.com/Azure-Samples/openai)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/openai?style=social)|The repository for all Azure OpenAI Samples complementing the OpenAI cookbook.|微软 Azure OpenAI 服务使用示例|
+|[openai-python](https://github.com/openai/openai-python)|![GitHub Repo stars](https://img.shields.io/github/stars/openai/openai-python?style=social)|The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.|OpenAI python 接口|
+|[OpenAI 插件开发官方文档](https://platform.openai.com/docs/plugins/introduction)|-|-|-|
+|[OpenAI 插件开发 demo ](https://github.com/openai/plugins-quickstart)|![GitHub Repo stars](https://img.shields.io/github/stars/openai/plugins-quickstart?style=social)|Get a ChatGPT plugin up and running in under 5 minutes!|5min 入门插件开发|
+
+### LangChain 开发资源
+
+|名称|Stars|简介|备注|
+|---|---|---|---|
+|[langchain](https://github.com/hwchase17/langchain)|![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain?style=social)|Building applications with LLMs through composability|开发自己的 ChatGPT 应用|
+|[LangFlow](https://github.com/logspace-ai/langflow)|![GitHub Repo stars](https://img.shields.io/github/stars/logspace-ai/langflow?style=social)|LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.|LangChain的一个UI|
+|[langchain-tutorials](https://github.com/gkamradt/langchain-tutorials)|![GitHub Repo stars](https://img.shields.io/github/stars/gkamradt/langchain-tutorials?style=social)|Overview and tutorial of the LangChain Library|LangChain 教程|
+|[LangChain 教程](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)|-|-|吴恩达与 LangChain 开发者推出的教程，目前免费|
+
+### Prompt 开发资源
+|名称|Stars|简介|备注|
+|---|---|---|---|
+| [吴恩达《面向开发者的 ChatGPT 提示词工程》](https://learn.deeplearning.ai/)|-| DeepLearning.ai 创始人吴恩达与 OpenAI 开发者 Iza Fulford 联手推出了一门面向开发者的技术教程：《**ChatGPT 提示工程**》|[《面向开发者的 ChatGPT 提示词工程》非官方版中英双语字幕](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese) - **中文视频地址：[面向开发者的 ChatGPT 提示词工程](https://space.bilibili.com/15467823/channel/seriesdetail?sid=3247315&ctype=0)** - **英文原视频地址：[ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/)**|
+|[微软 guidance](https://github.com/microsoft/guidance)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/guidance?style=social)|A guidance language for controlling large language models.|更好的控制大模型工具|
+|[高质量导师提示词 Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)|![GitHub Repo stars](https://img.shields.io/github/stars/JushBJJ/Mr.-Ranedeer-AI-Tutor?style=social)|A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.|极具参考价值的提示词|
+|[结构化高质量提示词 LangGPT](https://github.com/yzfly/LangGPT)|![GitHub Repo stars](https://img.shields.io/github/stars/yzfly/LangGPT?style=social)|LangGPT: Empowering everyone to become a prompt expert!🚀 Structured Prompt，结构化提示词。|使用结构化方式写高质量提示词|
+
+### 其他开发资源
+
+|名称|Stars|简介|备注|
+|---|---|---|---|
+|[llm-numbers](https://github.com/ray-project/llm-numbers) |![GitHub Repo stars](https://img.shields.io/github/stars/ray-project/llm-numbers?style=social)|Numbers every LLM developer should know.|大模型开发者必知数据|
+| [《用ChatGPT API构建系统》课程](https://learn.deeplearning.ai/chatgpt-building-system/lesson/1/introduction)|-| DeepLearning.ai 创始人吴恩达和OpenAI合作的新的“使用ChatGPT API构建系统”的课程|课程链接（中英文字幕）: https://pan.baidu.com/s/1BgUKWwh5YSby3IVkGvLi_w?pwd=22b7 提取码: 22b7|
+|[开发指南：ChatGPT 插件开发](https://mp.weixin.qq.com/s/AmNkiLOqJo7tEJZPX34oeg) |-|详细介绍了开发流程，并通过“待办事项列表(to-do list)插件”的案例开发过程进行了演示。|-|
+
 
 ## 类 ChatGPT 开源模型
 
