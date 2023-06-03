@@ -151,8 +151,8 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 
 有以下三种方法：
 * [ChatGPT Plus 最新开通攻略：美区App Store方案（20230529更新）](https://juejin.cn/post/7238423148555812925)
-* [Onekey Card 开卡：](https://juejin.cn/post/7223343320298324029) 技术路线是 RMB -> USDT —> Onekey 虚拟卡 -> 充值
 * [nobepay 开卡：](https://zhuanlan.zhihu.com/p/619289623), 【[nobepay 官网](https://www.nobepay.com/)】，【[防止失效备份教程](imgs/nobepay_chatgpt.png)】 技术路线是: RMB -> nobepay 虚拟卡 -> 充值，优点是操作简单，缺点是需要绑定微信手机号等个人信息
+* 找有美国卡的朋友代充 或者 [美国代充](https://7t82qtu91d3.typeform.com/to/ZWwsiJDc)
 
 
 ![ChatGPT](imgs/openai_chatgpt.jpg)
