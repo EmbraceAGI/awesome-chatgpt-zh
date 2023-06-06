@@ -805,6 +805,7 @@ OpenAI 现已经支持插件功能，可以预见这个插件平台将成为新�
 |名称|Stars|简介|备注|
 |---|---|---|---|
 |[langchain](https://github.com/hwchase17/langchain)|![GitHub Repo stars](https://badgen.net/github/stars/hwchase17/langchain)|Building applications with LLMs through composability|开发自己的 ChatGPT 应用|
+|[langchain-aiplugin](https://github.com/langchain-ai/langchain-aiplugin)|![GitHub Repo stars](https://badgen.net/github/stars/langchain-ai/langchain-aiplugin)|-| langChain 插件|
 |[LangFlow](https://github.com/logspace-ai/langflow)|![GitHub Repo stars](https://badgen.net/github/stars/logspace-ai/langflow)|LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.|LangChain的一个UI|
 |[langchain-tutorials](https://github.com/gkamradt/langchain-tutorials)|![GitHub Repo stars](https://badgen.net/github/stars/gkamradt/langchain-tutorials)|Overview and tutorial of the LangChain Library|LangChain 教程|
 |[LangChain 教程](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)|-|-|吴恩达与 LangChain 开发者推出的教程，目前免费|
