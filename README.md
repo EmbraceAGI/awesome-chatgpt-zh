@@ -790,6 +790,8 @@ OpenAI 现已经支持插件功能，可以预见这个插件平台将成为新�
 |[OpenAI 插件开发 demo ](https://github.com/openai/plugins-quickstart)|![GitHub Repo stars](https://badgen.net/github/stars/openai/plugins-quickstart)|Get a ChatGPT plugin up and running in under 5 minutes!|5min 入门插件开发|
 |[OpenAI 插件开发官方文档](https://platform.openai.com/docs/plugins/introduction)|-|-|-|
 |[Azure OpenAI Samples](https://github.com/Azure-Samples/openai)|![GitHub Repo stars](https://badgen.net/github/stars/Azure-Samples/openai)|The repository for all Azure OpenAI Samples complementing the OpenAI cookbook.|微软 Azure OpenAI 服务使用示例|
+|[Best practices for prompt engineering with OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)|-|OpenAI 官方教程,介绍了 Prompt 工程中最佳实践|-|
+|[GPT best practices](https://platform.openai.com/docs/guides/gpt-best-practices)|-|OpenAI 官方教程,使用 GPT 的最佳实践|-|
 
 ### Prompt 开发资源
 |名称|Stars|简介|备注|
@@ -799,8 +801,6 @@ OpenAI 现已经支持插件功能，可以预见这个插件平台将成为新�
 |[结构化高质量提示词 LangGPT](https://github.com/yzfly/LangGPT)|![GitHub Repo stars](https://badgen.net/github/stars/yzfly/LangGPT)|LangGPT: Empowering everyone to become a prompt expert!🚀 Structured Prompt，结构化提示词。|使用结构化方式写高质量提示词|
 | [吴恩达《面向开发者的 ChatGPT 提示词工程》](https://learn.deeplearning.ai/)|-| DeepLearning.ai 创始人吴恩达与 OpenAI 开发者 Iza Fulford 联手推出了一门面向开发者的技术教程：《**ChatGPT 提示工程**》|[《面向开发者的 ChatGPT 提示词工程》非官方版中英双语字幕](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese) - **中文视频地址：[面向开发者的 ChatGPT 提示词工程](https://space.bilibili.com/15467823/channel/seriesdetail?sid=3247315&ctype=0)** - **英文原视频地址：[ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/)**|
 |[Prompt engineering techniques](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/concepts/advanced-prompt-engineering?pivots=programming-language-chat-completions)|-|微软官方教程,介绍了 Prompt 设计和工程中的一些高级玩法，涵盖系统消息、少样本学习、非聊天场景等内容。|-|
-|[Best practices for prompt engineering with OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)|-|OpenAI 官方教程,介绍了 Prompt 工程中最佳实践|-|
-|[GPT best practices](https://platform.openai.com/docs/guides/gpt-best-practices)|-|OpenAI 官方教程,使用 GPT 的最佳实践|-|
 
 ### LangChain 开发资源
 
