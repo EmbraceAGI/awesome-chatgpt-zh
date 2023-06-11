@@ -36,6 +36,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [Prompt 框架](#prompt-框架)
       - [Elavis Saravia 总结的框架：](#elavis-saravia-总结的框架)
       - [Matt Nigh 总结的 CRISPE 框架：](#matt-nigh-总结的-crispe-框架)
+  - [Prompts 前沿论文](#prompts-前沿论文)
   - [ChatGPT 对话实例](#chatgpt-对话实例)
     - [🧠ChatGPT 中文调教指南 囊括了丰富的对话示例](#chatgpt-中文调教指南-囊括了丰富的对话示例)
     - [ChatGPT 协助快速完成 markdown 表格](#chatgpt-协助快速完成-markdown-表格)
@@ -395,6 +396,14 @@ CRISPE 分别代表以下含义：
 - E： Experiment（尝试），要求 ChatGPT 为你提供多个答案。
   
 https://github.com/mattnigh/ChatGPT3-Free-Prompt-List
+
+## Prompts 前沿论文
+
+|名称|简介|备注|
+|---|---|---|
+|[Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
+](https://arxiv.org/abs/2201.11903)|文章主要探索如何通过生成思维链（Chain-of-Thought）显著的提高大型语言模型处理处理复杂推理问题的能力。这里思维链简单的理解就是一系列为了达到最终结果的中间过程。特别地，文章展示了这样的推理能力是如何通过一种叫做思维链提示的简单方法在足够大的语言模型中自然地出现的，在这种方法中，一些思维链演示作为提示的范例提供。|[知乎中文解读](https://zhuanlan.zhihu.com/p/610040239)|
+
 
 ## ChatGPT 对话实例
 ### [🧠ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) 囊括了丰富的对话示例
