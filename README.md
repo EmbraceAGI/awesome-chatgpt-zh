@@ -663,6 +663,7 @@ https://github.com/whoiskatrin/chart-gpt
 |[langchain](https://github.com/hwchase17/langchain)|![GitHub Repo stars](https://badgen.net/github/stars/hwchase17/langchain)|开发自己的 ChatGPT 应用|-|
 |[LangFlow](https://github.com/logspace-ai/langflow)|![GitHub Repo stars](https://badgen.net/github/stars/logspace-ai/langflow)|LangChain的一个UI|-|
 |[langchain-tutorials](https://github.com/gkamradt/langchain-tutorials)|![GitHub Repo stars](https://badgen.net/github/stars/gkamradt/langchain-tutorials)|LangChain 教程|-|
+|[AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)|![GitHub Repo stars](https://badgen.net/github/stars/microsoft/AI-For-Beginners)|12 Weeks, 24 Lessons, AI for All!|微软为新人推出的 AI 学习课程|
 |[CopilotForXcode](https://github.com/intitni/CopilotForXcode)|![GitHub Repo stars](https://badgen.net/github/stars/intitni/CopilotForXcode)|Copilot Xcode Source Editor Extension|-|
 |[GPTcommit](https://github.com/zurawiki/gptcommit)|![GitHub Repo stars](https://badgen.net/github/stars/zurawiki/gptcommit)|以后 git 提交 commit 信息不用抓耳挠腮了|-|
 |[opencommit](https://github.com/di-sukharev/opencommit)|![GitHub Repo stars](https://badgen.net/github/stars/di-sukharev/opencommit)|用命令自动生成令人印象深刻的 commit|-|
@@ -680,7 +681,7 @@ https://github.com/whoiskatrin/chart-gpt
 |[bloop](https://github.com/BloopAI/bloop)|![GitHub Repo stars](https://badgen.net/github/stars/BloopAI/bloop)|bloop是一个用Rust编写的快速代码搜索引擎。|基于ChatGPT,和代码对话！|
 |[WebGPT](https://github.com/0hq/WebGPT)|![GitHub Repo stars](https://badgen.net/github/stars/0hq/WebGPT)|WebGPT 是基于浏览器 WebGPU 能力打造的在流量器运行 GPT 模型的应用|未来可期~|
 |[PentestGPT](https://github.com/GreyDGL/PentestGPT)|![GitHub Repo stars](https://badgen.net/github/stars/GreyDGL/PentestGPT)|基于 GPT 能力的渗透测试工具|-|
-
+|[gpt-engineer](https://github.com/AntonOsika/gpt-engineer)|![GitHub Repo stars](https://badgen.net/github/stars/AntonOsika/gpt-engineer)|Specify what you want it to build, the AI asks for clarification, and then builds it.|用 GPT 编写整个项目代码！|
 
 #### [OpenGPT](https://open-gpt.app/)
 
@@ -756,6 +757,7 @@ def ai_function(function, args, description, model = "gpt-4"):
 
     return response.choices[0].message["content"]
 ```
+
 
 ### ChatGPT 浏览器插件和小程序
 * [ChatGPT Sidebar](https://www.chatgpt-sidebar.com/)
@@ -842,13 +844,16 @@ OpenAI 现已经支持插件功能，可以预见这个插件平台将成为新�
 | [《用ChatGPT API构建系统》课程](https://learn.deeplearning.ai/chatgpt-building-system/lesson/1/introduction)|-| DeepLearning.ai 创始人吴恩达和OpenAI合作的新的“使用ChatGPT API构建系统”的课程|课程链接（中英文字幕）: https://pan.baidu.com/s/1BgUKWwh5YSby3IVkGvLi_w?pwd=22b7 提取码: 22b7|
 |[开发指南：ChatGPT 插件开发](https://mp.weixin.qq.com/s/AmNkiLOqJo7tEJZPX34oeg) |-|详细介绍了开发流程，并通过“待办事项列表(to-do list)插件”的案例开发过程进行了演示。|-|
 |[ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) |![GitHub Repo stars](https://badgen.net/github/stars/Yidadaa/ChatGPT-Next-Web)|One-Click to deploy well-designed ChatGPT web UI on Vercel. |一键拥有你自己的 ChatGPT 网页服务。|
+|[ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) |![GitHub Repo stars](https://badgen.net/github/stars/Licoy/ChatGPT-Midjourney)| Own your own ChatGPT+Midjourney web service with one click |🎨 一键拥有你自己的 ChatGPT+Midjourney 网页服务 |
 |[gptcache](https://github.com/zilliztech/gptcache)|![GitHub Repo stars](https://badgen.net/github/stars/zilliztech/gptcache)|AIGC 应用程序的memcache,一个强大的缓存库，可用于加速和降低依赖 LLM 服务的聊天应用程序的成本，可用作 AIGC 应用程序的memcache，类似于 Redis 用于传统应用程序的方式。[知乎简介](https://zhuanlan.zhihu.com/p/618630093)：有效果实测图和基本介绍。|-|
 |[dify](https://github.com/langgenius/dify) |![GitHub Repo stars](https://badgen.net/github/stars/langgenius/dify)|One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.|快速创建AI应用程序平台，网站 [dify.ai](dify.ai) |
 |[OpenChat](https://github.com/openchatai/OpenChat) |![GitHub Repo stars](https://badgen.net/github/stars/openchatai/OpenChat)|Run and create custom ChatGPT-like bots with OpenChat, embed and share these bots anywhere, the open-source chatbot console. |构建聊天机器人。|
 |[gptlink](https://github.com/gptlink/gptlink) |![GitHub Repo stars](https://badgen.net/github/stars/gptlink/gptlink)|10分钟搭建自己可免费商用的ChatGPT环境，搭建简单，包含用户，订单，任务，付费等功能.|-|
 |[gpt4free](https://github.com/xtekky/gpt4free) |![GitHub Repo stars](https://badgen.net/github/stars/xtekky/gpt4free)|decentralising the Ai Industry, just some language model api's...|免费的 ChatGPT API|
+|[gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) |![GitHub Repo stars](https://badgen.net/github/stars/xiangsx/gpt4free-ts)|Providing a free OpenAI GPT-4 API ! This is a replication project for the typescript version of xtekky/gpt4free|typescript 版本的免费 ChatGPT API|
 |[claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) |![GitHub Repo stars](https://badgen.net/github/stars/jtsang4/claude-to-chatgpt)|This project converts the API of Anthropic's Claude model to the OpenAI Chat API format.|将 Claude API格式转换为 ChatGPT API 格式|
-
+|[dialoqbase](https://github.com/n4ze3m/dialoqbase) |![GitHub Repo stars](https://badgen.net/github/stars/n4ze3m/dialoqbase)|Create chatbots with ease.|轻松创建聊天机器人|
+|[rebuff](https://github.com/woop/rebuff) |![GitHub Repo stars](https://badgen.net/github/stars/woop/rebuff)|Rebuff.ai - Prompt Injection Detector.|Prompt 攻击检测，内容检测|
 
 ## 类 ChatGPT 开源模型
 
