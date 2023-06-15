@@ -866,8 +866,6 @@ OpenAI 现已经支持插件功能，可以预见这个插件平台将成为新�
 |[rebuff](https://github.com/woop/rebuff) |![GitHub Repo stars](https://badgen.net/github/stars/woop/rebuff)|Rebuff.ai - Prompt Injection Detector.|Prompt 攻击检测，内容检测|
 |[text-generation-webui](https://github.com/oobabooga/text-generation-webui)|![GitHub Repo stars](https://badgen.net/github/stars/oobabooga/text-generation-webui)|-|一个用于运行大型语言模型(如LLaMA, LLaMA .cpp, GPT-J, Pythia, OPT和GALACTICA)的 web UI。|
 |[MLC LLM](https://github.com/mlc-ai/mlc-llm)|![GitHub Repo stars](https://badgen.net/github/stars/mlc-ai/mlc-llm)|Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.|陈天奇大佬力作——MLC LLM，在各类硬件上原生部署任意大型语言模型。可将大模型应用于移动端（例如 iPhone）、消费级电脑端（例如 Mac）和 Web 浏览器。|
-|[wenda](https://github.com/wenda-LLM/wenda)|![GitHub Repo stars](https://badgen.net/github/stars/wenda-LLM/wenda)|-|闻达：一个LLM调用平台。目标为针对特定环境的高效内容生成，同时考虑个人和中小企业的计算资源局限性，以及知识安全和私密性问题|
-
 
 ## 类 ChatGPT 开源模型
 
