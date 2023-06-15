@@ -659,11 +659,6 @@ https://github.com/whoiskatrin/chart-gpt
 
 |名称|Stars|简介|备注|
 |---|---|---|---|
-|[openai-cookbook](https://github.com/openai/openai-cookbook)|![GitHub Repo stars](https://badgen.net/github/stars/openai/openai-cookbook)|OpenAI 官方使用指南|-|
-|[openai-python](https://github.com/openai/openai-python)|![GitHub Repo stars](https://badgen.net/github/stars/openai/openai-python)|OpenAI python 接口|-|
-|[langchain](https://github.com/hwchase17/langchain)|![GitHub Repo stars](https://badgen.net/github/stars/hwchase17/langchain)|开发自己的 ChatGPT 应用|-|
-|[LangFlow](https://github.com/logspace-ai/langflow)|![GitHub Repo stars](https://badgen.net/github/stars/logspace-ai/langflow)|LangChain的一个UI|-|
-|[langchain-tutorials](https://github.com/gkamradt/langchain-tutorials)|![GitHub Repo stars](https://badgen.net/github/stars/gkamradt/langchain-tutorials)|LangChain 教程|-|
 |[AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)|![GitHub Repo stars](https://badgen.net/github/stars/microsoft/AI-For-Beginners)|12 Weeks, 24 Lessons, AI for All!|微软为新人推出的 AI 学习课程|
 |[CopilotForXcode](https://github.com/intitni/CopilotForXcode)|![GitHub Repo stars](https://badgen.net/github/stars/intitni/CopilotForXcode)|Copilot Xcode Source Editor Extension|-|
 |[GPTcommit](https://github.com/zurawiki/gptcommit)|![GitHub Repo stars](https://badgen.net/github/stars/zurawiki/gptcommit)|以后 git 提交 commit 信息不用抓耳挠腮了|-|
