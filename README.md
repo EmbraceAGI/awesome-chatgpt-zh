@@ -96,7 +96,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [Prompt 开发资源](#prompt-开发资源)
     - [LangChain 开发资源](#langchain-开发资源)
     - [向量数据库](#向量数据库)
-    - [ChatGLM 中文大模型开发资源](#chatglm-中文大模型开发资源)
+    - [中文大模型开发资源](#中文大模型开发资源)
     - [其他开发资源](#其他开发资源)
   - [类 ChatGPT 开源模型](#类-chatgpt-开源模型)
     - [模型列表](#模型列表)
@@ -402,8 +402,8 @@ https://github.com/mattnigh/ChatGPT3-Free-Prompt-List
 
 |名称|简介|备注|
 |---|---|---|
-|[Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
-](https://arxiv.org/abs/2201.11903)|文章主要探索如何通过生成思维链（Chain-of-Thought）显著的提高大型语言模型处理处理复杂推理问题的能力。这里思维链简单的理解就是一系列为了达到最终结果的中间过程。特别地，文章展示了这样的推理能力是如何通过一种叫做思维链提示的简单方法在足够大的语言模型中自然地出现的，在这种方法中，一些思维链演示作为提示的范例提供。|[知乎中文解读](https://zhuanlan.zhihu.com/p/610040239)|
+|[Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)|文章主要探索如何通过生成思维链（Chain-of-Thought）显著的提高大型语言模型处理处理复杂推理问题的能力。这里思维链简单的理解就是一系列为了达到最终结果的中间过程。特别地，文章展示了这样的推理能力是如何通过一种叫做思维链提示的简单方法在足够大的语言模型中自然地出现的，在这种方法中，一些思维链演示作为提示的范例提供。|[知乎中文解读](https://zhuanlan.zhihu.com/p/610040239)|
+|[Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601)|Tree of Thoughts（TOT）的基本原则是为大模型提供探索多个分支的机会，同时依据结果进行自我评估。根据参考文献，这种方法似乎对某些问题非常有效。|[TOT 官方实现](https://github.com/princeton-nlp/tree-of-thought-llm)|
 
 
 ## ChatGPT 对话实例
@@ -838,11 +838,12 @@ OpenAI 现已经支持插件功能，可以预见这个插件平台将成为新�
 |[Milvus](https://github.com/milvus-io/milvus) |![GitHub Repo stars](https://badgen.net/github/stars/milvus-io/milvus)|Milvus 是一个开源矢量数据库，旨在为嵌入相似性搜索和 AI 应用程序提供支持。 除了向量，Milvus 还支持布尔型、整数、浮点数等数据类型。 Milvus 中的一个集合可以包含多个字段，用于容纳不同的数据特征或属性。 Milvus 将标量过滤与强大的向量相似性搜索相结合，为分析非结构化数据提供了一个现代、灵活的平台。|目前提供多种部署方式，支持docker, k8s, embed-milvus(pip install嵌入安装)，同时也有[在线云服务](https://cloud.zilliz.com/)。|
 |[weaviate](https://github.com/weaviate/weaviate) |![GitHub Repo stars](https://badgen.net/github/stars/weaviate/weaviate)|开源的向量数据库，可以存储对象和向量，允许将向量搜索与结构化过滤相结合，并具有云原生数据库的容错性和可扩展性，可通过 GraphQL、REST 和各种语言客户端进行访问。|-|
 
-### ChatGLM 中文大模型开发资源
+### 中文大模型开发资源
 
 |名称|Stars|简介|备注|
 |---|---|---|---|
 |[ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) |![GitHub Repo stars](https://badgen.net/github/stars/THUDM/ChatGLM-6B)|ChatGLM-6B: An Open Bilingual Dialogue Language Model |ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型，基于 General Language Model (GLM) 架构，具有 62 亿参数。结合模型量化技术，用户可以在消费级的显卡上进行本地部署（INT4 量化级别下最低只需 6GB 显存）。 ChatGLM-6B 使用了和 ChatGPT 相似的技术，针对中文问答和对话进行了优化。经过约 1T 标识符的中英双语训练，辅以监督微调、反馈自助、人类反馈强化学习等技术的加持，62 亿参数的 ChatGLM-6B 已经能生成相当符合人类偏好的回答。|
+|[baichuan-7B](https://github.com/baichuan-inc/baichuan-7B) |![GitHub Repo stars](https://badgen.net/github/stars/baichuan-inc/baichuan-7B)|A large-scale 7B pretraining language model developed by Baichuan |baichuan-7B 是由百川智能开发的一个开源可商用的大规模预训练语言模型。基于 Transformer 结构，在大约1.2万亿 tokens 上训练的70亿参数模型，支持中英双语，上下文窗口长度为4096。在标准的中文和英文权威 benchmark（C-EVAL/MMLU）上均取得同尺寸最好的效果。|
 |[langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM)|![GitHub Repo stars](imClumsyPanda/langchain-ChatGLM)|langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识库的 ChatGLM 问答|
 |[wenda](https://github.com/wenda-LLM/wenda)|![GitHub Repo stars](https://badgen.net/github/stars/wenda-LLM/wenda)|闻达：一个LLM调用平台。|多种大语言模型：目前支持离线部署模型有chatGLM-6B、chatRWKV、llama系列以及moss，在线API访问openai api和chatGLM-130b api|
 
