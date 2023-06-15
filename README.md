@@ -97,6 +97,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [LangChain 开发资源](#langchain-开发资源)
     - [向量数据库](#向量数据库)
     - [中文大模型开发资源](#中文大模型开发资源)
+    - [OpenAI 服务替代品](#openai-服务替代品)
     - [其他开发资源](#其他开发资源)
   - [类 ChatGPT 开源模型](#类-chatgpt-开源模型)
     - [模型列表](#模型列表)
@@ -839,16 +840,24 @@ OpenAI 现已经支持插件功能，可以预见这个插件平台将成为新�
 |---|---|---|---|
 |[ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) |![GitHub Repo stars](https://badgen.net/github/stars/THUDM/ChatGLM-6B)|ChatGLM-6B: An Open Bilingual Dialogue Language Model |ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型，基于 General Language Model (GLM) 架构，具有 62 亿参数。结合模型量化技术，用户可以在消费级的显卡上进行本地部署（INT4 量化级别下最低只需 6GB 显存）。 ChatGLM-6B 使用了和 ChatGPT 相似的技术，针对中文问答和对话进行了优化。经过约 1T 标识符的中英双语训练，辅以监督微调、反馈自助、人类反馈强化学习等技术的加持，62 亿参数的 ChatGLM-6B 已经能生成相当符合人类偏好的回答。|
 |[baichuan-7B](https://github.com/baichuan-inc/baichuan-7B) |![GitHub Repo stars](https://badgen.net/github/stars/baichuan-inc/baichuan-7B)|A large-scale 7B pretraining language model developed by Baichuan |baichuan-7B 是由百川智能开发的一个开源可商用的大规模预训练语言模型。基于 Transformer 结构，在大约1.2万亿 tokens 上训练的70亿参数模型，支持中英双语，上下文窗口长度为4096。在标准的中文和英文权威 benchmark（C-EVAL/MMLU）上均取得同尺寸最好的效果。|
+|[Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese)|![GitHub Repo stars](https://badgen.net/github/stars/SCIR-HI/Huatuo-Llama-Med-Chinese)|Repo for BenTsao [original name: HuaTuo (华驼)], Llama-7B tuned with Chinese medical knowledge. |华佗——医疗领域中文大模型|
 |[ChatYuan](https://github.com/clue-ai/ChatYuan) |![GitHub Repo stars](https://badgen.net/github/stars/clue-ai/ChatYuan)|ChatYuan: Large Language Model for Dialogue in Chinese and English.|ChatYuan-large-v2是ChatYuan系列中以轻量化实现高质量效果的模型之一，用户可以在消费级显卡、 PC甚至手机上进行推理（INT4 最低只需 400M ）。|
 |[langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM)|![GitHub Repo stars](https://badgen.net/github/stars/imClumsyPanda/langchain-ChatGLM)|langchain-ChatGLM, local knowledge based ChatGLM with langchain |基于本地知识库的 ChatGLM 问答|
 |[wenda](https://github.com/wenda-LLM/wenda)|![GitHub Repo stars](https://badgen.net/github/stars/wenda-LLM/wenda)|闻达：一个LLM调用平台。|多种大语言模型：目前支持离线部署模型有chatGLM-6B、chatRWKV、llama系列以及moss，在线API访问openai api和chatGLM-130b api|
 
+### OpenAI 服务替代品
+
+|名称|简介|备注|
+|---|---|---|
+|[Claude 官方文档](https://docs.anthropic.com/claude/docs/introduction-to-prompt-design) |OpenAI 前成员出走创立了Anthropic 公司旗下的大模型 Claude 开发官方文档。|OpenAI 的强有力竞争对手|
+|[Cohere](https://docs.cohere.com/docs) |coherence 提供了前沿的语言处理技术 API 服务。|-|
+|[AI21](https://docs.ai21.com/) |以色列公司 A21 Labs 开发了一个名为 Jurassic-1 Jumbo 的模型。该模型大小与 1750 亿参数的 GPT-3 类似。该公司还围绕 Jurassic-1 Jumbo 逐渐构建起一系列产品，包括一个名为 AI21 Studio 的“AI-as-a-service”平台。该平台允许客户创建虚拟助手、聊天机器人、内容审核工具等。|-|
+|[智谱AI开放平台](https://open.bigmodel.cn/) |中文大模型 API。 基于千亿基座模型 GLM-130B，注入代码预训练，通过有监督微调等技术实现人类意图对齐的中英双语大模型。|-|
 
 ### 其他开发资源
 
 |名称|Stars|简介|备注|
 |---|---|---|---|
-|[Claude 开发官方文档](https://docs.anthropic.com/claude/docs/introduction-to-prompt-design) |-|claude 开发官方文档|-|
 |[llm-numbers](https://github.com/ray-project/llm-numbers) |![GitHub Repo stars](https://badgen.net/github/stars/ray-project/llm-numbers)|Numbers every LLM developer should know.|大模型开发者必知数据|
 | [《用ChatGPT API构建系统》课程](https://learn.deeplearning.ai/chatgpt-building-system/lesson/1/introduction)|-| DeepLearning.ai 创始人吴恩达和OpenAI合作的新的“使用ChatGPT API构建系统”的课程|课程链接（中英文字幕）: https://pan.baidu.com/s/1BgUKWwh5YSby3IVkGvLi_w?pwd=22b7 提取码: 22b7|
 |[开发指南：ChatGPT 插件开发](https://mp.weixin.qq.com/s/AmNkiLOqJo7tEJZPX34oeg) |-|详细介绍了开发流程，并通过“待办事项列表(to-do list)插件”的案例开发过程进行了演示。|-|
@@ -893,7 +902,6 @@ OpenAI 的 ChatGPT 大型语言模型（LLM）并未开源，这部分收录一�
 |[EasyLM](https://github.com/young-geng/EasyLM#koala)|![GitHub Repo stars](https://badgen.net/github/stars/young-geng/EasyLM)|在羊驼基础上改进的新的聊天机器人考拉。|[介绍页](https://bair.berkeley.edu/blog/2023/04/03/koala/)|
 |[Alpaca-CoT](https://github.com/PhoebusSi/Alpaca-CoT/blob/main/CN_README.md)|![GitHub Repo stars](https://badgen.net/github/stars/PhoebusSi/Alpaca-CoT)|Alpaca-CoT项目旨在探究如何更好地通过instruction-tuning的方式来诱导LLM具备类似ChatGPT的交互和instruction-following能力。|-|
 |[OpenFlamingo](https://github.com/mlfoundations/open_flamingo)|![GitHub Repo stars](https://badgen.net/github/stars/mlfoundations/open_flamingo)|OpenFlamingo 是一个用于评估和训练大型多模态模型的开源框架，是 DeepMind Flamingo 模型的开源版本，也是 AI 世界关于大模型进展的一大步。|大型多模态模型训练和评估开源框架。|
-|[Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese)|![GitHub Repo stars](https://badgen.net/github/stars/SCIR-HI/Huatuo-Llama-Med-Chinese)|Repo for BenTsao [original name: HuaTuo (华驼)], Llama-7B tuned with Chinese medical knowledge. |华佗——医疗领域中文大模型|
 |[FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)|![GitHub Repo stars](https://badgen.net/github/stars/AI4Finance-Foundation/FinGPT)|Data-Centric FinGPT. Open-source for open finance! Revolutionize 🔥 We'll soon release the trained model.|金融领域大模型|
 
 
