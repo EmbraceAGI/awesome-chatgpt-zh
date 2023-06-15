@@ -96,6 +96,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
     - [Prompt 开发资源](#prompt-开发资源)
     - [LangChain 开发资源](#langchain-开发资源)
     - [向量数据库](#向量数据库)
+    - [ChatGLM 中文大模型开发资源](#chatglm-中文大模型开发资源)
     - [其他开发资源](#其他开发资源)
   - [类 ChatGPT 开源模型](#类-chatgpt-开源模型)
     - [模型列表](#模型列表)
@@ -682,6 +683,7 @@ https://github.com/whoiskatrin/chart-gpt
 |[WebGPT](https://github.com/0hq/WebGPT)|![GitHub Repo stars](https://badgen.net/github/stars/0hq/WebGPT)|WebGPT 是基于浏览器 WebGPU 能力打造的在流量器运行 GPT 模型的应用|未来可期~|
 |[PentestGPT](https://github.com/GreyDGL/PentestGPT)|![GitHub Repo stars](https://badgen.net/github/stars/GreyDGL/PentestGPT)|基于 GPT 能力的渗透测试工具|-|
 |[gpt-engineer](https://github.com/AntonOsika/gpt-engineer)|![GitHub Repo stars](https://badgen.net/github/stars/AntonOsika/gpt-engineer)|Specify what you want it to build, the AI asks for clarification, and then builds it.|用 GPT 编写整个项目代码！|
+|[ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim)|![GitHub Repo stars](https://badgen.net/github/stars/jackMort/ChatGPT.nvim)|ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API.|-|
 
 #### [OpenGPT](https://open-gpt.app/)
 
@@ -836,6 +838,15 @@ OpenAI 现已经支持插件功能，可以预见这个插件平台将成为新�
 |[Milvus](https://github.com/milvus-io/milvus) |![GitHub Repo stars](https://badgen.net/github/stars/milvus-io/milvus)|Milvus 是一个开源矢量数据库，旨在为嵌入相似性搜索和 AI 应用程序提供支持。 除了向量，Milvus 还支持布尔型、整数、浮点数等数据类型。 Milvus 中的一个集合可以包含多个字段，用于容纳不同的数据特征或属性。 Milvus 将标量过滤与强大的向量相似性搜索相结合，为分析非结构化数据提供了一个现代、灵活的平台。|目前提供多种部署方式，支持docker, k8s, embed-milvus(pip install嵌入安装)，同时也有[在线云服务](https://cloud.zilliz.com/)。|
 |[weaviate](https://github.com/weaviate/weaviate) |![GitHub Repo stars](https://badgen.net/github/stars/weaviate/weaviate)|开源的向量数据库，可以存储对象和向量，允许将向量搜索与结构化过滤相结合，并具有云原生数据库的容错性和可扩展性，可通过 GraphQL、REST 和各种语言客户端进行访问。|-|
 
+### ChatGLM 中文大模型开发资源
+
+|名称|Stars|简介|备注|
+|---|---|---|---|
+|[ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) |![GitHub Repo stars](https://badgen.net/github/stars/THUDM/ChatGLM-6B)|ChatGLM-6B: An Open Bilingual Dialogue Language Model |ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型，基于 General Language Model (GLM) 架构，具有 62 亿参数。结合模型量化技术，用户可以在消费级的显卡上进行本地部署（INT4 量化级别下最低只需 6GB 显存）。 ChatGLM-6B 使用了和 ChatGPT 相似的技术，针对中文问答和对话进行了优化。经过约 1T 标识符的中英双语训练，辅以监督微调、反馈自助、人类反馈强化学习等技术的加持，62 亿参数的 ChatGLM-6B 已经能生成相当符合人类偏好的回答。|
+|[langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM)|![GitHub Repo stars](imClumsyPanda/langchain-ChatGLM)|langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识库的 ChatGLM 问答|
+|[wenda](https://github.com/wenda-LLM/wenda)|![GitHub Repo stars](https://badgen.net/github/stars/wenda-LLM/wenda)|闻达：一个LLM调用平台。|多种大语言模型：目前支持离线部署模型有chatGLM-6B、chatRWKV、llama系列以及moss，在线API访问openai api和chatGLM-130b api|
+
+
 ### 其他开发资源
 
 |名称|Stars|简介|备注|
@@ -853,7 +864,12 @@ OpenAI 现已经支持插件功能，可以预见这个插件平台将成为新�
 |[gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) |![GitHub Repo stars](https://badgen.net/github/stars/xiangsx/gpt4free-ts)|Providing a free OpenAI GPT-4 API ! This is a replication project for the typescript version of xtekky/gpt4free|typescript 版本的免费 ChatGPT API|
 |[claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) |![GitHub Repo stars](https://badgen.net/github/stars/jtsang4/claude-to-chatgpt)|This project converts the API of Anthropic's Claude model to the OpenAI Chat API format.|将 Claude API格式转换为 ChatGPT API 格式|
 |[dialoqbase](https://github.com/n4ze3m/dialoqbase) |![GitHub Repo stars](https://badgen.net/github/stars/n4ze3m/dialoqbase)|Create chatbots with ease.|轻松创建聊天机器人|
+|[privateGPT](https://github.com/imartinez/privateGPT)|![GitHub Repo stars](https://badgen.net/github/stars/imartinez/privateGPT)|基于 Llama 的本地私人文档助手|-|
 |[rebuff](https://github.com/woop/rebuff) |![GitHub Repo stars](https://badgen.net/github/stars/woop/rebuff)|Rebuff.ai - Prompt Injection Detector.|Prompt 攻击检测，内容检测|
+|[text-generation-webui](https://github.com/oobabooga/text-generation-webui)|![GitHub Repo stars](https://badgen.net/github/stars/oobabooga/text-generation-webui)|一个用于运行大型语言模型(如LLaMA, LLaMA .cpp, GPT-J, Pythia, OPT和GALACTICA)的 web UI。|-|
+|[MLC LLM](https://github.com/mlc-ai/mlc-llm)|![GitHub Repo stars](https://badgen.net/github/stars/mlc-ai/mlc-llm)|陈天奇大佬力作——MLC LLM，在各类硬件上原生部署任意大型语言模型。可将大模型应用于移动端（例如 iPhone）、消费级电脑端（例如 Mac）和 Web 浏览器。|-|
+|[wenda](https://github.com/wenda-LLM/wenda)|![GitHub Repo stars](https://badgen.net/github/stars/wenda-LLM/wenda)|闻达：一个LLM调用平台。目标为针对特定环境的高效内容生成，同时考虑个人和中小企业的计算资源局限性，以及知识安全和私密性问题|-|
+
 
 ## 类 ChatGPT 开源模型
 
@@ -881,11 +897,8 @@ OpenAI 的 ChatGPT 大型语言模型（LLM）并未开源，这部分收录一�
 |[EasyLM](https://github.com/young-geng/EasyLM#koala)|![GitHub Repo stars](https://badgen.net/github/stars/young-geng/EasyLM)|在羊驼基础上改进的新的聊天机器人考拉。|[介绍页](https://bair.berkeley.edu/blog/2023/04/03/koala/)|
 |[Alpaca-CoT](https://github.com/PhoebusSi/Alpaca-CoT/blob/main/CN_README.md)|![GitHub Repo stars](https://badgen.net/github/stars/PhoebusSi/Alpaca-CoT)|Alpaca-CoT项目旨在探究如何更好地通过instruction-tuning的方式来诱导LLM具备类似ChatGPT的交互和instruction-following能力。|-|
 |[OpenFlamingo](https://github.com/mlfoundations/open_flamingo)|![GitHub Repo stars](https://badgen.net/github/stars/mlfoundations/open_flamingo)|OpenFlamingo 是一个用于评估和训练大型多模态模型的开源框架，是 DeepMind Flamingo 模型的开源版本，也是 AI 世界关于大模型进展的一大步。|大型多模态模型训练和评估开源框架。|
-|[text-generation-webui](https://github.com/oobabooga/text-generation-webui)|![GitHub Repo stars](https://badgen.net/github/stars/oobabooga/text-generation-webui)|一个用于运行大型语言模型(如LLaMA, LLaMA .cpp, GPT-J, Pythia, OPT和GALACTICA)的 web UI。|-|
-|[MLC LLM](https://github.com/mlc-ai/mlc-llm)|![GitHub Repo stars](https://badgen.net/github/stars/mlc-ai/mlc-llm)|陈天奇大佬力作——MLC LLM，在各类硬件上原生部署任意大型语言模型。可将大模型应用于移动端（例如 iPhone）、消费级电脑端（例如 Mac）和 Web 浏览器。|-|
-|[privateGPT](https://github.com/imartinez/privateGPT)|![GitHub Repo stars](https://badgen.net/github/stars/imartinez/privateGPT)|基于 Llama 的本地私人文档助手|-|
 |[Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese)|![GitHub Repo stars](https://badgen.net/github/stars/SCIR-HI/Huatuo-Llama-Med-Chinese)|华佗——医疗领域中文大模型|-|
-
+|[FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)|![GitHub Repo stars](https://badgen.net/github/stars/AI4Finance-Foundation/FinGPT)|Data-Centric FinGPT. Open-source for open finance! Revolutionize 🔥 We'll soon release the trained model.|金融领域大模型|
 
 
 ### [开源可商用 LLM：dolly](https://github.com/databrickslabs/dolly)
