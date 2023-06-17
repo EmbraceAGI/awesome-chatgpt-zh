@@ -38,11 +38,11 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 ## [使用途径](docs/ChatGPT_access.md)
 ## [如何与 ChatGPT 高效对话？——好的提示语学习](docs/ChatGPT_prompts.md)
 ## [ChatGPT 插件](docs/ChatGPT_plugins.md)
-## [ChatGPT 应用](docs/ChatGPT_apps.md)
+## [ChatGPT 应用](docs/ChatGPT_tools.md)
 ## [ChatGPT 应用开发指南](docs/ChatGPT_dev.md)
 ## [LLMs: 大模型](docs/LLMs.md)
 ## [AGI：通用人工智能之路](docs/AGI.md)
-## [AI 生产力工具](docs/AI-tools.md)
+## [AI 生产力工具](docs/AI_tools.md)
 ## [思考](docs/thinking.md)
 
 
