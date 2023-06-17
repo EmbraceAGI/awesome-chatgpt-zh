@@ -1,5 +1,13 @@
 ## AGI: 通用人工智能之路
 
+- [AGI: 通用人工智能之路](#agi-通用人工智能之路)
+  - [Awesome-AGI](#awesome-agi)
+  - [Auto-GPT](#auto-gpt)
+  - [ChatGPT 控制所有AI模型: HuggingGPT](#chatgpt-控制所有ai模型-hugginggpt)
+  - [babyagi](#babyagi)
+  - [MiniGPT-4](#minigpt-4)
+  - [更多 AGI 项目](#更多-agi-项目)
+
 ### [Awesome-AGI](https://github.com/EmbraceAGI/Awesome-AGI)
  AGI 精选资源，持续更新中，欢迎关注和 star~
 

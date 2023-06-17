@@ -1,5 +1,14 @@
 ## ChatGPT 应用开发指南
 
+- [ChatGPT 应用开发指南](#chatgpt-应用开发指南)
+  - [OpenAI 官方开发资源](#openai-官方开发资源)
+  - [Prompt 开发资源](#prompt-开发资源)
+  - [LangChain 开发资源](#langchain-开发资源)
+  - [向量数据库](#向量数据库)
+  - [中文大模型开发资源](#中文大模型开发资源)
+  - [OpenAI 服务替代品](#openai-服务替代品)
+  - [其他开发资源](#其他开发资源)
+
 ### OpenAI 官方开发资源
 
 |名称|Stars|简介|备注|
