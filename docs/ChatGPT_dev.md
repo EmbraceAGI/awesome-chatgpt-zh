@@ -78,8 +78,9 @@
 
 |名称|Stars|简介|备注|
 |---|---|---|---|
-|[readme-ai](https://github.com/eli64s/README-AI) |![GitHub Repo stars](https://badgen.net/github/stars/eli64s/readme-ai)|Automated README.md files. |使用 OpenAI 语言模型 API，为编写美观、结构化和信息丰富的 README.md 文件而设计的命令行工具。|
+|[vercel-labs/ai](https://github.com/vercel-labs/ai) |![GitHub Repo stars](https://badgen.net/github/stars/vercel-labs/ai)|Build AI-powered applications with React, Svelte, and Vue. |使用 Vercel 平台一键部署多种 AI，ChatGPT 应用。|
 |[llm-numbers](https://github.com/ray-project/llm-numbers) |![GitHub Repo stars](https://badgen.net/github/stars/ray-project/llm-numbers)|Numbers every LLM developer should know.|大模型开发者必知数据|
+|[LlamaIndex](https://github.com/jerryjliu/llama_index) | ![GitHub Repo stars](https://img.shields.io/github/stars/jerryjliu/llama_index.svg?style=social) | Provides a central interface to connect your LLMs with external data. |将llm与外部数据连接起来。|
 | [《用ChatGPT API构建系统》课程](https://learn.deeplearning.ai/chatgpt-building-system/lesson/1/introduction)|-| DeepLearning.ai 创始人吴恩达和OpenAI合作的新的“使用ChatGPT API构建系统”的课程|课程链接（中英文字幕）: https://pan.baidu.com/s/1BgUKWwh5YSby3IVkGvLi_w?pwd=22b7 提取码: 22b7|
 |[开发指南：ChatGPT 插件开发](https://mp.weixin.qq.com/s/AmNkiLOqJo7tEJZPX34oeg) |-|详细介绍了开发流程，并通过“待办事项列表(to-do list)插件”的案例开发过程进行了演示。|-|
 |[ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) |![GitHub Repo stars](https://badgen.net/github/stars/Yidadaa/ChatGPT-Next-Web)|One-Click to deploy well-designed ChatGPT web UI on Vercel. |一键拥有你自己的 ChatGPT 网页服务。|
@@ -91,9 +92,9 @@
 |[gpt4free](https://github.com/xtekky/gpt4free) |![GitHub Repo stars](https://badgen.net/github/stars/xtekky/gpt4free)|decentralising the Ai Industry, just some language model api's...|免费的 ChatGPT API|
 |[gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) |![GitHub Repo stars](https://badgen.net/github/stars/xiangsx/gpt4free-ts)|Providing a free OpenAI GPT-4 API ! This is a replication project for the typescript version of xtekky/gpt4free|typescript 版本的免费 ChatGPT API|
 |[claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) |![GitHub Repo stars](https://badgen.net/github/stars/jtsang4/claude-to-chatgpt)|This project converts the API of Anthropic's Claude model to the OpenAI Chat API format.|将 Claude API格式转换为 ChatGPT API 格式|
+|[readme-ai](https://github.com/eli64s/README-AI) |![GitHub Repo stars](https://badgen.net/github/stars/eli64s/readme-ai)|Automated README.md files. |使用 OpenAI 语言模型 API，为编写美观、结构化和信息丰富的 README.md 文件而设计的命令行工具。|
 |[dialoqbase](https://github.com/n4ze3m/dialoqbase) |![GitHub Repo stars](https://badgen.net/github/stars/n4ze3m/dialoqbase)|Create chatbots with ease.|轻松创建聊天机器人|
 |[privateGPT](https://github.com/imartinez/privateGPT)|![GitHub Repo stars](https://badgen.net/github/stars/imartinez/privateGPT)|基于 Llama 的本地私人文档助手|-|
 |[rebuff](https://github.com/woop/rebuff) |![GitHub Repo stars](https://badgen.net/github/stars/woop/rebuff)|Rebuff.ai - Prompt Injection Detector.|Prompt 攻击检测，内容检测|
 |[text-generation-webui](https://github.com/oobabooga/text-generation-webui)|![GitHub Repo stars](https://badgen.net/github/stars/oobabooga/text-generation-webui)|-|一个用于运行大型语言模型(如LLaMA, LLaMA .cpp, GPT-J, Pythia, OPT和GALACTICA)的 web UI。|
 |[MLC LLM](https://github.com/mlc-ai/mlc-llm)|![GitHub Repo stars](https://badgen.net/github/stars/mlc-ai/mlc-llm)|Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.|陈天奇大佬力作——MLC LLM，在各类硬件上原生部署任意大型语言模型。可将大模型应用于移动端（例如 iPhone）、消费级电脑端（例如 Mac）和 Web 浏览器。|
-|[LlamaIndex](https://github.com/jerryjliu/llama_index) | ![GitHub Repo stars](https://img.shields.io/github/stars/jerryjliu/llama_index.svg?style=social) | Provides a central interface to connect your LLMs with external data. |将llm与外部数据连接起来。|

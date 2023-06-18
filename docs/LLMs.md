@@ -25,7 +25,14 @@ OpenAI 的 ChatGPT 大型语言模型（LLM）并未开源，这部分收录一�
 |[FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)|![GitHub Repo stars](https://badgen.net/github/stars/AI4Finance-Foundation/FinGPT)|Data-Centric FinGPT. Open-source for open finance! Revolutionize 🔥 We'll soon release the trained model.|金融领域大模型|
 |[baichuan-7B](https://github.com/baichuan-inc/baichuan-7B) |![GitHub Repo stars](https://badgen.net/github/stars/baichuan-inc/baichuan-7B)|A large-scale 7B pretraining language model developed by Baichuan |baichuan-7B 是由百川智能开发的一个开源可商用的大规模预训练语言模型。基于 Transformer 结构，在大约1.2万亿 tokens 上训练的70亿参数模型，支持中英双语，上下文窗口长度为4096。在标准的中文和英文权威 benchmark（C-EVAL/MMLU）上均取得同尺寸最好的效果。|
 
-### 模型列表
+### 大模型训练和微调
+|名称|Stars|简介| 备注 |
+|-------|-------|-------|------|
+|[ChatGLM-Efficient-Tuning](https://github.com/hiyouga/ChatGLM-Efficient-Tuning) | ![GitHub Repo stars](https://badgen.net/github/stars/hiyouga/ChatGLM-Efficient-Tuning) | Fine-tuning ChatGLM-6B with PEFT | 基于 PEFT 的高效 ChatGLM 微调|
+|[LLaMA-Efficient-Tuning](https://github.com/hiyouga/LLaMA-Efficient-Tuning) | ![GitHub Repo stars](https://badgen.net/github/stars/hiyouga/LLaMA-Efficient-Tuning) | Fine-tuning LLaMA with PEFT (PT+SFT+RLHF with QLoRA) |支持多种模型 LLaMA (7B/13B/33B/65B) ，BLOOM & BLOOMZ (560M/1.1B/1.7B/3B/7.1B/176B)，baichuan (7B)，支持多种微调方式LoRA，QLoRA|
+
+
+### 更多模型列表
 |名称|Stars|简介| 备注 |
 -|-|-|-
 |[🤖 LLMs: awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) |![GitHub Repo stars](https://badgen.net/github/stars/nichtdax/awesome-totally-open-chatgpt)|开源LLMs 收集。|-|
