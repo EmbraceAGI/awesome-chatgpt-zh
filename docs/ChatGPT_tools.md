@@ -232,6 +232,7 @@ https://github.com/whoiskatrin/chart-gpt
 
 |名称|Stars|简介|备注|
 |---|---|---|---|
+|[chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot)|![GitHub Repo stars](https://badgen.net/github/stars/lss233/chatgpt-mirai-qq-bot)|🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台|
 |[AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)|![GitHub Repo stars](https://badgen.net/github/stars/microsoft/AI-For-Beginners)|12 Weeks, 24 Lessons, AI for All!|微软为新人推出的 AI 学习课程|
 |[CopilotForXcode](https://github.com/intitni/CopilotForXcode)|![GitHub Repo stars](https://badgen.net/github/stars/intitni/CopilotForXcode)|Copilot Xcode Source Editor Extension|-|
 |[GPTcommit](https://github.com/zurawiki/gptcommit)|![GitHub Repo stars](https://badgen.net/github/stars/zurawiki/gptcommit)|以后 git 提交 commit 信息不用抓耳挠腮了|-|
@@ -252,6 +253,7 @@ https://github.com/whoiskatrin/chart-gpt
 |[PentestGPT](https://github.com/GreyDGL/PentestGPT)|![GitHub Repo stars](https://badgen.net/github/stars/GreyDGL/PentestGPT)|基于 GPT 能力的渗透测试工具|-|
 |[gpt-engineer](https://github.com/AntonOsika/gpt-engineer)|![GitHub Repo stars](https://badgen.net/github/stars/AntonOsika/gpt-engineer)|Specify what you want it to build, the AI asks for clarification, and then builds it.|用 GPT 编写整个项目代码！|
 |[ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim)|![GitHub Repo stars](https://badgen.net/github/stars/jackMort/ChatGPT.nvim)|ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API.|-|
+
 
 #### [OpenGPT](https://open-gpt.app/)
 
