@@ -7,6 +7,7 @@
   - [向量数据库](#向量数据库)
   - [中文大模型开发资源](#中文大模型开发资源)
   - [OpenAI 服务替代品](#openai-服务替代品)
+  - [一键部署资源](#一键部署资源)
   - [其他开发资源](#其他开发资源)
 
 ### OpenAI 官方开发资源
@@ -74,17 +75,24 @@
 |[AI21](https://docs.ai21.com/) |以色列公司 A21 Labs 开发了一个名为 Jurassic-1 Jumbo 的模型。该模型大小与 1750 亿参数的 GPT-3 类似。该公司还围绕 Jurassic-1 Jumbo 逐渐构建起一系列产品，包括一个名为 AI21 Studio 的“AI-as-a-service”平台。该平台允许客户创建虚拟助手、聊天机器人、内容审核工具等。|-|
 |[智谱AI开放平台](https://open.bigmodel.cn/) |中文大模型 API。 基于千亿基座模型 GLM-130B，注入代码预训练，通过有监督微调等技术实现人类意图对齐的中英双语大模型。|-|
 
-### 其他开发资源
+### 一键部署资源
 
 |名称|Stars|简介|备注|
 |---|---|---|---|
 |[vercel-labs/ai](https://github.com/vercel-labs/ai) |![GitHub Repo stars](https://badgen.net/github/stars/vercel-labs/ai)|Build AI-powered applications with React, Svelte, and Vue. |使用 Vercel 平台一键部署多种 AI，ChatGPT 应用。|
+|[ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) |![GitHub Repo stars](https://badgen.net/github/stars/Yidadaa/ChatGPT-Next-Web)|One-Click to deploy well-designed ChatGPT web UI on Vercel. |一键拥有你自己的 ChatGPT 网页服务。|
+|[ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) |![GitHub Repo stars](https://badgen.net/github/stars/Licoy/ChatGPT-Midjourney)| Own your own ChatGPT+Midjourney web service with one click |🎨 一键拥有你自己的 ChatGPT+Midjourney 网页服务 |
+|[novel](https://github.com/steven-tey/novel) |![GitHub Repo stars](https://badgen.net/github/stars/steven-tey/novel)|Notion-style WYSIWYG editor with AI-powered autocompletions. |AI 驱动的 Notion 风格的所见即所得自动完成编辑器|
+|[ai-chatbot](https://github.com/vercel-labs/ai-chatbot) |![GitHub Repo stars](https://badgen.net/github/stars/vercel-labs/ai-chatbot)|A full-featured, hackable Next.js AI chatbot built by Vercel Labs. |由Vercel Labs构建的全功能，可编程的Next.js AI聊天机器人|
+
+### 其他开发资源
+
+|名称|Stars|简介|备注|
+|---|---|---|---|
 |[llm-numbers](https://github.com/ray-project/llm-numbers) |![GitHub Repo stars](https://badgen.net/github/stars/ray-project/llm-numbers)|Numbers every LLM developer should know.|大模型开发者必知数据|
 |[LlamaIndex](https://github.com/jerryjliu/llama_index) | ![GitHub Repo stars](https://img.shields.io/github/stars/jerryjliu/llama_index.svg?style=social) | Provides a central interface to connect your LLMs with external data. |将llm与外部数据连接起来。|
 | [《用ChatGPT API构建系统》课程](https://learn.deeplearning.ai/chatgpt-building-system/lesson/1/introduction)|-| DeepLearning.ai 创始人吴恩达和OpenAI合作的新的“使用ChatGPT API构建系统”的课程|课程链接（中英文字幕）: https://pan.baidu.com/s/1BgUKWwh5YSby3IVkGvLi_w?pwd=22b7 提取码: 22b7|
 |[开发指南：ChatGPT 插件开发](https://mp.weixin.qq.com/s/AmNkiLOqJo7tEJZPX34oeg) |-|详细介绍了开发流程，并通过“待办事项列表(to-do list)插件”的案例开发过程进行了演示。|-|
-|[ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) |![GitHub Repo stars](https://badgen.net/github/stars/Yidadaa/ChatGPT-Next-Web)|One-Click to deploy well-designed ChatGPT web UI on Vercel. |一键拥有你自己的 ChatGPT 网页服务。|
-|[ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) |![GitHub Repo stars](https://badgen.net/github/stars/Licoy/ChatGPT-Midjourney)| Own your own ChatGPT+Midjourney web service with one click |🎨 一键拥有你自己的 ChatGPT+Midjourney 网页服务 |
 |[gptcache](https://github.com/zilliztech/gptcache)|![GitHub Repo stars](https://badgen.net/github/stars/zilliztech/gptcache)|Semantic cache for LLMs. Fully integrated with LangChain and llama_index.|AIGC 应用程序的memcache,一个强大的缓存库，可用于加速和降低依赖 LLM 服务的聊天应用程序的成本，可用作 AIGC 应用程序的memcache，类似于 Redis 用于传统应用程序的方式。[知乎简介](https://zhuanlan.zhihu.com/p/618630093)：有效果实测图和基本介绍。|
 |[dify](https://github.com/langgenius/dify) |![GitHub Repo stars](https://badgen.net/github/stars/langgenius/dify)|One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.|快速创建AI应用程序平台，网站 [dify.ai](dify.ai) |
 |[OpenChat](https://github.com/openchatai/OpenChat) |![GitHub Repo stars](https://badgen.net/github/stars/openchatai/OpenChat)|Run and create custom ChatGPT-like bots with OpenChat, embed and share these bots anywhere, the open-source chatbot console. |构建聊天机器人。|
@@ -98,3 +106,4 @@
 |[rebuff](https://github.com/woop/rebuff) |![GitHub Repo stars](https://badgen.net/github/stars/woop/rebuff)|Rebuff.ai - Prompt Injection Detector.|Prompt 攻击检测，内容检测|
 |[text-generation-webui](https://github.com/oobabooga/text-generation-webui)|![GitHub Repo stars](https://badgen.net/github/stars/oobabooga/text-generation-webui)|-|一个用于运行大型语言模型(如LLaMA, LLaMA .cpp, GPT-J, Pythia, OPT和GALACTICA)的 web UI。|
 |[MLC LLM](https://github.com/mlc-ai/mlc-llm)|![GitHub Repo stars](https://badgen.net/github/stars/mlc-ai/mlc-llm)|Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.|陈天奇大佬力作——MLC LLM，在各类硬件上原生部署任意大型语言模型。可将大模型应用于移动端（例如 iPhone）、消费级电脑端（例如 Mac）和 Web 浏览器。|
+|[languagemodels](https://github.com/jncraton/languagemodels)|![GitHub Repo stars](https://badgen.net/github/stars/mlc-ai/mlc-llm)|Explore large language models on any computer with 512MB of RAM.|在512MB RAM的计算机上探索大型语言模型使用|
