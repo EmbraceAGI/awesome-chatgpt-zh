@@ -28,6 +28,8 @@ OpenAI 的 ChatGPT 大型语言模型（LLM）并未开源，这部分收录一�
 ### 大模型训练和微调
 |名称|Stars|简介| 备注 |
 |-------|-------|-------|------|
+|[transformers](https://github.com/huggingface/transformers) | ![GitHub Repo stars](https://badgen.net/github/stars/huggingface/transformers) | 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. |HuggingFace 经典之作, Transformers 模型必用库|
+|[peft](https://github.com/huggingface/peft) | ![GitHub Repo stars](https://badgen.net/github/stars/huggingface/peft) | PEFT: State-of-the-art Parameter-Efficient Fine-Tuning. |HuggingFace 出品——PEFT:最先进的参数高效微调。|
 |[ChatGLM-Efficient-Tuning](https://github.com/hiyouga/ChatGLM-Efficient-Tuning) | ![GitHub Repo stars](https://badgen.net/github/stars/hiyouga/ChatGLM-Efficient-Tuning) | Fine-tuning ChatGLM-6B with PEFT | 基于 PEFT 的高效 ChatGLM 微调|
 |[LLaMA-Efficient-Tuning](https://github.com/hiyouga/LLaMA-Efficient-Tuning) | ![GitHub Repo stars](https://badgen.net/github/stars/hiyouga/LLaMA-Efficient-Tuning) | Fine-tuning LLaMA with PEFT (PT+SFT+RLHF with QLoRA) |支持多种模型 LLaMA (7B/13B/33B/65B) ，BLOOM & BLOOMZ (560M/1.1B/1.7B/3B/7.1B/176B)，baichuan (7B)，支持多种微调方式LoRA，QLoRA|
 
