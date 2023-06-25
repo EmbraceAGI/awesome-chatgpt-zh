@@ -56,7 +56,6 @@ Prompt 编写模式是一份中文教程，介绍了系列 Prompt 编写模式�
 
 ![chatgpt_sc](imgs/chatGPT_shortcut.jpg)
 
-
 ### 💡 [学习如何提示：Learn Prompting](https://learnprompting.org/zh-Hans/)
 
 学习如何使用 prompt，支持中文
@@ -165,12 +164,18 @@ DAN越狱提示成功例图：
 </ul>
 
 
+
 ## 相关资料
-* [awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt)
-* [Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT)
-* [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
-* [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
-* [awesome-ChatGPT-resource-zh](https://github.com/DeepTecher/awesome-ChatGPT-resource-zh)
-* [🧠ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
-* [ChatGPT调教指南-咒语指南-聊天提示词指南](https://github.com/wikieden/Awesome-ChatGPT-Prompts-CN)
-* [🌟 ChatGPT-Awesomes-Collection 🌟](https://github.com/yzfly/my-awesomes-collection/blob/main/docs/chatgpt.md)
+|名称|Stars|简介| 备注 |
+|-------|-------|-------|------|
+| [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | ![GitHub Repo stars](https://badgen.net/github/stars/f/awesome-chatgpt-prompts) | This repo includes ChatGPT prompt curation to use ChatGPT better. | ChatGPT 精选 prompt |
+| [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | ![GitHub Repo stars](https://badgen.net/github/stars/dair-ai/Prompt-Engineering-Guide) | 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering | 提示工程的指南、论文、讲座、笔记本和资源 |
+| [awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) | ![GitHub Repo stars](https://badgen.net/github/stars/OpenMindClub/awesome-chatgpt) | ⚡ Everything about ChatGPT | ChatGPT 资源 |
+| [Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT) | ![GitHub Repo stars](https://badgen.net/github/stars/dalinvip/Awesome-ChatGPT) | - | ChatGPT资料汇总学习，持续更新...... |
+| [awesome-ChatGPT-resource-zh](https://github.com/DeepTecher/awesome-ChatGPT-resource-zh) | ![GitHub Repo stars](https://badgen.net/github/stars/DeepTecher/awesome-ChatGPT-resource-zh) | - | 中文 ChatGPT 精选资源清单 |
+| [🧠ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) | ![GitHub Repo stars](https://badgen.net/github/stars/PlexPt/awesome-chatgpt-prompts-zh) | - | ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。 |
+| [ChatGPT调教指南-咒语指南-聊天提示词指南](https://github.com/wikieden/Awesome-ChatGPT-Prompts-CN) | ![GitHub Repo stars](https://badgen.net/github/stars/wikieden/Awesome-ChatGPT-Prompts-CN) | - | ChatGPT调教指南 |
+|[amazing-bard-prompts](https://github.com/dsdanielpark/amazing-bard-prompts) | ![GitHub Repo stars](https://badgen.net/github/stars/dsdanielpark/amazing-bard-prompts) | This repo includes Google Bard prompt curation to use Bard better. |谷歌 bard 模型 prompt|
+|[understand-prompt](https://github.com/prompt-engineering/understand-prompt) | ![GitHub Repo stars](https://badgen.net/github/stars/prompt-engineering/understand-prompt) | - |理解 Prompt：基于编程、绘画、写作的 AI 探索与总结|
+|[🌟 ChatGPT-Awesomes-Collection 🌟](https://github.com/yzfly/my-awesomes-collection/blob/main/docs/chatgpt.md) | ![GitHub Repo stars](https://badgen.net/github/stars/yzfly/my-awesomes-collection) | - |ChatGPT prompt 合集的精选合集|
+

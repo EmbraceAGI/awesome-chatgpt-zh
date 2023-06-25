@@ -139,12 +139,26 @@
 
 > https://yiyan.baidu.com/welcome
 
-百度出品，目前未大规模开放，可申请使用
+百度出品，可申请使用
 
 ![wenxin](imgs/wenxin.jpg)
 
 </details>
 </li>
+
+<li>
+<details>
+  <summary>💻 讯飞星火</summary>
+
+> https://xinghuo.xfyun.cn/
+
+讯飞出品，中文体验不错，申请简单方便，可申请使用
+
+![wenxin](imgs/chat_xunfeixinhuo.jpg)
+
+</details>
+</li>
+
 
 <li>
 <details>
