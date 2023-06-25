@@ -7,6 +7,7 @@
   - [向量数据库](#向量数据库)
   - [中文大模型开发资源](#中文大模型开发资源)
   - [OpenAI 服务替代品](#openai-服务替代品)
+  - [API 资源](#api-资源)
   - [一键部署资源](#一键部署资源)
   - [其他开发资源](#其他开发资源)
 
@@ -75,6 +76,16 @@
 |[AI21](https://docs.ai21.com/) |以色列公司 A21 Labs 开发了一个名为 Jurassic-1 Jumbo 的模型。该模型大小与 1750 亿参数的 GPT-3 类似。该公司还围绕 Jurassic-1 Jumbo 逐渐构建起一系列产品，包括一个名为 AI21 Studio 的“AI-as-a-service”平台。该平台允许客户创建虚拟助手、聊天机器人、内容审核工具等。|-|
 |[智谱AI开放平台](https://open.bigmodel.cn/) |中文大模型 API。 基于千亿基座模型 GLM-130B，注入代码预训练，通过有监督微调等技术实现人类意图对齐的中英双语大模型。|-|
 
+### API 资源
+|名称|Stars|简介|备注|
+|---|---|---|---|
+|[gpt4free](https://github.com/xtekky/gpt4free) |![GitHub Repo stars](https://badgen.net/github/stars/xtekky/gpt4free)|decentralising the Ai Industry, just some language model api's...|免费的 ChatGPT API|
+|[gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) |![GitHub Repo stars](https://badgen.net/github/stars/xiangsx/gpt4free-ts)|Providing a free OpenAI GPT-4 API ! This is a replication project for the typescript version of xtekky/gpt4free|typescript 版本的免费 ChatGPT API|
+|[claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) |![GitHub Repo stars](https://badgen.net/github/stars/jtsang4/claude-to-chatgpt)|This project converts the API of Anthropic's Claude model to the OpenAI Chat API format.|将 Claude API格式转换为 ChatGPT API 格式|
+|[Bard-API](https://github.com/dsdanielpark/Bard-API) |![GitHub Repo stars](https://badgen.net/github/stars/dsdanielpark/Bard-API)|The unofficial python package that returns response of Google Bard through cookie value.|谷歌 bard 网页版 API 封装|
+|[yiyan-api](https://github.com/zhuweiyou/yiyan-api) |![GitHub Repo stars](https://badgen.net/github/stars/zhuweiyou/yiyan-api)|-|百度文心一言网页版 API |
+
+
 ### 一键部署资源
 
 |名称|Stars|简介|备注|
@@ -97,9 +108,6 @@
 |[dify](https://github.com/langgenius/dify) |![GitHub Repo stars](https://badgen.net/github/stars/langgenius/dify)|One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.|快速创建AI应用程序平台，网站 [dify.ai](dify.ai) |
 |[OpenChat](https://github.com/openchatai/OpenChat) |![GitHub Repo stars](https://badgen.net/github/stars/openchatai/OpenChat)|Run and create custom ChatGPT-like bots with OpenChat, embed and share these bots anywhere, the open-source chatbot console. |构建聊天机器人。|
 |[gptlink](https://github.com/gptlink/gptlink) |![GitHub Repo stars](https://badgen.net/github/stars/gptlink/gptlink)|-|10分钟搭建自己可免费商用的ChatGPT环境，搭建简单，包含用户，订单，任务，付费等功能.|
-|[gpt4free](https://github.com/xtekky/gpt4free) |![GitHub Repo stars](https://badgen.net/github/stars/xtekky/gpt4free)|decentralising the Ai Industry, just some language model api's...|免费的 ChatGPT API|
-|[gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) |![GitHub Repo stars](https://badgen.net/github/stars/xiangsx/gpt4free-ts)|Providing a free OpenAI GPT-4 API ! This is a replication project for the typescript version of xtekky/gpt4free|typescript 版本的免费 ChatGPT API|
-|[claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) |![GitHub Repo stars](https://badgen.net/github/stars/jtsang4/claude-to-chatgpt)|This project converts the API of Anthropic's Claude model to the OpenAI Chat API format.|将 Claude API格式转换为 ChatGPT API 格式|
 |[readme-ai](https://github.com/eli64s/README-AI) |![GitHub Repo stars](https://badgen.net/github/stars/eli64s/readme-ai)|Automated README.md files. |使用 OpenAI 语言模型 API，为编写美观、结构化和信息丰富的 README.md 文件而设计的命令行工具。|
 |[dialoqbase](https://github.com/n4ze3m/dialoqbase) |![GitHub Repo stars](https://badgen.net/github/stars/n4ze3m/dialoqbase)|Create chatbots with ease.|轻松创建聊天机器人|
 |[privateGPT](https://github.com/imartinez/privateGPT)|![GitHub Repo stars](https://badgen.net/github/stars/imartinez/privateGPT)|基于 Llama 的本地私人文档助手|-|
