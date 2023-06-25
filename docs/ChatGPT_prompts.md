@@ -9,11 +9,12 @@
   - [💡 提示语自动生成](#-提示语自动生成)
   - [创建，使用，分享 ChatGPT prompts: OpenPrompt](#创建使用分享-chatgpt-prompts-openprompt)
   - [一个可以帮你自动生成优质Prompt的工具: AIPRM](#一个可以帮你自动生成优质prompt的工具-aiprm)
-  - [生成AI绘图灵感](#生成ai绘图灵感)
   - [微软出品 guidance： 帮助你更好的控制大模型](#微软出品-guidance-帮助你更好的控制大模型)
   - [Prompt 框架](#prompt-框架)
     - [Elavis Saravia 总结的框架：](#elavis-saravia-总结的框架)
     - [Matt Nigh 总结的 CRISPE 框架：](#matt-nigh-总结的-crispe-框架)
+  - [【文心一言】提示词功能系统学习，Prompt Learning](#文心一言提示词功能系统学习prompt-learning)
+  - [生成AI绘图灵感](#生成ai绘图灵感)
 - [Prompts 前沿论文](#prompts-前沿论文)
 - [ChatGPT 对话实例](#chatgpt-对话实例)
   - [🧠ChatGPT 中文调教指南 囊括了丰富的对话示例](#chatgpt-中文调教指南-囊括了丰富的对话示例)
@@ -70,14 +71,8 @@ Prompt 编写模式是一份中文教程，介绍了系列 Prompt 编写模式�
 
 ### [创建，使用，分享 ChatGPT prompts: OpenPrompt](https://openprompt.co/) 
 ### [一个可以帮你自动生成优质Prompt的工具: AIPRM](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj)
-### [生成AI绘图灵感](https://www.aigenprompt.com/zh-CN)
-
-输入简单的词，这个工具会帮你优化成适合生成带有艺术感画面的一连串prompt，可以在大部分绘画工具使用。
-
-![aigenprompt](imgs/aigenprompt.jpg)
 
 ### [微软出品 guidance： 帮助你更好的控制大模型](https://github.com/microsoft/guidance)
-
 
 ### Prompt 框架
 #### Elavis Saravia 总结的框架：
@@ -101,6 +96,18 @@ CRISPE 分别代表以下含义：
 - E： Experiment（尝试），要求 ChatGPT 为你提供多个答案。
   
 https://github.com/mattnigh/ChatGPT3-Free-Prompt-List
+
+### [【文心一言】提示词功能系统学习，Prompt Learning](https://aistudio.baidu.com/aistudio/projectdetail/5939683)
+
+> https://aistudio.baidu.com/aistudio/projectdetail/5939683
+
+![wenxin_prompt](imgs/wenxin_prompt.jpg)
+
+### [生成AI绘图灵感](https://www.aigenprompt.com/zh-CN)
+
+输入简单的词，这个工具会帮你优化成适合生成带有艺术感画面的一连串prompt，可以在大部分绘画工具使用。
+
+![aigenprompt](imgs/aigenprompt.jpg)
 
 ## Prompts 前沿论文
 
