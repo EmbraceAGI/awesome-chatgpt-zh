@@ -154,7 +154,7 @@
 
 讯飞出品，中文体验不错，申请简单方便，可申请使用
 
-![wenxin](imgs/chat_xunfeixinhuo.jpg)
+![xunfeixi](imgs/chat_xunfeixinhuo.jpg)
 
 </details>
 </li>
