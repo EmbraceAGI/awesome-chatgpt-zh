@@ -3,6 +3,7 @@
 - [使用途径](#使用途径)
   - [💻 OpenAI 官网](#-openai-官网)
     - [Plus 开通教程](#plus-开通教程)
+    - [判断是否为 GPT-4](#判断是否为-gpt-4)
   - [💻 poe](#-poe)
   - [💻 微软必应](#-微软必应)
   - [国内可使用ChatGPT镜像站点](#国内可使用chatgpt镜像站点)
@@ -25,8 +26,11 @@
 * [nobepay 开卡：](https://zhuanlan.zhihu.com/p/619289623), 【[nobepay 官网](https://www.nobepay.com/)】，【[防止失效备份教程](imgs/nobepay_chatgpt.png)】 技术路线是: RMB -> nobepay 虚拟卡 -> 充值，优点是操作简单，缺点是需要绑定微信手机号等个人信息
 * 找有美国卡的朋友代充 或者 [美国代充](https://7t82qtu91d3.typeform.com/to/ZWwsiJDc)
 
-
 ![ChatGPT](imgs/openai_chatgpt.jpg)
+
+#### 判断是否为 GPT-4
+* 西红柿炒钢丝球怎么做。目前只看到 GPT-4 回复说钢丝球不能吃。
+* [只有 GPT4 能够回答，非 GPT4 无法回答"的问题收集](https://www.v2ex.com/t/947700)
 
 ### 💻 [poe](https://poe.com/chatgpt)
 
