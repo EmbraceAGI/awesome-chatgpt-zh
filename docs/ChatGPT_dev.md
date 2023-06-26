@@ -83,6 +83,7 @@
 |[gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) |![GitHub Repo stars](https://badgen.net/github/stars/xiangsx/gpt4free-ts)|Providing a free OpenAI GPT-4 API ! This is a replication project for the typescript version of xtekky/gpt4free|typescript 版本的免费 ChatGPT API|
 |[claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) |![GitHub Repo stars](https://badgen.net/github/stars/jtsang4/claude-to-chatgpt)|This project converts the API of Anthropic's Claude model to the OpenAI Chat API format.|将 Claude API格式转换为 ChatGPT API 格式|
 |[Bard-API](https://github.com/dsdanielpark/Bard-API) |![GitHub Repo stars](https://badgen.net/github/stars/dsdanielpark/Bard-API)|The unofficial python package that returns response of Google Bard through cookie value.|谷歌 bard 网页版 API 封装|
+|[claude-in-slack-api](https://github.com/yokonsan/claude-in-slack-api) |![GitHub Repo stars](https://badgen.net/github/stars/yokonsan/claude-in-slack-api)|claude in slack api.|通过 Slack API 来使用 Claude，[保姆级教程](https://mp.weixin.qq.com/s?__biz=Mzg4MjkzMzc1Mg==&mid=2247483961&idx=1&sn=c009f4ea28287daeaa4de17278c8228e&chksm=cf4e68aef839e1b8fe49110341e2a557e0b118fee82d490143656a12c7f85bdd4ef6f65ffd16&token=1094126126&lang=zh_CN#rd)|
 |[yiyan-api](https://github.com/zhuweiyou/yiyan-api) |![GitHub Repo stars](https://badgen.net/github/stars/zhuweiyou/yiyan-api)|-|百度文心一言网页版 API |
 
 
@@ -113,3 +114,4 @@
 |[privateGPT](https://github.com/imartinez/privateGPT)|![GitHub Repo stars](https://badgen.net/github/stars/imartinez/privateGPT)|基于 Llama 的本地私人文档助手|-|
 |[rebuff](https://github.com/woop/rebuff) |![GitHub Repo stars](https://badgen.net/github/stars/woop/rebuff)|Rebuff.ai - Prompt Injection Detector.|Prompt 攻击检测，内容检测|
 |[text-generation-webui](https://github.com/oobabooga/text-generation-webui)|![GitHub Repo stars](https://badgen.net/github/stars/oobabooga/text-generation-webui)|-|一个用于运行大型语言模型(如LLaMA, LLaMA .cpp, GPT-J, Pythia, OPT和GALACTICA)的 web UI。|
+|[embedchain](https://github.com/embedchain/embedchain)|![GitHub Repo stars](https://badgen.net/github/stars/embedchain/embedchain)|embedchain is a framework to easily create LLM powered bots over any dataset.|Embedchain是一个框架，可轻松在任何数据集上创建LLM驱动的机器人。|
