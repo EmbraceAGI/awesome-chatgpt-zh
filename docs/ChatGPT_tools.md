@@ -232,28 +232,27 @@ https://github.com/whoiskatrin/chart-gpt
 
 |名称|Stars|简介|备注|
 |---|---|---|---|
-|[chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot)|![GitHub Repo stars](https://badgen.net/github/stars/lss233/chatgpt-mirai-qq-bot)|🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台|
+|[gpt-engineer](https://github.com/AntonOsika/gpt-engineer)|![GitHub Repo stars](https://badgen.net/github/stars/AntonOsika/gpt-engineer)|Specify what you want it to build, the AI asks for clarification, and then builds it.|用 GPT 编写整个项目代码！|
+|[gpt4free](https://github.com/xtekky/gpt4free)|![GitHub Repo stars](https://badgen.net/github/stars/xtekky/gpt4free)|提供 GPT-4/3.5 的来自各种网站的逆向 API，来自 ChatGPT、poe.com 等各种网站，可以像Openai的官方软件包一样使用。|免费的编程接口！还有 GPT-4 ！不错！|
+|[chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)|![GitHub Repo stars](https://badgen.net/github/stars/zhayujie/chatgpt-on-wechat)|使用ChatGPT搭建微信聊天机器人|-|
 |[AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)|![GitHub Repo stars](https://badgen.net/github/stars/microsoft/AI-For-Beginners)|12 Weeks, 24 Lessons, AI for All!|微软为新人推出的 AI 学习课程|
+|[ChatBot-UI](https://github.com/mckaywrigley/chatbot-ui)|![GitHub Repo stars](https://badgen.net/github/stars/mckaywrigley/chatbot-ui)|搭建属于自己的 ChatGPT 网站|需要使用 API KEY|
+|[chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot)|![GitHub Repo stars](https://badgen.net/github/stars/lss233/chatgpt-mirai-qq-bot)|🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台|
 |[CopilotForXcode](https://github.com/intitni/CopilotForXcode)|![GitHub Repo stars](https://badgen.net/github/stars/intitni/CopilotForXcode)|Copilot Xcode Source Editor Extension|-|
 |[GPTcommit](https://github.com/zurawiki/gptcommit)|![GitHub Repo stars](https://badgen.net/github/stars/zurawiki/gptcommit)|以后 git 提交 commit 信息不用抓耳挠腮了|-|
 |[opencommit](https://github.com/di-sukharev/opencommit)|![GitHub Repo stars](https://badgen.net/github/stars/di-sukharev/opencommit)|用命令自动生成令人印象深刻的 commit|-|
 |[AutoDoc-ChatGPT](https://github.com/awekrx/AutoDoc-ChatGPT)|![GitHub Repo stars](https://badgen.net/github/stars/awekrx/AutoDoc-ChatGPT)|自动生成任何编程语言的文档|-|
-|[chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)|![GitHub Repo stars](https://badgen.net/github/stars/zhayujie/chatgpt-on-wechat)|使用ChatGPT搭建微信聊天机器人|-|
 |[awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt)|![GitHub Repo stars](https://badgen.net/github/stars/nichtdax/awesome-totally-open-chatgpt)|开源 ChatGPT 替代品列表|-|
 |[AI Anything](https://github.com/KeJunMao/ai-anything/blob/main/README.zh-cn.md)|![GitHub Repo stars](https://badgen.net/github/stars/KeJunMao/ai-anything)|人人都能创建 GPT 工具|-|
 |[Portal](https://github.com/lxfater/Portal) |![GitHub Repo stars](https://badgen.net/github/stars/lxfater/Portal)|Portal是一款传输工具，旨在将ChatGPT的能力整合到用户的工作流程中。它把整个操作系统当成自己的舞台，可以在任意软件上操作ChatGPT。|在任意软件上操作ChatGPT|
 |[SQL Chat](https://github.com/sqlchat/sqlchat)|![GitHub Repo stars](https://badgen.net/github/stars/sqlchat/sqlchat)|通过聊天生成 SQL 操作数据库|-|
 |[Chatgpt-Telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot)|![GitHub Repo stars](https://badgen.net/github/stars/n3d1117/chatgpt-telegram-bot)|电报 ChatGPT 机器人|-|
-|[ChatBot-UI](https://github.com/mckaywrigley/chatbot-ui)|![GitHub Repo stars](https://badgen.net/github/stars/mckaywrigley/chatbot-ui)|搭建属于自己的 ChatGPT 网站|需要使用 API KEY|
 |[engshell](https://github.com/emcf/engshell)|![GitHub Repo stars](https://badgen.net/github/stars/emcf/engshell)|LLMs 驱动的操作系统的 Shell|-|
 |[CodeWhisperer](https://aws.amazon.com/codewhisperer/)|-|免费，支持中文的 AI 代码助手，注册教程如下：官方地址：https://aws.amazon.com/codewhisperer/ 知乎保姆级教程：https://zhuanlan.zhihu.com/p/621800084|-|
-|[gpt4free](https://github.com/xtekky/gpt4free)|![GitHub Repo stars](https://badgen.net/github/stars/xtekky/gpt4free)|提供 GPT-4/3.5 的来自各种网站的逆向 API，来自 ChatGPT、poe.com 等各种网站，可以像Openai的官方软件包一样使用。|免费的编程接口！还有 GPT-4 ！不错！|
 |[bloop](https://github.com/BloopAI/bloop)|![GitHub Repo stars](https://badgen.net/github/stars/BloopAI/bloop)|bloop是一个用Rust编写的快速代码搜索引擎。|基于ChatGPT,和代码对话！|
 |[WebGPT](https://github.com/0hq/WebGPT)|![GitHub Repo stars](https://badgen.net/github/stars/0hq/WebGPT)|WebGPT 是基于浏览器 WebGPU 能力打造的在流量器运行 GPT 模型的应用|未来可期~|
 |[PentestGPT](https://github.com/GreyDGL/PentestGPT)|![GitHub Repo stars](https://badgen.net/github/stars/GreyDGL/PentestGPT)|基于 GPT 能力的渗透测试工具|-|
-|[gpt-engineer](https://github.com/AntonOsika/gpt-engineer)|![GitHub Repo stars](https://badgen.net/github/stars/AntonOsika/gpt-engineer)|Specify what you want it to build, the AI asks for clarification, and then builds it.|用 GPT 编写整个项目代码！|
 |[ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim)|![GitHub Repo stars](https://badgen.net/github/stars/jackMort/ChatGPT.nvim)|ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API.|-|
-
 
 #### [OpenGPT](https://open-gpt.app/)
 
