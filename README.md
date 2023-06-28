@@ -36,7 +36,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 
 ## [ChatGPT 使用途径](docs/ChatGPT_access.md)
 ## [与 ChatGPT 高效对话？——提示语学习](docs/ChatGPT_prompts.md)
-## [ChatGPT 顶级爆款开源项目(10K+ Stars)](docs\ChatGPT_Top_Project.md)
+## [ChatGPT 顶级爆款开源项目(10K+ Stars)](docs/ChatGPT_Top_Project.md)
 ## [ChatGPT 应用](docs/ChatGPT_tools.md)
 ## [ChatGPT 插件](docs/ChatGPT_plugins.md)
 ## [ChatGPT 应用开发指南](docs/ChatGPT_dev.md)
