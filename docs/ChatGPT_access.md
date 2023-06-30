@@ -6,8 +6,8 @@
     - [判断是否为 GPT-4](#判断是否为-gpt-4)
   - [💻 poe](#-poe)
   - [💻 微软必应](#-微软必应)
-  - [国内可使用ChatGPT镜像站点](#国内可使用chatgpt镜像站点)
-  - [💻 第三方开发者开发的 ChatGPT 客户端](#-第三方开发者开发的-chatgpt-客户端)
+  - [免费使用 ChatGPT](#免费使用-chatgpt)
+  - [💻 第三方 ChatGPT 客户端](#-第三方-chatgpt-客户端)
   - [💻 国外竞品](#-国外竞品)
   - [💻 国产 ChatGPT 类似产品](#-国产-chatgpt-类似产品)
 
@@ -49,12 +49,12 @@
   
 ![new_bing](imgs/new_bing.jpg)
 
-### 国内可使用ChatGPT镜像站点
+### 免费使用 ChatGPT 
 * [国内可使用ChatGPT镜像站点: carrot](https://github.com/xx025/carrot)
 * [免费的 ChatGPT 镜像网站列表](https://github.com/LiLittleCat/awesome-free-chatgpt)
 * [可以直接在国内访问的ChatGPT网站](examples/free_chatgpt_website.md)
 
-### 💻 第三方开发者开发的 ChatGPT 客户端
+### 💻 第三方 ChatGPT 客户端
 
 第三方客户端很多，基本都是通过调用 OpenAI 的 API 实现，这些客户端往往需要你自备 OpenAI 的 Api Key 使用。
 
@@ -91,6 +91,19 @@
 更新：Claude 模型现已经可以通过 slack 免费使用，地址: https://www.anthropic.com/claude-in-slack
 
 ![claude](imgs/claude.jpg)
+
+</details>
+</li>
+
+<details>
+  <summary>💻 Pi </summary>
+
+Inflection AI 公司推出的聊天机器人Pi，富有情感的个人定制ChatBot。Inflection AI 是由LinkedIn联合创始人Reid Hoffman和谷歌DeepMind联合创始人Mustafa Suleyman创立的人工智能初创公司。
+
+> https://pi.ai/talk
+
+
+![pi_chat](imgs/pi_chat.jpg)
 
 </details>
 </li>
