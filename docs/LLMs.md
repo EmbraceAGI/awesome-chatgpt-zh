@@ -52,7 +52,7 @@ OpenAI 的 ChatGPT 大型语言模型（LLM）并未开源，这部分收录一�
 |[LMFlow](https://github.com/OptimalScale/LMFlow) |![GitHub Repo stars](https://badgen.net/github/stars/OptimalScale/LMFlow)|共建大模型社区，让每个人都训得起大模型。|-|
 |[Alpaca-CoT](https://github.com/PhoebusSi/Alpaca-CoT/blob/main/CN_README.md)|![GitHub Repo stars](https://badgen.net/github/stars/PhoebusSi/Alpaca-CoT)|Alpaca-CoT项目旨在探究如何更好地通过instruction-tuning的方式来诱导LLM具备类似ChatGPT的交互和instruction-following能力。|-|
 |[OpenFlamingo](https://github.com/mlfoundations/open_flamingo)|![GitHub Repo stars](https://badgen.net/github/stars/mlfoundations/open_flamingo)|OpenFlamingo 是一个用于评估和训练大型多模态模型的开源框架，是 DeepMind Flamingo 模型的开源版本，也是 AI 世界关于大模型进展的一大步。|大型多模态模型训练和评估开源框架。|
-
+|[wgwang/LLMs-In-China](https://github.com/wgwang/LLMs-In-China)|![GitHub Repo stars](https://badgen.net/github/stars/wgwang/LLMs-In-China)|中国大模型|-|
 
 ### [中文LLaMA&Alpaca大语言模型+本地部署: Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca)
 

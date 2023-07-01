@@ -42,7 +42,8 @@
 |[langchain-tutorials](https://github.com/gkamradt/langchain-tutorials)|![GitHub Repo stars](https://badgen.net/github/stars/gkamradt/langchain-tutorials)|Overview and tutorial of the LangChain Library|LangChain 教程|
 |[LangChain 教程](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)|-|-|吴恩达与 LangChain 开发者推出的教程，目前免费|
 |[LangChain 的中文入门教程](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide)|![GitHub Repo stars](https://badgen.net/github/stars/liaokongVFX/LangChain-Chinese-Getting-Started-Guide)|LangChain 的中文入门教程|gitbook地址：https://liaokong.gitbook.io/llm-kai-fa-jiao-cheng/|
-
+|[langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM)|![GitHub Repo stars](https://badgen.net/github/stars/imClumsyPanda/langchain-ChatGLM)|langchain-ChatGLM, local knowledge based ChatGLM with langchain |基于本地知识库的 ChatGLM 问答|
+|[awesome-langchain](https://github.com/kyrolabs/awesome-langchain)|![GitHub Repo stars](https://badgen.net/github/stars/kyrolabs/awesome-langchain)|😎 Awesome list of tools and projects with the awesome LangChain framework. |LangChain Awesome 资源列表。|
 
 ### 向量数据库
 
@@ -115,3 +116,4 @@
 |[rebuff](https://github.com/woop/rebuff) |![GitHub Repo stars](https://badgen.net/github/stars/woop/rebuff)|Rebuff.ai - Prompt Injection Detector.|Prompt 攻击检测，内容检测|
 |[text-generation-webui](https://github.com/oobabooga/text-generation-webui)|![GitHub Repo stars](https://badgen.net/github/stars/oobabooga/text-generation-webui)|-|一个用于运行大型语言模型(如LLaMA, LLaMA .cpp, GPT-J, Pythia, OPT和GALACTICA)的 web UI。|
 |[embedchain](https://github.com/embedchain/embedchain)|![GitHub Repo stars](https://badgen.net/github/stars/embedchain/embedchain)|embedchain is a framework to easily create LLM powered bots over any dataset.|Embedchain是一个框架，可轻松在任何数据集上创建LLM驱动的机器人。|
+|[phodal/aigc](https://github.com/phodal/aigc)|![GitHub Repo stars](https://badgen.net/github/stars/phodal/aigc)|-|《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。|

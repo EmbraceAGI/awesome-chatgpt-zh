@@ -1,5 +1,6 @@
 import requests
 import json
+import time
 
 def fetch_trending_repos():
     url = "https://api.gitterapp.com/"
@@ -9,7 +10,9 @@ def fetch_trending_repos():
     return response.json()
 
 def save_as_markdown(repos):
-    with open('trending.md', 'w', encoding='utf-8') as f:
+    today = time.strftime("%Y-%m-%d",time.localtime(time.time()))
+    with open('trending.md', 'a+', encoding='utf-8') as f:
+        f.write("*********{}*********\n".format(today))
         f.write("|名称|Stars|简介|备注|\n")
         f.write("|---|---|---|---|\n")
         for repo in repos:
@@ -18,6 +21,7 @@ def save_as_markdown(repos):
             stars = '![GitHub Repo stars](https://badgen.net/github/stars/' + name + ')'
             description = repo['description'] or 'No Description'
             f.write(f"|[{name}]({url})|{stars}|{description}|-|\n")
+        f.write("*********{}*********\n".format(today))
 
 def main():
     repos = fetch_trending_repos()
