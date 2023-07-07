@@ -50,8 +50,8 @@
 ![new_bing](imgs/new_bing.jpg)
 
 ### 免费使用 ChatGPT 
-* [国内可使用ChatGPT镜像站点: carrot](https://github.com/xx025/carrot)
 * [免费的 ChatGPT 镜像网站列表](https://github.com/LiLittleCat/awesome-free-chatgpt)
+* [国内可使用ChatGPT镜像站点: carrot](https://github.com/xx025/carrot)
 * [可以直接在国内访问的ChatGPT网站](examples/free_chatgpt_website.md)
 
 ### 💻 第三方 ChatGPT 客户端
