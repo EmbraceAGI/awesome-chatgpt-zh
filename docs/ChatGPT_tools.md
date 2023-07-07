@@ -224,6 +224,7 @@ https://github.com/whoiskatrin/chart-gpt
 |[AudioGPT](https://github.com/AIGC-Audio/AudioGPT)|![GitHub Repo stars](https://badgen.net/github/stars/AIGC-Audio/AudioGPT)|理解和生成语音，音乐，声音和说话的人头|-|
 |[Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)|![GitHub Repo stars](https://badgen.net/github/stars/JushBJJ/Mr.-Ranedeer-AI-Tutor)|学习助手，解释学习概念，制订学习计划|-|
 |[中文法律知识大模型 LaWGPT](https://github.com/pengxiao-song/LaWGPT)|![GitHub Repo stars](https://badgen.net/github/stars/pengxiao-song/LaWGPT)|基于中文法律知识的大语言模型|-|
+|[PKU-YuanGroup/ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw)|![GitHub Repo stars](https://badgen.net/github/stars/PKU-YuanGroup/ChatLaw)|北大出品！中文法律大模型|-|
 
 
 ### 程序猿专区
