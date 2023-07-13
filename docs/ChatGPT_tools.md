@@ -256,6 +256,8 @@ https://github.com/whoiskatrin/chart-gpt
 |[WebGPT](https://github.com/0hq/WebGPT)|![GitHub Repo stars](https://badgen.net/github/stars/0hq/WebGPT)|WebGPT 是基于浏览器 WebGPU 能力打造的在流量器运行 GPT 模型的应用|未来可期~|
 |[PentestGPT](https://github.com/GreyDGL/PentestGPT)|![GitHub Repo stars](https://badgen.net/github/stars/GreyDGL/PentestGPT)|基于 GPT 能力的渗透测试工具|-|
 |[ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim)|![GitHub Repo stars](https://badgen.net/github/stars/jackMort/ChatGPT.nvim)|ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API.|-|
+|[assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)|![GitHub Repo stars](https://badgen.net/github/stars/assafelovic/gpt-researcher)|GPT based autonomous agent that does online comprehensive research on any given topic|-|
+|[SkalskiP/awesome-chatgpt-code-interpreter-experiments](https://github.com/SkalskiP/awesome-chatgpt-code-interpreter-experiments)|![GitHub Repo stars](https://badgen.net/github/stars/SkalskiP/awesome-chatgpt-code-interpreter-experiments)|Awesome things you can do with ChatGPT + Code Interpreter combo 🔥|-|
 
 #### [OpenGPT](https://open-gpt.app/)
 

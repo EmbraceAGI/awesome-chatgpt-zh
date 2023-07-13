@@ -85,3 +85,32 @@
 |[The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run)|![GitHub Repo stars](https://badgen.net/github/stars/The-Run-Philosophy-Organization/run)|润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。|-|
 |[AlanChen4/Summer-2024-SWE-Internships](https://github.com/AlanChen4/Summer-2024-SWE-Internships)|![GitHub Repo stars](https://badgen.net/github/stars/AlanChen4/Summer-2024-SWE-Internships)|A list of Summer 2024 internships for software engineering, updated automatically everyday|-|
 *********2023-07-07*********
+*********2023-07-14*********
+|名称|Stars|简介|备注|
+|---|---|---|---|
+|[StanGirard/quivr](https://github.com/StanGirard/quivr)|![GitHub Repo stars](https://badgen.net/github/stars/StanGirard/quivr)|🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠|-|
+|[usememos/memos](https://github.com/usememos/memos)|![GitHub Repo stars](https://badgen.net/github/stars/usememos/memos)|A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.|-|
+|[mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)|![GitHub Repo stars](https://badgen.net/github/stars/mshumer/gpt-prompt-engineer)|No Description|-|
+|[Kong/insomnia](https://github.com/Kong/insomnia)|![GitHub Repo stars](https://badgen.net/github/stars/Kong/insomnia)|The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.|-|
+|[danswer-ai/danswer](https://github.com/danswer-ai/danswer)|![GitHub Repo stars](https://badgen.net/github/stars/danswer-ai/danswer)|Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.|-|
+|[baichuan-inc/Baichuan-13B](https://github.com/baichuan-inc/Baichuan-13B)|![GitHub Repo stars](https://badgen.net/github/stars/baichuan-inc/Baichuan-13B)|A 13B large language model developed by Baichuan Intelligent Technology|-|
+|[assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)|![GitHub Repo stars](https://badgen.net/github/stars/assafelovic/gpt-researcher)|GPT based autonomous agent that does online comprehensive research on any given topic|-|
+|[guoyww/AnimateDiff](https://github.com/guoyww/AnimateDiff)|![GitHub Repo stars](https://badgen.net/github/stars/guoyww/AnimateDiff)|Official implementation of AnimateDiff.|-|
+|[SkalskiP/awesome-chatgpt-code-interpreter-experiments](https://github.com/SkalskiP/awesome-chatgpt-code-interpreter-experiments)|![GitHub Repo stars](https://badgen.net/github/stars/SkalskiP/awesome-chatgpt-code-interpreter-experiments)|Awesome things you can do with ChatGPT + Code Interpreter combo 🔥|-|
+|[mikepound/cubes](https://github.com/mikepound/cubes)|![GitHub Repo stars](https://badgen.net/github/stars/mikepound/cubes)|This code calculates all the variations of 3D polycubes for any size (time permitting!)|-|
+|[kudoai/chatgpt.js](https://github.com/kudoai/chatgpt.js)|![GitHub Repo stars](https://badgen.net/github/stars/kudoai/chatgpt.js)|🤖 A powerful, open source client-side JavaScript library for ChatGPT|-|
+|[OpenLMLab/MOSS-RLHF](https://github.com/OpenLMLab/MOSS-RLHF)|![GitHub Repo stars](https://badgen.net/github/stars/OpenLMLab/MOSS-RLHF)|MOSS-RLHF|-|
+|[taikoxyz/taiko-mono](https://github.com/taikoxyz/taiko-mono)|![GitHub Repo stars](https://badgen.net/github/stars/taikoxyz/taiko-mono)|A decentralized, Ethereum-equivalent ZK-Rollup. 🥁|-|
+|[dotnet/core](https://github.com/dotnet/core)|![GitHub Repo stars](https://badgen.net/github/stars/dotnet/core)|Home repository for .NET Core|-|
+|[pynecone-io/reflex](https://github.com/pynecone-io/reflex)|![GitHub Repo stars](https://badgen.net/github/stars/pynecone-io/reflex)|(Previously Pynecone) 🕸 Web apps in pure Python 🐍|-|
+|[s0md3v/roop](https://github.com/s0md3v/roop)|![GitHub Repo stars](https://badgen.net/github/stars/s0md3v/roop)|one-click deepfake (face swap)|-|
+|[mazzzystar/Queryable](https://github.com/mazzzystar/Queryable)|![GitHub Repo stars](https://badgen.net/github/stars/mazzzystar/Queryable)|Run OpenAI's CLIP model on iPhone to search photos.|-|
+|[rasbt/scipy2023-deeplearning](https://github.com/rasbt/scipy2023-deeplearning)|![GitHub Repo stars](https://badgen.net/github/stars/rasbt/scipy2023-deeplearning)|No Description|-|
+|[cypress-io/cypress](https://github.com/cypress-io/cypress)|![GitHub Repo stars](https://badgen.net/github/stars/cypress-io/cypress)|Fast, easy and reliable testing for anything that runs in a browser.|-|
+|[ricklamers/gpt-code-ui](https://github.com/ricklamers/gpt-code-ui)|![GitHub Repo stars](https://badgen.net/github/stars/ricklamers/gpt-code-ui)|An open source implementation of OpenAI's ChatGPT Code interpreter|-|
+|[danielgindi/Charts](https://github.com/danielgindi/Charts)|![GitHub Repo stars](https://badgen.net/github/stars/danielgindi/Charts)|Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.|-|
+|[deepset-ai/haystack](https://github.com/deepset-ai/haystack)|![GitHub Repo stars](https://badgen.net/github/stars/deepset-ai/haystack)|🔍 Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex question answering, semantic search, text generation applications, and more.|-|
+|[hyperium/hyper](https://github.com/hyperium/hyper)|![GitHub Repo stars](https://badgen.net/github/stars/hyperium/hyper)|An HTTP library for Rust|-|
+|[Visualize-ML/Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix)|![GitHub Repo stars](https://badgen.net/github/stars/Visualize-ML/Book4_Power-of-Matrix)|Book_4_《矩阵力量》 | 鸢尾花书：从加减乘除到机器学习；上架！|-|
+|[Azure/azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)|![GitHub Repo stars](https://badgen.net/github/stars/Azure/azure-rest-api-specs)|The source for REST API specifications for Microsoft Azure.|-|
+*********2023-07-14*********
