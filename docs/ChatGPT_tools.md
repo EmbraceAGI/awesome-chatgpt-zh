@@ -258,6 +258,7 @@ https://github.com/whoiskatrin/chart-gpt
 |[ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim)|![GitHub Repo stars](https://badgen.net/github/stars/jackMort/ChatGPT.nvim)|ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API.|-|
 |[assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)|![GitHub Repo stars](https://badgen.net/github/stars/assafelovic/gpt-researcher)|GPT based autonomous agent that does online comprehensive research on any given topic|-|
 |[SkalskiP/awesome-chatgpt-code-interpreter-experiments](https://github.com/SkalskiP/awesome-chatgpt-code-interpreter-experiments)|![GitHub Repo stars](https://badgen.net/github/stars/SkalskiP/awesome-chatgpt-code-interpreter-experiments)|Awesome things you can do with ChatGPT + Code Interpreter combo 🔥|-|
+|[gpt-runner](https://github.com/nicepkg/gpt-runner)|![GitHub Repo stars](https://badgen.net/github/stars/nicepkg/gpt-runner)|-|管理 AI 预设，与代码文件聊天，提升开发效率！|
 
 #### [OpenGPT](https://open-gpt.app/)
 
