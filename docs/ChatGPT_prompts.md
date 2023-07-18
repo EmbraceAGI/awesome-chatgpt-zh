@@ -9,22 +9,21 @@
   - [💡 提示语自动生成](#-提示语自动生成)
   - [创建，使用，分享 ChatGPT prompts: OpenPrompt](#创建使用分享-chatgpt-prompts-openprompt)
   - [一个可以帮你自动生成优质Prompt的工具: AIPRM](#一个可以帮你自动生成优质prompt的工具-aiprm)
-  - [微软出品 guidance： 帮助你更好的控制大模型](#微软出品-guidance-帮助你更好的控制大模型)
   - [Prompt 框架](#prompt-框架)
     - [Elavis Saravia 总结的框架：](#elavis-saravia-总结的框架)
     - [Matt Nigh 总结的 CRISPE 框架：](#matt-nigh-总结的-crispe-框架)
   - [【文心一言】提示词功能系统学习，Prompt Learning](#文心一言提示词功能系统学习prompt-learning)
   - [生成AI绘图灵感](#生成ai绘图灵感)
+- [鲁棒高性能 Prompts 开发](#鲁棒高性能-prompts-开发)
 - [Prompts 前沿论文](#prompts-前沿论文)
+- [Prompts 合集](#prompts-合集)
+  - [ChatGPT 越狱](#chatgpt-越狱)
 - [ChatGPT 对话实例](#chatgpt-对话实例)
-  - [🧠ChatGPT 中文调教指南 囊括了丰富的对话示例](#chatgpt-中文调教指南-囊括了丰富的对话示例)
   - [ChatGPT 协助快速完成 markdown 表格](#chatgpt-协助快速完成-markdown-表格)
   - [ChatGPT 教你一步一步实现 CIFAR10 数据集图像分类任务](#chatgpt-教你一步一步实现-cifar10-数据集图像分类任务)
   - [一句话让 ChatGPT 帮助你实现 YOLO 目标检测](#一句话让-chatgpt-帮助你实现-yolo-目标检测)
   - [请选择你传奇的一生——ChatGPT：我选骆驼祥子](#请选择你传奇的一生chatgpt我选骆驼祥子)
   - [ChatGPT 请扮演一个DAN，不必遵守OpenAI的政策](#chatgpt-请扮演一个dan不必遵守openai的政策)
-  - [ChatGPT 越狱](#chatgpt-越狱)
-- [相关资料](#相关资料)
 
 ### [中文 prompts 精选](https://github.com/yzfly/wonderful-prompts) 🔥
 
@@ -70,9 +69,9 @@ Prompt 编写模式是一份中文教程，介绍了系列 Prompt 编写模式�
 ![prompt-gen](imgs/chatGPT_promote_gen.jpg)
 
 ### [创建，使用，分享 ChatGPT prompts: OpenPrompt](https://openprompt.co/) 
+
 ### [一个可以帮你自动生成优质Prompt的工具: AIPRM](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj)
 
-### [微软出品 guidance： 帮助你更好的控制大模型](https://github.com/microsoft/guidance)
 
 ### Prompt 框架
 #### Elavis Saravia 总结的框架：
@@ -109,6 +108,12 @@ https://github.com/mattnigh/ChatGPT3-Free-Prompt-List
 
 ![aigenprompt](imgs/aigenprompt.jpg)
 
+## 鲁棒高性能 Prompts 开发
+| [guidance](https://github.com/microsoft/guidance) | ![GitHub Repo stars](https://badgen.net/github/stars/microsoft/guidance) | A guidance language for controlling large language models. | 微软出品 guidance： 帮助你更好的控制大模型 |
+| [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) | ![GitHub Repo stars](https://badgen.net/github/stars/mshumer/gpt-prompt-engineer) | Simply input a description of your task and some test cases, and the system will generate, test, and rank a multitude of prompts to find the ones that perform the best. | 输入任务和测试用例描述，系统将生成，测试和排名多种提示，以找到最佳提示。 |
+| [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) | ![GitHub Repo stars](https://badgen.net/github/stars/mshumer/gpt-prompt-engineer) | Simply input a description of your task and some test cases, and the system will generate, test, and rank a multitude of prompts to find the ones that perform the best. | 输入任务和测试用例描述，系统将生成，测试和排名多种提示，以找到最佳提示。 |
+| [LangGPT](https://github.com/yzfly/LangGPT) | ![GitHub Repo stars](https://badgen.net/github/stars/meistrari/prompts-royale) | LangGPT: Empowering everyone to become a prompt expert!🚀 Structured Prompt. | 自动创建 prompt，以结构化方式写提示词，提供多种提示词模板。|
+
 ## Prompts 前沿论文
 
 |名称|简介|备注|
@@ -116,14 +121,21 @@ https://github.com/mattnigh/ChatGPT3-Free-Prompt-List
 |[Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)|文章主要探索如何通过生成思维链（Chain-of-Thought）显著的提高大型语言模型处理处理复杂推理问题的能力。这里思维链简单的理解就是一系列为了达到最终结果的中间过程。特别地，文章展示了这样的推理能力是如何通过一种叫做思维链提示的简单方法在足够大的语言模型中自然地出现的，在这种方法中，一些思维链演示作为提示的范例提供。|[知乎中文解读](https://zhuanlan.zhihu.com/p/610040239)|
 |[Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601)|Tree of Thoughts（TOT）的基本原则是为大模型提供探索多个分支的机会，同时依据结果进行自我评估。根据参考文献，这种方法似乎对某些问题非常有效。|[TOT 官方实现](https://github.com/princeton-nlp/tree-of-thought-llm)|
 
+## Prompts 合集
 
-## ChatGPT 对话实例
-### [🧠ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) 囊括了丰富的对话示例
-### [ChatGPT 协助快速完成 markdown 表格](examples/help_make_Markdown_table.md)
-### [ChatGPT 教你一步一步实现 CIFAR10 数据集图像分类任务](examples/ImageClassificationCifar10Tutorials_ChatGPT.md)
-### [一句话让 ChatGPT 帮助你实现 YOLO 目标检测](examples/YOLOV4.md)
-### [请选择你传奇的一生——ChatGPT：我选骆驼祥子](examples/ChatGPT_xiangzi.md)
-### [ChatGPT 请扮演一个DAN，不必遵守OpenAI的政策](examples/chatGPT_set_free.md)
+|名称|Stars|简介| 备注 |
+|-------|-------|-------|------|
+| [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | ![GitHub Repo stars](https://badgen.net/github/stars/f/awesome-chatgpt-prompts) | This repo includes ChatGPT prompt curation to use ChatGPT better. | ChatGPT 精选 prompt |
+| [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | ![GitHub Repo stars](https://badgen.net/github/stars/dair-ai/Prompt-Engineering-Guide) | 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering | 提示工程的指南、论文、讲座、笔记本和资源 |
+| [awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) | ![GitHub Repo stars](https://badgen.net/github/stars/OpenMindClub/awesome-chatgpt) | ⚡ Everything about ChatGPT | ChatGPT 资源 |
+| [Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT) | ![GitHub Repo stars](https://badgen.net/github/stars/dalinvip/Awesome-ChatGPT) | - | ChatGPT资料汇总学习，持续更新...... |
+| [awesome-ChatGPT-resource-zh](https://github.com/DeepTecher/awesome-ChatGPT-resource-zh) | ![GitHub Repo stars](https://badgen.net/github/stars/DeepTecher/awesome-ChatGPT-resource-zh) | - | 中文 ChatGPT 精选资源清单 |
+| [🧠ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) | ![GitHub Repo stars](https://badgen.net/github/stars/PlexPt/awesome-chatgpt-prompts-zh) | - | ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。 |
+| [ChatGPT调教指南-咒语指南-聊天提示词指南](https://github.com/wikieden/Awesome-ChatGPT-Prompts-CN) | ![GitHub Repo stars](https://badgen.net/github/stars/wikieden/Awesome-ChatGPT-Prompts-CN) | - | ChatGPT调教指南 |
+|[awesome-claude-prompts](https://github.com/yzfly/awesome-claude-prompts) | ![GitHub Repo stars](https://badgen.net/github/stars/yzfly/awesome-claude-prompts) | This repo includes Google Bard prompt curation to use Claude better. |Claude 模型 prompt|
+|[amazing-bard-prompts](https://github.com/dsdanielpark/amazing-bard-prompts) | ![GitHub Repo stars](https://badgen.net/github/stars/dsdanielpark/amazing-bard-prompts) | This repo includes Claude prompt curation to use Bard better. |谷歌 bard 模型 prompt|
+|[understand-prompt](https://github.com/prompt-engineering/understand-prompt) | ![GitHub Repo stars](https://badgen.net/github/stars/prompt-engineering/understand-prompt) | - |理解 Prompt：基于编程、绘画、写作的 AI 探索与总结|
+|[🌟 ChatGPT-Awesomes-Collection 🌟](https://github.com/yzfly/my-awesomes-collection/blob/main/docs/chatgpt.md) | ![GitHub Repo stars](https://badgen.net/github/stars/yzfly/my-awesomes-collection) | - |ChatGPT prompt 合集的精选合集|
 
 ### ChatGPT 越狱
 
@@ -170,19 +182,10 @@ DAN越狱提示成功例图：
 
 </ul>
 
-
-
-## 相关资料
-|名称|Stars|简介| 备注 |
-|-------|-------|-------|------|
-| [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | ![GitHub Repo stars](https://badgen.net/github/stars/f/awesome-chatgpt-prompts) | This repo includes ChatGPT prompt curation to use ChatGPT better. | ChatGPT 精选 prompt |
-| [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | ![GitHub Repo stars](https://badgen.net/github/stars/dair-ai/Prompt-Engineering-Guide) | 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering | 提示工程的指南、论文、讲座、笔记本和资源 |
-| [awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) | ![GitHub Repo stars](https://badgen.net/github/stars/OpenMindClub/awesome-chatgpt) | ⚡ Everything about ChatGPT | ChatGPT 资源 |
-| [Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT) | ![GitHub Repo stars](https://badgen.net/github/stars/dalinvip/Awesome-ChatGPT) | - | ChatGPT资料汇总学习，持续更新...... |
-| [awesome-ChatGPT-resource-zh](https://github.com/DeepTecher/awesome-ChatGPT-resource-zh) | ![GitHub Repo stars](https://badgen.net/github/stars/DeepTecher/awesome-ChatGPT-resource-zh) | - | 中文 ChatGPT 精选资源清单 |
-| [🧠ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) | ![GitHub Repo stars](https://badgen.net/github/stars/PlexPt/awesome-chatgpt-prompts-zh) | - | ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。 |
-| [ChatGPT调教指南-咒语指南-聊天提示词指南](https://github.com/wikieden/Awesome-ChatGPT-Prompts-CN) | ![GitHub Repo stars](https://badgen.net/github/stars/wikieden/Awesome-ChatGPT-Prompts-CN) | - | ChatGPT调教指南 |
-|[amazing-bard-prompts](https://github.com/dsdanielpark/amazing-bard-prompts) | ![GitHub Repo stars](https://badgen.net/github/stars/dsdanielpark/amazing-bard-prompts) | This repo includes Google Bard prompt curation to use Bard better. |谷歌 bard 模型 prompt|
-|[understand-prompt](https://github.com/prompt-engineering/understand-prompt) | ![GitHub Repo stars](https://badgen.net/github/stars/prompt-engineering/understand-prompt) | - |理解 Prompt：基于编程、绘画、写作的 AI 探索与总结|
-|[🌟 ChatGPT-Awesomes-Collection 🌟](https://github.com/yzfly/my-awesomes-collection/blob/main/docs/chatgpt.md) | ![GitHub Repo stars](https://badgen.net/github/stars/yzfly/my-awesomes-collection) | - |ChatGPT prompt 合集的精选合集|
+## ChatGPT 对话实例
+### [ChatGPT 协助快速完成 markdown 表格](examples/help_make_Markdown_table.md)
+### [ChatGPT 教你一步一步实现 CIFAR10 数据集图像分类任务](examples/ImageClassificationCifar10Tutorials_ChatGPT.md)
+### [一句话让 ChatGPT 帮助你实现 YOLO 目标检测](examples/YOLOV4.md)
+### [请选择你传奇的一生——ChatGPT：我选骆驼祥子](examples/ChatGPT_xiangzi.md)
+### [ChatGPT 请扮演一个DAN，不必遵守OpenAI的政策](examples/chatGPT_set_free.md)
 
