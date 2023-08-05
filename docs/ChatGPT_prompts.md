@@ -113,7 +113,7 @@ https://github.com/mattnigh/ChatGPT3-Free-Prompt-List
 |---|---|---|
 | [guidance](https://github.com/microsoft/guidance) | ![GitHub Repo stars](https://badgen.net/github/stars/microsoft/guidance) | A guidance language for controlling large language models. | 微软出品 guidance： 帮助你更好的控制大模型 |
 | [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) | ![GitHub Repo stars](https://badgen.net/github/stars/mshumer/gpt-prompt-engineer) | Simply input a description of your task and some test cases, and the system will generate, test, and rank a multitude of prompts to find the ones that perform the best. | 输入任务和测试用例描述，系统将生成，测试和排名多种提示，以找到最佳提示。 |
-| [LangGPT](https://github.com/yzfly/LangGPT) | ![GitHub Repo stars](https://badgen.net/github/stars/meistrari/prompts-royale) | LangGPT: Empowering everyone to become a prompt expert!🚀 Structured Prompt. | 自动创建 prompt，以结构化方式写提示词，提供多种提示词模板。|
+| [LangGPT](https://github.com/yzfly/LangGPT) | ![GitHub Repo stars](https://badgen.net/github/stars/yzfly/LangGPT) | LangGPT: Empowering everyone to become a prompt expert!🚀 Structured Prompt. | 自动创建 prompt，以结构化方式写提示词，提供多种提示词模板。|
 | [TypeChat](https://github.com/microsoft/TypeChat) | ![GitHub Repo stars](https://badgen.net/github/stars/microsoft/TypeChat) | TypeChat is a library that makes it easy to build natural language interfaces using types. | 构建自然语言接口，格式化输出 |
 
 ## Prompts 前沿论文
