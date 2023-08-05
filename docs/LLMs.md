@@ -2,6 +2,18 @@
 
 OpenAI 的 ChatGPT 大型语言模型（LLM）并未开源，这部分收录一些深度学习开源的 LLM 供感兴趣的同学学习参考。
 
+### Llama 2 系列 [2023.08.05 更新]
+
+|名称|Stars|简介| 备注 |
+|-------|-------|-------|------|
+|[llama 2](https://github.com/facebookresearch/llama) | ![GitHub Repo stars](https://badgen.net/github/stars/facebookresearch/llama) | Inference code for LLaMA models. |llama 系列模型官方开源地址|
+|[Llama 2中文社区](https://github.com/FlagAlpha/Llama2-Chinese)| ![GitHub Repo stars](https://badgen.net/github/stars/FlagAlpha/Llama2-Chinese) |-|Llama中文社区,最好的中文Llama大模型,完全开源可商用|
+|[ollama](https://github.com/jmorganca/ollama)| ![GitHub Repo stars](https://badgen.net/github/stars/jmorganca/ollama)| Get up and running with Llama 2 and other large language models locally|本地运行 llama|
+|[Firefly](https://github.com/yangjianxin1/Firefly)| ![GitHub Repo stars](https://badgen.net/github/stars/yangjianxin1/Firefly)|-|Firefly(流萤): 中文对话式大语言模型(全量微调+QLoRA),支持微调Llma2、Llama、Qwen、Baichuan、ChatGLM2、InternLM、Ziya、Bloom 等大模型|
+|[Azure ChatGPT](https://github.com/microsoft/azurechatgpt)| ![GitHub Repo stars](https://badgen.net/github/stars/microsoft/azurechatgpt) | 🤖 Azure ChatGPT: Private & secure ChatGPT for internal enterprise use 💼|-|
+|[LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory)| ![GitHub Repo stars](https://badgen.net/github/stars/Alpha-VLLM/LLaMA2-Accessory)| An Open-source Toolkit for LLM Development|-|
+
+
 ### 大模型
 
 |名称|Stars|简介| 备注 |
@@ -26,6 +38,7 @@ OpenAI 的 ChatGPT 大型语言模型（LLM）并未开源，这部分收录一�
 |[baichuan-7B](https://github.com/baichuan-inc/baichuan-7B) |![GitHub Repo stars](https://badgen.net/github/stars/baichuan-inc/baichuan-7B)|A large-scale 7B pretraining language model developed by Baichuan |baichuan-7B 是由百川智能开发的一个开源可商用的大规模预训练语言模型。基于 Transformer 结构，在大约1.2万亿 tokens 上训练的70亿参数模型，支持中英双语，上下文窗口长度为4096。在标准的中文和英文权威 benchmark（C-EVAL/MMLU）上均取得同尺寸最好的效果。|
 |[baichuan-inc/Baichuan-13B](https://github.com/baichuan-inc/Baichuan-13B)|![GitHub Repo stars](https://badgen.net/github/stars/baichuan-inc/Baichuan-13B)|A 13B large language model developed by Baichuan Intelligent Technology|-|
 |[open_llama](https://github.com/openlm-research/open_llama) |![GitHub Repo stars](https://badgen.net/github/stars/openlm-research/open_llama)|OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset. |OpenLLaMA，允许开源复制Meta AI的LLaMA-7B 模型，在red睡衣数据集上训练得到。|
+|[Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca)|![GitHub Repo stars](https://badgen.net/github/stars/ymcui/Chinese-LLaMA-Alpaca)|中文LLaMA模型和经过指令精调的Alpaca大模型。|-|
 
 ### 大模型训练和微调
 |名称|Stars|简介| 备注 |
@@ -38,6 +51,9 @@ OpenAI 的 ChatGPT 大型语言模型（LLM）并未开源，这部分收录一�
 |[ChatGLM-Efficient-Tuning](https://github.com/hiyouga/ChatGLM-Efficient-Tuning) | ![GitHub Repo stars](https://badgen.net/github/stars/hiyouga/ChatGLM-Efficient-Tuning) | Fine-tuning ChatGLM-6B with PEFT | 基于 PEFT 的高效 ChatGLM 微调|
 |[LLaMA-Efficient-Tuning](https://github.com/hiyouga/LLaMA-Efficient-Tuning) | ![GitHub Repo stars](https://badgen.net/github/stars/hiyouga/LLaMA-Efficient-Tuning) | Fine-tuning LLaMA with PEFT (PT+SFT+RLHF with QLoRA) |支持多种模型 LLaMA (7B/13B/33B/65B) ，BLOOM & BLOOMZ (560M/1.1B/1.7B/3B/7.1B/176B)，baichuan (7B)，支持多种微调方式LoRA，QLoRA|
 |[微调中文数据集 COIG](https://github.com/BAAI-Zlab/COIG) | ![GitHub Repo stars](https://badgen.net/github/stars/BAAI-Zlab/COIG) | Chinese Open Instruction Generalist (COIG) project aims to maintain a harmless, helpful, and diverse set of Chinese instruction corpora. |中文开放教学通才(COIG)项目旨在维护一套无害、有用和多样化的中文教学语料库。|
+|[LLaMA-Adapter🚀](https://github.com/ZrrSkywalker/LLaMA-Adapter) | ![GitHub Repo stars](https://badgen.net/github/stars/ZrrSkywalker/LLaMA-Adapter) | - |高效微调一个聊天机器人|
+| [⚡ Lit-LLaMA](https://github.com/Lightning-AI/lit-llama) | ![GitHub Repo stars](https://badgen.net/github/stars/Lightning-AI/lit-llama) | - |Lightning-AI 基于nanoGPT的LLaMA语言模型的实现。支持量化，LoRA微调，预训练。|
+
 
 ### 更多模型列表
 |名称|Stars|简介| 备注 |
@@ -54,26 +70,5 @@ OpenAI 的 ChatGPT 大型语言模型（LLM）并未开源，这部分收录一�
 |[LMFlow](https://github.com/OptimalScale/LMFlow) |![GitHub Repo stars](https://badgen.net/github/stars/OptimalScale/LMFlow)|共建大模型社区，让每个人都训得起大模型。|-|
 |[Alpaca-CoT](https://github.com/PhoebusSi/Alpaca-CoT/blob/main/CN_README.md)|![GitHub Repo stars](https://badgen.net/github/stars/PhoebusSi/Alpaca-CoT)|Alpaca-CoT项目旨在探究如何更好地通过instruction-tuning的方式来诱导LLM具备类似ChatGPT的交互和instruction-following能力。|-|
 |[OpenFlamingo](https://github.com/mlfoundations/open_flamingo)|![GitHub Repo stars](https://badgen.net/github/stars/mlfoundations/open_flamingo)|OpenFlamingo 是一个用于评估和训练大型多模态模型的开源框架，是 DeepMind Flamingo 模型的开源版本，也是 AI 世界关于大模型进展的一大步。|大型多模态模型训练和评估开源框架。|
-|[wgwang/LLMs-In-China](https://github.com/wgwang/LLMs-In-China)|![GitHub Repo stars](https://badgen.net/github/stars/wgwang/LLMs-In-China)|中国大模型|-|
-
-### [中文LLaMA&Alpaca大语言模型+本地部署: Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca)
-
-项目开源了中文LLaMA模型和经过指令精调的Alpaca大模型。这些模型在原版LLaMA的基础上扩充了中文词表并使用了中文数据进行二次预训练，进一步提升了中文基础语义理解能力。同时，在中文LLaMA的基础上，本项目使用了中文指令数据进行指令精调，显著提升了模型对指令的理解和执行能力。
-
-![chinese_llama_alpaca](imgs/chinese_llama_alpaca.gif)
-
-### [Visual OpenLLM](https://github.com/visual-openllm/visual-openllm)
-一种基于开源模型, 已交互方式连接不同视觉模型的开源工具。
-
-* 基于 ChatGLM + Visual ChatGPT + Stable Diffusion
-* 开源版的"文心一言"
-
-![visual_openllm](imgs/visual_openllm.gif)
-
-### [高效微调一个聊天机器人：LLaMA-Adapter🚀](https://github.com/ZrrSkywalker/LLaMA-Adapter)
-
-### [⚡ Lit-LLaMA](https://github.com/Lightning-AI/lit-llama)
-
-Lightning-AI 基于nanoGPT的LLaMA语言模型的实现。支持量化，LoRA微调，预训练。
-
-![lit_llama](imgs/Lite-LLaMA.gif)
+|[LLMs-In-China](https://github.com/wgwang/LLMs-In-China)|![GitHub Repo stars](https://badgen.net/github/stars/wgwang/LLMs-In-China)|中国大模型|-|
+|[Visual OpenLLM](https://github.com/visual-openllm/visual-openllm)|![GitHub Repo stars](https://badgen.net/github/stars/visual-openllm/visual-openllm)|基于 ChatGLM + Visual ChatGPT + Stable Diffusion, 以交互方式连接不同视觉模型的开源工具。|-|

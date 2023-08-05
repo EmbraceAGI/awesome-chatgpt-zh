@@ -14,7 +14,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 - [🤖 ChatGPT 中文指南 🤖](#-chatgpt-中文指南-)
   - [什么是 ChatGPT ?](#什么是-chatgpt-)
   - [ChatGPT 使用途径](#chatgpt-使用途径)
-  - [与 ChatGPT 高效对话？——提示语学习](#与-chatgpt-高效对话提示语学习)
+  - [与 ChatGPT 高效对话？——Prompt工程指南](#与-chatgpt-高效对话prompt工程指南)
   - [ChatGPT 顶级爆款开源项目(10K+ Stars)](#chatgpt-顶级爆款开源项目10k-stars)
   - [ChatGPT 应用](#chatgpt-应用)
   - [ChatGPT 插件](#chatgpt-插件)
@@ -35,7 +35,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 > 你好！我是ChatGPT，一个由OpenAI开发的大型语言模型，基于GPT-4架构。我的任务是通过自然语言处理技术，与用户进行交流并提供帮助。我可以回答问题、提供建议、进行简单对话等。我的知识截止于2021年9月，所以关于那之后的信息可能无法为您提供准确的答案。请随时向我提问，我会尽我所能帮助您。
 
 ## [ChatGPT 使用途径](docs/ChatGPT_access.md)
-## [与 ChatGPT 高效对话？——提示语学习](docs/ChatGPT_prompts.md)
+## [与 ChatGPT 高效对话？——Prompt工程指南](docs/ChatGPT_prompts.md)
 ## [ChatGPT 顶级爆款开源项目(10K+ Stars)](docs/ChatGPT_Top_Project.md)
 ## [ChatGPT 应用](docs/ChatGPT_tools.md)
 ## [ChatGPT 插件](docs/ChatGPT_plugins.md)
