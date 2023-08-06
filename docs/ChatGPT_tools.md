@@ -259,6 +259,9 @@ https://github.com/whoiskatrin/chart-gpt
 |[assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)|![GitHub Repo stars](https://badgen.net/github/stars/assafelovic/gpt-researcher)|GPT based autonomous agent that does online comprehensive research on any given topic|-|
 |[SkalskiP/awesome-chatgpt-code-interpreter-experiments](https://github.com/SkalskiP/awesome-chatgpt-code-interpreter-experiments)|![GitHub Repo stars](https://badgen.net/github/stars/SkalskiP/awesome-chatgpt-code-interpreter-experiments)|Awesome things you can do with ChatGPT + Code Interpreter combo 🔥|-|
 |[gpt-runner](https://github.com/nicepkg/gpt-runner)|![GitHub Repo stars](https://badgen.net/github/stars/nicepkg/gpt-runner)|-|管理 AI 预设，与代码文件聊天，提升开发效率！|
+|[jupyter-ai](https://github.com/jupyterlab/jupyter-ai)|![GitHub Repo stars](https://badgen.net/github/stars/jupyterlab/jupyter-ai)|A generative AI extension for JupyterLab | JupyterLab 的人工智能生成扩展！|
+|[MetaGPT](https://github.com/geekan/MetaGPT)|![GitHub Repo stars](https://badgen.net/github/stars/jupyterlab/geekan/MetaGPT)|The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo. | MetaGPT输入一句话的老板需求，输出用户故事 / 竞品分析 / 需求 / 数据结构 / APIs / 文件等！|
+
 
 #### [OpenGPT](https://open-gpt.app/)
 
