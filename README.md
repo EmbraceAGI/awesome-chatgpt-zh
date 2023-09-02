@@ -52,9 +52,9 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 
 ![wx_gh](imgs/qrcode_for_wx_gh.jpg)
 
-**2.AI Prompt 微信群**
+**2.Prompt 交流微信群**
 
-![wx](imgs/wx.png)
+![wx](https://raw.githubusercontent.com/yzfly/wonderful-prompts/main/imgs/wx_tmp.jpg)
 
 **3.Telegram 电报**
 

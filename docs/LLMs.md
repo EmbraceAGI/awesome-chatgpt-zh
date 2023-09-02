@@ -7,6 +7,7 @@ OpenAI 的 ChatGPT 大型语言模型（LLM）并未开源，这部分收录一�
 |名称|Stars|简介| 备注 |
 |-------|-------|-------|------|
 |[llama 2](https://github.com/facebookresearch/llama) | ![GitHub Repo stars](https://badgen.net/github/stars/facebookresearch/llama) | Inference code for LLaMA models. |llama 系列模型官方开源地址|
+|[codellama](https://github.com/facebookresearch/codellama) | ![GitHub Repo stars](https://badgen.net/github/stars/facebookresearch/codellama) | Inference code for CodeLlama models |编程专用 llama 系列模型官方开源地址|
 |[Llama 2中文社区](https://github.com/FlagAlpha/Llama2-Chinese)| ![GitHub Repo stars](https://badgen.net/github/stars/FlagAlpha/Llama2-Chinese) |-|Llama中文社区,最好的中文Llama大模型,完全开源可商用|
 |[ollama](https://github.com/jmorganca/ollama)| ![GitHub Repo stars](https://badgen.net/github/stars/jmorganca/ollama)| Get up and running with Llama 2 and other large language models locally|本地运行 llama|
 |[Firefly](https://github.com/yangjianxin1/Firefly)| ![GitHub Repo stars](https://badgen.net/github/stars/yangjianxin1/Firefly)|-|Firefly(流萤): 中文对话式大语言模型(全量微调+QLoRA),支持微调Llma2、Llama、Qwen、Baichuan、ChatGLM2、InternLM、Ziya、Bloom 等大模型|
@@ -19,6 +20,7 @@ OpenAI 的 ChatGPT 大型语言模型（LLM）并未开源，这部分收录一�
 |名称|Stars|简介| 备注 |
 |-------|-------|-------|------|
 |[Alpaca](https://github.com/tatsu-lab/stanford_alpaca) | ![GitHub Repo stars](https://badgen.net/github/stars/tatsu-lab/stanford_alpaca) | Code and documentation to train Stanford's Alpaca models, and generate the data. |-|
+|[WizardLM](https://github.com/nlpxucan/WizardLM) | ![GitHub Repo stars](https://badgen.net/github/stars/nlpxucan/WizardLM) | Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder and WizardMath. |数学能力与 ChatGPT 相差无几的开源大模型|
 |[BELLE](https://github.com/LianjiaTech/BELLE) | ![GitHub Repo stars](https://badgen.net/github/stars/LianjiaTech/BELLE) | A 7B Large Language Model fine-tune by 34B Chinese Character Corpus, based on LLaMA and Alpaca. |-|
 |[Bloom](https://github.com/bigscience-workshop/model_card) | ![GitHub Repo stars](https://badgen.net/github/stars/bigscience-workshop/model_card) | BigScience Large Open-science Open-access Multilingual Language Model |-|
 |[dolly](https://github.com/databrickslabs/dolly) | ![GitHub Repo stars](https://badgen.net/github/stars/databrickslabs/dolly) | Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform |Databricks 发布的 Dolly 2.0 大语言模型。业内第一个开源、遵循指令的 LLM，它在透明且免费提供的数据集上进行了微调，该数据集也是开源的，可用于商业目的。这意味着 Dolly 2.0 可用于构建商业应用程序，无需支付 API 访问费用或与第三方共享数据。|
