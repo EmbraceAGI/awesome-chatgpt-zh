@@ -33,6 +33,8 @@
 
 LangGPT 项目旨在以结构化、模板化的方式编写高质量 ChatGPT prompt，你可以将其视为一种面向大模型的 prompt 编程语言。
 
+* [LangGPT 提示词飞书知识库](http://feishu.langgpt.ai)
+
 ### [ChatGPT Prompt 系统学习](https://learningprompt.wiki/docs/chatgpt-learning-path)
 
 提供了初级、中级、高级篇 Prompt 中文学习教程，不错的系统学习 ChatGPT Prompt 教程。
@@ -115,6 +117,7 @@ https://github.com/mattnigh/ChatGPT3-Free-Prompt-List
 | [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) | ![GitHub Repo stars](https://badgen.net/github/stars/mshumer/gpt-prompt-engineer) | Simply input a description of your task and some test cases, and the system will generate, test, and rank a multitude of prompts to find the ones that perform the best. | 输入任务和测试用例描述，系统将生成，测试和排名多种提示，以找到最佳提示。 |
 | [LangGPT](https://github.com/yzfly/LangGPT) | ![GitHub Repo stars](https://badgen.net/github/stars/yzfly/LangGPT) | LangGPT: Empowering everyone to become a prompt expert!🚀 Structured Prompt. | 自动创建 prompt，以结构化方式写提示词，提供多种提示词模板。|
 | [TypeChat](https://github.com/microsoft/TypeChat) | ![GitHub Repo stars](https://badgen.net/github/stars/microsoft/TypeChat) | TypeChat is a library that makes it easy to build natural language interfaces using types. | 构建自然语言接口，格式化输出 |
+| [promptflow](https://github.com/microsoft/promptflow) | ![GitHub Repo stars](https://badgen.net/github/stars/microsoft/promptflow) | Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring. | Prompt flow 是一套开发工具，旨在简化基于 LLM 的人工智能应用程序的端到端开发周期，从构思、原型设计、测试、评估到生产部署和监控，让您能够构建具有生产质量的 LLM 应用程序。 |
 
 ## Prompts 前沿论文
 
@@ -122,6 +125,7 @@ https://github.com/mattnigh/ChatGPT3-Free-Prompt-List
 |---|---|---|
 |[Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)|文章主要探索如何通过生成思维链（Chain-of-Thought）显著的提高大型语言模型处理处理复杂推理问题的能力。这里思维链简单的理解就是一系列为了达到最终结果的中间过程。特别地，文章展示了这样的推理能力是如何通过一种叫做思维链提示的简单方法在足够大的语言模型中自然地出现的，在这种方法中，一些思维链演示作为提示的范例提供。|[知乎中文解读](https://zhuanlan.zhihu.com/p/610040239)|
 |[Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601)|Tree of Thoughts（TOT）的基本原则是为大模型提供探索多个分支的机会，同时依据结果进行自我评估。根据参考文献，这种方法似乎对某些问题非常有效。|[TOT 官方实现](https://github.com/princeton-nlp/tree-of-thought-llm)|
+|[Algorithm of Thoughts: Enhancing Exploration of Ideas in Large Language Models](https://arxiv.org/abs/2308.10379)|一种名为"Algorithm of Thoughts"(AoT)的新策略，通过使用算法示例，利用LLM的内在递归能力，以一到几个查询扩展其思路探索。与早期的单一查询方法和最近的多查询策略相比，该技术表现出更好的性能。|-|
 
 ## Prompts 合集
 

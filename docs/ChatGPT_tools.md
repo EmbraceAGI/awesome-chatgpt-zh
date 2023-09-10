@@ -357,5 +357,4 @@ Chat-GPT 超级挂件，以侧边窗口的形式提供服务，可以在阅读�
 
 [ChatGPT 用法和 APP](https://gpt3demo.com/)
 ![gpt3_demo](imgs/gpt3_demo.jpg)
-
 [一个十分全面的 AI 工具合集文档](https://bytedance.feishu.cn/base/AIMAbnJxQaNgSGsBAtwcdAkLnvf)
