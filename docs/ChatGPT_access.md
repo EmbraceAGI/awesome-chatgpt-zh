@@ -22,7 +22,7 @@
 #### Plus 开通教程
 
 有以下几种方法：
-* [bewildcard 一站式服务](https://bewildcard.com/i/AIGPT) 这个网站可以开张虚拟信用卡，送3次英国手机号验证码，可以用来注册账号，送3次远程操作，可以绑openai的api和升级plus，一次性解决openai所有问题，邀请码 `AIGPT`
+* [bewildcard 一站式服务](https://bewildcard.com/i/AIGPT) 这个网站可以开张虚拟信用卡，送3次英国手机号验证码，可以用来注册账号，送3次远程操作，可以绑openai的api和升级plus，一次性解决openai所有问题，使用邀请码 `AIGPT` 有优惠
 * [ChatGPT Plus 最新开通攻略：美区App Store方案（20230529更新）](https://juejin.cn/post/7238423148555812925)
 * [nobepay 开卡：](https://zhuanlan.zhihu.com/p/619289623), 【[nobepay 官网](https://www.nobepay.com/)】，【[防止失效备份教程](imgs/nobepay_chatgpt.png)】 技术路线是: RMB -> nobepay 虚拟卡 -> 充值，优点是操作简单，缺点是需要绑定微信手机号等个人信息
 * 找有美国卡的朋友代充 或者 [美国代充](https://7t82qtu91d3.typeform.com/to/ZWwsiJDc)
