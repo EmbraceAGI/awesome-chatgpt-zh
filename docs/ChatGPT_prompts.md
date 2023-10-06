@@ -4,6 +4,7 @@
   - [🚀 LangGPT —— 让人人都可快速编写高质量 Prompt!](#-langgpt--让人人都可快速编写高质量-prompt)
   - [ChatGPT Prompt 系统学习](#chatgpt-prompt-系统学习)
   - [Prompt 编写模式：如何将思维框架赋予机器](#prompt-编写模式如何将思维框架赋予机器)
+  - [多模态 prompts 精选 🔥](#多模态-prompts-精选-)
   - [💡 让生产力加倍的 ChatGPT 快捷指令](#-让生产力加倍的-chatgpt-快捷指令)
   - [💡 学习如何提示：Learn Prompting](#-学习如何提示learn-prompting)
   - [💡 提示语自动生成](#-提示语自动生成)
@@ -35,6 +36,7 @@ LangGPT 项目旨在以结构化、模板化的方式编写高质量 ChatGPT pro
 
 * [LangGPT 提示词飞书知识库](http://feishu.langgpt.ai)
 
+
 ### [ChatGPT Prompt 系统学习](https://learningprompt.wiki/docs/chatgpt-learning-path)
 
 提供了初级、中级、高级篇 Prompt 中文学习教程，不错的系统学习 ChatGPT Prompt 教程。
@@ -51,6 +53,9 @@ Prompt 编写模式是一份中文教程，介绍了系列 Prompt 编写模式�
 
 ![ChatGPT Prompt cheatsheet](imgs/prompt-simple-cheatsheet.jpg)
 
+### [多模态 prompts 精选](https://github.com/yzfly/Awesome-Multimodal-Prompts) 🔥
+
+GPT-4V 多模态提示词，多模态提示词示例，多模态提示词越狱，并提供图文使用示例，让大家能够更好的学习使用 GPT 多模态功能。
 
 ### 💡 [让生产力加倍的 ChatGPT 快捷指令](https://newzone.top/chatgpt/)
 
