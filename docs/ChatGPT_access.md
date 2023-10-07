@@ -151,13 +151,25 @@ Inflection AI 公司推出的聊天机器人Pi，富有情感的个人定制Chat
 
 ### 💻 国产 ChatGPT 类似产品
 <ul>
+<ul>
+<li>
+<details>
+  <summary>💻 智谱清言</summary>
+> https://chatglm.cn
+
+智谱清言，长文输出和对话能力体验较好
+
+![wenxin](imgs/zhipu.png)
+
+</details>
+</li>
 <li>
 <details>
   <summary>💻 文心一言</summary>
 
 > https://yiyan.baidu.com/welcome
 
-百度出品，可申请使用
+百度出品，已开放使用
 
 ![wenxin](imgs/wenxin.jpg)
 
@@ -170,7 +182,7 @@ Inflection AI 公司推出的聊天机器人Pi，富有情感的个人定制Chat
 
 > https://xinghuo.xfyun.cn/
 
-讯飞出品，中文体验不错，申请简单方便，可申请使用
+讯飞出品，中文体验不错，已开放使用
 
 ![xunfeixi](imgs/chat_xunfeixinhuo.jpg)
 
