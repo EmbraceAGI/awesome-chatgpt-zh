@@ -5,6 +5,7 @@
   - [ChatGPT Prompt 系统学习](#chatgpt-prompt-系统学习)
   - [Prompt 编写模式：如何将思维框架赋予机器](#prompt-编写模式如何将思维框架赋予机器)
   - [多模态 prompts 精选 🔥](#多模态-prompts-精选-)
+  - [Custom Instructions 精选](#custom-instructions-精选)
   - [💡 让生产力加倍的 ChatGPT 快捷指令](#-让生产力加倍的-chatgpt-快捷指令)
   - [💡 学习如何提示：Learn Prompting](#-学习如何提示learn-prompting)
   - [💡 提示语自动生成](#-提示语自动生成)
@@ -56,6 +57,10 @@ Prompt 编写模式是一份中文教程，介绍了系列 Prompt 编写模式�
 ### [多模态 prompts 精选](https://github.com/yzfly/Awesome-Multimodal-Prompts) 🔥
 
 GPT-4V 多模态提示词，多模态提示词示例，多模态提示词越狱，并提供图文使用示例，让大家能够更好的学习使用 GPT 多模态功能。
+
+### [Custom Instructions 精选](https://github.com/spdustin/ChatGPT-AutoExpert)
+用于 ChatGPT（非编码）和 ChatGPT 高级数据分析（编码）的超强自定义指令。
+
 
 ### 💡 [让生产力加倍的 ChatGPT 快捷指令](https://newzone.top/chatgpt/)
 
