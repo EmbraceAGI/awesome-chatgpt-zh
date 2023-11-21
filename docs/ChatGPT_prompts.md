@@ -20,6 +20,7 @@
 - [Prompts 前沿论文](#prompts-前沿论文)
 - [Prompts 合集](#prompts-合集)
   - [ChatGPT 越狱](#chatgpt-越狱)
+- [ChatGPT 游戏](#chatgpt-游戏)
 - [ChatGPT 对话实例](#chatgpt-对话实例)
   - [ChatGPT 协助快速完成 markdown 表格](#chatgpt-协助快速完成-markdown-表格)
   - [ChatGPT 教你一步一步实现 CIFAR10 数据集图像分类任务](#chatgpt-教你一步一步实现-cifar10-数据集图像分类任务)
@@ -197,6 +198,8 @@ DAN越狱提示成功例图：
 </li>
 
 </ul>
+
+## [ChatGPT 游戏](https://github.com/EmbraceAGI/AIGoodGames)
 
 ## ChatGPT 对话实例
 ### [ChatGPT 协助快速完成 markdown 表格](examples/help_make_Markdown_table.md)
