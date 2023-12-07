@@ -55,7 +55,7 @@ OpenAI 的 ChatGPT 大型语言模型（LLM）并未开源，这部分收录一�
 |[微调中文数据集 COIG](https://github.com/BAAI-Zlab/COIG) | ![GitHub Repo stars](https://badgen.net/github/stars/BAAI-Zlab/COIG) | Chinese Open Instruction Generalist (COIG) project aims to maintain a harmless, helpful, and diverse set of Chinese instruction corpora. |中文开放教学通才(COIG)项目旨在维护一套无害、有用和多样化的中文教学语料库。|
 |[LLaMA-Adapter🚀](https://github.com/ZrrSkywalker/LLaMA-Adapter) | ![GitHub Repo stars](https://badgen.net/github/stars/ZrrSkywalker/LLaMA-Adapter) | - |高效微调一个聊天机器人|
 | [⚡ Lit-LLaMA](https://github.com/Lightning-AI/lit-llama) | ![GitHub Repo stars](https://badgen.net/github/stars/Lightning-AI/lit-llama) | - |Lightning-AI 基于nanoGPT的LLaMA语言模型的实现。支持量化，LoRA微调，预训练。|
-
+| [Intel® Extension for Transformers](https://github.com/intel/intel-extension-for-transformers) | ![GitHub Repo stars](https://badgen.net/github/stars/intel/intel-extension-for-transformers) |⚡ Build your chatbot within minutes on your favorite device; offer SOTA compression techniques for LLMs; run LLMs efficiently on Intel Platforms⚡ |在Intel平台上高效运行llm。|
 
 ### 更多模型列表
 |名称|Stars|简介| 备注 |
