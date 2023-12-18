@@ -23,6 +23,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
   - [LLMs: 大模型](#llms-大模型)
   - [AGI：通用人工智能之路](#agi通用人工智能之路)
   - [AI 生产力工具](#ai-生产力工具)
+  - [AI 搞钱](#ai-搞钱)
   - [思考](#思考)
   - [ChatGPT 使用交流](#chatgpt-使用交流)
   - [Star History](#star-history)
@@ -45,6 +46,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 ## [LLMs: 大模型](docs/LLMs.md)
 ## [AGI：通用人工智能之路](docs/AGI.md)
 ## [AI 生产力工具](docs/AI_tools.md)
+## [AI 搞钱](docs/AI_money.md)
 ## [思考](docs/thinking.md)
 
 
