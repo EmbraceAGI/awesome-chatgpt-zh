@@ -41,6 +41,9 @@ OpenAI 的 ChatGPT 大型语言模型（LLM）并未开源，这部分收录一�
 |[baichuan-inc/Baichuan-13B](https://github.com/baichuan-inc/Baichuan-13B)|![GitHub Repo stars](https://badgen.net/github/stars/baichuan-inc/Baichuan-13B)|A 13B large language model developed by Baichuan Intelligent Technology|-|
 |[open_llama](https://github.com/openlm-research/open_llama) |![GitHub Repo stars](https://badgen.net/github/stars/openlm-research/open_llama)|OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset. |OpenLLaMA，允许开源复制Meta AI的LLaMA-7B 模型，在red睡衣数据集上训练得到。|
 |[Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca)|![GitHub Repo stars](https://badgen.net/github/stars/ymcui/Chinese-LLaMA-Alpaca)|中文LLaMA模型和经过指令精调的Alpaca大模型。|-|
+|[gemma.cpp](https://github.com/google/gemma.cpp)|![GitHub Repo stars](https://badgen.net/github/stars/google/gemma.cpp)|用于 Google Gemma 模型的轻量级独立 C++ 推理引擎。|-|
+|[gemma_pytorch](https://github.com/google/gemma_pytorch)|![GitHub Repo stars](https://badgen.net/github/stars/gemma_pytorch)|Google Gemma 模型的官方 PyTorch 实现。|-|
+
 
 ### 大模型训练和微调
 |名称|Stars|简介| 备注 |
@@ -56,6 +59,8 @@ OpenAI 的 ChatGPT 大型语言模型（LLM）并未开源，这部分收录一�
 |[LLaMA-Adapter🚀](https://github.com/ZrrSkywalker/LLaMA-Adapter) | ![GitHub Repo stars](https://badgen.net/github/stars/ZrrSkywalker/LLaMA-Adapter) | - |高效微调一个聊天机器人|
 | [⚡ Lit-LLaMA](https://github.com/Lightning-AI/lit-llama) | ![GitHub Repo stars](https://badgen.net/github/stars/Lightning-AI/lit-llama) | - |Lightning-AI 基于nanoGPT的LLaMA语言模型的实现。支持量化，LoRA微调，预训练。|
 | [Intel® Extension for Transformers](https://github.com/intel/intel-extension-for-transformers) | ![GitHub Repo stars](https://badgen.net/github/stars/intel/intel-extension-for-transformers) |⚡ Build your chatbot within minutes on your favorite device; offer SOTA compression techniques for LLMs; run LLMs efficiently on Intel Platforms⚡ |在Intel平台上高效运行llm。|
+
+
 
 ### 更多模型列表
 |名称|Stars|简介| 备注 |
