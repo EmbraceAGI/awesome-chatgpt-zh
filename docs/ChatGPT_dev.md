@@ -103,8 +103,9 @@
 
 |名称|Stars|简介|备注|
 |---|---|---|---|
-|[llm-numbers](https://github.com/ray-project/llm-numbers) |![GitHub Repo stars](https://badgen.net/github/stars/ray-project/llm-numbers)|Numbers every LLM developer should know.|大模型开发者必知数据|
 |[LlamaIndex](https://github.com/jerryjliu/llama_index) | ![GitHub Repo stars](https://img.shields.io/github/stars/jerryjliu/llama_index.svg?style=social) | Provides a central interface to connect your LLMs with external data. |将llm与外部数据连接起来。|
+|[dspy](https://github.com/stanfordnlp/dspy) | ![GitHub Repo stars](https://img.shields.io/github/stars/stanfordnlp/dspy) | DSPy: The framework for programming—not prompting—foundation models. |下一代 Agents 自优化开发框架|
+|[llm-numbers](https://github.com/ray-project/llm-numbers) |![GitHub Repo stars](https://badgen.net/github/stars/ray-project/llm-numbers)|Numbers every LLM developer should know.|大模型开发者必知数据|
 | [《用ChatGPT API构建系统》课程](https://learn.deeplearning.ai/chatgpt-building-system/lesson/1/introduction)|-| DeepLearning.ai 创始人吴恩达和OpenAI合作的新的“使用ChatGPT API构建系统”的课程|课程链接（中英文字幕）: https://pan.baidu.com/s/1BgUKWwh5YSby3IVkGvLi_w?pwd=22b7 提取码: 22b7|
 |[开发指南：ChatGPT 插件开发](https://mp.weixin.qq.com/s/AmNkiLOqJo7tEJZPX34oeg) |-|详细介绍了开发流程，并通过“待办事项列表(to-do list)插件”的案例开发过程进行了演示。|-|
 |[gptcache](https://github.com/zilliztech/gptcache)|![GitHub Repo stars](https://badgen.net/github/stars/zilliztech/gptcache)|Semantic cache for LLMs. Fully integrated with LangChain and llama_index.|AIGC 应用程序的memcache,一个强大的缓存库，可用于加速和降低依赖 LLM 服务的聊天应用程序的成本，可用作 AIGC 应用程序的memcache，类似于 Redis 用于传统应用程序的方式。[知乎简介](https://zhuanlan.zhihu.com/p/618630093)：有效果实测图和基本介绍。|
