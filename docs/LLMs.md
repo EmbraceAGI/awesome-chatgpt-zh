@@ -19,6 +19,8 @@ OpenAI 的 ChatGPT 大型语言模型（LLM）并未开源，这部分收录一�
 
 |名称|Stars|简介| 备注 |
 |-------|-------|-------|------|
+|[grok-1](https://github.com/xai-org/grok-1) | ![GitHub Repo stars](https://badgen.net/github/stars/xai-org/grok-1) | Grok open release.|马斯克 X 开源大模型|
+|[Mistral-7B](https://github.com/mistralai/mistral-src) | ![GitHub Repo stars](https://badgen.net/github/stars/mistralai/mistral-src) | Reference implementation of Mistral AI 7B v0.1 model.|Mistral-7B 开源模型，性能评价不错|
 |[Alpaca](https://github.com/tatsu-lab/stanford_alpaca) | ![GitHub Repo stars](https://badgen.net/github/stars/tatsu-lab/stanford_alpaca) | Code and documentation to train Stanford's Alpaca models, and generate the data. |-|
 |[WizardLM](https://github.com/nlpxucan/WizardLM) | ![GitHub Repo stars](https://badgen.net/github/stars/nlpxucan/WizardLM) | Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder and WizardMath. |数学能力与 ChatGPT 相差无几的开源大模型|
 |[BELLE](https://github.com/LianjiaTech/BELLE) | ![GitHub Repo stars](https://badgen.net/github/stars/LianjiaTech/BELLE) | A 7B Large Language Model fine-tune by 34B Chinese Character Corpus, based on LLaMA and Alpaca. |-|
