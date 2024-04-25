@@ -88,7 +88,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 - [GPT-4](https://github.com/openai/gpt-4)，因为提供了底层语言模型。
 - [Hugging Face](https://huggingface.co/)，因为他们在 NLP 和开源工具上的广泛工作。
 - [awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt)，因为他们在 ChatGPT 方面的出色工作。
-- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompt)，因为他们提供了一系列有趣的 ChatGPT 提示。
+- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)，因为他们提供了一系列有趣的 ChatGPT 提示。
 
 
 我们非常感谢所有为这个项目做出贡献的个人，你们的努力和付出使这个项目不断进步和发展：
