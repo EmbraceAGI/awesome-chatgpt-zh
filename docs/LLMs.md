@@ -46,6 +46,11 @@ OpenAI 的 ChatGPT 大型语言模型（LLM）并未开源，这部分收录一�
 |[gemma.cpp](https://github.com/google/gemma.cpp)|![GitHub Repo stars](https://badgen.net/github/stars/google/gemma.cpp)|用于 Google Gemma 模型的轻量级独立 C++ 推理引擎。|-|
 |[gemma_pytorch](https://github.com/google/gemma_pytorch)|![GitHub Repo stars](https://badgen.net/github/stars/gemma_pytorch)|Google Gemma 模型的官方 PyTorch 实现。|-|
 
+### 自由不受限制模型
+|名称|Stars|简介| 备注 |
+|-------|-------|-------|------|
+|[dolphin](https://erichartford.com/dolphin) | - | Dolphin, an open-source and uncensored, and commercially licensed dataset and series of instruct-tuned language models based on Microsoft's Orca paper. | 海豚（Dolphin），是一个基于微软的Orca论文的开源且未受审查的，以及商业许可的数据集和一系列经过指令调整的语言模型。|
+|[dolphin-2.5-mixtral-8x7b](https://huggingface.co/cognitivecomputations/dolphin-2.5-mixtral-8x7b) | - | Dolphin, an open-source and uncensored, and commercially licensed dataset and series of instruct-tuned language models based on Microsoft's Orca paper. | 海豚（Dolphin），是一个基于微软的Orca论文的开源且未受审查的，以及商业许可的数据集和一系列经过指令调整的语言模型。|
 
 ### 大模型训练和微调
 |名称|Stars|简介| 备注 |
