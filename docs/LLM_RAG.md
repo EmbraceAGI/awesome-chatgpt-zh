@@ -10,6 +10,7 @@
 |[ragflow](https://github.com/infiniflow/ragflow)|![GitHub Repo stars](https://badgen.net/github/stars/infiniflow/ragflow)|RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.|RAGFlow 是一款基于深度文档理解构建的开源 RAG（Retrieval-Augmented Generation）引擎。RAGFlow 可以为各种规模的企业及个人提供一套精简的 RAG 工作流程，结合大语言模型（LLM）针对用户各类不同的复杂格式数据提供可靠的问答以及有理有据的引用。|
 |[FastGPT](https://github.com/labring/FastGPT)|![GitHub Repo stars](https://badgen.net/github/stars/labring/FastGPT)|FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.|FastGPT 是一个基于 LLM 大语言模型的知识库问答系统，提供开箱即用的数据处理、模型调用等能力。同时可以通过 Flow 可视化进行工作流编排，从而实现复杂的问答场景！|
 |[langchain](https://github.com/hwchase17/langchain)|![GitHub Repo stars](https://badgen.net/github/stars/hwchase17/langchain)|Building applications with LLMs through composability|开发自己的 ChatGPT 应用|
+|[graphrag](https://github.com/microsoft/graphrag)|![GitHub Repo stars](https://badgen.net/github/stars/microsoft/graphrag)|A modular graph-based Retrieval-Augmented Generation (RAG) system |基于知识图谱的检索增强生成（RAG）系统|
 
 
 ### Embedding 模型和 Reranker 模型
