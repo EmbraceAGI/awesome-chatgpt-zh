@@ -99,6 +99,14 @@
 |[novel](https://github.com/steven-tey/novel) |![GitHub Repo stars](https://badgen.net/github/stars/steven-tey/novel)|Notion-style WYSIWYG editor with AI-powered autocompletions. |AI 驱动的 Notion 风格的所见即所得自动完成编辑器|
 |[ai-chatbot](https://github.com/vercel-labs/ai-chatbot) |![GitHub Repo stars](https://badgen.net/github/stars/vercel-labs/ai-chatbot)|A full-featured, hackable Next.js AI chatbot built by Vercel Labs. |由Vercel Labs构建的全功能，可编程的Next.js AI聊天机器人|
 
+### 结构化输出
+
+|名称|Stars|简介|备注|
+|---|---|---|---|
+|[instructor](https://github.com/jxnl/instructor) |![GitHub Repo stars](https://badgen.net/github/stars/jxnl/instructor)|structured outputs for llms. |将大模型的输出结构化为 Python 的对象。推荐场景：在使用 API 调用大模型时，调用闭源模型时，使用该库。|
+|[outlines](https://github.com/outlines-dev/outlines) |![GitHub Repo stars](https://badgen.net/github/stars/outlines-dev/outlines)|Structured Text Generation. |将大模型的输出结构化,从模型输出的 logits 层面限制。推荐场景：调用huggingface上的开源模型、本地部署模型时，使用该库。|
+
+
 ### 其他开发资源
 
 |名称|Stars|简介|备注|
