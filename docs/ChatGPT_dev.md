@@ -106,6 +106,15 @@
 |[instructor](https://github.com/jxnl/instructor) |![GitHub Repo stars](https://badgen.net/github/stars/jxnl/instructor)|structured outputs for llms. |将大模型的输出结构化为 Python 的对象。推荐场景：在使用 API 调用大模型时，调用闭源模型时，使用该库。|
 |[outlines](https://github.com/outlines-dev/outlines) |![GitHub Repo stars](https://badgen.net/github/stars/outlines-dev/outlines)|Structured Text Generation. |将大模型的输出结构化,从模型输出的 logits 层面限制。推荐场景：调用huggingface上的开源模型、本地部署模型时，使用该库。|
 
+### 数据结构化提取
+|名称|Stars|简介|备注|
+|---|---|---|---|
+|[MinerU](https://github.com/opendatalab/MinerU) |![GitHub Repo stars](https://badgen.net/github/stars/opendatalab/MinerU)|A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction. |一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。|
+|[gptpdf](https://github.com/CosmosShadow/gptpdf) |![GitHub Repo stars](https://badgen.net/github/stars/CosmosShadow/gptpdf)|Using GPT to parse PDF. |使用 GPT-4o 的多模态能力解析pdf|
+|[ragflow](https://github.com/infiniflow/ragflow)|![GitHub Repo stars](https://badgen.net/github/stars/infiniflow/ragflow)|RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.|RAGFlow 是一款基于深度文档理解构建的开源 RAG（Retrieval-Augmented Generation）引擎。RAGFlow 可以为各种规模的企业及个人提供一套精简的 RAG 工作流程，结合大语言模型（LLM）针对用户各类不同的复杂格式数据提供可靠的问答以及有理有据的引用。|
+|[deepdoctection](https://github.com/deepdoctection/deepdoctection) |![GitHub Repo stars](https://badgen.net/github/stars/deepdoctection/deepdoctection)|A Repo For Document AI. |文档处理 AI|
+|[360LayoutAnalysis](https://github.com/360AILAB-NLP/360LayoutAnalysis) |![GitHub Repo stars](https://badgen.net/github/stars/360AILAB-NLP/360LayoutAnalysis)|360LayoutAnaylsis, a series Document Analysis Models and Datasets deleveped by 360 AI Research Institute. |360 出品的文档版式分享工具|
+
 
 ### 其他开发资源
 
