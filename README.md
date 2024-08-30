@@ -60,11 +60,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 
 ![wx_gh](imgs/qrcode_for_wx_gh.jpg)
 
-**2.Prompt 交流微信群**
-
-![wx](https://raw.githubusercontent.com/yzfly/wonderful-prompts/main/imgs/wx_tmp.jpg)
-
-**3.Telegram 电报**
+**2.Telegram 电报**
 
 欢迎加入电报交流群讨论 ChatGPT 相关资源及日常使用等相关话题：
 
