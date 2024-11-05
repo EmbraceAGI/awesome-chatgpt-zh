@@ -2,18 +2,6 @@
 
 OpenAI 的 ChatGPT 大型语言模型（LLM）并未开源，这部分收录一些深度学习开源的 LLM 供感兴趣的同学学习参考。
 
-### Llama 2 系列 [2023.08.05 更新]
-
-|名称|Stars|简介| 备注 |
-|-------|-------|-------|------|
-|[llama 2](https://github.com/facebookresearch/llama) | ![GitHub Repo stars](https://badgen.net/github/stars/facebookresearch/llama) | Inference code for LLaMA models. |llama 系列模型官方开源地址|
-|[codellama](https://github.com/facebookresearch/codellama) | ![GitHub Repo stars](https://badgen.net/github/stars/facebookresearch/codellama) | Inference code for CodeLlama models |编程专用 llama 系列模型官方开源地址|
-|[Llama 2中文社区](https://github.com/FlagAlpha/Llama2-Chinese)| ![GitHub Repo stars](https://badgen.net/github/stars/FlagAlpha/Llama2-Chinese) |-|Llama中文社区,最好的中文Llama大模型,完全开源可商用|
-|[ollama](https://github.com/jmorganca/ollama)| ![GitHub Repo stars](https://badgen.net/github/stars/jmorganca/ollama)| Get up and running with Llama 2 and other large language models locally|本地运行 llama|
-|[Firefly](https://github.com/yangjianxin1/Firefly)| ![GitHub Repo stars](https://badgen.net/github/stars/yangjianxin1/Firefly)|-|Firefly(流萤): 中文对话式大语言模型(全量微调+QLoRA),支持微调Llma2、Llama、Qwen、Baichuan、ChatGLM2、InternLM、Ziya、Bloom 等大模型|
-|[Azure ChatGPT](https://github.com/microsoft/azurechatgpt)| ![GitHub Repo stars](https://badgen.net/github/stars/microsoft/azurechatgpt) | 🤖 Azure ChatGPT: Private & secure ChatGPT for internal enterprise use 💼|-|
-|[LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory)| ![GitHub Repo stars](https://badgen.net/github/stars/Alpha-VLLM/LLaMA2-Accessory)| An Open-source Toolkit for LLM Development|-|
-
 
 ### 大模型
 
@@ -45,6 +33,39 @@ OpenAI 的 ChatGPT 大型语言模型（LLM）并未开源，这部分收录一�
 |[Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca)|![GitHub Repo stars](https://badgen.net/github/stars/ymcui/Chinese-LLaMA-Alpaca)|中文LLaMA模型和经过指令精调的Alpaca大模型。|-|
 |[gemma.cpp](https://github.com/google/gemma.cpp)|![GitHub Repo stars](https://badgen.net/github/stars/google/gemma.cpp)|用于 Google Gemma 模型的轻量级独立 C++ 推理引擎。|-|
 |[gemma_pytorch](https://github.com/google/gemma_pytorch)|![GitHub Repo stars](https://badgen.net/github/stars/gemma_pytorch)|Google Gemma 模型的官方 PyTorch 实现。|-|
+
+### Llama 官方仓库（2024.11.5更新） 
+|名称|Stars|简介| 备注 |
+|-------|-------|-------|------|
+|[llama-models](https://github.com/meta-llama/llama-models) | ![GitHub Repo stars](https://badgen.net/github/stars/meta-llama/llama-models) | Llama模型的核心仓库，包含Llama 3等基础模型、工具、模型卡片、许可证和使用政策。 |Llama Stack的基础仓库|
+|[PurpleLlama](https://github.com/meta-llama/PurpleLlama) | ![GitHub Repo stars](https://badgen.net/github/stars/meta-llama/PurpleLlama) | Llama Stack的安全组件，专注于安全风险管理和推理时间的缓解措施。 |处理模型安全相关问题|
+|[llama-toolchain](https://github.com/meta-llama/llama-toolchain) | ![GitHub Repo stars](https://badgen.net/github/stars/meta-llama/llama-toolchain) | 提供模型开发全流程工具，包括推理、微调、安全防护和合成数据生成的接口和标准实现。 |开发者工具链|
+|[llama-agentic-system](https://github.com/meta-llama/llama-agentic-system) | ![GitHub Repo stars](https://badgen.net/github/stars/meta-llama/llama-agentic-system) | 端到端的独立Llama Stack系统，提供了智能应用开发的底层接口和实现。 |用于构建智能应用|
+|[llama-recipes](https://github.com/meta-llama/llama-recipes) | ![GitHub Repo stars](https://badgen.net/github/stars/meta-llama/llama-recipes) | 社区驱动的脚本和集成方案集合，提供各种实用工具和最佳实践。 |社区贡献的实用工具|
+
+### Llama 2 系列 [2023.08.05 更新]
+
+|名称|Stars|简介| 备注 |
+|-------|-------|-------|------|
+|[llama 2](https://github.com/facebookresearch/llama) | ![GitHub Repo stars](https://badgen.net/github/stars/facebookresearch/llama) | Inference code for LLaMA models. |llama 系列模型官方开源地址|
+|[codellama](https://github.com/facebookresearch/codellama) | ![GitHub Repo stars](https://badgen.net/github/stars/facebookresearch/codellama) | Inference code for CodeLlama models |编程专用 llama 系列模型官方开源地址|
+|[Llama 2中文社区](https://github.com/FlagAlpha/Llama2-Chinese)| ![GitHub Repo stars](https://badgen.net/github/stars/FlagAlpha/Llama2-Chinese) |-|Llama中文社区,最好的中文Llama大模型,完全开源可商用|
+|[ollama](https://github.com/jmorganca/ollama)| ![GitHub Repo stars](https://badgen.net/github/stars/jmorganca/ollama)| Get up and running with Llama 2 and other large language models locally|本地运行 llama|
+|[Firefly](https://github.com/yangjianxin1/Firefly)| ![GitHub Repo stars](https://badgen.net/github/stars/yangjianxin1/Firefly)|-|Firefly(流萤): 中文对话式大语言模型(全量微调+QLoRA),支持微调Llma2、Llama、Qwen、Baichuan、ChatGLM2、InternLM、Ziya、Bloom 等大模型|
+|[Azure ChatGPT](https://github.com/microsoft/azurechatgpt)| ![GitHub Repo stars](https://badgen.net/github/stars/microsoft/azurechatgpt) | 🤖 Azure ChatGPT: Private & secure ChatGPT for internal enterprise use 💼|-|
+|[LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory)| ![GitHub Repo stars](https://badgen.net/github/stars/Alpha-VLLM/LLaMA2-Accessory)| An Open-source Toolkit for LLM Development|-|
+
+### 端侧模型(手机等设备运行)
+
+|名称|Stars|简介| 备注 |
+|-------|-------|-------|------|
+|[Llama 3](https://github.com/meta-llama/llama-models) | ![GitHub Repo stars](https://badgen.net/github/stars/meta-llama/llama-models) | Meta最新发布的大语言模型系列。支持128K上下文窗口，基于TikToken分词。包含8B、70B等不同规模。发布于2024年3月。 |最新一代Llama模型，性能显著提升，需申请使用|
+|[Danube3](https://h2o.ai/platform/danube/) | - | H2O.ai开发的高性能开源大语言模型系列。4B参数版本在10-shot HellaSwag基准测试中达到80%以上的准确率，性能超越Apple，与Microsoft相当。 |体现了小型模型通过优化也能达到优秀性能|
+|[Gemma](https://github.com/google-deepmind/gemma) | ![GitHub Repo stars](https://badgen.net/github/stars/google-deepmind/gemma) | Google DeepMind基于Gemini技术开发的开源大语言模型系列。包含2B和7B两种规格，每种规格提供Base和Instruction-tuned两个版本。 |提供详细的技术报告和多框架的参考实现|
+|[Phi-3](https://github.com/microsoft/Phi-3CookBook) | ![GitHub Repo stars](https://badgen.net/github/stars/microsoft/Phi-3CookBook) | 微软开发的小型语言模型系列。包含Phi-3-mini(3.8B)、Phi-3-small(7B)两种规格，在同等规模和更大规模模型的对比中展现出优秀性能。 |在语言理解、推理、编程和数学等基准测试中表现出色，提供详细的使用指南CookBook|
+|[Qwen2.5](https://github.com/QwenLM/Qwen2.5) | ![GitHub Repo stars](https://badgen.net/github/stars/QwenLM/Qwen2.5) | 阿里云通义千问团队开发的大语言模型系列。包含0.5B、1.8B、4B、7B、14B、72B等多种规模，每个规模都提供Base和Chat版本。 |支持中英等多语言，适用场景从移动设备到企业级高性能部署|
+|[SmolLM](https://huggingface.co/collections/HuggingFaceTB/smollm-6695016cad7167254ce15966) | - | 轻量级语言模型系列，包含135M、360M和1.7B三种规模，每种规格都提供base和instruct版本。开源了训练语料库。 |特别优化用于移动设备和WebGPU运行，支持浏览器中直接运行demo|
+
 
 ### 自由不受限制模型
 |名称|Stars|简介| 备注 |
