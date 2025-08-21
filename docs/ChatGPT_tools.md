@@ -99,6 +99,12 @@
 
 ![chat_excel](imgs/chat_excel.jpg)
 
+### [AI 数据分析 Agent：QueryGPT](https://github.com/MKY508/QueryGPT)
+
+基于 OpenInterpreter 的 AI 数据分析 Agent，让非技术人员也能用中文自然语言查询数据库。不同于简单的 Text-to-SQL 工具，QueryGPT 具备完整的 Agent 能力：自主探索数据结构、多轮推理验证、Chain-of-Thought 透明推理过程、智能可视化。原生支持中文业务术语（环比、同比、留存率、复购率等），支持多种 LLM 模型。
+
+[[GitHub 代码](https://github.com/MKY508/QueryGPT)]
+
 
 ### [Doc 文件阅读助手: ChatDoc ](https://chatdoc.com/)
 
