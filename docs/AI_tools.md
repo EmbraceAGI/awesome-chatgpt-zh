@@ -9,6 +9,7 @@
 
 ### 代码生成
 
+- [FlyPloy](https://flyploy.com/en) - 简单强大的现代化应用部署平台，支持 Docker 和 Kubernetes，助力开发者实现全球一键快速部署。
 - [Copilot](https://github.com/features/copilot)  
 - [Codeium](https://codeium.com/)  
 - [Replit](https://replit.com/)
