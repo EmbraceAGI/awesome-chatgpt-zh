@@ -29,6 +29,10 @@
 - [beautiful.ai](https://www.beautiful.ai/)
 - [gamma](https://gamma.app/)
 
+### AI 工作空间与协作
+
+- [Taskade](https://taskade.com/) — AI原生工作空间平台，支持自定义AI代理、工作流自动化、实时协作，跨平台使用（Web、桌面端、移动端、浏览器扩展）。支持AI App Builder（prompt-to-app）、带记忆和知识库的自定义AI代理、100+集成的工作流自动化、MCP（Model Context Protocol）支持。YC S19，9,300+评价中评分4.8/5。[官网](https://taskade.com/) | [GitHub](https://github.com/taskade) | [MCP Server](https://github.com/taskade/mcp) | [Chrome 扩展](https://chromewebstore.google.com/detail/taskade/hcobdfnjjaceclfdjpmmpiknimccjpmf) | [下载](https://www.taskade.com/downloads)
+
 ### 语音/视频合成
 
 - [Murf AI](https://murf.ai/)  
