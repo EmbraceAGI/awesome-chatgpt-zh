@@ -77,7 +77,7 @@
 |[Cohere](https://docs.cohere.com/docs) |coherence 提供了前沿的语言处理技术 API 服务。|-|
 |[AI21](https://docs.ai21.com/) |以色列公司 A21 Labs 开发了一个名为 Jurassic-1 Jumbo 的模型。该模型大小与 1750 亿参数的 GPT-3 类似。该公司还围绕 Jurassic-1 Jumbo 逐渐构建起一系列产品，包括一个名为 AI21 Studio 的“AI-as-a-service”平台。该平台允许客户创建虚拟助手、聊天机器人、内容审核工具等。|-|
 |[智谱AI开放平台](https://open.bigmodel.cn/) |中文大模型 API。 基于千亿基座模型 GLM-130B，注入代码预训练，通过有监督微调等技术实现人类意图对齐的中英双语大模型。|-|
-|[APIKEY.FUN](https://apikey.fun/register?aff=3K5S83NRWDBK) |AI API 中转站，国内直连Claude/GPT/Gemini等10+模型，兼容OpenAI SDK，比官方便宜90%+。|支付宝/微信支付，余额永不过期 |
+|[APIKEY.FUN](https://apikeyfun.com) |AI API 中转站，国内直连Claude/GPT/Gemini等10+模型，兼容OpenAI SDK，比官方便宜90%+。|支付宝/微信支付，余额永不过期 |
 
 ### API 资源
 |名称|Stars|简介|备注|
