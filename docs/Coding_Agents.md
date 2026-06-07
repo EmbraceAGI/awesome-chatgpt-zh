@@ -14,6 +14,7 @@
 | **OpenAI Codex CLI** | [GitHub](https://github.com/openai/codex) | OpenAI 出品的轻量级本地终端编码 Agent，支持 ChatGPT 订阅或 API Key，在命令行进行 AI 辅助开发 |
 | Gemini CLI | [GitHub](https://github.com/google-gemini/gemini-cli) | Google 出品的开源终端 AI Agent，把 Gemini 带入命令行，内置文件操作、Shell、联网搜索并支持 MCP |
 | aider | [GitHub](https://github.com/Aider-AI/aider) | 社区开源的终端 AI 结对编程工具，自动构建仓库地图与 Git 提交，支持多家模型 |
+| pi | [GitHub](https://github.com/earendil-works/pi) ・[官网](https://pi.dev/) | Mario Zechner（Earendil）出品的极简可扩展开源编码 Agent（agent harness），内核仅 Read/Write/Edit/Bash 四工具，靠 TypeScript 扩展/Skills/模板自由定制，统一接入 20+ 模型供应商，生态活跃 |
 | OpenCode | [GitHub](https://github.com/sst/opencode) | SST 团队出品的开源终端编码 Agent（Go），客户端-服务端架构，支持 75+ 模型 |
 | Crush | [GitHub](https://github.com/charmbracelet/crush) | Charm 出品的"颜值派"终端编码 Agent，基于 TUI，支持多模型、LSP 与 MCP |
 | Goose | [GitHub](https://github.com/block/goose) | Block 出品的开源可扩展 AI Agent（Rust），可自主执行/编辑/测试代码，兼容任意 LLM |
@@ -38,6 +39,15 @@
 | Augment Code | [链接](https://www.augmentcode.com) | 面向大型代码库的 AI 编码平台，核心是 Context Engine，提供 Auggie CLI |
 | 通义灵码 | [链接](https://lingma.aliyun.com) | 阿里云基于通义大模型的智能编码助手，实时续写、生成代码与单测 |
 | CodeGeeX | [GitHub](https://github.com/THUDM/CodeGeeX) | 清华 THUDM 开源的多语言代码生成模型与编程助手 |
+
+## 通用自主 Agent / 个人 AI 助理
+
+> 这类是"通用型"自主智能体（个人助理），并非纯编程工具，但都能编排/委派编程 Agent（如 Codex、OpenCode）完成开发任务，2026 年热度极高。更多通用 Agent 见 [AGI](AGI.md)。
+
+| 名称 | 链接 | 简介 |
+|------|------|------|
+| OpenClaw | [GitHub](https://github.com/openclaw/openclaw) ・[官网](https://openclaw.ai/) | 开源自托管的个人 AI 助理，通过 WhatsApp/Telegram/Discord/Slack 等聊天软件交互，能真正动手执行任务（操作设备、文件、邮件、浏览网页）。模型无关，吉祥物是只龙虾🦞，**中文社区俗称"龙虾"**；由 Peter Steinberger 等发起 |
+| Hermes Agent | [GitHub](https://github.com/NousResearch/hermes-agent) ・[官网](https://hermes-agent.nousresearch.com/) | Nous Research 出品的**自我进化型**自主 Agent：内置学习循环，能从经验生成技能、持续改进、检索历史对话并建立长期记忆，可多平台触达、委派编程 agent |
 
 ## 自主软件工程 Agent（开源 / 产品）
 

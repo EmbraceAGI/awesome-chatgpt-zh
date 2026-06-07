@@ -24,6 +24,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用 ChatGPT 及前
   - [Claude Skills 指南](#claude-skills-指南)
   - [MCP 模型上下文协议指南](#mcp-模型上下文协议指南)
   - [Coding Agents 编程智能体](#coding-agents-编程智能体)
+  - [Agent-First 为智能体而构建](#agent-first-为智能体而构建)
   - [LLM 开发 RAG 指南](#llm-开发-rag-指南)
   - [Sora 指南](#sora-指南)
   - [LLMs: 大模型](#llms-大模型)
@@ -63,6 +64,10 @@ MCP（Model Context Protocol，模型上下文协议）是让 AI 无缝连接外
 ## [Coding Agents 编程智能体](docs/Coding_Agents.md)
 
 以 Claude Code、OpenAI Codex 为代表的编程智能体能自主读写代码库、运行命令与提交 PR。本节汇总主流终端/IDE 编码 Agent、自主软件工程 Agent、评测基准与学习资源。
+
+## [Agent-First 为智能体而构建](docs/Agent_First.md)
+
+软件正迎来"第二类用户"——AI 智能体。本节收录 Agent-First / Agent-Friendly 与 Agent Experience（AX）的理念、关键标准（llms.txt、AGENTS.md、MCP、NLWeb）、实践框架（agentsfirst.dev 九原则、AX 六层栈）与代表文章工具。
 
 ## [LLM 开发 RAG 指南](docs/LLM_RAG.md)
 ## [Sora 指南](docs/Sora.md)
