@@ -3,6 +3,7 @@
 - [ChatGPT 应用开发指南](#chatgpt-应用开发指南)
   - [OpenAI 官方开发资源](#openai-官方开发资源)
   - [Prompt 开发资源](#prompt-开发资源)
+  - [AI Agent 智能体开发框架](#ai-agent-智能体开发框架)
   - [LangChain 开发资源](#langchain-开发资源)
   - [向量数据库](#向量数据库)
   - [中文大模型开发资源](#中文大模型开发资源)
@@ -31,6 +32,28 @@
 |[结构化高质量提示词 LangGPT](https://github.com/yzfly/LangGPT)|![GitHub Repo stars](https://badgen.net/github/stars/yzfly/LangGPT)|LangGPT: Empowering everyone to become a prompt expert!🚀 Structured Prompt，结构化提示词。|使用结构化方式写高质量提示词|
 | [吴恩达《面向开发者的 ChatGPT 提示词工程》](https://learn.deeplearning.ai/)|-| DeepLearning.ai 创始人吴恩达与 OpenAI 开发者 Iza Fulford 联手推出了一门面向开发者的技术教程：《**ChatGPT 提示工程**》|[《面向开发者的 ChatGPT 提示词工程》非官方版中英双语字幕](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese) - **中文视频地址：[面向开发者的 ChatGPT 提示词工程](https://space.bilibili.com/15467823/channel/seriesdetail?sid=3247315&ctype=0)** - **英文原视频地址：[ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/)**|
 |[Prompt engineering techniques](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/concepts/advanced-prompt-engineering?pivots=programming-language-chat-completions)|-|微软官方教程,介绍了 Prompt 设计和工程中的一些高级玩法，涵盖系统消息、少样本学习、非聊天场景等内容。|-|
+
+### AI Agent 智能体开发框架
+
+构建 AI 智能体（Agent）的主流框架，是 2024 年后 LLM 应用开发的核心方向。
+
+|名称|Stars|简介|备注|
+|---|---|---|---|
+|[LangGraph](https://github.com/langchain-ai/langgraph)|![GitHub Repo stars](https://badgen.net/github/stars/langchain-ai/langgraph)|Build resilient agents.|LangChain 团队出品，基于图结构编排有状态、可循环的多智能体工作流|
+|[LlamaIndex](https://github.com/run-llama/llama_index)|![GitHub Repo stars](https://badgen.net/github/stars/run-llama/llama_index)|The leading framework for building LLM-powered agents over your data.|主打 RAG 与文档智能体，擅长把私有数据接入 LLM|
+|[AutoGen](https://github.com/microsoft/autogen)|![GitHub Repo stars](https://badgen.net/github/stars/microsoft/autogen)|A programming framework for agentic AI.|微软出品，多智能体对话协作框架|
+|[AG2](https://github.com/ag2ai/ag2)|![GitHub Repo stars](https://badgen.net/github/stars/ag2ai/ag2)|AG2 (formerly AutoGen): The Open-Source AgentOS.|由原 AutoGen 社区分支而来的开源 AgentOS|
+|[CrewAI](https://github.com/crewAIInc/crewAI)|![GitHub Repo stars](https://badgen.net/github/stars/crewAIInc/crewAI)|Framework for orchestrating role-playing, autonomous AI agents.|以"角色扮演 + 协作"组建智能体团队完成复杂任务|
+|[MetaGPT](https://github.com/FoundationAgents/MetaGPT)|![GitHub Repo stars](https://badgen.net/github/stars/FoundationAgents/MetaGPT)|The Multi-Agent Framework: First AI Software Company.|用多智能体模拟软件公司，主打自然语言编程|
+|[OpenAI Agents SDK](https://github.com/openai/openai-agents-python)|![GitHub Repo stars](https://badgen.net/github/stars/openai/openai-agents-python)|A lightweight, powerful framework for multi-agent workflows.|OpenAI 官方多智能体编排框架，Swarm 的生产级继任者|
+|[Pydantic AI](https://github.com/pydantic/pydantic-ai)|![GitHub Repo stars](https://badgen.net/github/stars/pydantic/pydantic-ai)|AI Agent Framework, the Pydantic way.|Pydantic 团队出品，强类型、结构化输出友好的智能体框架|
+|[smolagents](https://github.com/huggingface/smolagents)|![GitHub Repo stars](https://badgen.net/github/stars/huggingface/smolagents)|a barebones library for agents that think in code.|Hugging Face 出品，极简风格、让智能体以写代码方式思考|
+|[Agno](https://github.com/agno-agi/agno)|![GitHub Repo stars](https://badgen.net/github/stars/agno-agi/agno)|Build, run, and manage agent platforms.|原 phidata，构建与运维智能体平台的全栈框架|
+|[Semantic Kernel](https://github.com/microsoft/semantic-kernel)|![GitHub Repo stars](https://badgen.net/github/stars/microsoft/semantic-kernel)|Integrate cutting-edge LLM technology quickly and easily into your apps.|微软出品，面向企业级应用集成 LLM，支持多语言|
+|[CAMEL](https://github.com/camel-ai/camel)|![GitHub Repo stars](https://badgen.net/github/stars/camel-ai/camel)|The first and the best multi-agent framework. Finding the Scaling Law of Agents.|研究导向的多智能体框架，探索智能体的 Scaling Law|
+|[Coze Studio](https://github.com/coze-dev/coze-studio)|![GitHub Repo stars](https://badgen.net/github/stars/coze-dev/coze-studio)|An AI agent development platform with all-in-one visual tools.|字节扣子开源版，一站式可视化智能体开发平台|
+|[Flowise](https://github.com/FlowiseAI/Flowise)|![GitHub Repo stars](https://badgen.net/github/stars/FlowiseAI/Flowise)|Build AI Agents, Visually.|拖拽式可视化构建 LLM 应用与智能体|
+|[Langflow](https://github.com/langflow-ai/langflow)|![GitHub Repo stars](https://badgen.net/github/stars/langflow-ai/langflow)|A powerful tool for building and deploying AI-powered agents and workflows.|可视化低代码工具，构建与部署 AI 智能体和工作流|
 
 ### LangChain 开发资源
 

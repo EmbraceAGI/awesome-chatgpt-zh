@@ -15,6 +15,12 @@
 
 
 
+### 前沿理念：LLM Wiki
+
+|名称|简介|备注|
+|---|---|---|
+|[LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) (Andrej Karpathy)|A pattern where LLMs incrementally build and maintain a persistent, interlinked markdown wiki instead of repeatedly retrieving from raw documents.|Karpathy 提出的知识库新范式：与传统 RAG 每次从原始文档检索不同，让 LLM 增量维护一个持久化, 相互链接的 Markdown wiki，随着每次摄入新资料与回答问题不断丰富。采用「原始资料 / wiki / schema 指令」三层架构，核心操作包括摄入(Ingest), 查询(Query), 体检(Lint)，能自动发现矛盾, 维护交叉引用，让知识随时间复利增长。|
+
 ### Embedding 模型和 Reranker 模型
 
 |名称|Stars|简介|备注|

@@ -1,7 +1,60 @@
 ## LLMs
 
-OpenAI 的 ChatGPT 大型语言模型（LLM）并未开源，这部分收录一些深度学习开源的 LLM 供感兴趣的同学学习参考。
+本章节收录主流大语言模型。先是 2024–2026 年最具影响力的旗舰、开源与国产模型，随后保留早期经典开源 LLM 供学习参考。
 
+### 2024–2026 主流大模型
+
+> 时间与版本截至 2026 年初，模型迭代极快，请以官方渠道为准。
+
+#### 国外闭源旗舰模型
+
+| 模型 | 开发方 | 链接 | 中文简介（关键能力与发布时间） |
+|------|--------|------|--------------------------------|
+| GPT-5 | OpenAI | [openai.com](https://openai.com/index/introducing-gpt-5/) | 2025 年 8 月发布，OpenAI 新一代旗舰，统一推理与对话（自动调度"思考"模式），取代 GPT-4o/o3 成为 ChatGPT 默认模型。 |
+| o3 / o4-mini | OpenAI | [openai.com](https://openai.com/index/introducing-o3-and-o4-mini/) | 2025 年 4 月发布的 o 系列推理模型，"先思考后回答"，o4-mini 主打高性价比快速推理。 |
+| GPT-4.1 | OpenAI | [openai.com](https://openai.com/index/gpt-4-1/) | 2025 年 4 月发布，专精编码，100 万 token 长上下文，指令遵循强。 |
+| Claude Opus 4.5 | Anthropic | [anthropic.com](https://www.anthropic.com/news/claude-opus-4-5) | 2025 年 11 月发布，Anthropic 最强模型，编码与智能体能力顶尖。 |
+| Claude Sonnet 4.5 | Anthropic | [anthropic.com](https://www.anthropic.com/news/claude-sonnet-4-5) | 2025 年 9 月发布，平衡性能与成本，长程智能体任务表现优异。 |
+| Claude 4（Opus 4 / Sonnet 4） | Anthropic | [anthropic.com](https://www.anthropic.com/news/claude-4) | 2025 年 5 月发布的第 4 代，Opus 4 号称"世界最佳编码模型"。 |
+| Gemini 3 Pro | Google DeepMind | [blog.google](https://blog.google/products/gemini/gemini-3/) | 2025 年 11 月发布，Google 最强多模态旗舰，"推理优先"，含 Deep Think 模式。 |
+| Gemini 2.5 Pro / Flash | Google DeepMind | [developers.googleblog.com](https://developers.googleblog.com/en/gemini-2-5-thinking-model-updates/) | "思考型"系列，Pro 主打高智能、Flash 主打低延迟低成本。 |
+| Grok 4 | xAI | [x.ai](https://x.ai/news) | 2025 年 7 月发布，256K 上下文，原生工具调用（代码、联网与 X 搜索）。 |
+
+#### 国外开源 / 开放权重模型
+
+| 模型 | 开发方 | 链接 | 中文简介（关键能力与发布时间） |
+|------|--------|------|--------------------------------|
+| Llama 4（Scout / Maverick） | Meta | [ai.meta.com](https://ai.meta.com/blog/llama-4-multimodal-intelligence/) | 2025 年 4 月发布，原生多模态 MoE，Scout 上下文达 10M，Maverick 多模态超 GPT-4o。 |
+| Llama 3.3 70B | Meta | [llama.com](https://www.llama.com/) | 2024 年 12 月发布，70B 性能对标 3.1 的 405B，推理成本大幅降低。 |
+| Mistral Large 3 | Mistral AI | [mistral.ai](https://mistral.ai/news/mistral-3/) | 2025 年 12 月发布，稀疏 MoE，41B 激活 / 675B 总参，开放权重前沿模型。 |
+| Gemma 3 | Google | [ai.google.dev](https://ai.google.dev/gemma) | Google 开源小模型系列，基于 Gemini 技术，可单卡运行、多模态。 |
+
+#### 国产大模型
+
+| 模型 | 开发方 | 链接 | 中文简介（关键能力与发布时间） |
+|------|--------|------|--------------------------------|
+| DeepSeek-V3 | 深度求索 | [GitHub](https://github.com/deepseek-ai/DeepSeek-V3) | 2024 年 12 月发布，671B/37B 激活 MoE，以极高性价比对标 GPT-4 级别。 |
+| DeepSeek-R1 | 深度求索 | [GitHub](https://github.com/deepseek-ai/DeepSeek-R1) | 2025 年 1 月发布的开源推理模型，比肩 o1，掀起全球开源推理浪潮。 |
+| Qwen3（通义千问 3） | 阿里巴巴 | [GitHub](https://github.com/QwenLM/Qwen3) | 2025 年 4 月发布，Apache 2.0 开源，0.6B–235B 多规格，首推混合推理，支持 119 种语言与 MCP。 |
+| GLM-4.6 / GLM-4.5 | 智谱 AI | [HuggingFace](https://huggingface.co/zai-org/GLM-4.5) | GLM-4.5（2025 年 7 月）355B/32B MoE，MIT 协议开源，面向智能体；GLM-4.6 进一步升级。 |
+| Kimi K2 / K2 Thinking | 月之暗面 | [GitHub](https://github.com/moonshotai/Kimi-K2) | K2（2025 年 7 月）1T/32B MoE 开源；K2 Thinking（11 月）多项基准超 GPT-5、Sonnet 4.5。 |
+| MiniMax M2 | MiniMax | [GitHub](https://github.com/MiniMax-AI) | 2025 年 10 月发布的开源大模型，主打高效推理与智能体能力。 |
+| ERNIE 4.5 / 文心一言 | 百度 | [yiyan.baidu.com](https://yiyan.baidu.com/) | 2025 年 3 月发布，MoE 架构最高 424B/47B；配套 ERNIE X1 深度推理模型。 |
+| 混元（Hunyuan / T1） | 腾讯 | [hunyuan.tencent.com](https://hunyuan.tencent.com/) | 腾讯自研大模型家族，T1 推理模型开放使用，覆盖文本与多模态。 |
+| 豆包（Doubao） | 字节跳动 | [doubao.com](https://www.doubao.com/) | 字节 C 端 AI 应用，月活领先，背后为字节自研大模型矩阵。 |
+
+#### 评测榜单与资源
+
+| 资源 | 链接 | 中文简介 |
+|------|------|----------|
+| LMArena（原 Chatbot Arena） | [lmarena.ai](https://lmarena.ai/) | 众包匿名对战 + Elo 评分的权威 LLM 排行榜，业界最受认可的横向对比之一。 |
+| Open LLM Leaderboard | [HuggingFace](https://huggingface.co/open-llm-leaderboard) | 基于标准化基准的开源模型自动评测榜单，适合硬指标对比。 |
+| SuperCLUE | [superclueai.com](https://www.superclueai.com/) | 中文通用大模型综合性测评基准，中文场景的主流权威榜单。 |
+| Artificial Analysis | [artificialanalysis.ai](https://artificialanalysis.ai/) | 第三方独立评测，汇总智能指数、速度、价格等维度，便于按性价比选型。 |
+
+### 早期经典开源 LLM（历史存档）
+
+> 以下为 2023 年前后的开源模型，多数已被新版取代，保留供学习与参考。
 
 ### 大模型
 
