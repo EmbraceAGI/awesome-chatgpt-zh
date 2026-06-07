@@ -85,7 +85,7 @@
 |[open_llama](https://github.com/openlm-research/open_llama) |![GitHub Repo stars](https://badgen.net/github/stars/openlm-research/open_llama)|OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset. |OpenLLaMA，允许开源复制Meta AI的LLaMA-7B 模型，在red睡衣数据集上训练得到。|
 |[Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca)|![GitHub Repo stars](https://badgen.net/github/stars/ymcui/Chinese-LLaMA-Alpaca)|中文LLaMA模型和经过指令精调的Alpaca大模型。|-|
 |[gemma.cpp](https://github.com/google/gemma.cpp)|![GitHub Repo stars](https://badgen.net/github/stars/google/gemma.cpp)|用于 Google Gemma 模型的轻量级独立 C++ 推理引擎。|-|
-|[gemma_pytorch](https://github.com/google/gemma_pytorch)|![GitHub Repo stars](https://badgen.net/github/stars/gemma_pytorch)|Google Gemma 模型的官方 PyTorch 实现。|-|
+|[gemma_pytorch](https://github.com/google/gemma_pytorch)|![GitHub Repo stars](https://badgen.net/github/stars/google/gemma_pytorch)|Google Gemma 模型的官方 PyTorch 实现。|-|
 
 ### Llama 官方仓库（2024.11.5更新） 
 |名称|Stars|简介| 备注 |
