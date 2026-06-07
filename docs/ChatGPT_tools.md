@@ -225,6 +225,7 @@ https://github.com/whoiskatrin/chart-gpt
 |[Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)|![GitHub Repo stars](https://badgen.net/github/stars/JushBJJ/Mr.-Ranedeer-AI-Tutor)|学习助手，解释学习概念，制订学习计划|-|
 |[中文法律知识大模型 LaWGPT](https://github.com/pengxiao-song/LaWGPT)|![GitHub Repo stars](https://badgen.net/github/stars/pengxiao-song/LaWGPT)|基于中文法律知识的大语言模型|-|
 |[PKU-YuanGroup/ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw)|![GitHub Repo stars](https://badgen.net/github/stars/PKU-YuanGroup/ChatLaw)|北大出品！中文法律大模型|-|
+|[Enclave / 隐界](https://github.com/yuanzui0728/enclave)|![GitHub Repo stars](https://badgen.net/github/stars/yuanzui0728/enclave)|开源自托管、一人一世界的 AI 社交应用。每个实例只属于一位世界主人，里面住着一群有人设、有作息、有彼此关系的 AI 居民，会主动发起聊天、建群、发朋友圈与视频号。|默认使用 DeepSeek，也兼容任何 OpenAI 协议接口；`docker compose up -d` 一键部署；Web / iOS / Android / Tauri 桌面全端覆盖；MIT|
 
 
 ### 程序猿专区
