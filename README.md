@@ -25,6 +25,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用 ChatGPT 及前
   - [MCP 模型上下文协议指南](#mcp-模型上下文协议指南)
   - [Coding Agents 编程智能体](#coding-agents-编程智能体)
   - [Agent-First 为智能体而构建](#agent-first-为智能体而构建)
+  - [浏览器与计算机自动化](#浏览器与计算机自动化)
   - [LLM 开发 RAG 指南](#llm-开发-rag-指南)
   - [Sora 指南](#sora-指南)
   - [LLMs: 大模型](#llms-大模型)
@@ -68,6 +69,10 @@ MCP（Model Context Protocol，模型上下文协议）是让 AI 无缝连接外
 ## [Agent-First 为智能体而构建](docs/Agent_First.md)
 
 软件正迎来"第二类用户"——AI 智能体。本节收录 Agent-First / Agent-Friendly 与 Agent Experience（AX）的理念、关键标准（llms.txt、AGENTS.md、MCP、NLWeb）、实践框架（agentsfirst.dev 九原则、AX 六层栈）与代表文章工具。
+
+## [浏览器与计算机自动化](docs/Browser_Computer_Use.md)
+
+让 Agent 像人一样操作浏览器与电脑。本节收录 Browser Use / Computer Use 框架、为 agent 打造的浏览器基础设施（Steel、Browserbase 等）、浏览器自动化 MCP（Chrome DevTools MCP、Playwright MCP）、反检测浏览器、桌面操作 Agent（UI-TARS、Agent S 等）与评测基准。
 
 ## [LLM 开发 RAG 指南](docs/LLM_RAG.md)
 ## [Sora 指南](docs/Sora.md)
