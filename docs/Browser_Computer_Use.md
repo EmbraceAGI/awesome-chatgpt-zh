@@ -10,6 +10,8 @@
 |------|------|------|
 | browser-use | [GitHub](https://github.com/browser-use/browser-use) | 当前最热门的浏览器 Agent 框架（Python，MIT），让 AI 直接操控浏览器完成网页任务 |
 | Stagehand | [GitHub](https://github.com/browserbase/stagehand) | Browserbase 出品的"浏览器 Agent SDK"（TypeScript），融合自然语言与代码控制，带自愈与缓存 |
+| agent-browser | [GitHub](https://github.com/vercel-labs/agent-browser) | Vercel Labs 出品的原生 Rust 浏览器自动化 CLI，accessibility-tree 快照省 token，兼容 Claude Code/Cursor，热度高 |
+| Midscene | [GitHub](https://github.com/web-infra-dev/midscene) | 字节跳动出品，视觉驱动的跨平台（Web/Android/iOS）UI 自动化，用自然语言写脚本 |
 | Skyvern | [GitHub](https://github.com/Skyvern-AI/skyvern) | 用 LLM + 计算机视觉自动化网页工作流，提供 Playwright 兼容 SDK 与无代码流程编排 |
 | Nanobrowser | [GitHub](https://github.com/nanobrowser/nanobrowser) | 开源 Chrome 扩展，定位 OpenAI Operator 的免费替代，多 Agent、本地运行、自带 API Key |
 | LaVague | [GitHub](https://github.com/lavague-ai/LaVague) | 由 World Model + Action Engine 组成，将目标翻译为 Selenium/Playwright 可执行代码 |
@@ -17,8 +19,28 @@
 | browser-use WebUI | [GitHub](https://github.com/browser-use/web-ui) | browser-use 官方的 Gradio 网页界面，支持多家 LLM、自定义浏览器与持久会话 |
 | Notte | [GitHub](https://github.com/nottelabs/notte) | 主打速度、成本与可扩展性的网页 Agent 框架，支持结构化抽取 |
 | Index (Laminar) | [GitHub](https://github.com/lmnr-ai/index) | 结合视觉推理 LLM 自主执行复杂网页任务的开源浏览器 Agent，提供 CLI 与 serverless API |
+| open-operator | [GitHub](https://github.com/browserbase/open-operator) | Browserbase 出品，基于 Stagehand 的 web agent 模板，对标 OpenAI Operator |
+| browser-cli | [GitHub](https://github.com/browsemake/browser-cli) | browsemake 出品的面向 LLM Agent 的命令行浏览器自动化工具，为 LLM 设计输出格式、本地运行、凭证隔离 |
 | Playwright（底层） | [GitHub](https://github.com/microsoft/playwright) | 微软出品，跨 Chromium/Firefox/WebKit 的统一自动化 API，常作为上层 Agent 的底层驱动 |
 | Puppeteer（底层） | [GitHub](https://github.com/puppeteer/puppeteer) | Chrome 团队出品，通过 DevTools 协议控制浏览器的经典底层库 |
+
+## AI 网页抓取 / 转 LLM 数据
+
+把网页/文档转成干净、结构化、LLM 友好的数据，是喂给 agent 的关键一环，也是当前 GitHub 上最火的方向之一。
+
+| 名称 | 链接 | 简介 |
+|------|------|------|
+| MarkItDown | [GitHub](https://github.com/microsoft/markitdown) | 微软出品，将 PDF/Office/图片/音频等多种文件转为 Markdown 供 LLM 使用，star 极高 |
+| Firecrawl | [GitHub](https://github.com/firecrawl/firecrawl) | 大规模搜索、抓取并与网页交互的 API，输出 LLM 友好的 markdown/JSON（注意 org 已迁至 firecrawl） |
+| crawl4ai | [GitHub](https://github.com/unclecode/crawl4ai) | 开源 LLM 友好爬虫，将网页转为干净结构化 Markdown，GitHub 趋势榜常客 |
+| Scrapling | [GitHub](https://github.com/D4Vinci/Scrapling) | 自适应爬虫框架，支持 HTTP/隐身/动态浏览器抓取，含 MCP server |
+| Docling | [GitHub](https://github.com/docling-project/docling) | IBM 出品，文档（PDF/DOCX/PPTX）解析转 gen-AI 就绪格式，含表格/版面识别 |
+| ScrapeGraphAI | [GitHub](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | 用 LLM + 图逻辑做抓取，只需自然语言 prompt 即可提取信息 |
+| Crawlee | [GitHub](https://github.com/apify/crawlee) | Apify 出品的 Node.js 爬虫与浏览器自动化库，内置反爬 |
+| gpt-crawler | [GitHub](https://github.com/BuilderIO/gpt-crawler) | 抓取站点生成知识文件，用于构建自定义 GPT |
+| Maxun | [GitHub](https://github.com/getmaxun/maxun) | 开源无代码网页数据平台，Extract/Scrape/Crawl/Search 四类机器人，可自托管 |
+| Jina Reader | [GitHub](https://github.com/jina-ai/reader) | 通过 `https://r.jina.ai/` 前缀把任意 URL 转为 LLM 友好的 markdown，含搜索 |
+| llm-scraper | [GitHub](https://github.com/mishushakov/llm-scraper) | 用 LLM 把任意网页转为结构化数据，基于 Playwright，多模型支持 |
 
 ## Agent 浏览器基础设施（开源 / 云）
 
@@ -39,6 +61,7 @@
 |------|------|------|
 | Chrome DevTools MCP（Google 官方） | [GitHub](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 官方 MCP，让编码 Agent 控制并检视真实 Chrome（性能分析、网络调试、自动化、截图），可对接 Claude/Copilot/Cursor/Gemini |
 | Playwright MCP（微软官方） | [GitHub](https://github.com/microsoft/playwright-mcp) | 微软官方 Playwright MCP，基于可访问性树驱动真实浏览器，比截图方案更快更可靠 |
+| Browser MCP | [GitHub](https://github.com/browsermcp/mcp) | MCP server，让 Claude/Cursor/VS Code/Windsurf 等控制你本地的浏览器 |
 | Stagehand | [GitHub](https://github.com/browserbase/stagehand) | "浏览器 Agent SDK"，可与 MCP 生态集成 |
 
 ## 反检测 / 隐身浏览器（anti-bot / stealth）
@@ -66,6 +89,31 @@
 | OmniParser | [GitHub](https://github.com/microsoft/OmniParser) | 微软出品的屏幕解析工具，将 UI 截图解析为结构化元素，为纯视觉 GUI Agent 提供精准定位 |
 | Self-Operating Computer | [GitHub](https://github.com/OthersideAI/self-operating-computer) | 早期框架，让多模态模型看屏幕并执行鼠标键盘操作 |
 | Open Interpreter | [GitHub](https://github.com/OpenInterpreter/open-interpreter) | "计算机的自然语言接口"，让 LLM 在本地执行代码与操作电脑（执行前需确认） |
+| Bytebot | [GitHub](https://github.com/bytebot-ai/bytebot) | 自托管 AI 桌面 Agent，在容器化 Linux 桌面内用自然语言执行任务，近期很火 |
+| open-computer-use | [GitHub](https://github.com/e2b-dev/open-computer-use) | E2B 出品，基于开源 LLM + E2B 桌面沙箱的 computer use |
+| Computer Use OOTB | [GitHub](https://github.com/showlab/computer_use_ootb) | Show Lab(NUS) 出品，开箱即用的 Windows/macOS GUI Agent，无需 Docker |
+| OpenAdapt | [GitHub](https://github.com/OpenAdaptAI/OpenAdapt) | 生成式流程自动化（Generative RPA），录制-回放式桌面自动化 |
+
+## 移动端 GUI Agent（Android / iOS）
+
+| 名称 | 链接 | 简介 |
+|------|------|------|
+| Mobile-Agent | [GitHub](https://github.com/X-PLUG/MobileAgent) | 阿里 X-PLUG 出品的强大 GUI Agent 家族（Mobile-Agent v1/v2/v3、PC-Agent 等） |
+| droidrun / mobilerun | [GitHub](https://github.com/droidrun/mobilerun) | LLM 无关的移动设备自然语言自动化 Agent，支持 Android/iOS，含无障碍 Portal app |
+| AppAgent | [GitHub](https://github.com/TencentQQGYLab/AppAgent) | 腾讯出品，多模态智能体像用户一样操作智能手机 App |
+| AgentCPM-GUI | [GitHub](https://github.com/OpenBMB/AgentCPM-GUI) | 面壁智能 OpenBMB 出品的端侧 Android GUI Agent，强化推理、中文优化 |
+
+## GUI 视觉模型 / 屏幕解析
+
+让纯视觉 Agent 看懂屏幕、精准定位可操作元素的底层模型与工具。
+
+| 名称 | 链接 | 简介 |
+|------|------|------|
+| OmniParser | [GitHub](https://github.com/microsoft/OmniParser) | 微软出品，把截图解析为结构化可点击元素，最主流的纯视觉解析底座 |
+| UI-TARS | [GitHub](https://github.com/bytedance/UI-TARS) | 字节跳动原生 GUI 交互视觉语言模型（模型本体/论文/权重） |
+| Qwen3-VL | [GitHub](https://github.com/QwenLM/Qwen3-VL) | 阿里通义多模态大模型，具备强 GUI grounding / agent 能力 |
+| CogAgent | [GitHub](https://github.com/zai-org/CogAgent) | 智谱 AI 端到端 VLM GUI Agent 模型 |
+| ShowUI | [GitHub](https://github.com/showlab/ShowUI) | Show Lab(NUS) 出品，CVPR 2025，端到端 Vision-Language-Action GUI 模型 |
 
 ## AI 浏览器产品（消费级）
 
