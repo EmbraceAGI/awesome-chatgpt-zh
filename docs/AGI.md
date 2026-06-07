@@ -1,88 +1,40 @@
 ## AGI: 通用人工智能之路
 
-- [AGI: 通用人工智能之路](#agi-通用人工智能之路)
-  - [Awesome-AGI](#awesome-agi)
-  - [Auto-GPT](#auto-gpt)
-  - [ChatGPT 控制所有AI模型: HuggingGPT](#chatgpt-控制所有ai模型-hugginggpt)
-  - [babyagi](#babyagi)
-  - [MiniGPT-4](#minigpt-4)
-  - [更多 AGI 项目](#更多-agi-项目)
+2023 年，AutoGPT、BabyAGI、AgentGPT、HuggingGPT 等"自主 Agent"项目掀起第一波浪潮——人们第一次看到大模型可以自己拆解目标、循环规划、调用工具。但那一代实验大多停留在演示阶段：容易跑偏、难以收敛、缺乏可靠的工程闭环。
 
-### [Awesome-AGI](https://github.com/EmbraceAGI/Awesome-AGI)
- AGI 精选资源，持续更新中，欢迎关注和 star~
+2024 至 2026 年，方向从"会不会自己跑起来"转向"能不能真正把活干完"。Anthropic 在 2024 年底推出 Model Context Protocol、Google 推出 Agent2Agent，工具调用与智能体协作开始有了标准；OpenAI、Anthropic、Google 相继推出 Computer Use / Operator 这类直接操作屏幕的通用智能体；Manus、Devin、OpenHands 等"通用 Agent / 编码 Agent"把长时程、多步骤、可交付成果的能力推向实用。2025 年被广泛称为"智能体元年"——AGI 之路，从单点的自主实验，走向通用智能体的规模化落地。
 
-### [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
-AutoGPT: prompt 工程的下一个前沿，通向 AGI 之路！
+> 相关：AI Agent 开发框架见 [ChatGPT 应用开发指南](ChatGPT_dev.md)，工具连接协议见 [MCP 指南](MCP.md)。
 
-具体来说，AutoGPT 相当于给基于 GPT 的模型一个内存和一个身体。有了它，你可以把一项任务交给 AI 智能体，让它自主地提出一个计划，然后执行计划。此外其还具有互联网访问、长期和短期内存管理、用于文本生成的 GPT-4 实例以及使用 GPT-3.5 进行文件存储和生成摘要等功能。AutoGPT 用处很多，可用来分析市场并提出交易策略、提供客户服务、进行营销等其他需要持续更新的任务。
+### 通用 AI Agent（产品与开源）
 
-特斯拉前 AI 总监、刚刚回归 OpenAI 的 Andrej Karpathy 也大力宣传，并在推特赞扬：「AutoGPT 是 prompt 工程的下一个前沿。」
+| 名称 | 链接 | 简介 |
+|------|------|------|
+| Manus | [链接](https://manus.im/) | 主打"通用 AI Agent"的产品，能自主规划并交付完整成果（PPT、网站、研报等），在 GAIA 基准上一度达到 SOTA |
+| OpenManus | [链接](https://github.com/FoundationAgents/OpenManus) | MetaGPT 核心团队发起的开源通用 Agent 框架，无需邀请码即可复现"Manus 式"能力，MIT 协议 |
+| OpenHands | [链接](https://github.com/All-Hands-AI/OpenHands) | 原名 OpenDevin，开源软件开发智能体平台，可执行真实工程任务而非仅建议代码，支持自由切换 Claude/GPT/本地模型 |
+| Devin | [链接](https://www.cognition.ai/) | Cognition AI 推出的商业化自主编码智能体，可异步执行长达数小时的复杂工程任务 |
+| AutoGPT | [链接](https://github.com/Significant-Gravitas/AutoGPT) | 从最早的自主 Agent 实验演进为可视化的智能体构建与部署平台（低代码前端 + 服务端 + Forge 工具包） |
+| Suna | [链接](https://github.com/kortix-ai/suna) | Kortix AI 开源的通用智能体，具备浏览器自动化、文件管理、网页爬取、命令行执行等能力，可自托管 |
+| OpenAI Operator / ChatGPT Agent | [链接](https://openai.com/index/introducing-operator/) | OpenAI 的 Computer-Using Agent，可自主操作浏览器完成任务，现已并入 ChatGPT Agent |
+| Claude Computer Use | [链接](https://www.anthropic.com/news/3-5-models-and-computer-use) | Anthropic 推出的电脑操作能力，Claude 通过"看屏幕、移动光标、点击、输入"直接操作计算机 |
 
-AutoGPT 正在互联网上掀起一场风暴，它无处不在。很快，已经有网友上手实验了，该用户让 AutoGPT 建立一个网站，不到 3 分钟 AutoGPT 就成功了。期间 AutoGPT 使用了 React 和 Tailwind CSS，全凭自己，人类没有插手。看来程序员之后真就不再需要编码了。
+### AGI 相关基准与研究
 
-[在线体验](https://www.cognosys.ai/) 目前免费
+| 名称 | 链接 | 简介 |
+|------|------|------|
+| ARC Prize / ARC-AGI | [链接](https://arcprize.org/) | 专注"人类轻松、机器困难"的抽象推理基准，已成为各大厂在模型卡中公开报告的行业基准 |
+| GAIA benchmark | [链接](https://huggingface.co/gaia-benchmark) | Meta FAIR、HuggingFace、AutoGPT 等提出的"通用 AI 助手"基准，466 道真实世界问题，考察推理、多模态、网页浏览与工具使用 |
+| GAIA 论文 | [arxiv](https://arxiv.org/abs/2311.12983) | GAIA 原始论文，主张 AGI 的关键在于系统能否在"对人类简单"的问题上展现与普通人相当的稳健性 |
 
-### [ChatGPT 控制所有AI模型: HuggingGPT](https://arxiv.org/abs/2303.17580)
+### 经典自主 Agent（历史）
 
-[GitHub](https://github.com/microsoft/JARVIS)
+> 以下为 2023 年第一波自主 Agent 浪潮的代表项目，作为历史存档保留。
 
-[Arxiv 论文]((https://arxiv.org/abs/2303.17580))
-
-大语言模型LLM在语言理解、生成、交互和推理方面的表现，让人想到：
-
-> 可以将它们作为中间控制器，来管理现有的所有AI模型，通过“调动和组合每个人的力量”，来解决复杂的AI任务。
-
-在这个系统中，语言是通用的接口。
-
-于是，HuggingGPT就诞生了。
-
-它的工程流程分为四步：
-
-* 首先，任务规划。ChatGPT将用户的需求解析为任务列表，并确定任务之间的执行顺序和资源依赖关系。
-
-* 其次，模型选择。ChatGPT根据HuggingFace上托管的各专家模型的描述，为任务分配合适的模型。
-
-* 接着，任务执行。混合端点（包括本地推理和HuggingFace推理）上被选定的专家模型根据任务顺序和依赖关系执行分配的任务，并将执行信息和结果给到ChatGPT。
-
-* 最后，输出结果。由ChatGPT总结各模型的执行过程日志和推理结果，给出最终的输出。
-
-### [babyagi](https://github.com/yoheinakajima/babyagi)
-
-[在线体验](https://godmode.space/)
-
-babyagi 是一个智能任务管理和解决工具，它结合了OpenAI GPT-4和Pinecone向量搜索引擎的力量，以自动完成和管理一系列任务，从一个初始任务开始，babyagi使用GPT4生成解决方案和新任务，并将解决方案存储在Pinecone中以便进一步检索。
-
-[中文博客-babyagi: 人工智能任务管理系统](https://juejin.cn/post/7218815501433946173)
-
-![babyagi](imgs/babyagi.jpg)
-
-### [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)
-
-MiniGPT-4 项目破解了 GPT4 的魔法，树立了很好的一个示范和方向。借助各种基础开源模型模型的组合，迈出了可能实现多模态识别的一步。
-
-1.NLP 部分采用 LLaMA, 效果虽然不如 GPT-4，但是基本合格
-
-2.CV 部分采用了开源的诸多模型如 Timm，DeiT 等，展现了开源的力量
-
-代码、文档、视频、演示网站等内容齐全完善，开源质量很高，代码编写也很精妙，值得关注学习！
-
-### 更多 AGI 项目
-|名称|Stars|简介| 备注 |
--|-|-|-
-|[Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) |![GitHub Repo stars](https://badgen.net/github/stars/Significant-Gravitas/Auto-GPT)|An experimental open-source attempt to make GPT-4 fully autonomous.|-|
-|[Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins) |![GitHub Repo stars](https://badgen.net/github/stars/Significant-Gravitas/Auto-GPT-Plugins)|Plugins for Auto-GPT.|-|
-|[AutoGPT.js](https://github.com/zabirauf/AutoGPT.js)|![GitHub Repo stars](https://badgen.net/github/stars/zabirauf/AutoGPT.js)|Auto-GPT on the browser.|-|
-|[AutoGPT-GUI](https://github.com/thecookingsenpai/autogpt-gui)|![GitHub Repo stars](https://badgen.net/github/stars/thecookingsenpai/autogpt-gui)|A graphical user interface for AutoGPT.|AutoGPT 项目的图形界面|
-|[AgentGPT](https://github.com/reworkd/AgentGPT) |![GitHub Repo stars](https://badgen.net/github/stars/reworkd/AgentGPT)|Assemble, configure, and deploy autonomous AI Agents in your browser.|-|
-|[JARVIS](https://github.com/microsoft/JARVIS)|![GitHub Repo stars](https://badgen.net/github/stars/microsoft/JARVIS)|A system to connect LLMs with ML community.|-|
-|[babyagi](https://github.com/yoheinakajima/babyagi)|![GitHub Repo stars](https://badgen.net/github/stars/yoheinakajima/babyagi)|Use OpenAI and Pinecone APIs to create, prioritize, and execute tasks.|[中文博客-babyagi: 人工智能任务管理系统](https://juejin.cn/post/7218815501433946173)|
-|[OpenAGI](https://github.com/agiresearch/OpenAGI) |![GitHub Repo stars](https://badgen.net/github/stars/agiresearch/OpenAGI)|When LLM (Large Language Models) Meets Domain Experts.|-|
-|[AI-legion](https://github.com/eumemic/ai-legion)|![GitHub Repo stars](https://badgen.net/github/stars/eumemic/ai-legion)|An LLM-powered autonomous agent platform.|-|
-|[MicroGPT](https://github.com/muellerberndt/micro-gpt)|![GitHub Repo stars](https://badgen.net/github/stars/muellerberndt/micro-gpt)|A minimal generic autonomous agent based on GPT3.5/4. Can analyze stock prices, perform network security tests, create art, and order pizza.|-|
-|[MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)|![GitHub Repo stars](https://badgen.net/github/stars/Vision-CAIR/MiniGPT-4)|MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models.|-|
-|[Agent-LLM](https://github.com/Josh-XT/Agent-LLM)|![GitHub Repo stars](https://badgen.net/github/stars/Josh-XT/Agent-LLM)|An Artificial Intelligence Automation Platform. AI Instruction management from various providers, has an adaptive memory, and a versatile plugin system with many commands including web browsing.| 人工智能自动化平台。https://agent-llm.com/|
-|[Free-AUTO-GPT-with-NO-API](https://github.com/IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API)|![GitHub Repo stars](https://badgen.net/github/stars/IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API)|Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not rely on any paid OpenAI API, making it accessible to anyone.|不用花大价钱使用API key 跑 AutoGPT, BabyAGI, AgentGPT 项目啦。 需要有 ChatGPT 账号，然后浏览器登陆拿到 Cookie Value 使用。 或者使用 huggingFace 的 chat 模型，详情参照项目说明。|
-|[opencog](https://github.com/opencog/opencog)|![GitHub Repo stars](https://badgen.net/github/stars/opencog/opencog)|A framework for integrated Artificial Intelligence & Artificial General Intelligence (AGI).|集成人工智能和通用人工智能(AGI)的框架。|
-|[mini-agi](https://github.com/muellerberndt/mini-agi)|![GitHub Repo stars](https://badgen.net/github/stars/muellerberndt/mini-agi)|MiniAGI is a minimal general-purpose autonomous agent based on GPT-3.5 / GPT-4. Can analyze stock prices, perform network security tests, create art, and order pizza.|基于 GPT-3.5 / GPT-4 的迷你AGI。 可以分析股票价格、执行网络安全测试、创作艺术品和订购比萨。|
-|[big-agi](https://github.com/enricoros/big-agi)|![GitHub Repo stars](https://badgen.net/github/stars/enricoros/big-agi)|Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy and gift #big-AGI-energy! Using Next.js, React, Joy.|GPT-4 驱动的个人 AI 应用，[big-agi](https://big-agi.com/)|
-|[LocalAGI](https://github.com/EmbraceAGI/LocalAGI)|![GitHub Repo stars](https://badgen.net/github/stars/EmbraceAGI/LocalAGI)|Locally run AGI powered by LLaMA, ChatGLM and more.|基于 LLMDA, ChatGLM 等模型的本地 AGI 项目|
+| 名称 | Stars | 简介 |
+|------|-------|------|
+| [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ![GitHub Repo stars](https://badgen.net/github/stars/Significant-Gravitas/AutoGPT) | 引爆自主 Agent 浪潮的开创性项目，让 GPT-4 自主拆解目标、循环规划与执行 |
+| [babyagi](https://github.com/yoheinakajima/babyagi) | ![GitHub Repo stars](https://badgen.net/github/stars/yoheinakajima/babyagi) | 极简任务驱动的自主 Agent，依据上一步结果与既定目标动态生成任务队列 |
+| [AgentGPT](https://github.com/reworkd/AgentGPT) | ![GitHub Repo stars](https://badgen.net/github/stars/reworkd/AgentGPT) | 可在浏览器中配置并部署自主 AI Agent，命名目标即自动思考、执行、学习 |
+| [HuggingGPT (JARVIS)](https://github.com/microsoft/JARVIS) | ![GitHub Repo stars](https://badgen.net/github/stars/microsoft/JARVIS) | 微软提出，以 LLM 为控制器、HuggingFace 上众多专家模型为执行器的协作系统 |
+| [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) | ![GitHub Repo stars](https://badgen.net/github/stars/Vision-CAIR/MiniGPT-4) | 将视觉编码器与 Vicuna/Llama 等大语言模型对齐，复现 GPT-4 式的图文理解能力 |

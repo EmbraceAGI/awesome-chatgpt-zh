@@ -19,10 +19,11 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用 ChatGPT 及前
   - [前沿大模型经典技术文章](#前沿大模型经典技术文章)
   - [ChatGPT 顶级爆款开源项目(10K+ Stars)](#chatgpt-顶级爆款开源项目10k-stars)
   - [ChatGPT 应用](#chatgpt-应用)
-  - [ChatGPT 插件](#chatgpt-插件)
+  - [ChatGPT 扩展能力 (GPTs / Actions)](#chatgpt-扩展能力-gpts--actions)
   - [ChatGPT 应用开发指南](#chatgpt-应用开发指南)
   - [Claude Skills 指南](#claude-skills-指南)
   - [MCP 模型上下文协议指南](#mcp-模型上下文协议指南)
+  - [Coding Agents 编程智能体](#coding-agents-编程智能体)
   - [LLM 开发 RAG 指南](#llm-开发-rag-指南)
   - [Sora 指南](#sora-指南)
   - [LLMs: 大模型](#llms-大模型)
@@ -49,7 +50,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用 ChatGPT 及前
 汇集 OpenAI、Anthropic（Claude）、Google / DeepMind、DeepSeek 的经典技术文章与论文，以及 Andrej Karpathy 的博客、开源教学项目与讲座。
 ## [ChatGPT 顶级爆款开源项目(10K+ Stars)](docs/ChatGPT_Top_Project.md)
 ## [ChatGPT 应用](docs/ChatGPT_tools.md)
-## [ChatGPT 插件](docs/ChatGPT_plugins.md)
+## [ChatGPT 扩展能力 (GPTs / Actions)](docs/ChatGPT_plugins.md)
 ## [ChatGPT 应用开发指南](docs/ChatGPT_dev.md)
 ## [Claude Skills 指南](docs/Claude_Skills.md)
 
@@ -58,6 +59,10 @@ Claude Skills（Agent Skills）让 AI 智能体按需加载专业能力，是构
 ## [MCP 模型上下文协议指南](docs/MCP.md)
 
 MCP（Model Context Protocol，模型上下文协议）是让 AI 无缝连接外部工具, 数据与系统的通用接口。本节精选了官方资源、主流客户端与各类知名 MCP Servers；完整中文资源大全（400+ Servers）见作者维护的 [Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH)。
+
+## [Coding Agents 编程智能体](docs/Coding_Agents.md)
+
+以 Claude Code、OpenAI Codex 为代表的编程智能体能自主读写代码库、运行命令与提交 PR。本节汇总主流终端/IDE 编码 Agent、自主软件工程 Agent、评测基准与学习资源。
 
 ## [LLM 开发 RAG 指南](docs/LLM_RAG.md)
 ## [Sora 指南](docs/Sora.md)

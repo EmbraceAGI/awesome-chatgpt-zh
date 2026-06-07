@@ -7,6 +7,8 @@
   - [LangChain 开发资源](#langchain-开发资源)
   - [向量数据库](#向量数据库)
   - [中文大模型开发资源](#中文大模型开发资源)
+  - [大模型 API 与聚合网关](#大模型-api-与聚合网关)
+  - [LLM 应用开发框架与平台](#llm-应用开发框架与平台)
   - [OpenAI 服务替代品](#openai-服务替代品)
   - [API 资源](#api-资源)
   - [一键部署资源](#一键部署资源)
@@ -16,13 +18,12 @@
 
 |名称|Stars|简介|备注|
 |---|---|---|---|
-|[openai-cookbook](https://github.com/openai/openai-cookbook)|![GitHub Repo stars](https://badgen.net/github/stars/openai/openai-cookbook)|Examples and guides for using the OpenAI API|OpenAI API 官方使用指南|
-|[openai-python](https://github.com/openai/openai-python)|![GitHub Repo stars](https://badgen.net/github/stars/openai/openai-python)|The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.|OpenAI python 接口|
-|[OpenAI 插件开发 demo ](https://github.com/openai/plugins-quickstart)|![GitHub Repo stars](https://badgen.net/github/stars/openai/plugins-quickstart)|Get a ChatGPT plugin up and running in under 5 minutes!|5min 入门插件开发|
-|[OpenAI 插件开发官方文档](https://platform.openai.com/docs/plugins/introduction)|-|-|-|
-|[Azure OpenAI Samples](https://github.com/Azure-Samples/openai)|![GitHub Repo stars](https://badgen.net/github/stars/Azure-Samples/openai)|The repository for all Azure OpenAI Samples complementing the OpenAI cookbook.|微软 Azure OpenAI 服务使用示例|
-|[Best practices for prompt engineering with OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)|-|OpenAI 官方教程,介绍了 Prompt 工程中最佳实践|-|
-|[GPT best practices](https://platform.openai.com/docs/guides/gpt-best-practices)|-|OpenAI 官方教程,使用 GPT 的最佳实践|-|
+|[OpenAI API 文档](https://platform.openai.com/docs)|-|OpenAI 官方开发者文档总入口|模型、API 参考、指南与最佳实践|
+|[Responses API](https://platform.openai.com/docs/api-reference/responses)|-|当代最先进的模型调用接口|支持有状态对话、内置工具（网页/文件搜索、computer use）与函数调用|
+|[openai-python](https://github.com/openai/openai-python)|![GitHub Repo stars](https://badgen.net/github/stars/openai/openai-python)|官方 Python 库，提供对 REST API 的同步与异步访问|OpenAI python 接口|
+|[openai-node](https://github.com/openai/openai-node)|![GitHub Repo stars](https://badgen.net/github/stars/openai/openai-node)|官方 JavaScript / TypeScript 库|-|
+|[OpenAI Agents SDK](https://github.com/openai/openai-agents-python)|![GitHub Repo stars](https://badgen.net/github/stars/openai/openai-agents-python)|轻量而强大的多智能体编排框架|工具调用、安全护栏、会话管理与内置 tracing|
+|[openai-cookbook](https://github.com/openai/openai-cookbook)|![GitHub Repo stars](https://badgen.net/github/stars/openai/openai-cookbook)|使用 OpenAI API 完成常见任务的示例代码与指南合集|OpenAI API 官方使用指南|
 
 ### Prompt 开发资源
 |名称|Stars|简介|备注|
@@ -80,6 +81,9 @@
 |[Milvus](https://github.com/milvus-io/milvus) |![GitHub Repo stars](https://badgen.net/github/stars/milvus-io/milvus)|Milvus 是一个开源矢量数据库，旨在为嵌入相似性搜索和 AI 应用程序提供支持。 除了向量，Milvus 还支持布尔型、整数、浮点数等数据类型。 Milvus 中的一个集合可以包含多个字段，用于容纳不同的数据特征或属性。 Milvus 将标量过滤与强大的向量相似性搜索相结合，为分析非结构化数据提供了一个现代、灵活的平台。|目前提供多种部署方式，支持docker, k8s, embed-milvus(pip install嵌入安装)，同时也有[在线云服务](https://cloud.zilliz.com/)。|
 |[weaviate](https://github.com/weaviate/weaviate) |![GitHub Repo stars](https://badgen.net/github/stars/weaviate/weaviate)|开源的向量数据库，可以存储对象和向量，允许将向量搜索与结构化过滤相结合，并具有云原生数据库的容错性和可扩展性，可通过 GraphQL、REST 和各种语言客户端进行访问。|-|
 |[txtai](https://github.com/neuml/txtai) |![GitHub Repo stars](https://badgen.net/github/stars/neuml/txtai)|用于语义搜索、LLM编排和语言模型工作流的一体化开源嵌入式数据库。|💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows|
+|[pgvector](https://github.com/pgvector/pgvector) |![GitHub Repo stars](https://badgen.net/github/stars/pgvector/pgvector)|PostgreSQL 的开源向量相似度搜索扩展，在关系数据库中存储向量并支持精确与近似最近邻检索。|无需额外引入新数据库|
+|[LanceDB](https://github.com/lancedb/lancedb) |![GitHub Repo stars](https://badgen.net/github/stars/lancedb/lancedb)|面向多模态 AI 的开源嵌入式向量检索库，基于 Lance 列式格式，支持向量、全文与 SQL 检索。|无需独立服务，进程内嵌入|
+|[Faiss](https://github.com/facebookresearch/faiss) |![GitHub Repo stars](https://badgen.net/github/stars/facebookresearch/faiss)|Meta FAIR 出品的稠密向量高效相似度搜索与聚类库。|经典底层检索库|
 
 ### 中文大模型开发资源
 
@@ -111,6 +115,34 @@
 |[claude-in-slack-api](https://github.com/yokonsan/claude-in-slack-api) |![GitHub Repo stars](https://badgen.net/github/stars/yokonsan/claude-in-slack-api)|claude in slack api.|通过 Slack API 来使用 Claude，[保姆级教程](https://mp.weixin.qq.com/s?__biz=Mzg4MjkzMzc1Mg==&mid=2247483961&idx=1&sn=c009f4ea28287daeaa4de17278c8228e&chksm=cf4e68aef839e1b8fe49110341e2a557e0b118fee82d490143656a12c7f85bdd4ef6f65ffd16&token=1094126126&lang=zh_CN#rd)|
 |[yiyan-api](https://github.com/zhuweiyou/yiyan-api) |![GitHub Repo stars](https://badgen.net/github/stars/zhuweiyou/yiyan-api)|-|百度文心一言网页版 API |
 
+
+### 大模型 API 与聚合网关
+
+统一接入多家大模型的网关与各家官方 API（取代早期的"逆向/破解 API"方案）。
+
+|名称|链接|简介|
+|---|---|---|
+|[LiteLLM](https://github.com/BerriAI/litellm)|![GitHub Repo stars](https://badgen.net/github/stars/BerriAI/litellm)|统一接口调用 100+ 大模型供应商的 Python SDK 与 AI 网关，兼容 OpenAI 格式，可作库或代理服务部署|
+|[One API](https://github.com/songquanpeng/one-api)|![GitHub Repo stars](https://badgen.net/github/stars/songquanpeng/one-api)|开源的大模型 API 管理与分发系统，将多家供应商统一为标准接口，支持密钥管理与负载均衡|
+|[New API](https://github.com/Calcium-Ion/new-api)|![GitHub Repo stars](https://badgen.net/github/stars/Calcium-Ion/new-api)|新一代大模型网关与 API 管理系统，支持 OpenAI、Claude、Gemini 等格式互转|
+|[OpenRouter](https://openrouter.ai/)|-|统一接口聚合数百个大模型，完全兼容 OpenAI 格式，自动故障转移与成本优选|
+|[Anthropic Claude API](https://docs.anthropic.com/en/home)|-|Anthropic 官方 Claude 模型 API 与开发者文档|
+|[Google Gemini API](https://ai.google.dev/gemini-api/docs)|-|Google 官方 Gemini 模型 API 与开发者文档|
+|[DeepSeek API](https://api-docs.deepseek.com/)|-|DeepSeek 官方 API 平台，兼容 OpenAI 与 Anthropic 格式|
+|[Moonshot (Kimi) API](https://platform.moonshot.ai/)|-|月之暗面 Kimi 开放平台，提供与 OpenAI 兼容的大模型 API|
+|[智谱 BigModel](https://open.bigmodel.cn/)|-|智谱 AI 开放平台，提供 GLM 系列大模型 API 及智能体、知识库等开发能力|
+
+### LLM 应用开发框架与平台
+
+|名称|链接|简介|
+|---|---|---|
+|[LangChain](https://github.com/langchain-ai/langchain)|![GitHub Repo stars](https://badgen.net/github/stars/langchain-ai/langchain)|构建智能体与 LLM 应用的框架，串联可互操作的组件与海量第三方集成|
+|[LlamaIndex](https://github.com/run-llama/llama_index)|![GitHub Repo stars](https://badgen.net/github/stars/run-llama/llama_index)|面向智能体应用的框架，通过数据连接器、索引与高级检索为 LLM 注入私有数据|
+|[Dify](https://github.com/langgenius/dify)|![GitHub Repo stars](https://badgen.net/github/stars/langgenius/dify)|开源的生产级 LLM 应用开发平台，集成可视化工作流、RAG 管线、智能体与模型管理|
+|[Flowise](https://github.com/FlowiseAI/Flowise)|![GitHub Repo stars](https://badgen.net/github/stars/FlowiseAI/Flowise)|开源可视化/低代码平台，拖拽式构建 AI 智能体与工作流|
+|[Vercel AI SDK](https://github.com/vercel/ai)|![GitHub Repo stars](https://badgen.net/github/stars/vercel/ai)|Next.js 团队出品的 TypeScript 工具包，用于在 React/Vue/Svelte 等框架中构建 AI 应用|
+|[Haystack](https://github.com/deepset-ai/haystack)|![GitHub Repo stars](https://badgen.net/github/stars/deepset-ai/haystack)|deepset 出品的开源 Python 框架，通过模块化管线构建生产级 LLM 应用、RAG 与智能体|
+|[Semantic Kernel](https://github.com/microsoft/semantic-kernel)|![GitHub Repo stars](https://badgen.net/github/stars/microsoft/semantic-kernel)|微软开源 SDK，在 Python/.NET/Java 中快速集成 LLM 能力，构建智能体系统|
 
 ### 一键部署资源
 
