@@ -121,6 +121,53 @@ https://github.com/mattnigh/ChatGPT3-Free-Prompt-List
 
 ![aigenprompt](imgs/aigenprompt.jpg)
 
+## 官方提示工程指南（2024–2026）
+
+各大厂官方的提示工程文档与指南，权威、持续更新，强烈推荐对照阅读。
+
+| 名称 | 链接 | 简介 |
+|------|------|------|
+| OpenAI Prompt engineering 指南 | [链接](https://platform.openai.com/docs/guides/prompt-engineering) | OpenAI 平台官方提示工程文档，覆盖清晰指令、Markdown/XML 结构化、系统与用户消息分工等 |
+| OpenAI GPT-4.1 Prompting Guide | [链接](https://cookbook.openai.com/examples/gpt4-1_prompting_guide) | 针对 GPT-4.1 的官方指南，强调"更字面地遵循指令"，覆盖 agent 工作流、工具调用与长上下文 |
+| OpenAI GPT-5 Prompting Guide | [链接](https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide) | GPT-5 官方提示指南，讲解 agentic 任务、指令遵循、新 API 特性与编码优化 |
+| OpenAI Reasoning best practices | [链接](https://platform.openai.com/docs/guides/reasoning-best-practices) | 推理模型（o 系列）提示最佳实践：何时用、如何选型、与 GPT 模型的提示差异 |
+| Anthropic Prompt engineering overview | [链接](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview) | Claude 提示工程总览，含最佳实践活文档、Console 提示工具与交互式教程 |
+| Anthropic Claude Prompt Library | [链接](https://docs.anthropic.com/claude/prompt-library) | 官方提示词库，覆盖编程、写作、数据分析等大量任务的优化提示 |
+| Google Prompt Engineering 白皮书 (Lee Boonstra) | [链接](https://www.kaggle.com/whitepaper-prompt-engineering) | Google/Kaggle 出品的 60+ 页白皮书，系统讲解多种技术与采样设置 |
+| Google Gemini Prompt design strategies | [链接](https://ai.google.dev/gemini-api/docs/prompting-strategies) | Gemini API 官方提示设计策略：少样本、系统指令、CoT、输出格式控制等 |
+| 微软 Azure OpenAI 提示工程技术 | [链接](https://learn.microsoft.com/en-us/azure/foundry/openai/concepts/prompt-engineering) | 微软官方提示工程技术文档，含 grounding、参数调节与提高准确性的策略 |
+| DeepSeek-R1 官方提示建议 | [链接](https://github.com/deepseek-ai/DeepSeek-R1) | R1 推荐：避免 system prompt 与少样本、不必显式要求"逐步推理"、temperature 0.5–0.7 |
+
+## 现代提示技术与经典论文
+
+在 CoT / ToT / AoT 之外，值得了解的提示与推理技术。进入推理模型（o1 / R1）时代后，提示方式也在变化——往往"更简洁"反而更好。
+
+| 名称 | 链接 | 简介 |
+|------|------|------|
+| Self-Consistency | [arxiv](https://arxiv.org/abs/2203.11171) | CoT 的解码改进：采样多条推理路径后对答案做多数投票，显著提升数学推理 |
+| ReAct | [arxiv](https://arxiv.org/abs/2210.03629) | 推理与行动交错：模型边推理边调用外部工具，缓解幻觉，是 agent 范式基石 |
+| Reflexion | [arxiv](https://arxiv.org/abs/2303.11366) | 语言智能体通过"语言反馈"自我反思并存入记忆，在后续尝试中改进，无需更新权重 |
+| Least-to-Most Prompting | [arxiv](https://arxiv.org/abs/2205.10625) | 将复杂问题拆为由易到难的子问题依次求解并复用前序答案，擅长难度外推 |
+| Self-Refine | [arxiv](https://arxiv.org/abs/2303.17651) | 同一模型生成初稿、自我反馈、再迭代修正，无需训练即可提升质量 |
+| Chain-of-Density (CoD) | [arxiv](https://arxiv.org/abs/2309.04269) | 摘要专用：先生成实体稀疏的摘要，再在不增长篇幅前提下迭代补入关键实体 |
+| Step-Back Prompting | [arxiv](https://arxiv.org/abs/2310.06117) | 先"退一步"抽象出高层概念/第一性原理，再引导具体推理，提升 STEM 与知识 QA |
+| 推理模型提示建议（Simon Willison）| [链接](https://simonwillison.net/2025/Feb/2/openai-reasoning-models-advice-on-prompting/) | 解读 OpenAI 对 o1 系列的建议：少样本/CoT 在推理模型上可能不再有效，应保持简洁 |
+
+## 现代提示词资源与工具
+
+| 名称 | 链接 | 简介 |
+|------|------|------|
+| Anthropic 交互式提示工程教程 | [GitHub](https://github.com/anthropics/prompt-eng-interactive-tutorial) | 官方 9 章交互式教程，含练习与进阶附录，系统讲解为 Claude 写提示 |
+| Anthropic Cookbook | [GitHub](https://github.com/anthropics/anthropic-cookbook) | 官方 Notebook 食谱集，覆盖工具调用、多模态、agents、评估等 |
+| OpenAI Cookbook | [GitHub](https://github.com/openai/openai-cookbook) | OpenAI 官方示例与指南仓库，含提示工程、检索、函数调用、agent 架构等 |
+| Prompt Engineering Guide（站点）| [链接](https://www.promptingguide.ai/) | dair-ai 维护的在线指南，支持多语言，覆盖从基础到前沿的提示技术 |
+| leaked-system-prompts | [GitHub](https://github.com/jujumilk3/leaked-system-prompts) | 主流 LLM 服务泄露的 system prompt 合集，强调来源可验证，被多篇论文引用 |
+| CL4R1T4S | [GitHub](https://github.com/elder-plinius/CL4R1T4S) | 大型 system prompt 泄露合集，覆盖 ChatGPT/Claude/Gemini/Grok/Cursor 等，更新频繁 |
+| DSPy | [GitHub](https://github.com/stanfordnlp/dspy) | 斯坦福"编程而非提示"框架，用可组合 Python 代码声明模块并自动优化 prompt 与权重 |
+| promptfoo | [GitHub](https://github.com/promptfoo/promptfoo) | 开源 LLM 评测与红队 CLI/库，支持跨模型对比与 CI/CD 集成 |
+| Langfuse | [GitHub](https://github.com/langfuse/langfuse) | 开源 LLM 工程平台：可观测性、评估、提示管理与版本控制、playground |
+| awesome-claude-prompts | [GitHub](https://github.com/langgptai/awesome-claude-prompts) | 社区精选 Claude 提示词合集，帮助更好地使用 Claude |
+
 ## 鲁棒高性能 Prompts 开发
 |名称|简介|备注|
 |---|---|---|

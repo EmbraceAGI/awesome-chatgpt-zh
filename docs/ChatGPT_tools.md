@@ -46,6 +46,25 @@
   - [更多工具](#更多工具)
 
 
+## 2024–2026 精选 AI 应用与工具
+
+> 当代仍在活跃运营、值得一用的 AI 应用与实用工具（通用绘画/视频/写作/编程 IDE 等见 [AI 生产力工具](AI_tools.md) 章节）。本章下方保留了部分 2023 年的历史条目，部分链接可能已失效。
+
+| 名称 | 链接 | 简介 |
+|------|------|------|
+| NotebookLM | [链接](https://notebooklm.google.com) | Google 的"基于来源"AI 研究笔记本，回答严格基于上传资料、不编造引用，可一键生成播客式音频概览 |
+| GPTs / GPT Store | [链接](https://chatgpt.com/gpts) | OpenAI 官方应用商店，无需写代码即可创建和分享定制版 ChatGPT，覆盖海量场景 |
+| Perplexity | [链接](https://www.perplexity.ai) | AI 搜索引擎，每条答案都带可点击出处，内置 Deep Research 与学术模式 |
+| ChatDOC | [链接](https://chatdoc.com) | 文档对话工具，支持 PDF/Word/EPUB/网页/扫描件，能定位原文出处、总结长文档 |
+| AskYourPDF | [链接](https://askyourpdf.com) | 老牌 PDF 对话应用，支持多格式上传后提问抽取要点 |
+| GPT Researcher | [链接](https://github.com/assafelovic/gpt-researcher) | 开源自主研究 Agent，自动联网检索、交叉验证并生成带引用的研究报告 |
+| STORM | [链接](https://storm.genie.stanford.edu) | 斯坦福开源知识整理系统，模拟多角色研究主题并生成维基式长文（附引用） |
+| SciSpace | [链接](https://scispace.com) | 学术研究助手，海量论文库支持文献发现、综述生成与结构化数据抽取 |
+| Elicit | [链接](https://elicit.com) | AI 研究助手，专注论文检索与文献综述，自动抽取关键发现并制表对比 |
+| Consensus | [链接](https://consensus.app) | 学术搜索引擎，用 AI 从同行评审论文中提炼"科学共识" |
+| Otter.ai | [链接](https://otter.ai) | AI 会议纪要工具，支持实时转录、自动摘要、行动项提取与会中问答 |
+| Napkin AI | [链接](https://www.napkin.ai) | 把文字一键转成可编辑的图表、流程图与可视化，适合做演示 |
+
 ### ChatGPT 学习英语
 
 直接使用 [speechgpt](https://speechgpt.app/) 或者使用下面 Chrome 插件
@@ -263,6 +282,28 @@ https://github.com/whoiskatrin/chart-gpt
 |[jupyter-ai](https://github.com/jupyterlab/jupyter-ai)|![GitHub Repo stars](https://badgen.net/github/stars/jupyterlab/jupyter-ai)|A generative AI extension for JupyterLab | JupyterLab 的人工智能生成扩展！|
 |[MetaGPT](https://github.com/geekan/MetaGPT)|![GitHub Repo stars](https://badgen.net/github/stars/jupyterlab/geekan/MetaGPT)|The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo. | MetaGPT输入一句话的老板需求，输出用户故事 / 竞品分析 / 需求 / 数据结构 / APIs / 文件等！|
 
+
+#### 现代 AI 编程工具（2024–2026）
+
+> 当代爆款的 AI 编码 Agent 与开发工具，上方"项目列表"中部分 2023 年项目已归档或过气。
+
+| 名称 | Stars | 简介 | 备注 |
+|------|-------|------|------|
+| [aider](https://github.com/Aider-AI/aider) | ![GitHub Repo stars](https://badgen.net/github/stars/Aider-AI/aider) | AI pair programming in your terminal. | 终端里的 AI 结对编程，直接在本地 Git 仓库读写代码并自动提交 |
+| [cline](https://github.com/cline/cline) | ![GitHub Repo stars](https://badgen.net/github/stars/cline/cline) | Autonomous coding agent in your IDE. | VS Code 内的自主编程 Agent，热度极高 |
+| [continue](https://github.com/continuedev/continue) | ![GitHub Repo stars](https://badgen.net/github/stars/continuedev/continue) | Open-source AI code assistant. | 开源 AI 编程助手，支持自定义模型，IDE 插件 + CLI |
+| [OpenHands](https://github.com/All-Hands-AI/OpenHands) | ![GitHub Repo stars](https://badgen.net/github/stars/All-Hands-AI/OpenHands) | AI-driven software development agents (原 OpenDevin). | 全自主开发 Agent 平台，可解决大量真实 GitHub issue |
+| [goose](https://github.com/block/goose) | ![GitHub Repo stars](https://badgen.net/github/stars/block/goose) | Open-source, extensible AI agent. | Block 出品，可安装、执行、编辑、测试，支持任意 LLM |
+| [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) | ![GitHub Repo stars](https://badgen.net/github/stars/Pythagora-io/gpt-pilot) | The first real AI developer. | 从零按步骤构建完整应用，开发者全程审阅 |
+| [kilocode](https://github.com/Kilo-Org/kilocode) | ![GitHub Repo stars](https://badgen.net/github/stars/Kilo-Org/kilocode) | All-in-one AI coding agent. | 融合 Cline 与 Roo Code 能力的一体化 Agent 编程平台 |
+| [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) | ![GitHub Repo stars](https://badgen.net/github/stars/zhayujie/chatgpt-on-wechat) | LLM chatbot framework. | 经典微信/公众号 AI 机器人，现升级为支持任务规划、工具调用与记忆的 Agent 框架 |
+| [PentestGPT](https://github.com/GreyDGL/PentestGPT) | ![GitHub Repo stars](https://badgen.net/github/stars/GreyDGL/PentestGPT) | A GPT-empowered penetration testing tool. | LLM 驱动的自动化渗透测试 Agent，辅助安全研究 |
+| [gpt-researcher](https://github.com/assafelovic/gpt-researcher) | ![GitHub Repo stars](https://badgen.net/github/stars/assafelovic/gpt-researcher) | Autonomous agent for online research. | 联网检索并产出带引用的研究报告，可对接多种 LLM |
+| [shell_gpt](https://github.com/TheR1D/shell_gpt) | ![GitHub Repo stars](https://badgen.net/github/stars/TheR1D/shell_gpt) | Command-line productivity tool powered by LLMs. | 用自然语言生成 Shell 命令、代码片段，加速终端操作 |
+| [CopilotForXcode](https://github.com/intitni/CopilotForXcode) | ![GitHub Repo stars](https://badgen.net/github/stars/intitni/CopilotForXcode) | The first Copilot extension for Xcode. | 面向 Xcode 的 Copilot/ChatGPT 源码编辑器扩展 |
+| [opencommit](https://github.com/di-sukharev/opencommit) | ![GitHub Repo stars](https://badgen.net/github/stars/di-sukharev/opencommit) | Auto-generate commit messages with AI. | 用 LLM 一秒生成规范的 Git commit message |
+| [sqlchat](https://github.com/sqlchat/sqlchat) | ![GitHub Repo stars](https://badgen.net/github/stars/sqlchat/sqlchat) | Chat-based SQL client. | 用自然语言查询和管理数据库 |
+| [jupyter-ai](https://github.com/jupyterlab/jupyter-ai) | ![GitHub Repo stars](https://badgen.net/github/stars/jupyterlab/jupyter-ai) | A generative AI extension for JupyterLab. | JupyterLab 官方 AI 扩展，把 AI Agent 接入计算笔记本 |
 
 #### [OpenGPT](https://open-gpt.app/)
 

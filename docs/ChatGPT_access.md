@@ -1,232 +1,71 @@
 ## 使用途径
 
 - [使用途径](#使用途径)
-  - [💻 OpenAI 官网](#-openai-官网)
-    - [Plus 开通教程](#plus-开通教程)
-    - [判断是否为 GPT-4](#判断是否为-gpt-4)
-  - [💻 poe](#-poe)
-  - [💻 微软必应](#-微软必应)
-  - [免费使用 ChatGPT](#免费使用-chatgpt)
-  - [💻 第三方 ChatGPT 客户端](#-第三方-chatgpt-客户端)
-  - [💻 国外竞品](#-国外竞品)
-  - [💻 国产 ChatGPT 类似产品](#-国产-chatgpt-类似产品)
-
-
-### 💻 [OpenAI 官网](https://ai.com)
-
-(推荐) 注册后免费使用，无次数限制，官方出品，性能最强，技术最佳。缺点是国内注册困难：
-* 需要科学上网，使用的代理 IP 质量不好的话无法成功
-* 需要国外手机号验证，google voice 等虚拟号码无法通过验证，可使用淘宝解决
-* 国内注册教程及各种问题解决: https://ssw9noe1h6.feishu.cn/wiki/wikcnEeq5F16jdZo7KjmUa1Lh3g
-
-#### Plus 开通教程
-
-有以下几种方法：
-* [bewildcard 一站式服务](https://bewildcard.com/i/AIGPT) 这个网站可以开张虚拟信用卡，送3次英国手机号验证码，可以用来注册账号，送3次远程操作，可以绑openai的api和升级plus，一次性解决openai所有问题，使用邀请码 `AIGPT` 有优惠
-* [ChatGPT Plus 最新开通攻略：美区App Store方案（20230529更新）](https://juejin.cn/post/7238423148555812925)，或者参考这个 [ChatGPT APP Plus升级全记录：购买礼品卡、兑换和处理失败](https://zhuanlan.zhihu.com/p/631923304)
-* [nobepay 开卡：](https://zhuanlan.zhihu.com/p/619289623), 【[nobepay 官网](https://www.nobepay.com/)】，【[防止失效备份教程](imgs/nobepay_chatgpt.png)】 技术路线是: RMB -> nobepay 虚拟卡 -> 充值，优点是操作简单，缺点是需要绑定微信手机号等个人信息
-* 找有美国卡的朋友代充 
-
-![ChatGPT](imgs/openai_chatgpt.jpg)
-
-#### 判断是否为 GPT-4
-* 西红柿炒钢丝球怎么做。目前只看到 GPT-4 回复说钢丝球不能吃。
-* [只有 GPT4 能够回答，非 GPT4 无法回答"的问题收集](https://www.v2ex.com/t/947700)
-
-### 💻 [poe](https://poe.com/chatgpt)
-
-(推荐) 注册后免费使用，可免费试用当前最先进的 GPT-4，提供多种模型选择。能科学上网即可注册，有 iPhone 客户端可以使用。
-
-![poe](imgs/poe.jpg)
-
-### 💻 [微软必应](https://www.bing.com/)
-
-(推荐) 注册后免费使用，有次数限制(经常调整)，需要使用微软的 Edge 浏览器访问 www.bing.com, 国内会重定向到 cn.bing.com 导致无法使用。国内使用有两种方法：
-* 科学上网访问 www.bing.com
-* 重定向访问 www.bing.com
-* [国内使用教程](https://juejin.cn/post/7199557716998078522)
-* [如果不想使用 Edge 想使用 Chrome 教程](https://cloud.tencent.com/developer/article/2235566)
-* [第三方开发者开发的 bing 客户端：BingGPT](https://github.com/dice2o/BingGPT)
-  
-![new_bing](imgs/new_bing.jpg)
-
-### 免费使用 ChatGPT 
-* [免费的 ChatGPT 镜像网站列表](https://github.com/LiLittleCat/awesome-free-chatgpt)
-* [国内可使用ChatGPT镜像站点: carrot](https://github.com/xx025/carrot)
-* [可以直接在国内访问的ChatGPT网站](examples/free_chatgpt_website.md)
-
-### 💻 第三方 ChatGPT 客户端
-
-第三方客户端很多，基本都是通过调用 OpenAI 的 API 实现，这些客户端往往需要你自备 OpenAI 的 Api Key 使用。
-
-|名称|Stars|简介|备注|
-|---|---|---|---|
-|[lencx/ChatGPT](https://github.com/lencx/ChatGPT)|![GitHub Repo stars](https://badgen.net/github/stars/lencx/ChatGPT)|基于 tauri 的跨平台 ChatGPT 客户端, 支持: Windows, Linux, MacOS, 应用内嵌入 ChatGPT 网页.| 需要翻墙。|
-|[chatbox](https://github.com/Bin-Huang/chatbox)|![GitHub Repo stars](https://badgen.net/github/stars/Bin-Huang/chatbox)|开源的ChatGPT桌面应用，prompt 开发神器|全平台支持，下载安装包就能用|
-|[Chuanhu ChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)|![GitHub Repo stars](https://badgen.net/github/stars/GaiZhenbiao/ChuanhuChatGPT)|为ChatGPT API提供了一个轻快好用的 Web 图形界面|支持直接在Hugging Face上部署，很方便。|
-|[ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop)|![GitHub Repo stars](https://badgen.net/github/stars/Synaptrix/ChatGPT-Desktop)|ChatGPT-Desktop应用|-|
-|[ChatGPT-Desktop](https://github.com/ChatGPT-Desktop/ChatGPT-Desktop)|![GitHub Repo stars](https://badgen.net/github/stars/ChatGPT-Desktop/ChatGPT-Desktop)|基于 tauri + vue3 开发的跨平台桌面端应用|需要自行准备 API KEY 使用。|
-
-### 💻 国外竞品
-<ul>
-<li>
-<details>
-  <summary> 💻 Bard </summary>
-
-> https://bard.google.com/
-谷歌出品，使用需申请，与 OpenAI ChatGPT 相比不支持代码功能，需翻墙注册使用
-
-![Bard](imgs/bard.jpg)
-
-</details>
-</li>
-
-<li>
-<details>
-  <summary>💻 Claude </summary>
-
-> https://www.anthropic.com/product
-
-脱胎于 OpenAI 的初创公司 Anthropic 产品 Claude 模型，需申请使用
-
-更新：Claude 模型现已经可以通过 slack 免费使用，地址: https://www.anthropic.com/claude-in-slack
-
-![claude](imgs/claude.jpg)
-
-</details>
-</li>
-
-<details>
-  <summary>💻 Pi </summary>
-
-Inflection AI 公司推出的聊天机器人Pi，富有情感的个人定制ChatBot。Inflection AI 是由LinkedIn联合创始人Reid Hoffman和谷歌DeepMind联合创始人Mustafa Suleyman创立的人工智能初创公司。
-
-> https://pi.ai/talk
-
-
-![pi_chat](imgs/pi_chat.jpg)
-
-</details>
-</li>
-
-<li>
-<details>
-  <summary>💻 YouChat </summary>
-  
-> https://you.com/
-
-注册登陆后即可免费使用，并且由于 you.com 本身是搜索引擎，侧边栏会出现实时搜索结果
-
-![youchat](imgs/you_chat.jpg)
-
-</details>
-</li>
-
-<li>
-<details>
-  <summary>💻 Phind </summary>
-  
-> https://phind.com/
-
-无需注册直接使用，并且由于 phind.com 本身是搜索引擎，侧边栏会出现实时搜索结果
-
-![phind](imgs/phind.png)
-
-</details>
-</li>
-
-<li>
-<details>
-  <summary>💻 ChatSonic </summary>
-  
-> https://writesonic.com/chat
-
-注册后提供一定免费额度，超出免费额度需付费
-
-![chatSonic](imgs/writesonic.jpg)
-
-</details>
-</li>
-</ul>
-
-### 💻 国产 ChatGPT 类似产品
-<ul>
-<ul>
-<li>
-<details>
-  <summary>💻 智谱清言</summary>
-> https://chatglm.cn
-
-智谱清言，长文输出和对话能力体验较好
-
-![wenxin](imgs/zhipu.png)
-
-</details>
-</li>
-<li>
-<details>
-  <summary>💻 文心一言</summary>
-
-> https://yiyan.baidu.com/welcome
-
-百度出品，已开放使用
-
-![wenxin](imgs/wenxin.jpg)
-
-</details>
-</li>
-
-<li>
-<details>
-  <summary>💻 讯飞星火</summary>
-
-> https://xinghuo.xfyun.cn/
-
-讯飞出品，中文体验不错，已开放使用
-
-![xunfeixi](imgs/chat_xunfeixinhuo.jpg)
-
-</details>
-</li>
-
-
-<li>
-<details>
-  <summary>💻 通义千问</summary>
-
-阿里达摩院出品，目前未大规模开放，可申请使用
-
-![tongyi](imgs/ali_llm.jpg)
-
-</details>
-</li>
-
-<li>
-<details>
-  <summary> 💻 ChatYuan: 元语功能型对话大模型</summary>
-  
-> https://huggingface.co/spaces/tianpanyu/ChatYuan-Demo
-
-2023 年 2 月曾短暂发布，后因未知原因关闭，现在已经更新升级到 v2 版本，可使用抱抱脸体验 demo, 性能与 OpenAI 的 ChatGPT 有一定差距。代码和模型已开源 [[GitHub 代码](https://github.com/clue-ai/ChatYuan)].
-
-![chatYuan](imgs/chatYuan.jpg)
-
-</details>
-</li>
-
-<li>
-<details>
-  <summary>💻 MOSS </summary>
-  
-> https://github.com/OpenLMLab/MOSS
-
-MOSS是一个支持中英双语和多种插件的开源对话语言模型，moss-moon系列模型具有160亿参数，在FP16精度下可在单张A100/A800或两张3090显卡运行，在INT4/8精度下可在单张3090显卡运行。MOSS基座语言模型在约七千亿中英文以及代码单词上预训练得到，后续经过对话指令微调、插件增强学习和人类偏好训练具备多轮对话能力及使用多种插件的能力。
-
-开源了模型、训练数据和训练权重，有兴趣的朋友可以本地试用。
-
-![MOSS](imgs/MOSS.jpg)
-
-</details>
-</li>
-
-</ul>
+  - [官方途径](#官方途径)
+  - [第三方客户端](#第三方客户端)
+  - [国外主流 AI 助手](#国外主流-ai-助手)
+  - [国产 AI 助手](#国产-ai-助手)
+  - [免费 / 镜像使用](#免费--镜像使用)
+
+> 2024–2026 更新：相比 2023 年，使用 ChatGPT 的门槛已大幅降低，免费档即可使用强大模型，无需再折腾虚拟信用卡、代充等手段。
+
+### 官方途径
+
+ChatGPT 由 OpenAI 开发，是目前全球用户量最大的 AI 对话产品。直接访问网页版 **[chatgpt.com](https://chatgpt.com)** 即可使用，OpenAI 还提供官方 iOS、Android、macOS、Windows 客户端。注册仍需海外网络环境和一个手机号验证，但已无需早期那些复杂手段。
+
+- **免费档（Free）**：开箱即用，可使用当前主力模型（GPT-5 系列），支持联网搜索、图像理解、语音等，日常问答、写作基本够用，达到上限后自动降级到更轻量版本。
+- **Plus 档（约 $20/月）**：可使用最新旗舰模型（含 Thinking 推理模式与 Auto 自动选择），更高消息额度、更快响应、更强的语音/图像/文件分析能力，适合大多数重度个人用户。
+- **Pro 档（约 $200/月）**：面向研究者、开发者与专业用户，提供近乎无限的模型额度、最长上下文与最强推理能力。
+- **Business / Enterprise**：面向团队与企业，按席位或定制计费。
+
+> OpenAI 模型与价格迭代极快，各档可用模型与价格以 [官方定价页](https://chatgpt.com/pricing) 为准。
+
+### 第三方客户端
+
+通过第三方客户端搭配自己的 API Key（或兼容接口），可获得更灵活、统一的多模型体验，很多支持本地部署与跨平台。
+
+| 名称 | 链接 | 简介 |
+|------|------|------|
+| Chatbox | [GitHub](https://github.com/chatboxai/chatbox) | 开箱即用的桌面/移动/网页 AI 客户端，支持多家模型与本地部署，适合新手 |
+| NextChat | [GitHub](https://github.com/ChatGPTNextWeb/NextChat) | 轻量、快速、跨平台（Web/桌面/移动），体积极小，可一键部署 |
+| LobeChat | [GitHub](https://github.com/lobehub/lobe-chat) | 现代化设计的开源 UI 框架，支持插件、多模态、知识库与 PWA |
+| Open WebUI | [GitHub](https://github.com/open-webui/open-webui) | 功能丰富的自托管 Web 界面，原生支持 Ollama 及各类兼容 API，社区活跃 |
+| Cherry Studio | [GitHub](https://github.com/CherryHQ/cherry-studio) | 全能型 AI 生产力桌面客户端，统一接入 ChatGPT/Claude/Gemini/Ollama 等 |
+| LibreChat | [GitHub](https://github.com/danny-avila/LibreChat) | 面向组织与教育场景的开源对话 UI，支持几乎所有主流模型供应商 |
+
+### 国外主流 AI 助手
+
+| 名称 | 链接 | 简介 |
+|------|------|------|
+| Claude | [claude.ai](https://claude.ai) | Anthropic 出品，以强推理、长文写作与代码能力著称，深受开发者与专业写作者青睐 |
+| Gemini | [gemini.google.com](https://gemini.google.com) | Google 出品，与 Workspace 生态深度集成，擅长长文档处理与多模态 |
+| Grok | [grok.com](https://grok.com) | xAI 出品，深度集成 X（推特），实时信息获取能力强 |
+| Perplexity | [perplexity.ai](https://www.perplexity.ai) | 主打"AI 搜索"，回答带引用来源，适合调研与事实查证 |
+| Microsoft Copilot | [copilot.microsoft.com](https://copilot.microsoft.com) | 微软出品，与 Microsoft 365 / Windows 深度融合，办公场景体验佳 |
+| Le Chat (Mistral) | [chat.mistral.ai](https://chat.mistral.ai) | 法国 Mistral 出品，响应快，背后模型多为开放权重，可自托管 |
+| Pi | [pi.ai](https://pi.ai) | Inflection AI 出品，主打高情商陪伴式对话，语气自然亲和 |
+| DeepSeek | [chat.deepseek.com](https://chat.deepseek.com) | 深度求索出品，性能强、性价比高的开源模型，国内外广受关注 |
+
+### 国产 AI 助手
+
+| 名称 | 链接 | 简介 |
+|------|------|------|
+| 豆包 | [doubao.com](https://www.doubao.com) | 字节跳动出品，日活领先，响应快、体验好，覆盖问答/写作/图像/视频 |
+| Kimi | [kimi.com](https://www.kimi.com) | 月之暗面出品，以超长上下文与强综合能力见长，擅长长文档处理 |
+| 通义千问 | [tongyi.com](https://www.tongyi.com) | 阿里巴巴出品，能力全面，与阿里生态及企业服务结合紧密 |
+| 文心一言 | [yiyan.baidu.com](https://yiyan.baidu.com) | 百度出品，国内最早的大模型产品之一，搜索与知识问答能力强 |
+| 腾讯元宝 | [yuanbao.tencent.com](https://yuanbao.tencent.com) | 腾讯出品，接入混元与 DeepSeek 模型，与微信生态结合 |
+| 智谱清言 | [chatglm.cn](https://chatglm.cn) | 智谱 AI（GLM 系列）出品，源自清华团队，工具与智能体能力突出 |
+| 讯飞星火 | [xinghuo.xfyun.cn](https://xinghuo.xfyun.cn) | 科大讯飞出品，语音识别与合成能力强，办公教育场景丰富 |
+| 海螺 (MiniMax) | [hailuoai.com](https://hailuoai.com) | MiniMax 出品，对话之外在语音、音乐、视频生成方面表现亮眼 |
+| 天工 (昆仑万维) | [tiangong.cn](https://www.tiangong.cn) | 昆仑万维出品，集成搜索、写作、AI 音乐等多模态能力 |
+
+### 免费 / 镜像使用
+
+若暂时没有官方账号或海外网络条件，可借助社区维护的聚合资源访问各类免费镜像站。
+
+> ⚠️ 镜像站稳定性与安全性参差不齐，请勿在其中输入敏感信息。
+
+- [awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) — 持续更新的免费 ChatGPT 镜像站 / 资源聚合列表，收录大量可直接访问的站点
+- [国内可使用 ChatGPT 镜像站点: carrot](https://github.com/xx025/carrot) — 免费 ChatGPT 镜像站汇总
+- [可以直接在国内访问的 ChatGPT 网站](examples/free_chatgpt_website.md)
