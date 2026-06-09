@@ -16,6 +16,8 @@
 | aider | [GitHub](https://github.com/Aider-AI/aider) | 社区开源的终端 AI 结对编程工具，自动构建仓库地图与 Git 提交，支持多家模型 |
 | **pi** | [GitHub](https://github.com/earendil-works/pi) ・[官网](https://pi.dev/) | libGDX 作者 Mario Zechner 发起、现归属 Earendil 的极简可扩展开源编码 Agent（agent harness，MIT，约 6 万 star）。奉行 **"primitives, not features"**：内核只暴露 Read/Write/Edit/Bash 四个工具（刻意不内置 MCP/子 Agent/沙箱），靠 TypeScript 扩展、Skills（兼容 Claude Code/Codex）、模板自由定制，接入 28+ 模型供应商；下文"龙虾" OpenClaw 即构建于其上 |
 | oh-my-pi | [GitHub](https://github.com/can1357/oh-my-pi) | pi 生态最热门的"全家桶"增强分支（MIT，约 1.1 万 star），在 pi 之上补齐 LSP、调试器、浏览器、子 Agent、跨会话记忆与 Zed 集成 |
+| pi-feishu-lark | [GitHub](https://github.com/AX1202/pi-feishu-lark) | 把 pi 接入飞书 / Lark 的连接器扩展，扫码建 bot，私聊 / 群聊 / 话题各开独立 pi 会话，支持文件附件与模型切换 |
+| cc-connect | [GitHub](https://github.com/chenhg5/cc-connect) | 通用桥接器（约 1.2 万 star），把 Claude Code / Codex / pi 等编码 Agent 接入微信、企业微信、飞书、QQ、钉钉等国内 IM |
 | OpenCode | [GitHub](https://github.com/sst/opencode) | SST 团队出品的开源终端编码 Agent（Go），客户端-服务端架构，支持 75+ 模型 |
 | Crush | [GitHub](https://github.com/charmbracelet/crush) | Charm 出品的"颜值派"终端编码 Agent，基于 TUI，支持多模型、LSP 与 MCP |
 | Goose | [GitHub](https://github.com/block/goose) | Block 出品的开源可扩展 AI Agent（Rust），可自主执行/编辑/测试代码，兼容任意 LLM |
