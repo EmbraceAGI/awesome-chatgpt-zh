@@ -14,7 +14,8 @@
 | **OpenAI Codex CLI** | [GitHub](https://github.com/openai/codex) | OpenAI 出品的轻量级本地终端编码 Agent，支持 ChatGPT 订阅或 API Key，在命令行进行 AI 辅助开发 |
 | Gemini CLI | [GitHub](https://github.com/google-gemini/gemini-cli) | Google 出品的开源终端 AI Agent，把 Gemini 带入命令行，内置文件操作、Shell、联网搜索并支持 MCP |
 | aider | [GitHub](https://github.com/Aider-AI/aider) | 社区开源的终端 AI 结对编程工具，自动构建仓库地图与 Git 提交，支持多家模型 |
-| pi | [GitHub](https://github.com/earendil-works/pi) ・[官网](https://pi.dev/) | Mario Zechner（Earendil）出品的极简可扩展开源编码 Agent（agent harness），内核仅 Read/Write/Edit/Bash 四工具，靠 TypeScript 扩展/Skills/模板自由定制，统一接入 20+ 模型供应商，生态活跃 |
+| **pi** | [GitHub](https://github.com/earendil-works/pi) ・[官网](https://pi.dev/) | libGDX 作者 Mario Zechner 发起、现归属 Earendil 的极简可扩展开源编码 Agent（agent harness，MIT，约 6 万 star）。奉行 **"primitives, not features"**：内核只暴露 Read/Write/Edit/Bash 四个工具（刻意不内置 MCP/子 Agent/沙箱），靠 TypeScript 扩展、Skills（兼容 Claude Code/Codex）、模板自由定制，接入 28+ 模型供应商；下文"龙虾" OpenClaw 即构建于其上 |
+| oh-my-pi | [GitHub](https://github.com/can1357/oh-my-pi) | pi 生态最热门的"全家桶"增强分支（MIT，约 1.1 万 star），在 pi 之上补齐 LSP、调试器、浏览器、子 Agent、跨会话记忆与 Zed 集成 |
 | OpenCode | [GitHub](https://github.com/sst/opencode) | SST 团队出品的开源终端编码 Agent（Go），客户端-服务端架构，支持 75+ 模型 |
 | Crush | [GitHub](https://github.com/charmbracelet/crush) | Charm 出品的"颜值派"终端编码 Agent，基于 TUI，支持多模型、LSP 与 MCP |
 | Goose | [GitHub](https://github.com/block/goose) | Block 出品的开源可扩展 AI Agent（Rust），可自主执行/编辑/测试代码，兼容任意 LLM |
@@ -84,5 +85,6 @@
 | Building Effective Agents | [链接](https://www.anthropic.com/research/building-effective-agents) | Anthropic 经典文章，讲解 workflow 与 agent 的区别及可组合的实用 Agent 设计模式 |
 | Writing Tools for Agents | [链接](https://www.anthropic.com/engineering/writing-tools-for-agents) | 讲如何为 AI Agent 设计清晰、节省上下文、可组合的工具 |
 | awesome-claude-code | [GitHub](https://github.com/hesreallyhim/awesome-claude-code) | 高人气 Claude Code 资源合集，收录 skills、hooks、slash 命令、编排器与插件 |
+| pi-vs-claude-code | [GitHub](https://github.com/disler/pi-vs-claude-code) | 系统对比开源 pi 与闭源 Claude Code 工程实践的教学仓库，适合理解"agent harness"差异 |
 | awesome-code-ai | [GitHub](https://github.com/sourcegraph/awesome-code-ai) | Sourcegraph 维护的 AI 编码工具列表（助手、补全、重构等） |
 | anthropic-cookbook（agents patterns） | [GitHub](https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents) | Anthropic 官方 cookbook 中的 Agent 设计模式示例代码 |
