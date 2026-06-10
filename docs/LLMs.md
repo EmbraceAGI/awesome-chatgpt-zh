@@ -51,6 +51,7 @@
 | Open LLM Leaderboard | [HuggingFace](https://huggingface.co/open-llm-leaderboard) | 基于标准化基准的开源模型自动评测榜单，适合硬指标对比。 |
 | SuperCLUE | [superclueai.com](https://www.superclueai.com/) | 中文通用大模型综合性测评基准，中文场景的主流权威榜单。 |
 | Artificial Analysis | [artificialanalysis.ai](https://artificialanalysis.ai/) | 第三方独立评测，汇总智能指数、速度、价格等维度，便于按性价比选型。 |
+| Models.dev | [models.dev](https://models.dev/) / [GitHub](https://github.com/sst/models.dev) | SST 团队开源的 AI 模型数据库，收录各家模型的上下文窗口、输出上限、价格、能力（推理/工具调用/结构化输出）与开闭源信息；提供免费 JSON API（`models.dev/api.json`），是 opencode 等开源项目的模型数据源，数据以 TOML 文件社区共建。 |
 
 ### 早期经典开源 LLM（历史存档）
 
