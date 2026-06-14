@@ -38,3 +38,4 @@
 | [AgentGPT](https://github.com/reworkd/AgentGPT) | ![GitHub Repo stars](https://badgen.net/github/stars/reworkd/AgentGPT) | 可在浏览器中配置并部署自主 AI Agent，命名目标即自动思考、执行、学习 |
 | [HuggingGPT (JARVIS)](https://github.com/microsoft/JARVIS) | ![GitHub Repo stars](https://badgen.net/github/stars/microsoft/JARVIS) | 微软提出，以 LLM 为控制器、HuggingFace 上众多专家模型为执行器的协作系统 |
 | [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) | ![GitHub Repo stars](https://badgen.net/github/stars/Vision-CAIR/MiniGPT-4) | 将视觉编码器与 Vicuna/Llama 等大语言模型对齐，复现 GPT-4 式的图文理解能力 |
+| [XAgent](https://github.com/OpenBMB/XAgent) | ![GitHub Repo stars](https://badgen.net/github/stars/OpenBMB/XAgent) | 面壁智能 OpenBMB 出品的自主 LLM 智能体，面向复杂任务求解，采用调度器/规划器双循环架构与人机协作机制 |

@@ -8,6 +8,7 @@
 | [ollama](https://github.com/ollama/ollama) | ![GitHub Repo stars](https://badgen.net/github/stars/ollama/ollama) | Get up and running with large language models locally. | 本地跑大模型最简单的方式，一行命令启动 |
 | [open-webui](https://github.com/open-webui/open-webui) | ![GitHub Repo stars](https://badgen.net/github/stars/open-webui/open-webui) | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) | 自托管聊天 UI 王者，配合 Ollama 即得私有 ChatGPT |
 | [n8n](https://github.com/n8n-io/n8n) | ![GitHub Repo stars](https://badgen.net/github/stars/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. | 可视化工作流自动化平台，AI Agent 编排热门之选 |
+| [botpress](https://github.com/botpress/botpress) | ![GitHub Repo stars](https://badgen.net/github/stars/botpress/botpress) | The open-source hub to build & deploy GPT/LLM Agents. | 构建与部署 GPT/LLM 智能体的开源平台 |
 | [dify](https://github.com/langgenius/dify) | ![GitHub Repo stars](https://badgen.net/github/stars/langgenius/dify) | Production-ready platform for agentic workflow development. | 国产 LLMOps 平台，可视化搭建 RAG 与 Agent 应用 |
 | [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | ![GitHub Repo stars](https://badgen.net/github/stars/AUTOMATIC1111/stable-diffusion-webui) | A web interface for Stable Diffusion. | AI 绘画最经典的网页界面 |
 | [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | ![GitHub Repo stars](https://badgen.net/github/stars/comfyanonymous/ComfyUI) | The most powerful and modular AI engine for content creation. | 节点式 AI 生图/视频引擎，专业玩家首选 |

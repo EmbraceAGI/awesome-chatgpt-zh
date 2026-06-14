@@ -67,6 +67,7 @@
 | Factory（Droid） | [链接](https://factory.ai/) | 企业级"Agent-Native"开发平台，在终端/IDE 中端到端规划、编码、测试与交付 |
 | Plandex | [GitHub](https://github.com/plandex-ai/plandex) | 面向大型项目的开源终端 AI 编码 Agent，支持超大上下文与累积 diff 沙箱审查 |
 | Devika | [GitHub](https://github.com/stitionai/devika) | 早期开源的"Agentic 软件工程师"实现，曾作为 Devin 的开源替代 |
+| open-code-review | [GitHub](https://github.com/alibaba/open-code-review) | 阿里开源、经大规模实战检验的代码评审工具，采用"确定性流水线 + LLM Agent"混合架构，给出精确到行的评审意见，内置 NPE、线程安全、XSS、SQL 注入等规则集，兼容 OpenAI 与 Anthropic |
 
 ## 编码 Agent 评测基准
 

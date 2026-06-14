@@ -55,6 +55,7 @@
 |[Coze Studio](https://github.com/coze-dev/coze-studio)|![GitHub Repo stars](https://badgen.net/github/stars/coze-dev/coze-studio)|An AI agent development platform with all-in-one visual tools.|字节扣子开源版，一站式可视化智能体开发平台|
 |[Flowise](https://github.com/FlowiseAI/Flowise)|![GitHub Repo stars](https://badgen.net/github/stars/FlowiseAI/Flowise)|Build AI Agents, Visually.|拖拽式可视化构建 LLM 应用与智能体|
 |[Langflow](https://github.com/langflow-ai/langflow)|![GitHub Repo stars](https://badgen.net/github/stars/langflow-ai/langflow)|A powerful tool for building and deploying AI-powered agents and workflows.|可视化低代码工具，构建与部署 AI 智能体和工作流|
+|[AutoAgent](https://github.com/HKUDS/AutoAgent)|![GitHub Repo stars](https://badgen.net/github/stars/HKUDS/AutoAgent)|Fully-Automated and Zero-Code LLM Agent Framework.|港大数据智能实验室出品，全自动、零代码的 LLM 智能体框架，用自然语言即可创建并运行智能体|
 
 ### LangChain 开发资源
 
@@ -193,3 +194,4 @@
 |[aigc](https://github.com/phodal/aigc)|![GitHub Repo stars](https://badgen.net/github/stars/phodal/aigc)|-|《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。|
 |[FLAML](https://github.com/microsoft/FLAML)|![GitHub Repo stars](https://badgen.net/github/stars/microsoft/FLAML)|A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP.|FLAML一个用于机器学习和人工智能操作的高效自动化的轻量级 python 库。它基于大型语言模型、机器学习模型等实现工作流自动化，并优化其性能。|
 |[LLMStack](https://github.com/trypromptly/LLMStack)|![GitHub Repo stars](https://badgen.net/github/stars/trypromptly/LLMStack)|No-code platform to build LLM Agents, workflows and applications with your data.|无代码平台，利用您的数据构建 LLM 代理、工作流程和应用程序。|
+|[giskard](https://github.com/Giskard-AI/giskard-oss)|![GitHub Repo stars](https://badgen.net/github/stars/Giskard-AI/giskard-oss)|Open-Source Evaluation & Testing library for LLM Agents.|面向 LLM 与智能体的开源评测与测试库，自动检测幻觉、有害内容、提示注入、偏见等问题|
