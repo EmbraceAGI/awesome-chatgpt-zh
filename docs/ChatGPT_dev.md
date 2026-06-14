@@ -56,6 +56,7 @@
 |[Flowise](https://github.com/FlowiseAI/Flowise)|![GitHub Repo stars](https://badgen.net/github/stars/FlowiseAI/Flowise)|Build AI Agents, Visually.|拖拽式可视化构建 LLM 应用与智能体|
 |[Langflow](https://github.com/langflow-ai/langflow)|![GitHub Repo stars](https://badgen.net/github/stars/langflow-ai/langflow)|A powerful tool for building and deploying AI-powered agents and workflows.|可视化低代码工具，构建与部署 AI 智能体和工作流|
 |[AutoAgent](https://github.com/HKUDS/AutoAgent)|![GitHub Repo stars](https://badgen.net/github/stars/HKUDS/AutoAgent)|Fully-Automated and Zero-Code LLM Agent Framework.|港大数据智能实验室出品，全自动、零代码的 LLM 智能体框架，用自然语言即可创建并运行智能体|
+|[Mem0](https://github.com/mem0ai/mem0)|![GitHub Repo stars](https://badgen.net/github/stars/mem0ai/mem0)|Universal memory layer for AI Agents.|为 AI 智能体提供通用记忆层，让其跨会话记住用户偏好与历史，实现个性化交互|
 
 ### LangChain 开发资源
 
