@@ -30,6 +30,7 @@
 - [Ideogram](https://ideogram.ai) — 擅长在图像中精准生成文字与排版的 AI 绘画工具。
 - [Adobe Firefly](https://www.adobe.com/products/firefly.html) — Adobe 的创意生成式 AI，版权安全、深度集成创意套件。
 - [即梦 Dreamina](https://jimeng.jianying.com) — 字节跳动剪映团队的国产 AI 图像与视频创作平台。
+- [Seedream AI Studio](https://seedream4.video) — 基于字节跳动 Seedream 5.0/4.5/4.0 模型的多模型 AI 图像生成平台，支持一键调用可灵 2.1 进行图生视频动画，有免费额度。
 - [文心一格](https://yige.baidu.com) — 百度的 AI 艺术创作平台，支持多种风格、对新手友好。
 
 ### AI 视频生成
