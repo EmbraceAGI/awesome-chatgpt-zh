@@ -237,6 +237,7 @@ DeepSeek 以 MLA、DeepSeekMoE、GRPO、纯 RL 推理等创新和开源基础设
 |[nanochat](https://github.com/karpathy/nanochat)|"100 美元能买到的最好 ChatGPT"，单 GPU 节点跑通从分词、预训练到聊天 UI 的全流程。|
 |[llama2.c](https://github.com/karpathy/llama2.c)|用一个纯 C 文件推理 Llama 2 架构，主打极简、无依赖、可在边缘设备运行。|
 |[nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)|《神经网络：从零到精通》课程仓库，从反向传播一路讲到 GPT，附视频与练习。|
+|[LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)|配套《Build a Large Language Model (From Scratch)》一书，用 PyTorch 从零逐步实现类 ChatGPT 大模型，覆盖分词、注意力、预训练到微调全流程。|
 
 ### 讲座与视频
 
