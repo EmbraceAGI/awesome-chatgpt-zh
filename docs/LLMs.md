@@ -141,6 +141,7 @@
 |[LLaMA-Adapter🚀](https://github.com/ZrrSkywalker/LLaMA-Adapter) | ![GitHub Repo stars](https://badgen.net/github/stars/ZrrSkywalker/LLaMA-Adapter) | - |高效微调一个聊天机器人|
 | [⚡ Lit-LLaMA](https://github.com/Lightning-AI/lit-llama) | ![GitHub Repo stars](https://badgen.net/github/stars/Lightning-AI/lit-llama) | - |Lightning-AI 基于nanoGPT的LLaMA语言模型的实现。支持量化，LoRA微调，预训练。|
 | [Intel® Extension for Transformers](https://github.com/intel/intel-extension-for-transformers) | ![GitHub Repo stars](https://badgen.net/github/stars/intel/intel-extension-for-transformers) |⚡ Build your chatbot within minutes on your favorite device; offer SOTA compression techniques for LLMs; run LLMs efficiently on Intel Platforms⚡ |在Intel平台上高效运行llm。|
+| [unsloth](https://github.com/unslothai/unsloth) | ![GitHub Repo stars](https://badgen.net/github/stars/unslothai/unsloth) | Finetune and run open models like Gemma, Qwen, DeepSeek, gpt-oss locally, 2x faster with 70% less memory. | 高效训练、微调与本地运行开源模型（Gemma/Qwen/DeepSeek/gpt-oss 等），速度提升约 2 倍、显存占用降低约 70%。|
 
 
 
