@@ -31,6 +31,7 @@
 - [Adobe Firefly](https://www.adobe.com/products/firefly.html) — Adobe 的创意生成式 AI，版权安全、深度集成创意套件。
 - [即梦 Dreamina](https://jimeng.jianying.com) — 字节跳动剪映团队的国产 AI 图像与视频创作平台。
 - [文心一格](https://yige.baidu.com) — 百度的 AI 艺术创作平台，支持多种风格、对新手友好。
+- [remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) — 开源 CLI / Python 库，用于去除图片中的可见与隐形 AI 水印（如 Gemini/Nano Banana sparkle、SynthID）及来源元数据（C2PA、EXIF、IPTC）。
 
 ### AI 视频生成
 

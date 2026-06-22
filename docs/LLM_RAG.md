@@ -12,6 +12,8 @@
 |[langchain](https://github.com/hwchase17/langchain)|![GitHub Repo stars](https://badgen.net/github/stars/hwchase17/langchain)|Building applications with LLMs through composability|开发自己的 ChatGPT 应用|
 |[graphrag](https://github.com/microsoft/graphrag)|![GitHub Repo stars](https://badgen.net/github/stars/microsoft/graphrag)|A modular graph-based Retrieval-Augmented Generation (RAG) system |基于知识图谱的检索增强生成（RAG）系统|
 |[kotaemon](https://github.com/Cinnamon/kotaemon)|![GitHub Repo stars](https://badgen.net/github/stars/Cinnamon/kotaemon)|An open-source RAG-based tool for chatting with your documents.|基于开源 RAG 的工具，用于与您的文档聊天。|
+|[OpenKB](https://github.com/VectifyAI/OpenKB)|![GitHub Repo stars](https://badgen.net/github/stars/VectifyAI/OpenKB)|OpenKB: Open LLM Knowledge Base.|VectifyAI（PageIndex 团队）开源的 LLM 知识库，面向检索与问答，支持交互式知识图谱可视化（3D / 思维导图 / 放射状）。|
+|[PixelRAG](https://github.com/StarTrail-org/PixelRAG)|![GitHub Repo stars](https://badgen.net/github/stars/StarTrail-org/PixelRAG)|Scalable pixel-native search, a new generation of RAG.|"像素原生"的可扩展 RAG/检索：不再解析网页与文档文本，而是直接以页面像素为单位用视觉模型（VLM）做多模态检索，适合 PDF、长页与图文混排场景。|
 
 
 
