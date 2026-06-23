@@ -92,3 +92,7 @@
 | pi-vs-claude-code | [GitHub](https://github.com/disler/pi-vs-claude-code) | 系统对比开源 pi 与闭源 Claude Code 工程实践的教学仓库，适合理解"agent harness"差异 |
 | awesome-code-ai | [GitHub](https://github.com/sourcegraph/awesome-code-ai) | Sourcegraph 维护的 AI 编码工具列表（助手、补全、重构等） |
 | anthropic-cookbook（agents patterns） | [GitHub](https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents) | Anthropic 官方 cookbook 中的 Agent 设计模式示例代码 |
+| loop-engineering | [GitHub](https://github.com/cobusgreyling/loop-engineering) | 面向 AI 编码 Agent 的"循环工程"（loop engineering）实用模式、脚手架与 CLI（loop-audit / loop-init / loop-cost），讲如何设计提示并编排 Agent，受 Addy Osmani、Boris Cherny 启发 |
+| recall | [GitHub](https://github.com/raiyanyahya/recall) | 给 Claude Code 加上完全离线的持久记忆，免去每次会话重新解释项目、省下重复 token |
+| fullstack-ai-agent-roadmap | [GitHub](https://github.com/Karovia/fullstack-ai-agent-roadmap) | "从零基础到 AI Agent 全栈工程师"的中文学习路线，含 110 个详细教程、58 万字与 400+ GitHub 项目精选，Obsidian 友好 |
+| Awesome-Vibe-Research | [GitHub](https://github.com/modelscope/Awesome-Vibe-Research) | ModelScope 官方发起的 AI 辅助科研开放共建仓库，沉淀科研全流程的 agents、skills、workflows、tools 与最佳实践 |
