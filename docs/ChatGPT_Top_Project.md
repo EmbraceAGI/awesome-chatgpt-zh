@@ -27,6 +27,8 @@
 | [MetaGPT](https://github.com/FoundationAgents/MetaGPT) | ![GitHub Repo stars](https://badgen.net/github/stars/FoundationAgents/MetaGPT) | The Multi-Agent Framework: First AI Software Company. | 国产多智能体框架，模拟软件公司协作开发 |
 | [autogen](https://github.com/microsoft/autogen) | ![GitHub Repo stars](https://badgen.net/github/stars/microsoft/autogen) | A programming framework for agentic AI. | 微软多智能体编程框架 |
 | [OpenManus](https://github.com/FoundationAgents/OpenManus) | ![GitHub Repo stars](https://badgen.net/github/stars/FoundationAgents/OpenManus) | An open-source framework for building general AI agents. | 国产 Manus 开源复刻，通用 Agent 爆款 |
+| [TradingAgents](https://github.com/TauricResearch/TradingAgents) | ![GitHub Repo stars](https://badgen.net/github/stars/TauricResearch/TradingAgents) | Multi-Agents LLM Financial Trading Framework. | 多智能体 LLM 金融交易框架，模拟分析师/交易员协作决策 |
+| [deer-flow](https://github.com/bytedance/deer-flow) | ![GitHub Repo stars](https://badgen.net/github/stars/bytedance/deer-flow) | Community-driven Deep Research framework combining LLMs with tools. | 字节开源深度研究 SuperAgent 框架，编排长程多步任务 |
 | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | ![GitHub Repo stars](https://badgen.net/github/stars/All-Hands-AI/OpenHands) | AI-Driven Development（原 OpenDevin）. | 自主软件开发 Agent，原 OpenDevin |
 | [cline](https://github.com/cline/cline) | ![GitHub Repo stars](https://badgen.net/github/stars/cline/cline) | Autonomous coding agent as an SDK, IDE extension, or CLI assistant. | VS Code 内的自主编码 Agent，热度极高 |
 | [aider](https://github.com/Aider-AI/aider) | ![GitHub Repo stars](https://badgen.net/github/stars/Aider-AI/aider) | AI pair programming in your terminal. | 终端里的 AI 结对编程工具 |
