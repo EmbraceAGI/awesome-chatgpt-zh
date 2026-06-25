@@ -96,3 +96,5 @@
 | recall | [GitHub](https://github.com/raiyanyahya/recall) | 给 Claude Code 加上完全离线的持久记忆，免去每次会话重新解释项目、省下重复 token |
 | fullstack-ai-agent-roadmap | [GitHub](https://github.com/Karovia/fullstack-ai-agent-roadmap) | "从零基础到 AI Agent 全栈工程师"的中文学习路线，含 110 个详细教程、58 万字与 400+ GitHub 项目精选，Obsidian 友好 |
 | Awesome-Vibe-Research | [GitHub](https://github.com/modelscope/Awesome-Vibe-Research) | ModelScope 官方发起的 AI 辅助科研开放共建仓库，沉淀科研全流程的 agents、skills、workflows、tools 与最佳实践 |
+| Codex 橙皮书 | [GitHub](https://github.com/bozhouDev/codex-orange-book) | 非官方的 Codex 中文使用指南，从安装、配置到实战案例全链路覆盖（Codex App/CLI/IDE/Web、MCP、Skill、工作流与可下载 PDF）|
+| opentag | [GitHub](https://github.com/amplifthq/opentag) | 开源的 @agent 提及功能：把 Slack / GitHub 上 @ 到的请求路由给 Codex、Claude Code 等编码 Agent，并在原 thread 内返回结果（MIT）|

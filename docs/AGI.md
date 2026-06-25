@@ -18,11 +18,15 @@
 | Suna | [链接](https://github.com/kortix-ai/suna) | Kortix AI 开源的通用智能体，具备浏览器自动化、文件管理、网页爬取、命令行执行等能力，可自托管 |
 | OpenAI Operator / ChatGPT Agent | [链接](https://openai.com/index/introducing-operator/) | OpenAI 的 Computer-Using Agent，可自主操作浏览器完成任务，现已并入 ChatGPT Agent |
 | Claude Computer Use | [链接](https://www.anthropic.com/news/3-5-models-and-computer-use) | Anthropic 推出的电脑操作能力，Claude 通过"看屏幕、移动光标、点击、输入"直接操作计算机 |
+| AgentSpace | [GitHub](https://github.com/HKUDS/AgentSpace) | 港大数据智能实验室出品，"人 + 多 Agent，一个团队、一个工作空间"的统一协同工作台，让人类与多智能体在同一空间内分工协作 |
+| lemma-platform | [GitHub](https://github.com/lemma-work/lemma-platform) | 开源工作空间，让人类与 AI Agent 作为同一个团队协作（AGPL-3.0） |
 
 ### AGI 相关基准与研究
 
 | 名称 | 链接 | 简介 |
 |------|------|------|
+| Qwen-AgentWorld | [GitHub](https://github.com/QwenLM/Qwen-AgentWorld) | 阿里通义团队出品，面向通用 Agent 的"语言世界模型"（Language World Models），用语言建模智能体所处的世界以支持规划与决策 |
+| awesome-evals | [GitHub](https://github.com/benchflow-ai/awesome-evals) | BenchFlow 维护的"构建与评测 AI Agent"精选资源库，汇集论文、博客、演讲、工具与 benchmark |
 | ARC Prize / ARC-AGI | [链接](https://arcprize.org/) | 专注"人类轻松、机器困难"的抽象推理基准，已成为各大厂在模型卡中公开报告的行业基准 |
 | GAIA benchmark | [链接](https://huggingface.co/gaia-benchmark) | Meta FAIR、HuggingFace、AutoGPT 等提出的"通用 AI 助手"基准，466 道真实世界问题，考察推理、多模态、网页浏览与工具使用 |
 | GAIA 论文 | [arxiv](https://arxiv.org/abs/2311.12983) | GAIA 原始论文，主张 AGI 的关键在于系统能否在"对人类简单"的问题上展现与普通人相当的稳健性 |
