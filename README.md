@@ -112,6 +112,7 @@ MCP（Model Context Protocol，模型上下文协议）是让 AI 无缝连接外
 我们要对以下项目表示衷心的感谢，他们为我们提供了宝贵的贡献和灵感：
 
 - [OpenAI](https://www.openai.com/)，因为开发了 GPT 系列语言模型。
+[Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 - [GPT-4](https://github.com/openai/gpt-4)，因为提供了底层语言模型。
 - [Hugging Face](https://huggingface.co/)，因为他们在 NLP 和开源工具上的广泛工作。
 - [awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt)，因为他们在 ChatGPT 方面的出色工作。
