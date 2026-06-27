@@ -142,6 +142,7 @@
 | [⚡ Lit-LLaMA](https://github.com/Lightning-AI/lit-llama) | ![GitHub Repo stars](https://badgen.net/github/stars/Lightning-AI/lit-llama) | - |Lightning-AI 基于nanoGPT的LLaMA语言模型的实现。支持量化，LoRA微调，预训练。|
 | [Intel® Extension for Transformers](https://github.com/intel/intel-extension-for-transformers) | ![GitHub Repo stars](https://badgen.net/github/stars/intel/intel-extension-for-transformers) |⚡ Build your chatbot within minutes on your favorite device; offer SOTA compression techniques for LLMs; run LLMs efficiently on Intel Platforms⚡ |在Intel平台上高效运行llm。|
 | [unsloth](https://github.com/unslothai/unsloth) | ![GitHub Repo stars](https://badgen.net/github/stars/unslothai/unsloth) | Finetune and run open models like Gemma, Qwen, DeepSeek, gpt-oss locally, 2x faster with 70% less memory. | 高效训练、微调与本地运行开源模型（Gemma/Qwen/DeepSeek/gpt-oss 等），速度提升约 2 倍、显存占用降低约 70%。|
+| [DeepSpec](https://github.com/deepseek-ai/DeepSpec) | ![GitHub Repo stars](https://badgen.net/github/stars/deepseek-ai/DeepSpec) | A full-stack codebase for training and evaluating speculative decoding algorithms. | DeepSeek 官方推出的投机解码（speculative decoding）推理加速全栈代码库，涵盖数据准备、草稿模型训练与评测，用于提升大模型推理速度。|
 
 
 
