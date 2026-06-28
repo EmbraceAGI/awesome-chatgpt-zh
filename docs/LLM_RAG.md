@@ -22,6 +22,7 @@
 |名称|简介|备注|
 |---|---|---|
 |[LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) (Andrej Karpathy)|A pattern where LLMs incrementally build and maintain a persistent, interlinked markdown wiki instead of repeatedly retrieving from raw documents.|Karpathy 提出的知识库新范式：与传统 RAG 每次从原始文档检索不同，让 LLM 增量维护一个持久化, 相互链接的 Markdown wiki，随着每次摄入新资料与回答问题不断丰富。采用「原始资料 / wiki / schema 指令」三层架构，核心操作包括摄入(Ingest), 查询(Query), 体检(Lint)，能自动发现矛盾, 维护交叉引用，让知识随时间复利增长。|
+|[llm_wiki](https://github.com/nashsu/llm_wiki) (nashsu)|A cross-platform desktop app that turns your documents into an organized, interlinked knowledge base automatically, as an alternative to traditional RAG.|上述 Karpathy「LLM Wiki」理念的开源桌面实现（TypeScript）：跨平台桌面应用，自动把你的文档整理为有组织, 相互链接的知识库；不同于传统 RAG 每次从零检索作答，它让 LLM 从资料中增量构建并持续维护一个持久化 wiki。|
 
 ### Embedding 模型和 Reranker 模型
 

@@ -26,6 +26,8 @@
 | Cursor CLI | [链接](https://cursor.com/cli) | Cursor 的命令行版 Agent，可在终端、CI/CD 与自动化脚本中运行 |
 | Warp | [链接](https://www.warp.dev) | AI 原生终端，将终端延伸为支持多模型的提示驱动 Agent 平台 |
 | Omnigent | [GitHub](https://github.com/omnigent-ai/omnigent) | 开源 AI Agent 框架与"元 harness"（Python，Apache-2.0），可统一编排 Claude Code、Codex、Cursor、pi 及自定义 Agent，无需改写即可热插拔 harness，并提供策略管控、沙箱与跨设备实时协作 |
+| ruflo | [GitHub](https://github.com/ruvnet/ruflo) | 面向 Claude 的开源 Agent"元 harness"（TypeScript，MIT），可部署多智能体群（swarm）、编排自主工作流，内置自适应记忆、自学习群体智能与 RAG 集成，原生对接 Claude Code / Codex |
+| DeepSeek-Reasonix | [GitHub](https://github.com/esengine/DeepSeek-Reasonix) | DeepSeek 原生的终端 AI 编码 Agent（Go，MIT），围绕前缀缓存（prefix-cache）稳定性设计，适合长时间常驻运行 |
 
 ## IDE / 编辑器编码 Agent
 
