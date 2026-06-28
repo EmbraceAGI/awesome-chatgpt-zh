@@ -14,6 +14,8 @@
 | Midscene | [GitHub](https://github.com/web-infra-dev/midscene) | 字节跳动出品，视觉驱动的跨平台（Web/Android/iOS）UI 自动化，用自然语言写脚本 |
 | Skyvern | [GitHub](https://github.com/Skyvern-AI/skyvern) | 用 LLM + 计算机视觉自动化网页工作流，提供 Playwright 兼容 SDK 与无代码流程编排 |
 | Nanobrowser | [GitHub](https://github.com/nanobrowser/nanobrowser) | 开源 Chrome 扩展，定位 OpenAI Operator 的免费替代，多 Agent、本地运行、自带 API Key |
+| peerd | [GitHub](https://github.com/NotASithLord/peerd) | 浏览器原生的 Agent harness，Chrome/Firefox 扩展内直接跑 Agent 循环，驱动标签页并按需拉起沙箱算力（JS notebook、WASM Linux VM），P2P 共享、BYOK、无后端无遥测（Apache-2.0）|
+| hermes-browser-extension | [GitHub](https://github.com/abundantbeing/hermes-browser-extension) | 浏览器侧边栏扩展，把当前网页上下文接入本地 Hermes Agent 运行时，实现网页内的本地 Agent 协作（MIT）|
 | LaVague | [GitHub](https://github.com/lavague-ai/LaVague) | 由 World Model + Action Engine 组成，将目标翻译为 Selenium/Playwright 可执行代码 |
 | Agent-E | [GitHub](https://github.com/EmergenceAI/Agent-E) | EmergenceAI 出品，基于多 Agent 框架，用自然语言驱动浏览器自动化 |
 | browser-use WebUI | [GitHub](https://github.com/browser-use/web-ui) | browser-use 官方的 Gradio 网页界面，支持多家 LLM、自定义浏览器与持久会话 |
