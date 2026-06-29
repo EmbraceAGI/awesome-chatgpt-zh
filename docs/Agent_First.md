@@ -52,3 +52,4 @@
 | awesome-web-agents | [GitHub](https://github.com/steel-dev/awesome-web-agents) | 构建 AI web agent 的工具/框架/资源清单 |
 | Steel.dev | [GitHub](https://github.com/steel-dev) | 专为 AI agent 打造的开源无头浏览器 API |
 | Casdoor | [GitHub](https://github.com/casdoor/casdoor) | 开源的 Agent-First 身份与访问管理（IAM）/ 认证服务器与 MCP、agent 网关，带 Web UI，支持 MCP、OAuth、OIDC、SAML、LDAP、SCIM、WebAuthn、MFA 等 |
+| monlite | [GitHub](https://github.com/qataruts/monlite) | 面向 AI agent 的「本地后端」（TypeScript，MIT）：把文档、向量、缓存、队列与 cron 定时任务全部集成进单个 SQLite 文件，零外部依赖即可为 agent 提供持久化、检索与任务调度能力 |

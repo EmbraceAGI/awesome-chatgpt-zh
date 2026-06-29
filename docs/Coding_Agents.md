@@ -17,6 +17,7 @@
 | **pi** | [GitHub](https://github.com/earendil-works/pi) ・[官网](https://pi.dev/) | libGDX 作者 Mario Zechner 发起、现归属 Earendil 的极简可扩展开源编码 Agent（agent harness，MIT，约 6 万 star）。奉行 **"primitives, not features"**：内核只暴露 Read/Write/Edit/Bash 四个工具（刻意不内置 MCP/子 Agent/沙箱），靠 TypeScript 扩展、Skills（兼容 Claude Code/Codex）、模板自由定制，接入 28+ 模型供应商；下文"龙虾" OpenClaw 即构建于其上 |
 | oh-my-pi | [GitHub](https://github.com/can1357/oh-my-pi) | pi 生态最热门的"全家桶"增强分支（MIT，约 1.1 万 star），在 pi 之上补齐 LSP、调试器、浏览器、子 Agent、跨会话记忆与 Zed 集成 |
 | pi-feishu-lark | [GitHub](https://github.com/AX1202/pi-feishu-lark) | 把 pi 接入飞书 / Lark 的连接器扩展，扫码建 bot，私聊 / 群聊 / 话题各开独立 pi 会话，支持文件附件与模型切换 |
+| pi-omplike-advisor | [GitHub](https://github.com/pasky/pi-omplike-advisor) | pi 扩展：常驻一个「第二模型」在每一轮 review 主 Agent 的工作，并把精简建议内联注入对话，相当于给编码 Agent 配一名实时结对审查者（TypeScript） |
 | cc-connect | [GitHub](https://github.com/chenhg5/cc-connect) | 通用桥接器（约 1.2 万 star），把 Claude Code / Codex / pi 等编码 Agent 接入微信、企业微信、飞书、QQ、钉钉等国内 IM |
 | OpenCode | [GitHub](https://github.com/sst/opencode) | SST 团队出品的开源终端编码 Agent（Go），客户端-服务端架构，支持 75+ 模型 |
 | Crush | [GitHub](https://github.com/charmbracelet/crush) | Charm 出品的"颜值派"终端编码 Agent，基于 TUI，支持多模型、LSP 与 MCP |
@@ -98,6 +99,8 @@
 | recall | [GitHub](https://github.com/raiyanyahya/recall) | 给 Claude Code 加上完全离线的持久记忆，免去每次会话重新解释项目、省下重复 token |
 | fullstack-ai-agent-roadmap | [GitHub](https://github.com/Karovia/fullstack-ai-agent-roadmap) | "从零基础到 AI Agent 全栈工程师"的中文学习路线，含 110 个详细教程、58 万字与 400+ GitHub 项目精选，Obsidian 友好 |
 | Awesome-Vibe-Research | [GitHub](https://github.com/modelscope/Awesome-Vibe-Research) | ModelScope 官方发起的 AI 辅助科研开放共建仓库，沉淀科研全流程的 agents、skills、workflows、tools 与最佳实践 |
+| Anti-Autoresearch | [GitHub](https://github.com/wanshuiyin/Anti-Autoresearch) | AI 自动科研（autoresearch）论文的「审稿侧」诚信取证工具（Python，MIT）：用自洽性核验 + 造假检测给出确定性结论，内置 61 个信号（46 个可定性的造假手法 + 13 个零权重 AI 写作风格判断 + 2 个提示），定位「不是黑盒 AI 文本分类器」，与 AI 辅助科研形成对照 |
 | Codex 橙皮书 | [GitHub](https://github.com/bozhouDev/codex-orange-book) | 非官方的 Codex 中文使用指南，从安装、配置到实战案例全链路覆盖（Codex App/CLI/IDE/Web、MCP、Skill、工作流与可下载 PDF）|
 | opentag | [GitHub](https://github.com/amplifthq/opentag) | 开源的 @agent 提及功能：把 Slack / GitHub 上 @ 到的请求路由给 Codex、Claude Code 等编码 Agent，并在原 thread 内返回结果（MIT）|
 | OpenTag（CopilotKit 官方） | [GitHub](https://github.com/CopilotKit/OpenTag) | CopilotKit 官方版本（与上面 amplifthq/opentag 同名异仓）：在 Slack / GitHub 内 @agent 把请求路由给 Codex、Claude Code 等并回帖结果（MIT）|
+| webtoon-harness | [GitHub](https://github.com/revfactory/webtoon-harness) | 把 Claude Code 当编排引擎、用多智能体团队产出竖屏 webtoon（韩漫）成品的完整 harness 范例（MIT，韩文）：从趋势调研、剧本、分镜到竖屏阅读器，由 27 个 AI agent 分工协作，是「领域专用 Claude Code harness」的典型案例 |

@@ -119,6 +119,7 @@
 |[Phi-3](https://github.com/microsoft/Phi-3CookBook) | ![GitHub Repo stars](https://badgen.net/github/stars/microsoft/Phi-3CookBook) | 微软开发的小型语言模型系列。包含Phi-3-mini(3.8B)、Phi-3-small(7B)两种规格，在同等规模和更大规模模型的对比中展现出优秀性能。 |在语言理解、推理、编程和数学等基准测试中表现出色，提供详细的使用指南CookBook|
 |[Qwen2.5](https://github.com/QwenLM/Qwen2.5) | ![GitHub Repo stars](https://badgen.net/github/stars/QwenLM/Qwen2.5) | 阿里云通义千问团队开发的大语言模型系列。包含0.5B、1.8B、4B、7B、14B、72B等多种规模，每个规模都提供Base和Chat版本。 |支持中英等多语言，适用场景从移动设备到企业级高性能部署|
 |[SmolLM](https://huggingface.co/collections/HuggingFaceTB/smollm-6695016cad7167254ce15966) | - | 轻量级语言模型系列，包含135M、360M和1.7B三种规模，每种规格都提供base和instruct版本。开源了训练语料库。 |特别优化用于移动设备和WebGPU运行，支持浏览器中直接运行demo|
+|[OpenTihui](https://github.com/cyyself/OpenTihui) | ![GitHub Repo stars](https://badgen.net/github/stars/cyyself/OpenTihui) | on-device LLM for iOS with keyboard shortcuts. |在 iPhone / iPad 本地运行 LLM 的 iOS 应用（Swift，MIT），离线推理、隐私不出端，并支持通过键盘快捷方式随处调用模型。|
 
 
 ### 自由不受限制模型
