@@ -5,6 +5,7 @@
 ### 开源框架
 |名称|Stars|简介|备注|
 |---|---|---|---|
+|[headroom](https://github.com/headroomlabs-ai/headroom)|![GitHub Repo stars](https://badgen.net/github/stars/headroomlabs-ai/headroom)|Compress tool outputs, logs, files, and RAG chunks before they reach the LLM.|在内容送达 LLM 之前压缩工具输出、日志、文件与 RAG chunk，token 减少 60-95% 且答案不变，提供库、代理与 MCP server 三种形态。|
 |[LlamaIndex](https://github.com/jerryjliu/llama_index) | ![GitHub Repo stars](https://img.shields.io/github/stars/jerryjliu/llama_index.svg?style=social) | Provides a central interface to connect your LLMs with external data. |将llm与外部数据连接起来。|
 |[QAnything](https://github.com/netease-youdao/QAnything)|![GitHub Repo stars](https://badgen.net/github/stars/netease-youdao/QAnything)|Question and Answer based on Anything.|QAnything (Question and Answer based on Anything) 是致力于支持任意格式文件或数据库的本地知识库问答系统，可断网安装使用。您的任何格式的本地文件都可以往里扔，即可获得准确、快速、靠谱的问答体验。目前已支持格式: PDF(pdf)，Word(docx)，PPT(pptx)，XLS(xlsx)，Markdown(md)，电子邮件(eml)，TXT(txt)，图片(jpg，jpeg，png)，CSV(csv)，网页链接(html)|
 |[ragflow](https://github.com/infiniflow/ragflow)|![GitHub Repo stars](https://badgen.net/github/stars/infiniflow/ragflow)|RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.|RAGFlow 是一款基于深度文档理解构建的开源 RAG（Retrieval-Augmented Generation）引擎。RAGFlow 可以为各种规模的企业及个人提供一套精简的 RAG 工作流程，结合大语言模型（LLM）针对用户各类不同的复杂格式数据提供可靠的问答以及有理有据的引用。|

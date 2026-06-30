@@ -20,6 +20,7 @@
 - [秘塔 AI 搜索](https://metaso.cn) — 国产无广告 AI 搜索，结果结构化、可生成大纲与脑图。
 - [Genspark](https://www.genspark.ai) — AI Agent 搜索引擎，可自动生成专题页。
 - [天工 AI 搜索](https://www.tiangong.cn) — 昆仑万维出品，无广告结果的国产 AI 搜索。
+- [LLocalSearch](https://github.com/nilsherzig/LLocalSearch) — 完全本地运行的开源 AI 搜索聚合器，用 LLM 智能体链回答问题并展示推理进度，无需 OpenAI/Google API key。
 
 ### AI 绘画/图像
 

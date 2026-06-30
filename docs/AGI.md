@@ -27,6 +27,7 @@
 |------|------|------|
 | Qwen-AgentWorld | [GitHub](https://github.com/QwenLM/Qwen-AgentWorld) | 阿里通义团队出品，面向通用 Agent 的"语言世界模型"（Language World Models），用语言建模智能体所处的世界以支持规划与决策 |
 | awesome-evals | [GitHub](https://github.com/benchflow-ai/awesome-evals) | BenchFlow 维护的"构建与评测 AI Agent"精选资源库，汇集论文、博客、演讲、工具与 benchmark |
+| LLM-Agent-Paper-List | [GitHub](https://github.com/WooooDyy/LLM-Agent-Paper-List) | 复旦 NLP 团队 86 页综述《The Rise and Potential of LLM Based Agents》的配套必读论文清单，按智能体构建（大脑/感知/行动）、应用、智能体社会等维度系统梳理 |
 | ARC Prize / ARC-AGI | [链接](https://arcprize.org/) | 专注"人类轻松、机器困难"的抽象推理基准，已成为各大厂在模型卡中公开报告的行业基准 |
 | GAIA benchmark | [链接](https://huggingface.co/gaia-benchmark) | Meta FAIR、HuggingFace、AutoGPT 等提出的"通用 AI 助手"基准，466 道真实世界问题，考察推理、多模态、网页浏览与工具使用 |
 | GAIA 论文 | [arxiv](https://arxiv.org/abs/2311.12983) | GAIA 原始论文，主张 AGI 的关键在于系统能否在"对人类简单"的问题上展现与普通人相当的稳健性 |
