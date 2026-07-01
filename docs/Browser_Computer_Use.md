@@ -37,6 +37,7 @@
 | crawl4ai | [GitHub](https://github.com/unclecode/crawl4ai) | 开源 LLM 友好爬虫，将网页转为干净结构化 Markdown，GitHub 趋势榜常客 |
 | Scrapling | [GitHub](https://github.com/D4Vinci/Scrapling) | 自适应爬虫框架，支持 HTTP/隐身/动态浏览器抓取，含 MCP server |
 | Docling | [GitHub](https://github.com/docling-project/docling) | IBM 出品，文档（PDF/DOCX/PPTX）解析转 gen-AI 就绪格式，含表格/版面识别 |
+| olmOCR | [GitHub](https://github.com/allenai/olmocr) | AllenAI 出品，将 PDF 线性化为干净文本的开源工具包，擅长扫描件/复杂版面，面向 LLM 数据集与训练 |
 | ScrapeGraphAI | [GitHub](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | 用 LLM + 图逻辑做抓取，只需自然语言 prompt 即可提取信息 |
 | Crawlee | [GitHub](https://github.com/apify/crawlee) | Apify 出品的 Node.js 爬虫与浏览器自动化库，内置反爬 |
 | gpt-crawler | [GitHub](https://github.com/BuilderIO/gpt-crawler) | 抓取站点生成知识文件，用于构建自定义 GPT |
