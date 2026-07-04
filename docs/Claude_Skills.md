@@ -56,3 +56,4 @@ Claude Skills（Agent Skills）是 Anthropic 推出的让 AI 智能体按需加�
 |Claude Skills are awesome, maybe a bigger deal than MCP|[链接](https://simonwillison.net/2025/Oct/16/claude-skills/)|Simon Willison 的经典文章，论证 Skills 比 MCP 更轻量高效，入门必读。|
 |Skills explained（官方对比）|[链接](https://claude.com/blog/skills-explained)|官方文章，系统对比 Skills 与 Prompts、Projects、MCP、Subagents 的区别与适用场景。|
 |Understanding Claude Code's Full Stack: MCP, Skills, Subagents, Hooks|[链接](https://alexop.dev/posts/understanding-claude-code-full-stack/)|全面梳理 Claude Code 技术栈中 MCP、Skills、子代理与 Hooks 的关系。|
+|JDDavenport/context-kit|[GitHub](https://github.com/JDDavenport/context-kit)|个人上下文工件：4 个 Markdown 模板（wiki、心智模型、语音风格、协议）+ 5 个 Claude Code 技能，解决 AI Agent 的上下文失忆问题，每次会话都能全量载入个人背景。MIT 许可，一键安装。|
