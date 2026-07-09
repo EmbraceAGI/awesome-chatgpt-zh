@@ -10,6 +10,7 @@
 | Chatgpt-Makes-Money | [xiaoming2028/Chatgpt-Makes-Money](https://github.com/xiaoming2028/Chatgpt-Makes-Money) | 整理了多种利用 ChatGPT 变现的思路，并强调修炼真本事而非追逐风口 |
 | ai-money-maker-handbook | [XiaomingX/ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook) | AI 副业赚钱手册，整理用 AI 做副业、赚取额外收益的思路合集 |
 | MoneyPrinterTurbo | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用 AI 大模型一键生成高清短视频的开源工具，是"自动化做号"玩法的代表项目 |
+| earn-1-dollar | [WGT9721/earn-1-dollar](https://github.com/WGT9721/earn-1-dollar) | 一个真实进行中的实验:AI agent(Claude Code)受用户之托,尝试通过诚实劳动(做一个免费的 LLM API 定价对比工具+赞赏码)赚到第一笔真实收入,代码和过程全公开 |
 
 ### 变现方向
 
