@@ -54,6 +54,7 @@
 - [通义灵码](https://lingma.aliyun.com) — 阿里云基于通义大模型的智能编码助手。
 - [v0](https://v0.dev) — Vercel 出品，通过对话生成 React/Next.js 前端 UI 组件。
 - [bolt.new](https://bolt.new) — StackBlitz 出品的全栈 AI 开发平台，从提示到可运行 Demo 极快。
+- [Agent Island](https://agent-island.dev) — 开源的 AI 编程状态伴侣，把 Claude Code、Codex、Antigravity、Grok 与 Cursor 的会话状态和用量收进 Mac 刘海或 Windows 菜单栏，轮到你时提醒。
 
 ### AI 写作
 
