@@ -98,7 +98,7 @@ MCP（Model Context Protocol，模型上下文协议）是让 AI 无缝连接外
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yzfly/awesome-chatgpt-zh&type=Date)](https://star-history.com/#yzfly/awesome-chatgpt-zh&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=yzfly/awesome-chatgpt-zh&type=Date)](https://star-history.dera.page/#yzfly/awesome-chatgpt-zh&Date)
 
 
 ## 贡献指南
