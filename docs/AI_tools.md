@@ -26,6 +26,7 @@
 
 - [Midjourney](https://www.midjourney.com) — 艺术表现力顶尖的 AI 绘画工具，画面质感与审美行业标杆。
 - [DALL·E 3](https://openai.com/dall-e-3) — OpenAI 图像模型，集成于 ChatGPT，擅长理解复杂指令。
+- [Emu](https://image.tinchak0207.xyz) — 在线生成 GPT Image 2 / Nano Banana Pro 图片，登录即用，无需中转站、无需申请 API Key，生成完直接下载。
 - [Stable Diffusion](https://stability.ai) — Stability AI 的开源图像生成模型，可本地部署、生态丰富。
 - [FLUX](https://blackforestlabs.ai) — Black Forest Labs 的新一代开源图像模型，画质媲美顶级商用产品。
 - [Ideogram](https://ideogram.ai) — 擅长在图像中精准生成文字与排版的 AI 绘画工具。
