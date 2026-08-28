@@ -50,6 +50,7 @@
 - [GitHub Copilot](https://github.com/features/copilot) — GitHub 与 OpenAI 联手打造，最广泛使用的 AI 编程助手。
 - [Windsurf](https://windsurf.com) — 原 Codeium 团队推出的 AI 原生代码编辑器，主打 Agent 能力。
 - [Cline](https://cline.bot) — 开源自主编程 Agent，以 VS Code 插件形式运行、可接入任意大模型。
+- [SandBase CLI](https://github.com/sandbaseai/cli) — 本地 MCP 网关 CLI，通过统一接口发现并调用 2,000+ AI 模型，适合在 Claude、Codex 等兼容客户端中复用模型配置。
 - [Trae](https://www.trae.ai) — 字节跳动推出的国产 AI IDE，对标 Cursor、对中文开发者友好。
 - [通义灵码](https://lingma.aliyun.com) — 阿里云基于通义大模型的智能编码助手。
 - [v0](https://v0.dev) — Vercel 出品，通过对话生成 React/Next.js 前端 UI 组件。
