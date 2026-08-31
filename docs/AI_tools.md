@@ -22,6 +22,7 @@
 - [天工 AI 搜索](https://www.tiangong.cn) — 昆仑万维出品，无广告结果的国产 AI 搜索。
 - [LLocalSearch](https://github.com/nilsherzig/LLocalSearch) — 完全本地运行的开源 AI 搜索聚合器，用 LLM 智能体链回答问题并展示推理进度，无需 OpenAI/Google API key。
 
+- [AiMovieFinder](https://www.aimoviefinder.com) — 免费、无需注册的 AI 找电影工具，可根据截图、场景、台词、剧情、演员、歌曲、海报或视频片段识别电影。
 ### AI 绘画/图像
 
 - [Midjourney](https://www.midjourney.com) — 艺术表现力顶尖的 AI 绘画工具，画面质感与审美行业标杆。
