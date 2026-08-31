@@ -60,6 +60,8 @@ Claude Skills（Agent Skills）是 Anthropic 推出的让 AI 智能体按需加�
 |JimLiu/baoyu-design|[GitHub](https://github.com/JimLiu/baoyu-design)|宝玉把 Claude Design（claude.ai/design 背后的设计引擎）打包成可移植 Agent Skill，在 Cursor、Claude Code 等本地 Agent 里产出精致 UI。|
 |petergyang/no-ai-slop|[GitHub](https://github.com/petergyang/no-ai-slop)|去除写作中 20+ 种「AI 味」套路而不抹平个人语气的技能（MIT）。|
 |firecrawl/anydoc（skill）|[GitHub](https://github.com/firecrawl/anydoc)|Firecrawl 的文档转 Markdown 库以 Agent Skill 形式分发，让 Agent 直接读懂 Word / PPT / Excel / PDF / EPUB。|
+|Hahaknight/claude-skills-pro|[GitHub](https://github.com/Hahaknight/claude-skills-pro)|工程师工作流技能包（15 个：代码审查、测试锻造、根因调试、安全审查、安全重构等），7 个免费 MIT，附《中文实战手册》与场景速查表，`npx skills add` 一键装进 78+ agent。|
+|Hahaknight/digital-employee-pack|[GitHub](https://github.com/Hahaknight/digital-employee-pack)|「数字员工」中文提效技能包：面向非程序员的 6 个办公技能（周报、会议纪要、PPT 大纲等）+ 防护 Hooks + 工作流 SOP。|
 
 ### DeepSeek Harness 技能生态
 
