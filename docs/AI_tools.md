@@ -13,6 +13,7 @@
 - [豆包](https://www.doubao.com) — 字节跳动推出的国产 AI 助手，用户规模领先，多模态全能。
 - [通义千问](https://tongyi.aliyun.com) — 阿里云的大模型助手，支持多轮对话、多模态与多语言。
 - [文心一言](https://yiyan.baidu.com) — 百度基于文心大模型的中文对话与创作助手。
+- [WSUP AI](https://wsupai.app/) — 免费的浏览器 AI 角色聊天，无需注册即可与 AI 角色对话。
 
 ### AI 搜索
 
