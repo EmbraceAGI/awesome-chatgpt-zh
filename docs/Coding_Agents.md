@@ -39,6 +39,7 @@
 | Dao Code（道） | [GitHub](https://github.com/tigicion/dao-code) | 围绕 DeepSeek-V4 性价比构建的开源 TypeScript 终端编码 Agent（MIT），强调成本、体验与可用性，中英双语文档 |
 | Codex Security | [GitHub](https://github.com/openai/codex-security) | OpenAI 官方 `@openai/codex-security` CLI 与 TypeScript SDK（Apache-2.0，2026-07）：发现、验证并修复代码安全漏洞，可接入 CI |
 | opencodex | [GitHub](https://github.com/lidge-jun/opencodex) | Codex / Claude Code 的通用模型代理（MIT）：两条命令即可让这两个官方 Agent 跑任意 LLM（Claude、Gemini、Grok、DeepSeek、Ollama 本地模型等） |
+| TeamoRouter | [官网](https://teamorouter.com/blogs/gpt-6-astra-what-is) ・[中文站](https://teamorouter.cn) | 模型接入方案（托管服务，非开源项目）：GPT-6 Astra / Claude / Gemini 多模型兼容网关，支持 Alipay / WeChat 充值，提供 Codex 与 Claude Code 的配置教程（Astra 模型 ID `gpt-6-astra`） |
 
 ## IDE / 编辑器编码 Agent
 
