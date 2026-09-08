@@ -39,6 +39,7 @@
 | Dao Code（道） | [GitHub](https://github.com/tigicion/dao-code) | 围绕 DeepSeek-V4 性价比构建的开源 TypeScript 终端编码 Agent（MIT），强调成本、体验与可用性，中英双语文档 |
 | Codex Security | [GitHub](https://github.com/openai/codex-security) | OpenAI 官方 `@openai/codex-security` CLI 与 TypeScript SDK（Apache-2.0，2026-07）：发现、验证并修复代码安全漏洞，可接入 CI |
 | opencodex | [GitHub](https://github.com/lidge-jun/opencodex) | Codex / Claude Code 的通用模型代理（MIT）：两条命令即可让这两个官方 Agent 跑任意 LLM（Claude、Gemini、Grok、DeepSeek、Ollama 本地模型等） |
+| YYLO | [GitHub](https://github.com/yylo-dev/yylo) | 开源命令行编码 Agent 编排器（MIT）：编排可重复工作流与带回执的仓库变更，提供类型化任务、验证、合并与发布就绪边界；每个任务在独立分支/worktree 中由子 Agent（如 Pi 与 Codex）执行实现，合并队列按风险分级审查 |
 
 ## IDE / 编辑器编码 Agent
 
