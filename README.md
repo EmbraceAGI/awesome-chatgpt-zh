@@ -138,6 +138,7 @@ MCP（Model Context Protocol，模型上下文协议）是让 AI 无缝连接外
 - [Simon-He95](https://github.com/Simon-He95)
 - [cf-jx](https://github.com/cf-jx)
 - [reacher-z](https://github.com/reacher-z)
+- [MagicKit](https://kaketiti.github.io) - Free AI tools collection - 66+ tools, zero registration, zero API key required
 
 完整名单见 [Contributors 页面](https://github.com/EmbraceAGI/awesome-chatgpt-zh/graphs/contributors)。
 
