@@ -119,3 +119,4 @@
 | opentag | [GitHub](https://github.com/amplifthq/opentag) | 开源的 @agent 提及功能：把 Slack / GitHub 上 @ 到的请求路由给 Codex、Claude Code 等编码 Agent，并在原 thread 内返回结果（MIT）|
 | OpenTag（CopilotKit 官方） | [GitHub](https://github.com/CopilotKit/OpenTag) | CopilotKit 官方版本（与上面 amplifthq/opentag 同名异仓）：在 Slack / GitHub 内 @agent 把请求路由给 Codex、Claude Code 等并回帖结果（MIT）|
 | webtoon-harness | [GitHub](https://github.com/revfactory/webtoon-harness) | 把 Claude Code 当编排引擎、用多智能体团队产出竖屏 webtoon（韩漫）成品的完整 harness 范例（MIT，韩文）：从趋势调研、剧本、分镜到竖屏阅读器，由 27 个 AI agent 分工协作，是「领域专用 Claude Code harness」的典型案例 |
+| Orca AI Incident Archive | [GitHub](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) | 开源的 AI Agent 安全事件数据库（CC BY 4.0）：354 条记录，涵盖 Replit Agent 删除生产数据库、Amazon Q 扩展被投毒、Clinejection、GitSpawn（7 款编码 Agent 的 `.git/config` 远程代码执行）等编码 Agent 事故；每条附一手来源与攻击链图，并标注是否有真实受害者，区分「真出事」与「研究演示」；提供 JSON/CSV 导出与全部记录的中文译文 |
