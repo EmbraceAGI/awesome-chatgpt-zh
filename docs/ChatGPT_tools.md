@@ -64,6 +64,7 @@
 | Consensus | [链接](https://consensus.app) | 学术搜索引擎，用 AI 从同行评审论文中提炼"科学共识" |
 | Otter.ai | [链接](https://otter.ai) | AI 会议纪要工具，支持实时转录、自动摘要、行动项提取与会中问答 |
 | Napkin AI | [链接](https://www.napkin.ai) | 把文字一键转成可编辑的图表、流程图与可视化，适合做演示 |
+| GPT Skin | [链接](https://gptskin.app/) | 为 ChatGPT Desktop、Codex 与 Claude 生成自定义皮肤的在线工具：上传图片、实时预览主题、本地导出主题包，免账号、无需写代码 |
 
 ### ChatGPT 学习英语
 
@@ -304,7 +305,6 @@ https://github.com/whoiskatrin/chart-gpt
 | [opencommit](https://github.com/di-sukharev/opencommit) | ![GitHub Repo stars](https://badgen.net/github/stars/di-sukharev/opencommit) | Auto-generate commit messages with AI. | 用 LLM 一秒生成规范的 Git commit message |
 | [sqlchat](https://github.com/sqlchat/sqlchat) | ![GitHub Repo stars](https://badgen.net/github/stars/sqlchat/sqlchat) | Chat-based SQL client. | 用自然语言查询和管理数据库 |
 | [jupyter-ai](https://github.com/jupyterlab/jupyter-ai) | ![GitHub Repo stars](https://badgen.net/github/stars/jupyterlab/jupyter-ai) | A generative AI extension for JupyterLab. | JupyterLab 官方 AI 扩展，把 AI Agent 接入计算笔记本 |
-| GPT Skin | [链接](https://gptskin.app/) | 为 ChatGPT Desktop、Codex 与 Claude 生成自定义皮肤的在线工具：上传图片、实时预览主题、本地导出主题包，免账号、无需写代码 |
 
 #### [OpenGPT](https://open-gpt.app/)
 
