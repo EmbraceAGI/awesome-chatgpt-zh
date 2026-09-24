@@ -64,6 +64,7 @@
 | Consensus | [链接](https://consensus.app) | 学术搜索引擎，用 AI 从同行评审论文中提炼"科学共识" |
 | Otter.ai | [链接](https://otter.ai) | AI 会议纪要工具，支持实时转录、自动摘要、行动项提取与会中问答 |
 | Napkin AI | [链接](https://www.napkin.ai) | 把文字一键转成可编辑的图表、流程图与可视化，适合做演示 |
+| GPT Skin | [链接](https://gptskin.app/) | 为 ChatGPT Desktop、Codex 与 Claude 生成自定义皮肤的在线工具：上传图片、实时预览主题、本地导出主题包，免账号、无需写代码 |
 
 ### ChatGPT 学习英语
 
