@@ -60,6 +60,7 @@ Claude Skills（Agent Skills）是 Anthropic 推出的让 AI 智能体按需加�
 |JimLiu/baoyu-design|[GitHub](https://github.com/JimLiu/baoyu-design)|宝玉把 Claude Design（claude.ai/design 背后的设计引擎）打包成可移植 Agent Skill，在 Cursor、Claude Code 等本地 Agent 里产出精致 UI。|
 |petergyang/no-ai-slop|[GitHub](https://github.com/petergyang/no-ai-slop)|去除写作中 20+ 种「AI 味」套路而不抹平个人语气的技能（MIT）。|
 |firecrawl/anydoc（skill）|[GitHub](https://github.com/firecrawl/anydoc)|Firecrawl 的文档转 Markdown 库以 Agent Skill 形式分发，让 Agent 直接读懂 Word / PPT / Excel / PDF / EPUB。|
+|Finderchangchang/brewreel|[GitHub](https://github.com/Finderchangchang/brewreel)|精酿 BrewReel：让 DeepSeek 等低成本模型也能做竖版宣传片的 Agent Skill。写一份产品简报，模型选镜头、写文案，一条命令用 Remotion 渲染 1080×1920 成片；3 种风格配方、6 个行业包（内置广告法校验）、出片质检、中英双语（Apache-2.0）。|
 
 ### DeepSeek Harness 技能生态
 
