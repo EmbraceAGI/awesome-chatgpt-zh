@@ -43,6 +43,7 @@
 - [可灵 Kling](https://klingai.kuaishou.com) — 快手国产视频大模型，人物动作真实、可生成长时长视频。
 - [Vidu](https://www.vidu.cn) — 生数科技与清华联合出品的国产文生视频模型。
 - [海螺 Hailuo](https://hailuoai.com/video) — MiniMax 出品的国产视频生成工具，画面流畅、效果稳定。
+- [useapi.net Google Flow API](https://useapi.net/docs/articles/google-flow-api-zh) — 用自己的 Google AI 订阅通过 REST 调用 Veo 3.1、Omni 1.1 Flash 视频和 Nano Banana Pro 图片（付费托管 API，附中文教程）。
 
 ### AI 编程/IDE
 
