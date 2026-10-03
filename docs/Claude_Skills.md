@@ -43,6 +43,7 @@ Claude Skills（Agent Skills）是 Anthropic 推出的让 AI 智能体按需加�
 |VoltAgent/awesome-agent-skills|[GitHub](https://github.com/VoltAgent/awesome-agent-skills)|1000+ 官方与社区 agent 技能合集，兼容 Claude Code、Codex、Gemini CLI、Cursor 等。|
 |travisvn/awesome-claude-skills|[GitHub](https://github.com/travisvn/awesome-claude-skills)|社区导向的精选清单，侧重 Claude Code，附详细 FAQ 与最佳实践。|
 |BehiSecc/awesome-claude-skills|[GitHub](https://github.com/BehiSecc/awesome-claude-skills)|按类别（文档处理、安全、媒体生成等）组织的 30+ 技能精选列表。|
+|AgentHub|[链接](https://myagenthub.cn)|中文 MCP Server 与 Agent Skills 资源导航站，支持一键安装到 Cursor、Claude Code、VS Code、Trae。|
 
 ### 精选 Skills 仓库
 
