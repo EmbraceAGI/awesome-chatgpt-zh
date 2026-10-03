@@ -126,6 +126,7 @@ MCP（Model Context Protocol，模型上下文协议）是 Anthropic 于 2024 �
 |Glama MCP|[链接](https://glama.ai/mcp/servers)|体量最大的目录之一，带可视化预览，每日更新。|
 |PulseMCP|[链接](https://www.pulsemcp.com)|人工审核的 MCP 目录，每日维护，质量较高。|
 |Prismix|[链接](https://prismix.dev/mcp)|集 AI 服务状态监控、MCP 目录与新闻聚合于一体的三合一 AI 中枢。MCP 目录收录 80+ 精选服务器与 500+ 自动发现资源，支持分组（Bundle）管理与版本发布追踪。|
+|AgentHub|[链接](https://myagenthub.cn)|中文 MCP Server 与 Agent Skills 资源导航站，支持一键安装到 Cursor、Claude Code、VS Code、Trae。|
 
 ### 重要技术文章
 
