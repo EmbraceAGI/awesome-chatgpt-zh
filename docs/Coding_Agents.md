@@ -112,6 +112,7 @@
 | anthropic-cookbook（agents patterns） | [GitHub](https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents) | Anthropic 官方 cookbook 中的 Agent 设计模式示例代码 |
 | loop-engineering | [GitHub](https://github.com/cobusgreyling/loop-engineering) | 面向 AI 编码 Agent 的"循环工程"（loop engineering）实用模式、脚手架与 CLI（loop-audit / loop-init / loop-cost），讲如何设计提示并编排 Agent，受 Addy Osmani、Boris Cherny 启发 |
 | recall | [GitHub](https://github.com/raiyanyahya/recall) | 给 Claude Code 加上完全离线的持久记忆，免去每次会话重新解释项目、省下重复 token |
+| AI Agent Handbook | [GitHub](https://github.com/Xwh630/ai-agent-handbook) | 面向中文开发者的 AI Agent 系统学习手册，从基础概念到生产部署全链路覆盖（26 章），含 MCP 协议、Coding Agents、框架选型、评测体系与内容保鲜机制 |
 | fullstack-ai-agent-roadmap | [GitHub](https://github.com/Karovia/fullstack-ai-agent-roadmap) | "从零基础到 AI Agent 全栈工程师"的中文学习路线，含 110 个详细教程、58 万字与 400+ GitHub 项目精选，Obsidian 友好 |
 | Awesome-Vibe-Research | [GitHub](https://github.com/modelscope/Awesome-Vibe-Research) | ModelScope 官方发起的 AI 辅助科研开放共建仓库，沉淀科研全流程的 agents、skills、workflows、tools 与最佳实践 |
 | Anti-Autoresearch | [GitHub](https://github.com/wanshuiyin/Anti-Autoresearch) | AI 自动科研（autoresearch）论文的「审稿侧」诚信取证工具（Python，MIT）：用自洽性核验 + 造假检测给出确定性结论，内置 61 个信号（46 个可定性的造假手法 + 13 个零权重 AI 写作风格判断 + 2 个提示），定位「不是黑盒 AI 文本分类器」，与 AI 辅助科研形成对照 |
