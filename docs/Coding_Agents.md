@@ -119,3 +119,4 @@
 | opentag | [GitHub](https://github.com/amplifthq/opentag) | 开源的 @agent 提及功能：把 Slack / GitHub 上 @ 到的请求路由给 Codex、Claude Code 等编码 Agent，并在原 thread 内返回结果（MIT）|
 | OpenTag（CopilotKit 官方） | [GitHub](https://github.com/CopilotKit/OpenTag) | CopilotKit 官方版本（与上面 amplifthq/opentag 同名异仓）：在 Slack / GitHub 内 @agent 把请求路由给 Codex、Claude Code 等并回帖结果（MIT）|
 | webtoon-harness | [GitHub](https://github.com/revfactory/webtoon-harness) | 把 Claude Code 当编排引擎、用多智能体团队产出竖屏 webtoon（韩漫）成品的完整 harness 范例（MIT，韩文）：从趋势调研、剧本、分镜到竖屏阅读器，由 27 个 AI agent 分工协作，是「领域专用 Claude Code harness」的典型案例 |
+| ChatGPT Workflows | [GitHub](https://github.com/RongNianXin/ChatGPT-Workflows) | 面向 Codex Desktop 项目协作的中文开源工作流资料，涵盖自然语言任务入口、执行与验证、跨任务交接和授权边界；附 Windows 本地会话分析工具 |
