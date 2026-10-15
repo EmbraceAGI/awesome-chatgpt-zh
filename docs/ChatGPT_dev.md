@@ -129,6 +129,7 @@
 |[One API](https://github.com/songquanpeng/one-api)|![GitHub Repo stars](https://badgen.net/github/stars/songquanpeng/one-api)|开源的大模型 API 管理与分发系统，将多家供应商统一为标准接口，支持密钥管理与负载均衡|
 |[New API](https://github.com/Calcium-Ion/new-api)|![GitHub Repo stars](https://badgen.net/github/stars/Calcium-Ion/new-api)|新一代大模型网关与 API 管理系统，支持 OpenAI、Claude、Gemini 等格式互转|
 |[OpenRouter](https://openrouter.ai/)|-|统一接口聚合数百个大模型，完全兼容 OpenAI 格式，自动故障转移与成本优选|
+|[Requesty](https://www.requesty.ai/)|-|托管的 OpenAI 兼容大模型网关，一个接口接入 30+ 家供应商的 600+ 模型，支持故障转移、负载均衡、缓存与费用统计；另提供 Anthropic Messages 接口与欧盟节点|
 |[Anthropic Claude API](https://docs.anthropic.com/en/home)|-|Anthropic 官方 Claude 模型 API 与开发者文档|
 |[Google Gemini API](https://ai.google.dev/gemini-api/docs)|-|Google 官方 Gemini 模型 API 与开发者文档|
 |[DeepSeek API](https://api-docs.deepseek.com/)|-|DeepSeek 官方 API 平台，兼容 OpenAI（Chat Completions / Responses）与 Anthropic 格式，V4 系列 1M 上下文、峰谷计费与硬盘缓存；详见 [DeepSeek 生态指南](DeepSeek.md)|

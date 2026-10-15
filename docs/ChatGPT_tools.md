@@ -64,6 +64,7 @@
 | Consensus | [链接](https://consensus.app) | 学术搜索引擎，用 AI 从同行评审论文中提炼"科学共识" |
 | Otter.ai | [链接](https://otter.ai) | AI 会议纪要工具，支持实时转录、自动摘要、行动项提取与会中问答 |
 | Napkin AI | [链接](https://www.napkin.ai) | 把文字一键转成可编辑的图表、流程图与可视化，适合做演示 |
+| StudyArena | [链接](https://studyarena.com) | 面向学生的 AI 回答对比工具：免费比较同一问题的三个匿名回答，投票后查看模型名称 |
 | Jev 聊天助手 | [链接](https://github.com/jev-chat/jev-chat-jarvis) | 开源安卓聊天辅助决策工具，回复前先读当前聊天、判断对方意图和风险，起草候选回复并一键填进输入框，发不发由你；支持 QQ、飞书、X、WhatsApp，模型接口自己配 |
 
 ### ChatGPT 学习英语
