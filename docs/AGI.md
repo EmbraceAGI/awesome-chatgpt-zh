@@ -20,6 +20,7 @@
 | Claude Computer Use | [链接](https://www.anthropic.com/news/3-5-models-and-computer-use) | Anthropic 推出的电脑操作能力，Claude 通过"看屏幕、移动光标、点击、输入"直接操作计算机 |
 | AgentSpace | [GitHub](https://github.com/HKUDS/AgentSpace) | 港大数据智能实验室出品，"人 + 多 Agent，一个团队、一个工作空间"的统一协同工作台，让人类与多智能体在同一空间内分工协作 |
 | lemma-platform | [GitHub](https://github.com/lemma-work/lemma-platform) | 开源工作空间，让人类与 AI Agent 作为同一个团队协作（AGPL-3.0） |
+| Markus | [GitHub](https://github.com/markus-global/markus) | 开源的 AI 劳动力平台（AI workforce platform），用于组建并运营由多个 AI Agent 组成的「数字员工」团队，支持角色系统、任务分解与委派、跨会话持久记忆与 Agent 间通信，可自托管（Apache-2.0） |
 
 ### AGI 相关基准与研究
 
