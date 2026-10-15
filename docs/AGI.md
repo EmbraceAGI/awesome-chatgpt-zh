@@ -31,6 +31,7 @@
 | ARC Prize / ARC-AGI | [链接](https://arcprize.org/) | 专注"人类轻松、机器困难"的抽象推理基准，已成为各大厂在模型卡中公开报告的行业基准 |
 | GAIA benchmark | [链接](https://huggingface.co/gaia-benchmark) | Meta FAIR、HuggingFace、AutoGPT 等提出的"通用 AI 助手"基准，466 道真实世界问题，考察推理、多模态、网页浏览与工具使用 |
 | GAIA 论文 | [arxiv](https://arxiv.org/abs/2311.12983) | GAIA 原始论文，主张 AGI 的关键在于系统能否在"对人类简单"的问题上展现与普通人相当的稳健性 |
+| awesome-llm-agent-papers | [GitHub](https://github.com/js-lee-AI/awesome-llm-agent-papers) | 综述《LLM Agents: A Survey》的配套论文清单，按规划与推理、记忆、工具使用、多智能体协作以及评测与安全分类整理，每篇论文附一句说明，提供简体中文版 |
 
 ### 经典自主 Agent（历史）
 
