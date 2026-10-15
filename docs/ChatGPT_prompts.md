@@ -321,6 +321,7 @@ DAN越狱提示成功例图：
 ## [ChatGPT 游戏](https://github.com/EmbraceAGI/AIGoodGames)
 
 ## ChatGPT 对话实例
+### [把研究长文改成中文听稿：保留表格与证据限制的教学示例](../examples/Chinese_listening_script.md)
 ### [ChatGPT 协助快速完成 markdown 表格](examples/help_make_Markdown_table.md)
 ### [ChatGPT 教你一步一步实现 CIFAR10 数据集图像分类任务](examples/ImageClassificationCifar10Tutorials_ChatGPT.md)
 ### [一句话让 ChatGPT 帮助你实现 YOLO 目标检测](examples/YOLOV4.md)
