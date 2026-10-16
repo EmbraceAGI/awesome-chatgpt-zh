@@ -56,6 +56,7 @@ MCP（Model Context Protocol，模型上下文协议）是 Anthropic 于 2024 �
 |Chrome DevTools MCP（Google 官方）|[GitHub](https://github.com/ChromeDevTools/chrome-devtools-mcp)|Google 官方 MCP，让 Agent 控制真实 Chrome 做调试、性能分析与浏览器自动化。|
 |ExecuteAutomation Playwright MCP|[GitHub](https://github.com/executeautomation/mcp-playwright)|流行的 Playwright MCP 实现，支持浏览器与 API 自动化。|
 |Browser MCP|[GitHub](https://github.com/browsermcp/mcp)|让 Claude/Cursor/VS Code/Windsurf 等控制你本地浏览器的 MCP server。|
+|CurlShot MCP|[链接](https://curlshot.com/docs/guides/ai-agents)|CurlShot 托管的网页截图 MCP，端点 curlshot.com/api/mcp，以 Bearer API Key 鉴权；take_screenshot 直接返回 PNG/JPEG/WebP 图片，也支持 PDF 与滚动视频，内置手机/平板/桌面设备预设；免费额度每月 100 张，无需信用卡。|
 
 ### MCP Servers — 开发与版本控制
 
