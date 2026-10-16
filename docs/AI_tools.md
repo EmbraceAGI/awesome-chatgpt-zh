@@ -60,6 +60,7 @@
 
 ### AI 写作
 
+- [AI Novel Writer](https://github.com/EthanYoQ/AI-Novel-Writer) - 开源小说创作桌面软件，把人物、世界观、大纲、章节草稿和修稿放在同一项目；支持 Windows/macOS 和自配本地或在线模型，当前为预览版。
 - [Notion AI](https://www.notion.so/product/ai) — 内嵌于 Notion 工作区的 AI 写作层，与笔记和文档无缝协作。
 - [Jasper](https://www.jasper.ai) — 面向营销团队的 AI 写作平台，主打品牌语气与规模化产出。
 - [Grammarly](https://www.grammarly.com) — 跨平台英文写作助手，专注语法纠错与表达润色。
