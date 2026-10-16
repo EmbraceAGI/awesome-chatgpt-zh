@@ -70,6 +70,7 @@ MCP（Model Context Protocol，模型上下文协议）是让 AI 无缝连接外
 ## [Coding Agents 编程智能体](docs/Coding_Agents.md)
 
 以 Claude Code、OpenAI Codex 为代表的编程智能体能自主读写代码库、运行命令与提交 PR。本节汇总主流终端/IDE 编码 Agent、自主软件工程 Agent、评测基准与学习资源。
+实践参考：[Opus 5.5 视频提示词中文精选](https://github.com/wutuobangai/happy-ai-opus55-video-prompts)，包含 30 条带原作者出处和 GIF 预览的中文／原文提示词，并提供 [927 条案例浏览入口](https://wutuobangai.top/opus55-video-prompts.html)，可用于学习如何向编程智能体描述动效、科普动画和产品演示。
 
 ## [Agent-First 为智能体而构建](docs/Agent_First.md)
 
