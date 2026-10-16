@@ -87,6 +87,7 @@
 
 ### AI 会议/效率
 
+- [InvoiceFlowAI](https://github.com/EthanYoQ/Invoice-Downloader) - 开源发票整理桌面软件，收集 QQ/163 邮箱或本地发票，识别并留待人工核对后汇总到 Excel；提供 Windows 和 Apple Silicon macOS 下载，外部识别服务需另行配置。
 - [flowith](https://flowith.io) — 基于二维画布的 AI 工作空间，可同时与多个模型协作深度工作。
 - [Napkin AI](https://www.napkin.ai) — 把文字一键转为信息图与可视化图表的 AI 工具。
 - [Otter.ai](https://otter.ai) — 实时会议转录与摘要 AI，自动生成纪要、洞察与行动项。
