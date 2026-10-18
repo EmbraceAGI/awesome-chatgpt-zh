@@ -404,4 +404,8 @@ Chat-GPT 超级挂件，以侧边窗口的形式提供服务，可以在阅读�
 
 [ChatGPT 用法和 APP](https://gpt3demo.com/)
 ![gpt3_demo](imgs/gpt3_demo.jpg)
+
 [一个十分全面的 AI 工具合集文档](https://bytedance.feishu.cn/base/AIMAbnJxQaNgSGsBAtwcdAkLnvf)
+### [Runi: 开源浏览器 AI 助手（BYOK）](https://github.com/OmniMindNB/ai-assistant-for-browsers)
+
+开源浏览器 AI 侧边栏助手，自带 API Key 接 OpenAI 兼容与 Anthropic 接口：网页问答、划词提问、一句话自动填表，数据只存本地。
