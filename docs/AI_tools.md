@@ -96,3 +96,7 @@
 AI研究所：一个收录 AI 相关工具和AI资讯的中文网站
 
 ![ai_yjs](imgs/ai_yjs.jpg)
+
+### [WarpNav 曲速导航](https://warpnav.com/)
+
+WarpNav 曲速导航：中文 AI 工具与开源项目导航，按视频、图像、写作、编程等场景整理 AI 应用的官方入口，另有 GitHub 开源项目解读和 Token、上下文窗口等 AI 入门科普，免费浏览。
