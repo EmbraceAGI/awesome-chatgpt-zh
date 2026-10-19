@@ -68,6 +68,7 @@
 | StudyArena | [链接](https://studyarena.com) | 面向学生的 AI 回答对比工具：免费比较同一问题的三个匿名回答，投票后查看模型名称 |
 | Jev 聊天助手 | [链接](https://github.com/jev-chat/jev-chat-jarvis) | 开源安卓聊天辅助决策工具，回复前先读当前聊天、判断对方意图和风险，起草候选回复并一键填进输入框，发不发由你；支持 QQ、飞书、X、WhatsApp，模型接口自己配 |
 | GPT Skin | [链接](https://gptskin.app/) | 第三方 macOS Codex 主题包生成器：在浏览器本地选择图片、预览并导出安装包，无需账号；ChatGPT 与 Claude 页面主要提供视觉原型，安装兼容性需分别确认 |
+| AI观潮 | [链接](https://aiguanchao.com/) | AI 新闻精选站：每天从上千个信息源的几千条 AI、科技和时事新闻里挑出值得看的，附中文总结和原文链接；另有早晚两期 AI 日报、热门事件追踪和大模型排行榜，网页和 RSS 免费 |
 
 ### ChatGPT 学习英语
 
