@@ -56,6 +56,7 @@
 | NotebookLM | [链接](https://notebooklm.google.com) | Google 的"基于来源"AI 研究笔记本，回答严格基于上传资料、不编造引用，可一键生成播客式音频概览 |
 | GPTs / GPT Store | [链接](https://chatgpt.com/gpts) | OpenAI 官方应用商店，无需写代码即可创建和分享定制版 ChatGPT，覆盖海量场景 |
 | Perplexity | [链接](https://www.perplexity.ai) | AI 搜索引擎，每条答案都带可点击出处，内置 Deep Research 与学术模式 |
+| CatCatCode | [链接](https://catcatcode.com) | 不用翻墙也能稳定用上 GPT 和 Claude：注册拿密钥，按教程改 Claude Code / Codex 等即可用；月费 99 / 199 / 299 |
 | ChatDOC | [链接](https://chatdoc.com) | 文档对话工具，支持 PDF/Word/EPUB/网页/扫描件，能定位原文出处、总结长文档 |
 | AskYourPDF | [链接](https://askyourpdf.com) | 老牌 PDF 对话应用，支持多格式上传后提问抽取要点 |
 | GPT Researcher | [链接](https://github.com/assafelovic/gpt-researcher) | 开源自主研究 Agent，自动联网检索、交叉验证并生成带引用的研究报告 |
