@@ -68,6 +68,7 @@
 | StudyArena | [链接](https://studyarena.com) | 面向学生的 AI 回答对比工具：免费比较同一问题的三个匿名回答，投票后查看模型名称 |
 | Jev 聊天助手 | [链接](https://github.com/jev-chat/jev-chat-jarvis) | 开源安卓聊天辅助决策工具，回复前先读当前聊天、判断对方意图和风险，起草候选回复并一键填进输入框，发不发由你；支持 QQ、飞书、X、WhatsApp，模型接口自己配 |
 | GPT Skin | [链接](https://gptskin.app/) | 第三方 macOS Codex 主题包生成器：在浏览器本地选择图片、预览并导出安装包，无需账号；ChatGPT 与 Claude 页面主要提供视觉原型，安装兼容性需分别确认 |
+| PlaceCall | [链接](https://voygr.tech/placecall/) | 让 AI 智能体替你给美国商家拨打真实电话（订位、预约、咨询、询价）：能走 IVR 语音菜单、等待和转接，通话中可回头向你确认问题，结束后返回结构化结果、通话转录与录音；提供 REST API、远程 MCP 服务器和 Agent Skill，付费 API，按通话结果计费 |
 
 ### ChatGPT 学习英语
 
