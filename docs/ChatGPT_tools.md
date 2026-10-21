@@ -68,7 +68,7 @@
 | StudyArena | [链接](https://studyarena.com) | 面向学生的 AI 回答对比工具：免费比较同一问题的三个匿名回答，投票后查看模型名称 |
 | Jev 聊天助手 | [链接](https://github.com/jev-chat/jev-chat-jarvis) | 开源安卓聊天辅助决策工具，回复前先读当前聊天、判断对方意图和风险，起草候选回复并一键填进输入框，发不发由你；支持 QQ、飞书、X、WhatsApp，模型接口自己配 |
 | GPT Skin | [链接](https://gptskin.app/) | 第三方 macOS Codex 主题包生成器：在浏览器本地选择图片、预览并导出安装包，无需账号；ChatGPT 与 Claude 页面主要提供视觉原型，安装兼容性需分别确认 |
-| 回声（echo agent） | [链接](https://echoagent.dev/zh/) | Mac 语音 AI Agent（Windows 版测试中）：任何应用里按 Fn+Space 说一句，本机识别中英文，能直接回答、截当前窗口看图回答，或把编程任务交给本机的 Claude Code、Codex 后台跑；闭源免费，登录后每天可免费用内置模型，也可填自己的 API Key |
+| 回声（echo agent） | [链接](https://echoagent.dev/zh/) | 跨 Mac、Windows 和手机的语音 AI Agent（Windows 版测试中）：任何应用里按快捷键说一句，本机识别中英文，能直接回答、截当前窗口看图回答，或把编程任务交给本机的 Claude Code、Codex 后台跑，手机 App 可远程派活；闭源免费，登录后每天可免费用内置模型，也可填自己的 API Key |
 
 ### ChatGPT 学习英语
 
