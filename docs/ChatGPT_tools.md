@@ -68,6 +68,7 @@
 | StudyArena | [链接](https://studyarena.com) | 面向学生的 AI 回答对比工具：免费比较同一问题的三个匿名回答，投票后查看模型名称 |
 | Jev 聊天助手 | [链接](https://github.com/jev-chat/jev-chat-jarvis) | 开源安卓聊天辅助决策工具，回复前先读当前聊天、判断对方意图和风险，起草候选回复并一键填进输入框，发不发由你；支持 QQ、飞书、X、WhatsApp，模型接口自己配 |
 | GPT Skin | [链接](https://gptskin.app/) | 第三方 macOS Codex 主题包生成器：在浏览器本地选择图片、预览并导出安装包，无需账号；ChatGPT 与 Claude 页面主要提供视觉原型，安装兼容性需分别确认 |
+| Creatos | [链接](https://creatos.io) | macOS / Windows 桌面应用：同一个问题同时发给 Claude、GPT 和 Gemini，几个回答并排放在画布上，旁边放着你的 PDF 和笔记，方便对照原文挑答案；可接自己的 API Key 或本地 Ollama 模型。闭源，付费（$69 一次性买断），新下载有 7 天免费试用 |
 
 ### ChatGPT 学习英语
 
