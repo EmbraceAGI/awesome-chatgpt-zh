@@ -51,6 +51,7 @@
 
 | 名称 | 链接 | 简介 |
 |------|------|------|
+| Browser Use Cloud | [官网](https://browser-use.com/) ・[文档](https://docs.browser-use.com/cloud/quickstart) | browser-use 官方云端浏览器基础设施：托管隐身 Chromium，支持 Playwright/Puppeteer/Selenium/Stagehand 通过 CDP 直连，含住宅代理、验证码处理、持久化 profile 与实时画面，按浏览器小时计费 |
 | Steel / steel-browser | [GitHub](https://github.com/steel-dev/steel-browser) | 开源"为 Agent 打造的浏览器 API"，开箱即用浏览器沙箱，封装会话/代理/扩展/反检测，支持 Puppeteer/Playwright/Selenium |
 | Browserbase | [官网](https://www.browserbase.com/) | 为 AI Agent 而生的云端浏览器基础设施（Stagehand 出品方） |
 | Browserless | [官网](https://www.browserless.io/) | 远程 Chrome 服务，支持 Playwright/Puppeteer/Selenium，可自托管 |
@@ -62,6 +63,7 @@
 
 | 名称 | 链接 | 简介 |
 |------|------|------|
+| Browser Use MCP（官方） | [文档](https://docs.browser-use.com/cloud/guides/mcp-server) | browser-use 官方 MCP server，托管版（Streamable HTTP）在 Browser Use Cloud 浏览器上运行浏览器 Agent 任务，也可通过 `uvx --from 'browser-use[cli]' browser-use --mcp` 本地运行 |
 | Chrome DevTools MCP（Google 官方） | [GitHub](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 官方 MCP，让编码 Agent 控制并检视真实 Chrome（性能分析、网络调试、自动化、截图），可对接 Claude/Copilot/Cursor/Gemini |
 | Playwright MCP（微软官方） | [GitHub](https://github.com/microsoft/playwright-mcp) | 微软官方 Playwright MCP，基于可访问性树驱动真实浏览器，比截图方案更快更可靠 |
 | Browser MCP | [GitHub](https://github.com/browsermcp/mcp) | MCP server，让 Claude/Cursor/VS Code/Windsurf 等控制你本地的浏览器 |
