@@ -61,6 +61,7 @@ Claude Skills（Agent Skills）是 Anthropic 推出的让 AI 智能体按需加�
 |petergyang/no-ai-slop|[GitHub](https://github.com/petergyang/no-ai-slop)|去除写作中 20+ 种「AI 味」套路而不抹平个人语气的技能（MIT）。|
 |firecrawl/anydoc（skill）|[GitHub](https://github.com/firecrawl/anydoc)|Firecrawl 的文档转 Markdown 库以 Agent Skill 形式分发，让 Agent 直接读懂 Word / PPT / Excel / PDF / EPUB。|
 |Finderchangchang/brewreel|[GitHub](https://github.com/Finderchangchang/brewreel)|精酿 BrewReel：让 DeepSeek 等低成本模型也能做竖版宣传片的 Agent Skill。写一份产品简报，模型选镜头、写文案，一条命令用 Remotion 渲染 1080×1920 成片；3 种风格配方、6 个行业包（内置广告法校验）、出片质检、中英双语（Apache-2.0）。|
+|YYLO Skills|[GitHub](https://github.com/yylo-dev/yylo-skills)|YYLO 官方技能仓库（MIT）：维护 YYLO CLI / Ledger / Benchmark 所用的 8 个可复用、独立版本化 Agent 技能（Ledger 任务、Wiki、工作流、工件证据、基准评测、项目理解、任务规划、Ralph 循环），技能名均以 -yylo 结尾；npx skills add yylo-dev/yylo-skills 一键安装到 Claude Code、Codex、Pi 等，也可作为 Claude Code 插件一键添加。|
 
 ### DeepSeek Harness 技能生态
 
