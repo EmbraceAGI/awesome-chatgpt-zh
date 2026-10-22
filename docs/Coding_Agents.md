@@ -89,6 +89,7 @@
 | Plandex | [GitHub](https://github.com/plandex-ai/plandex) | 面向大型项目的开源终端 AI 编码 Agent，支持超大上下文与累积 diff 沙箱审查 |
 | Devika | [GitHub](https://github.com/stitionai/devika) | 早期开源的"Agentic 软件工程师"实现，曾作为 Devin 的开源替代 |
 | open-code-review | [GitHub](https://github.com/alibaba/open-code-review) | 阿里开源、经大规模实战检验的代码评审工具，采用"确定性流水线 + LLM Agent"混合架构，给出精确到行的评审意见，内置 NPE、线程安全、XSS、SQL 注入等规则集，兼容 OpenAI 与 Anthropic |
+| Orbi | [GitHub](https://github.com/orbi-build/orbi) ・[官网](https://orbi.build/zh/?ref=dir-awesome-chatgpt-zh) | 开源（AGPL-3.0）的 GitHub 交付工具：给 Issue 打上 ai-ready 标签后，编程 Agent 在隔离工作区实现需求、运行测试并开 PR，另一个 AI 会话评审通过后合并；可自托管，也有托管版 Orbi Cloud |
 
 ## 编码 Agent 评测基准
 
