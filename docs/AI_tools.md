@@ -44,6 +44,7 @@
 - [可灵 Kling](https://klingai.kuaishou.com) — 快手国产视频大模型，人物动作真实、可生成长时长视频。
 - [Vidu](https://www.vidu.cn) — 生数科技与清华联合出品的国产文生视频模型。
 - [海螺 Hailuo](https://hailuoai.com/video) — MiniMax 出品的国产视频生成工具，画面流畅、效果稳定。
+- [pitchboom.io](https://pitchboom.io) — AI 动态设计（motion design）视频广告工作室：粘贴产品网址或两行简介，生成脚本和可编辑、确认后再渲染的分镜，配上旁白（34 种语言）与配乐，输出 16:9、9:16、1:1、4:5、3:4 的 1080p MP4（各画幅重新排版而非裁切）；注册即送 500 积分（每人一次，无需绑卡），付费订阅 €30/月起（不含税）。
 
 ### AI 编程/IDE
 
