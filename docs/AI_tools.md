@@ -7,7 +7,7 @@
 - [ChatGPT](https://chat.openai.com) — OpenAI 推出的通用 AI 对话助手，生成式 AI 浪潮的引爆者。
 - [Claude](https://claude.ai) — Anthropic 出品，长文本理解、写作与代码能力出众的安全型助手。
 - [Gemini](https://gemini.google.com) — Google 的多模态大模型，深度集成谷歌全家桶。
-- [Grok](https://grok.com) — xAI（马斯克）推出，强调实时信息与个性化的对话助手。
+- [Grok](https://grok.com) — xAI（马斯克）推出，强调实时信息与个性化的对话助手；同属 xAI 的 Grok Bot（自带云电脑、能跑定时任务的 AI 助手）有非官方中文入门教程 [Grok Bot 从 0 到 1](https://grokguide.si)。
 - [DeepSeek](https://www.deepseek.com) — 国产开源大模型代表，V4 系列推理、数学与编码能力比肩顶级闭源模型，网页与 App 免费；详见 [DeepSeek 生态指南](DeepSeek.md)。
 - [Kimi](https://kimi.moonshot.cn) — 月之暗面出品，擅长超长文本处理与深度推理的国产助手。
 - [豆包](https://www.doubao.com) — 字节跳动推出的国产 AI 助手，用户规模领先，多模态全能。
