@@ -44,6 +44,7 @@
 - [可灵 Kling](https://klingai.kuaishou.com) — 快手国产视频大模型，人物动作真实、可生成长时长视频。
 - [Vidu](https://www.vidu.cn) — 生数科技与清华联合出品的国产文生视频模型。
 - [海螺 Hailuo](https://hailuoai.com/video) — MiniMax 出品的国产视频生成工具，画面流畅、效果稳定。
+- [Wizmade](https://wizmade.si) — 一站式多模型 AI 视频与生图创作平台，聚合 Kling、Veo 3.1、Seedance、FLUX 等前沿模型，提供文生视频、图生视频与爆款视频特效。
 
 ### AI 编程/IDE
 
