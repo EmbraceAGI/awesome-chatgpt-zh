@@ -142,6 +142,7 @@
 | WebVoyager | [GitHub](https://github.com/MinorJerry/WebVoyager) | 基于多模态大模型的网页 Agent 与基准，含 15 个真实网站、600+ 任务 |
 | Mind2Web | [GitHub](https://github.com/OSU-NLP-Group/Mind2Web) | 首个通用网页 Agent 基准，覆盖 137 个网站、31 个领域、2000+ 任务 |
 | ClawBench | [GitHub](https://github.com/TIGER-AI-Lab/ClawBench) | 面向真实在线任务的浏览器 Agent 基准，V1/V2 共 283 个任务；隔离运行并记录视频、截图、HTTP 流量、浏览器动作与 Agent 消息，便于端到端评测和失败分析 |
+| WebsiteBench | [GitHub](https://github.com/TIGER-AI-Lab/WebsiteBench) | 评测 Agent 通过浏览器探索后重建全栈网站的能力，采用原生 Harbor 任务与独立验证器，检查重建网站的外观和行为 |
 | OSWorld | [GitHub](https://github.com/xlang-ai/OSWorld) | 真实计算机环境中评测多模态 Agent 的开放式桌面任务基准 |
 | AndroidWorld | [GitHub](https://github.com/google-research/android_world) | 运行在真实 Android 模拟器上的移动端 Agent 基准 |
 | GAIA | [链接](https://huggingface.co/datasets/gaia-benchmark/GAIA) | 通用 AI 助手基准（含网页浏览任务），466 题分 3 个难度等级 |
