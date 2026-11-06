@@ -58,6 +58,7 @@
 | gpt4o-image-prompts | [GitHub](https://github.com/songguoxs/gpt4o-image-prompts) | GPT-4o / GPT Image / Nano Banana 中文提示词合集 |
 | awesome-gpt4o-images | [GitHub](https://github.com/jamez-bondos/awesome-gpt4o-images) | GPT-4o 与 gpt-image-1 生成图与提示词精选 |
 | Awesome-GPT-Image-2-API-Prompts | [GitHub](https://github.com/Anil-matcha/Awesome-GPT-Image-2-API-Prompts) | 针对 `gpt-image-2` API 的提示词合集：人像、海报、UI 稿、游戏截图等 |
+| AgentCraft GPT Image 2.6 提示词 | [链接](https://agentcraft.dev/zh/prompts/image/gpt-image-2-6/) | 64 条 GPT Image 2.6 提示词，原样摘自 OpenAI 官方指南和创作者帖子，每条附成图（含 GIF 动图）和出处，中英双语 |
 | Nano-Bananary（香蕉超市） | [GitHub](https://github.com/ZHO-ZHO-ZHO/Nano-Bananary) | 各种 Nano Banana 玩法一键生成，无需写提示词，支持局部涂选与连续编辑 |
 | 多模态 prompts 精选 | [GitHub](https://github.com/yzfly/Awesome-Multimodal-Prompts) | 本项目作者维护的多模态（图像 / 视频）提示词合集 |
 
