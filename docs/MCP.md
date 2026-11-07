@@ -71,6 +71,7 @@ MCP（Model Context Protocol，模型上下文协议）是 Anthropic 于 2024 �
 |Godot-MCP|[GitHub](https://github.com/IvanMurzak/Godot-MCP)|Godot 编辑器插件（Apache-2.0）：让 Claude / Cursor / Copilot 创建节点、编辑场景、驱动项目，是 Unity-MCP 的 Godot 版。|
 |figwright|[GitHub](https://github.com/awdr74100/figwright)|免费的双向 Figma MCP：设计稿→框架感知代码，也能把代码改动推回画布，配套 Figma 插件而非 Dev Mode 席位。|
 |OrcaReplay|[GitHub](https://github.com/Continuum-AI-Corp/OrcaReplay)|把录制下来的 coding agent 运行开放给 Agent 读取：在进程与 socket 层记录，模型请求、shell 退出码、每轮文件变更与 MCP 调用在同一条时间线上；可断网离线逐字节重放，或从任一检查点分叉到另一个模型。Apache-2.0。|
+|Oh My Android|[GitHub](https://github.com/ateymoori/oh-my-android)|免费开源的 macOS 原生应用（MIT），用于控制 Android 模拟器和真机；内置 stdio MCP server（18 个工具），让 Claude Code、Codex、Cursor 查看并操作模拟器（UI 树坐标使用 dp）。|
 
 ### MCP Servers — 数据库与文件
 
