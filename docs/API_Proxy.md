@@ -49,6 +49,7 @@
 
 | 名称 | 链接 | 简介 |
 |------|------|------|
+| Teapot Router | [链接](https://teapotrouter.com/) | 面向 coding agent 的双协议网关：一个 Key 同时接入 Anthropic 协议（Claude Code 直连）与 OpenAI 协议（/v1），按量计费 $1 起充，余额永不过期，价格表公开且机器可读，站内模型实验室可先测再充 |
 | OpenRouter | [链接](https://openrouter.ai/) | 最大的模型聚合平台，一个 Key 调用数百个模型，OpenAI 兼容，自动故障转移 |
 | Requesty | [链接](https://www.requesty.ai/) | 托管的 OpenAI 兼容网关，接入 30+ 家供应商 |
 | 硅基流动 SiliconFlow | [链接](https://siliconflow.cn/) | 国内模型推理云，开源模型 API 价格低，部分模型免费 |
