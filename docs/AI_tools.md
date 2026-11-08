@@ -49,6 +49,7 @@
 - [海螺 Hailuo](https://hailuoai.com/video) — MiniMax 出品的国产视频生成工具，画面流畅、效果稳定。
 - [VideoCreate](https://videocreate.org/) — 上传参考视频，逐镜头拆解并生成适配 Seedance、Kling、Wan 的提示词，也可在站内按次生成视频；分析有免费额度，无订阅。
 - [pitchboom.io](https://pitchboom.io) — AI 动态设计（motion design）视频广告工作室：粘贴产品网址或两行简介，生成脚本和可编辑、确认后再渲染的分镜，配上旁白（34 种语言）与配乐，输出 16:9、9:16、1:1、4:5、3:4 的 1080p MP4（各画幅重新排版而非裁切）；注册赠送免费积分（无需绑卡），付费订阅 €30/月起（不含税）。
+- [Imagera](https://imagera.ai) — 网页端 AI 图片、视频、配音与音乐创作工作室：同一工作区并排运行多款主流图像和视频模型，每次生成前先显示积分价格；Character ID 让同一张脸或同一产品在多张图片和多段视频中保持一致，AI Smart Director 可把一句提示词做成带分镜、剪辑、配乐和旁白的多镜头短片；付费订阅（积分制）。
 
 ### AI 编程/IDE
 
@@ -62,6 +63,7 @@
 - [bolt.new](https://bolt.new) — StackBlitz 出品的全栈 AI 开发平台，从提示到可运行 Demo 极快。
 - [Grok Build](https://github.com/xai-org/grok-build) — xAI 开源的终端编码 Agent，全屏 TUI，Apache-2.0。
 - [OpenWorker](https://github.com/andrewyng/openworker) — 吴恩达开源的桌面 AI 同事，交付成品而非聊天，模型无关、本机运行。
+- [Imagera Code](https://imagera.ai/code) — 在终端运行的 AI 编程 Agent：读写项目代码、运行命令和测试，支持非交互运行（`imagera-code run`，用于脚本和 CI），可把 MCP 服务器作为工具；一个订阅可用 Claude、GPT、Gemini 等数百个模型，额度每 3 小时重置并有每周上限，付费订阅 $20/月起。
 
 ### AI 写作
 
