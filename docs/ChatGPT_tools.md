@@ -408,6 +408,7 @@ Chat-GPT 超级挂件，以侧边窗口的形式提供服务，可以在阅读�
 * [让 ChatGPT 联网: WebChatGPT](https://github.com/qunash/chatgpt-advanced)
 * [ChatShell（拾贝）](https://www.chatshellexport.com/)：在浏览器本地将 ChatGPT 对话导出为 PDF、DOCX、Markdown 和 JSON，支持批量导出并保留 LaTeX 公式、代码块与表格。
 * [Chat2Doc](https://chat2doc.net/zh)：Chrome 浏览器扩展，一键将 ChatGPT、Claude、Gemini、DeepSeek、Grok 对话导出为 PDF、Word、Markdown、JSON 和 CSV，保留代码块、表格与 LaTeX 公式；免费版每天 3 次导出，Pro 版解锁 Word 与无限导出。
+* [Ownchats](https://chromewebstore.google.com/detail/ownchats-chatgpt-to-word/fbnkhblhmbmamjocagnjelbjhmklhinn)：Chrome 浏览器扩展，在本地将 ChatGPT 和 Claude 对话导出为 Word、PDF、Markdown 和 HTML，并核对消息条数、提示缺失内容。
 
 ### 更多工具
 
