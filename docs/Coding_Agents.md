@@ -43,6 +43,7 @@
 | opencodex | [GitHub](https://github.com/lidge-jun/opencodex) | Codex / Claude Code 的通用模型代理（MIT）：两条命令即可让这两个官方 Agent 跑任意 LLM（Claude、Gemini、Grok、DeepSeek、Ollama 本地模型等） |
 | YYLO | [GitHub](https://github.com/yylo-dev/yylo) | 开源命令行编码 Agent 编排器（MIT）：编排可重复工作流与带回执的仓库变更，提供类型化任务、验证、合并与发布就绪边界；每个任务在独立分支/worktree 中由子 Agent（如 Pi 与 Codex）执行实现，合并队列按风险分级审查 |
 | TeamoRouter | [官网](https://teamorouter.com/docs/api-integration) ・[中文站](https://teamorouter.cn) | 模型接入方案（托管服务，非开源项目）：GPT-6 Astra / Claude / Gemini 多模型兼容网关，支持 Alipay / WeChat 充值，提供 Codex 与 Claude Code 的配置教程（Astra 模型 ID `gpt-6-astra`） |
+| HopBase | [官网](https://hop-base.com) ・[Claude Code 接入](https://hop-base.com/zh-cn/docs/tools/claude-code) | 模型接入方案（托管服务，非开源项目）：多模型 API 网关，一个 Base URL 调用 Claude / GPT / Gemini / DeepSeek / 千问等模型，兼容 OpenAI、Anthropic、Gemini 三种接口格式，提供 Claude Code 与 Codex 的配置教程 |
 
 ## IDE / 编辑器编码 Agent
 
