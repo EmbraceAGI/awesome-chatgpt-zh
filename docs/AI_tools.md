@@ -63,7 +63,7 @@
 - [bolt.new](https://bolt.new) — StackBlitz 出品的全栈 AI 开发平台，从提示到可运行 Demo 极快。
 - [Grok Build](https://github.com/xai-org/grok-build) — xAI 开源的终端编码 Agent，全屏 TUI，Apache-2.0。
 - [OpenWorker](https://github.com/andrewyng/openworker) — 吴恩达开源的桌面 AI 同事，交付成品而非聊天，模型无关、本机运行。
-- [Imagera Code](https://imagera.ai/code) — 在终端运行的 AI 编程 Agent：读写项目代码、运行命令和测试，支持非交互运行（`imagera-code run`，用于脚本和 CI），可把 MCP 服务器作为工具；一个订阅可用 Claude、GPT、Gemini 等数百个模型，额度每 3 小时重置并有每周上限，付费订阅 $20/月起。
+- [Imagera Code](https://imagera.ai/code) — 在终端运行的 AI 编程 Agent：读写项目代码、运行命令和测试，支持非交互运行（`imagera-code run`，用于脚本和 CI），可把 MCP 服务器作为工具；一个订阅可用 Claude、GPT、Gemini 等数百个模型，没有 3 小时锁定，只有每周额度，付费订阅 $20/月起。
 
 ### AI 写作
 
