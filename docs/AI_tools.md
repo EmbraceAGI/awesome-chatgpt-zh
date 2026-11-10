@@ -70,6 +70,7 @@
 - [Grammarly](https://www.grammarly.com) — 跨平台英文写作助手，专注语法纠错与表达润色。
 - [copy.ai](https://www.copy.ai) — 擅长批量生成营销文案、邮件与广告变体的 AI 写作工具。
 - [秘塔写作猫](https://xiezuocat.com) — 国产中文写作助手，主打纠错、改写与全文润色。
+- [Prompt Generator](https://trypromptgenerator.com) — 按你所选 AI 工具的语法生成提示词，支持 ChatGPT、Claude、Gemini、Midjourney、Nano Banana、Veo、Sora 等，也可上传图片反推提示词；免费使用，无需注册，每天 10 次。
 
 ### AI PPT/设计
 
