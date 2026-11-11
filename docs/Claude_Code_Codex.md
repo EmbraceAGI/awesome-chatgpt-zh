@@ -45,6 +45,7 @@ Claude Code（Anthropic）与 Codex（OpenAI）是 2025–2026 年最主流的�
 | 名称 | 链接 | 简介 |
 |------|------|------|
 | Happy | [GitHub](https://github.com/slopus/happy) | 开源（MIT）手机 / 桌面客户端，在一个 App 里编排 Claude、Codex 与 Grok，复用你已有的订阅，可随时随地遥控本机会话 |
+| KinetAios | [GitHub](https://github.com/phinn/KinetAios) ・[下载](https://github.com/phinn/KinetAios/releases) | 开源（GPL-3.0）Windows / macOS 桌面仪表盘：Claude Code 与 Codex 会话作为独立对话共存一窗，各自保留 CLI 会话续接（底层走官方 CLI），支持按会话切换模型、MCP 客户端与服务端、Skills、SQLite 本地历史全文检索，另含内置 ReAct 引擎可直连 API |
 | CloudCLI（Claude Code UI） | [GitHub](https://github.com/siteboon/claudecodeui) | 在手机与网页上使用 Claude Code、OpenCode、Cursor CLI 与 Codex，远程管理会话和项目 |
 | opcode（原 Claudia） | [GitHub](https://github.com/winfunc/opcode) | Claude Code 的桌面 GUI 与工具箱：自定义 agent、管理交互会话、运行后台 agent |
 | Orca | [GitHub](https://github.com/stablyai/orca) | 管理一整队编码 Agent 的工作台，用自己的订阅运行任意编码 Agent，桌面与移动端可用（约 11 万 star） |
