@@ -68,7 +68,7 @@
 | Playwright MCP（微软官方） | [GitHub](https://github.com/microsoft/playwright-mcp) | 微软官方 Playwright MCP，基于可访问性树驱动真实浏览器，比截图方案更快更可靠 |
 | Browser MCP | [GitHub](https://github.com/browsermcp/mcp) | MCP server，让 Claude/Cursor/VS Code/Windsurf 等控制你本地的浏览器 |
 | Stagehand | [GitHub](https://github.com/browserbase/stagehand) | "浏览器 Agent SDK"，可与 MCP 生态集成 |
-| agent-qa | [GitHub](https://github.com/vostride/agent-qa) · [官网](https://www.vostride.com) | 用自然语言运行 Web、Android 和 iOS 测试的 QA MCP，支持持久记忆与经验证的自我改进，并提供截图、控制台和网络证据 |
+| [agent-qa](https://vostride.com) | [GitHub](https://github.com/vostride/agent-qa) | 用自然语言运行 Web、Android 和 iOS 测试的 QA MCP，支持持久记忆与经验证的自我改进，并提供截图、控制台和网络证据 |
 
 ## 反检测 / 隐身浏览器（anti-bot / stealth）
 
