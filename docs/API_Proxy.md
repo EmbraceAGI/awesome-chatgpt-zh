@@ -52,5 +52,6 @@
 | OpenRouter | [链接](https://openrouter.ai/) | 最大的模型聚合平台，一个 Key 调用数百个模型，OpenAI 兼容，自动故障转移 |
 | Requesty | [链接](https://www.requesty.ai/) | 托管的 OpenAI 兼容网关，接入 30+ 家供应商 |
 | 硅基流动 SiliconFlow | [链接](https://siliconflow.cn/) | 国内模型推理云，开源模型 API 价格低，部分模型免费 |
+| Atlas Cloud | [链接](https://www.atlascloud.ai/) | 托管的多模型 API 平台，一个 Key 调用图像、视频与大语言模型；文本模型兼容 OpenAI 与 Anthropic 接口 |
 | Amazon Bedrock | [链接](https://aws.amazon.com/bedrock/) | AWS 托管的 Claude 等模型，Claude Code 原生支持 |
 | Google Vertex AI | [链接](https://cloud.google.com/vertex-ai) | Google Cloud 托管的 Gemini 与 Claude 模型，Claude Code 原生支持 |
