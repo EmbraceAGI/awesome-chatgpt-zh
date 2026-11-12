@@ -81,6 +81,7 @@
 - [GenOffice](https://github.com/genspark-ai/genoffice) — Genspark 开源的全功能 AI Office 套件（Word / Excel / PPT，macOS / Windows / Linux，Apache-2.0）。
 - [OpenKnowledge](https://github.com/inkeep/open-knowledge) — Inkeep 开源的 AI 原生 Markdown IDE / LLM wiki：所见即所得编辑、图谱、与 Claude / Codex / OpenCode 并排协作，自带 MCP 与 Skills。
 - [AdVariq](https://advariq.com) — 专为出海独立创作者与营销团队打造的 AI 广告图与宣传物料生成平台，支持复刻爆款广告结构与局部智能微调。
+- [objekto.io](https://objekto.io/en) — 用几句话、一张照片或一张草图描述想要的物品：AI 以参数化 CAD 逐个部件设计可打印的多部件 3D 模型，检查每个部件是否可打印，并提供爆炸图和装配指南；随后由工业 3D 打印工坊制造并配送（上线初期仅配送至法国）。注册赠送 2,000 积分（一次性，无需绑卡），付费订阅 €29/月起（含税）。
 
 ### AI 语音/音乐/数字人
 
