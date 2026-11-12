@@ -62,6 +62,7 @@ Claude Skills（Agent Skills）是 Anthropic 推出的让 AI 智能体按需加�
 |firecrawl/anydoc（skill）|[GitHub](https://github.com/firecrawl/anydoc)|Firecrawl 的文档转 Markdown 库以 Agent Skill 形式分发，让 Agent 直接读懂 Word / PPT / Excel / PDF / EPUB。|
 |Finderchangchang/brewreel|[GitHub](https://github.com/Finderchangchang/brewreel)|精酿 BrewReel：让 DeepSeek 等低成本模型也能做竖版宣传片的 Agent Skill。写一份产品简报，模型选镜头、写文案，一条命令用 Remotion 渲染 1080×1920 成片；3 种风格配方、6 个行业包（内置广告法校验）、出片质检、中英双语（Apache-2.0）。|
 |krisyangdev/motionboard|[GitHub](https://github.com/krisyangdev/motionboard)|38 个发布片镜头的代码复刻（HyperFrames，MIT），附 agent skill，`npx skills add krisyangdev/motionboard` 安装后让 Claude Code 给你的产品做发布片。|
+|wavegrain/wavegrain-mcp|[GitHub](https://github.com/wavegrain/wavegrain-mcp)|Wavegrain 的 Agent Skill 与托管 MCP 连接包：在 Claude、ChatGPT、Cursor 等工具里为品牌制作、排期并发布 TikTok 图文轮播和 Instagram 轮播帖；需要 Wavegrain 账号（MIT）。|
 
 ### DeepSeek Harness 技能生态
 
