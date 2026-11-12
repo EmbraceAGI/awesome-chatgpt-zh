@@ -54,3 +54,4 @@
 | 硅基流动 SiliconFlow | [链接](https://siliconflow.cn/) | 国内模型推理云，开源模型 API 价格低，部分模型免费 |
 | Amazon Bedrock | [链接](https://aws.amazon.com/bedrock/) | AWS 托管的 Claude 等模型，Claude Code 原生支持 |
 | Google Vertex AI | [链接](https://cloud.google.com/vertex-ai) | Google Cloud 托管的 Gemini 与 Claude 模型，Claude Code 原生支持 |
+| Kejike API 中转站 | [链接](https://www.kejike.top/) | OpenAI 兼容的托管中转:一个 Key 调用 GPT、Claude、Gemini、DeepSeek、Grok、Kimi、GLM 等模型族,可接入 Claude Code、Codex、Cursor 等客户端;按实际用量计费,价格与充值规则在站内控制台查看 |
