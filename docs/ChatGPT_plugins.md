@@ -1,5 +1,7 @@
 ## ChatGPT 扩展能力：GPTs / Actions / 工具
 
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Remote MCP server for searching 2,200+ North American live-music venues, load-in accessibility details, and booking contacts.
+
 > ⚠️ **ChatGPT Plugins（插件）已废弃。** OpenAI 于 2024 年 3 月 19 日停止新建插件会话，并在 2024 年 4 月 9 日彻底下线整个插件体系。原插件的能力现已由 **GPTs**（自定义 GPT，可附带指令、知识文件与能力）、**Actions**（让自定义 GPT 通过 OpenAPI Schema 调用外部 API，等价并超越原插件）以及 **GPT Store** 的分发机制取代。如需更通用、跨应用的工具与数据连接方式，推荐使用 **MCP（Model Context Protocol）**。因此本章不再涉及"插件 waitlist 申请"。
 
 ### 官方资源
