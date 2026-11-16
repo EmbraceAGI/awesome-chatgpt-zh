@@ -74,6 +74,7 @@
 | Kiro Crew | [GitHub](https://github.com/kirodotdev/KiroCrew) | AWS Kiro 团队开源的持久化开发工作区（Apache-2.0）：自学习、自进化、跨会话延续，桌面 / Web / CLI 三端，可通过 Slack、Discord 继续同一份工作 |
 | Kun（鲲） | [GitHub](https://github.com/KunAgent/Kun) | 本地优先的 AI 工作台：桌面 GUI 与终端 TUI 共用一个本地运行时，Code 模式（含 Design 画布）与 Work 模式（写作 / 资料 / 自动化），任务、审批、计划与证据始终连续 |
 | OpenScience | [GitHub](https://github.com/synthetic-sciences/openscience) | 开源 AI 科研工作台（Apache-2.0）：给定目标后自行读文献、写代码跑实验、整理结果并撰写报告 |
+| 5dive | [GitHub](https://github.com/5dive-ai/5dive) ・[官网](https://5dive.ai/) | 开源自托管的 AI 团队（MIT）：在你自己的 Linux 服务器上，把 Claude Code、Codex、OpenClaw、Hermes 等命令行智能体作为常驻服务运行，它们共享任务、互相分派并检查彼此的结果；可用手机 App、Telegram 或 Teams 指挥 |
 
 ## 自主软件工程 Agent（开源 / 产品）
 
