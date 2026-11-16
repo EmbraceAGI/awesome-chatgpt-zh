@@ -31,6 +31,7 @@ Claude Code（Anthropic）与 Codex（OpenAI）是 2025–2026 年最主流的�
 | **CC Switch** | [GitHub](https://github.com/farion1231/cc-switch) ・[官网](https://ccswitch.io) | 现象级跨平台桌面工具（Rust / Tauri，MIT，约 15 万 star）：一键切换 Claude Code、Codex、OpenCode、DeepSeek Harness 等的 API 供应商与配置，统一管理 MCP、Skills 与提示词 |
 | claude-code-router | [GitHub](https://github.com/musistudio/claude-code-router) | 本地 Agent 控制面：把 Claude Code 等 Agent 的请求按场景路由到不同模型（DeepSeek、Gemini、OpenRouter 等），可扩展能力与工具编排 |
 | claude-code-templates | [GitHub](https://github.com/davila7/claude-code-templates) | 一条命令安装 Claude Code 的 agents、命令、Hooks、MCP 与设置模板，附带监控面板 |
+| Folkbench Switch | [GitHub](https://github.com/Folkbench/folkbench) ・[官网](https://folkbench.com/switch?utm_source=github&utm_medium=awesome&utm_campaign=awesome-chatgpt-zh) | 开源桌面客户端（Tauri / Rust，Apache-2.0，macOS / Windows）：保存多家服务的 Base URL 与 API Key，预览配置差异后写入 Claude Code、Codex、Gemini CLI、Aider、OpenCode 等工具；切到第三方服务时暂存 Codex 官方凭据，切回自动恢复 |
 
 ## 用量统计与状态栏
 
