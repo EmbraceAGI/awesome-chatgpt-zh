@@ -257,6 +257,7 @@ V4 系列为开放权重，可自建服务。V4-Flash（13B 激活）是本地 /
 | 5ire | [GitHub](https://github.com/nanbingxyz/5ire) | 跨平台桌面助手，MCP 支持完善 |
 | eechat | [GitHub](https://github.com/Lucassssss/eechat) | 本地部署 DeepSeek-R1 等开源模型的桌面工具 |
 | Enconvo | [链接](https://www.enconvo.com/) | macOS AI 启动器 |
+| Tokeny | [链接](https://tokeny-ai.com/?utm_source=github&utm_medium=referral&utm_campaign=g1115-t01) | 桌面 AI Agent（Win/macOS/Linux，闭源免费），内置 DeepSeek 渠道，在本地文件夹里读写文件、生成 PPT/Excel/Word，支持 MCP 与定时任务 |
 
 ### 知识库 / RAG / 工作流平台
 
