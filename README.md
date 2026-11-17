@@ -92,7 +92,7 @@ Claude Code 与 Codex 的官方入口与周边工具：CC Switch 配置切换、
 
 ## [Coding Agents 编程智能体](docs/Coding_Agents.md)
 
-以 Claude Code、OpenAI Codex 为代表的编程智能体能自主读写代码库、运行命令与提交 PR。本节汇总主流终端/IDE 编码 Agent、自主软件工程 Agent、评测基准与学习资源。
+以 Claude Code、OpenAI Codex 为代表的编程智能体能自主读写代码库、运行命令与提交 PR。本节汇总主流终端/IDE 编码 Agent、自主软件工程 Agent、评测基准与学习资源，并整理 [Claude Code 源码衍生与架构重写项目](docs/Coding_Agents.md#claude-code-源码衍生与架构重写)，包括 CCB、Kode-CLI、Claurst、Claw Code Agent 等。
 
 ## [Agent-First 为智能体而构建](docs/Agent_First.md)
 

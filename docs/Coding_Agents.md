@@ -44,6 +44,32 @@
 | YYLO | [GitHub](https://github.com/yylo-dev/yylo) | 开源命令行编码 Agent 编排器（MIT）：编排可重复工作流与带回执的仓库变更，提供类型化任务、验证、合并与发布就绪边界；每个任务在独立分支/worktree 中由子 Agent（如 Pi 与 Codex）执行实现，合并队列按风险分级审查 |
 | TeamoRouter | [官网](https://teamorouter.com/docs/api-integration) ・[中文站](https://teamorouter.cn) | 模型接入方案（托管服务，非开源项目）：GPT-6 Astra / Claude / Gemini 多模型兼容网关，支持 Alipay / WeChat 充值，提供 Codex 与 Claude Code 的配置教程（Astra 模型 ID `gpt-6-astra`） |
 
+## Claude Code 源码衍生与架构重写
+
+围绕 Claude Code 内部实现发展的社区 Agent，包括源码还原后继续开发的项目，以及参考其行为或架构重新实现的项目。以下按项目 README 与作者说明区分来源关系（2026-11-16 核对），功能为项目描述，未逐一安装实测。
+
+### 源码还原与逆向衍生
+
+| 名称 | 链接 | 简介 |
+|------|------|------|
+| **Claude Code Best（CCB）** | [GitHub](https://github.com/claude-code-best/claude-code) | 非官方 Claude Code 源码复原与扩展工程，支持构建、调试、多模型接入、Goal 持续执行、多 Agent 编排、Computer Use、远程控制与监控，适合研究完整 Agent 工程 |
+| **Kode-CLI** | [GitHub](https://github.com/shareAI-lab/Kode-CLI) | 基于 Claude Code 早期逆向版本及后续逆向分析继续开发的编码 Agent；支持多模型协作、子 Agent、MCP、Skills 与插件，兼容 `.claude` 配置 |
+| Claude Code Buildable Research Fork | [GitHub](https://github.com/T-Lab-CUHKSZ/claude-code) | 基于 Claude Code 公开源码快照的研究分支，以 TypeScript + Bun 补齐构建系统，并为缺失模块提供兼容实现，方便修改、调试与研究 Agent 执行流程 |
+| ReplayCode | [GitHub](https://github.com/conghui/replaycode) | 基于 Claude Code v2.1.88 反编译源码，用 Node.js + esbuild 重建可运行 CLI，包含工具执行与多轮 Agent 循环；偏向历史版本研究 |
+
+Kode 的早期来源说明见作者的[项目介绍](https://github.com/shareAI-lab/mini-claude-code/blob/main/articles/v1%E6%96%87%E7%AB%A0.md)。
+
+### 架构重写与轻量实现
+
+| 名称 | 链接 | 简介 |
+|------|------|------|
+| **Claurst** | [GitHub](https://github.com/Kuberwastaken/claurst) | 从 Claude Code 行为规格出发的 Rust clean-room 重写，已发展为多模型终端编码 Agent，支持插件、Hooks、子 Agent、记忆与会话分叉 |
+| **Claw Code Agent** | [GitHub](https://github.com/HarnessLab/claw-code-agent) | 使用 Python 标准库重写 Claude Code Agent 架构，支持本地模型与 OpenAI 兼容接口、上下文压缩、嵌套 Agent、会话持久化与 Web GUI |
+| cc-mini | [GitHub](https://github.com/e10nMa2k/cc-mini) | Claude Code 的轻量 Python 实现，核心约 1,000 行，包含工具循环、Plan 模式、权限、会话恢复与上下文压缩，适合阅读核心逻辑和定制改造 |
+| Claw Code | [GitHub](https://github.com/ultraworkers/claw-code) | 从早期移植工程演化的 Agent harness，原地址为 `instructkr/claw-code`；当前以 Rust 为主实现，保留 Python 参考工作区，README 定位为由 Agent 自动维护的实验展示项目 |
+
+阅读完整工程可先看 CCB、Kode-CLI；用 Python 改造或接入本地模型可看 Claw Code Agent，快速理解核心循环可看 cc-mini；研究 Rust 终端 Agent 可看 Claurst。
+
 ## IDE / 编辑器编码 Agent
 
 | 名称 | 链接 | 简介 |

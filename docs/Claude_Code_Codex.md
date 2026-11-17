@@ -4,6 +4,8 @@ Claude Code（Anthropic）与 Codex（OpenAI）是 2025–2026 年最主流的�
 
 > 相关专题：[Coding Agents 编程智能体](Coding_Agents.md)（更多编码 Agent 横向对比）· [API 代理与模型路由](API_Proxy.md)（中转、网关、订阅转 API）· [Claude Skills 指南](Claude_Skills.md)
 
+> [Claude Code 源码衍生与架构重写](Coding_Agents.md#claude-code-源码衍生与架构重写)：CCB、Kode-CLI、Claurst、Claw Code Agent 等 8 个项目，按源码还原、逆向衍生与架构重写区分。
+
 ## 官方入口
 
 | 名称 | 链接 | 简介 |
