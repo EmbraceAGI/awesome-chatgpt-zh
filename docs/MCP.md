@@ -89,7 +89,7 @@ MCP（Model Context Protocol，模型上下文协议）是 Anthropic 于 2024 �
 |Context7 MCP|[GitHub](https://github.com/upstash/context7)|为 LLM 提供最新版本的库文档与代码示例，解决依赖文档过时问题。|
 |OpenOSINT|[GitHub](https://github.com/OpenOSINT/OpenOSINT)|AI 驱动的 OSINT 情报 Agent（MIT），19 个工具，提供 REPL、MCP server 与 CLI 三种用法。|
 |Serply MCP|[链接](https://serply.io/mcp)|Serply 托管的搜索与抓取 MCP，14 个工具覆盖 Google、Bing、Amazon、Reddit 与网页抓取；多数返回 Markdown，地图返回结构化数据；端点 api.serply.io/mcp，以 X-Api-Key 鉴权，提供免费额度且无需信用卡。|
-|Landed MCP|[GitHub](https://github.com/landedjobs/landed-mcp)|Landed 官方托管的远程 MCP 服务器（`https://mcp.landed.jobs/mcp`，Streamable HTTP，MIT，首次使用通过 OAuth 登录 landed 账号）：按角色、技能、资历、远程与薪资等条件搜索 AI 与科技岗位并按匹配度排序，读取职位申请表，获取免费面试准备资料；也可自托管。|
+|Landed MCP|[GitHub](https://github.com/landedjobs/landed-mcp)|Landed 官方托管的远程 MCP 服务器（`https://mcp.landed.jobs/mcp`，Streamable HTTP，MIT，首次使用通过 OAuth 登录 landed 账号）：按角色、技能、资历、远程与薪资等条件搜索 AI 与科技岗位并按匹配度排序，获取免费面试准备资料；也可自托管。|
 
 ### MCP Servers — 云平台与第三方官方服务
 
