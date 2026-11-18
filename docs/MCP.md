@@ -68,6 +68,7 @@ MCP（Model Context Protocol，模型上下文协议）是 Anthropic 于 2024 �
 |FastCtx|[GitHub](https://github.com/yc-duan/fastctx)|Rust 本地工具运行时（Apache-2.0）：为 Agent 提供省上下文的文件读取、内容搜索、批量替换与 Bash 执行，中英文档。|
 |Coding Tools MCP|[GitHub](https://github.com/xyTom/coding-tools-mcp)|模型中立的编码运行时，通过 MCP 给任意聊天 / Agent 一双「安全的手」操作代码库。|
 |x64dbg-MCP Server|[GitHub](https://github.com/duty1g/x64dbg-mcp-server)|Zig 编写的 x64dbg 原生插件（零依赖单文件），把调试器 84 个能力（反汇编、断点、内存、PE 分析等）暴露给 MCP，做 Agent 逆向。|
+|REA|[GitHub](https://github.com/morluto/rea)|本地 CLI 和 MCP 服务器，可分析原生二进制文件、JavaScript/Electron 应用和 .NET 程序集，并提供分析证据。|
 |Godot-MCP|[GitHub](https://github.com/IvanMurzak/Godot-MCP)|Godot 编辑器插件（Apache-2.0）：让 Claude / Cursor / Copilot 创建节点、编辑场景、驱动项目，是 Unity-MCP 的 Godot 版。|
 |figwright|[GitHub](https://github.com/awdr74100/figwright)|免费的双向 Figma MCP：设计稿→框架感知代码，也能把代码改动推回画布，配套 Figma 插件而非 Dev Mode 席位。|
 |OrcaReplay|[GitHub](https://github.com/Continuum-AI-Corp/OrcaReplay)|把录制下来的 coding agent 运行开放给 Agent 读取：在进程与 socket 层记录，模型请求、shell 退出码、每轮文件变更与 MCP 调用在同一条时间线上；可断网离线逐字节重放，或从任一检查点分叉到另一个模型。Apache-2.0。|
