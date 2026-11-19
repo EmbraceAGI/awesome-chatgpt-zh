@@ -49,6 +49,7 @@
 - [海螺 Hailuo](https://hailuoai.com/video) — MiniMax 出品的国产视频生成工具，画面流畅、效果稳定。
 - [VideoCreate](https://videocreate.org/) — 上传参考视频，逐镜头拆解并生成适配 Seedance、Kling、Wan 的提示词，也可在站内按次生成视频；分析有免费额度，无订阅。
 - [pitchboom.io](https://pitchboom.io) — AI 动态设计（motion design）视频广告工作室：粘贴产品网址或两行简介，生成脚本和可编辑、确认后再渲染的分镜，配上旁白（34 种语言）与配乐，输出 16:9、9:16、1:1、4:5、3:4 的 1080p MP4（各画幅重新排版而非裁切）；注册赠送免费积分（无需绑卡），付费订阅 €30/月起（不含税）。
+- [Clips Kitty](https://github.com/ColinGPT9/clips-studio) — 开源（AGPL-3.0）Windows 桌面应用：把 Twitch、Kick、YouTube 的直播回放与长视频自动剪成带字幕的 9:16 竖屏短视频（Shorts / Reels / TikTok），用本地 Whisper 转录、Ollama 本地大模型挑选片段，按说话人与人脸追踪构图，支持游戏与体育高光，可翻译字幕并配音为多种语言；本机运行、免费、无按量计费，建议 NVIDIA 显卡（RTX 2060 起）与 16 GB 内存，无独显也能运行但更慢；定时自动发布需另接第三方发布服务；附本地 MCP Server。
 
 ### AI 编程/IDE
 
