@@ -71,6 +71,10 @@
 - [copy.ai](https://www.copy.ai) — 擅长批量生成营销文案、邮件与广告变体的 AI 写作工具。
 - [秘塔写作猫](https://xiezuocat.com) — 国产中文写作助手，主打纠错、改写与全文润色。
 
+### AI 科研
+
+- [AutoResearch](https://autoresearch.me/en/) — 端到端科研系统：从研究方向到有证据支撑的论文，连接文献探索、可检验想法、模型实现、GPU 实验和文稿撰写；目前为需管理员审批的内测。
+
 ### AI PPT/设计
 
 - [Gamma](https://gamma.app) — 当红 AI 演示工具，一句话生成 PPT、网页与文档。
