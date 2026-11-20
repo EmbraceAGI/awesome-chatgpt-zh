@@ -76,6 +76,7 @@
 | PlaceCall | [链接](https://voygr.tech/placecall/) | 让 AI 智能体替你给美国商家拨打真实电话（订位、预约、咨询、询价）：能走 IVR 语音菜单、等待和转接，通话中可回头向你确认问题，结束后返回结构化结果、通话转录与录音；提供 REST API、远程 MCP 服务器和 Agent Skill，付费 API，按通话结果计费 |
 | ReadGZH | [链接](https://readgzh.site) ・[GitHub](https://github.com/sweesama/readgzh) | 粘贴微信公众号文章链接，生成 AI 可直接读取的精简页面或 Markdown，解决 ChatGPT / Claude 等读不到公众号文章的问题；提供 REST API 与 MCP，开源（AGPL-3.0），托管服务按积分计费，缓存文章不扣积分 |
 | AI观潮 | [链接](https://aiguanchao.com/) | AI 新闻精选站：每天从上千个信息源的几千条 AI、科技和时事新闻里挑出值得看的，附中文总结和原文链接；另有早晚两期 AI 日报、热门事件追踪和大模型排行榜，网页和 RSS 免费 |
+| Ginta | [链接](https://ginta.app) | 面向小商家的 AI 建站工具：描述你的生意，一两分钟后就得到一个已上线的网站，自带联系表单、预约、网店（Stripe 收款）和博客；也可通过远程 MCP 服务器（`https://ginta.app/mcp`，OAuth 登录）在 Claude 或 ChatGPT 对话里直接建站和修改。闭源，有免费套餐（最多 20 个网站，带小的 "Made with Ginta" 标记），绑定自有域名需付费套餐 |
 
 ### ChatGPT 学习英语
 
