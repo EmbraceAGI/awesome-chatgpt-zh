@@ -54,6 +54,7 @@ Claude Code（Anthropic）与 Codex（OpenAI）是 2025–2026 年最主流的�
 | ccmanager | [GitHub](https://github.com/kbwo/ccmanager) | 编码 Agent 会话管理器，支持 Claude Code、Gemini CLI、Codex CLI、Cursor Agent 等 |
 | CodexMonitor | [GitHub](https://github.com/Dimillian/CodexMonitor) | 监控 Codex 任务运行状态的桌面小工具 |
 | cc-connect | [GitHub](https://github.com/chenhg5/cc-connect) | 把 Claude Code / Codex 等接入微信、飞书、钉钉、Telegram 等聊天软件 |
+| Trina AX | [GitHub](https://github.com/trina-app/trina-ax) | 开源（AGPL-3.0）的自托管团队 AI 工作台，一台服务器同时运行 Claude Code 与 Codex，网页、桌面和手机应用都能用，每个人的 AI 只能打开本人有权限的文件 |
 
 ## 工作流框架与方法论
 
