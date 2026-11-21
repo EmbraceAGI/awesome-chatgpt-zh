@@ -96,6 +96,7 @@
 - [flowith](https://flowith.io) — 基于二维画布的 AI 工作空间，可同时与多个模型协作深度工作。
 - [Napkin AI](https://www.napkin.ai) — 把文字一键转为信息图与可视化图表的 AI 工具。
 - [Otter.ai](https://otter.ai) — 实时会议转录与摘要 AI，自动生成纪要、洞察与行动项。
+- [ChatOutline Pro](https://github.com/SamLu574/chatoutline-pro) — 支持 ChatGPT、Claude、DeepSeek 与 Gemini 的开源长对话悬浮目录、一键导出 Markdown（Obsidian/Notion）与代码块提取浏览器插件（[Edge 商店直装](https://microsoftedge.microsoft.com/addons/detail/mmnmfeljpmjdpmpbelhnebldimmoaokb)）。
 
 ### [AI 研究所](https://www.aiyjs.com/)
 
