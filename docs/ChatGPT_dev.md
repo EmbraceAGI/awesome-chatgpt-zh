@@ -24,6 +24,7 @@
 |[openai-node](https://github.com/openai/openai-node)|![GitHub Repo stars](https://badgen.net/github/stars/openai/openai-node)|官方 JavaScript / TypeScript 库|-|
 |[OpenAI Agents SDK](https://github.com/openai/openai-agents-python)|![GitHub Repo stars](https://badgen.net/github/stars/openai/openai-agents-python)|轻量而强大的多智能体编排框架|工具调用、安全护栏、会话管理与内置 tracing|
 |[openai-cookbook](https://github.com/openai/openai-cookbook)|![GitHub Repo stars](https://badgen.net/github/stars/openai/openai-cookbook)|使用 OpenAI API 完成常见任务的示例代码与指南合集|OpenAI API 官方使用指南|
+|[Sign in with ChatGPT 示例代码](https://github.com/aaronk9-web/sign-in-with-chatgpt-examples)|![GitHub Repo stars](https://badgen.net/github/stars/aaronk9-web/sign-in-with-chatgpt-examples)|让用户用 ChatGPT 账号登录你的应用，并让 AI 请求走用户自己的 ChatGPT 额度（Express / FastAPI / Python CLI）|社区示例，配套[开发者指南](https://loginwith.ai/developers/chatgpt)；[OpenAI 官方文档](https://developers.openai.com/siwc)|
 
 ### Prompt 开发资源
 |名称|Stars|简介|备注|
