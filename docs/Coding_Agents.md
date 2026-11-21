@@ -20,6 +20,7 @@
 | oh-my-pi | [GitHub](https://github.com/can1357/oh-my-pi) | pi 生态最热门的"全家桶"增强分支（MIT，约 1.1 万 star），在 pi 之上补齐 LSP、调试器、浏览器、子 Agent、跨会话记忆与 Zed 集成 |
 | pi-feishu-lark | [GitHub](https://github.com/AX1202/pi-feishu-lark) | 把 pi 接入飞书 / Lark 的连接器扩展，扫码建 bot，私聊 / 群聊 / 话题各开独立 pi 会话，支持文件附件与模型切换 |
 | pi-omplike-advisor | [GitHub](https://github.com/pasky/pi-omplike-advisor) | pi 扩展：常驻一个「第二模型」在每一轮 review 主 Agent 的工作，并把精简建议内联注入对话，相当于给编码 Agent 配一名实时结对审查者（TypeScript） |
+| mu | [GitHub](https://github.com/qybaihe/mu) ・[官网](https://usemu.dev/) | 基于 pi 的开源编程 Agent，有命令行和桌面端（macOS、Windows、Linux）。一个小而快的判定模型在 40 个判定点上替大模型做例行决定：哪些工具输出进上下文、命令是否安全、活是否真的做完、网页和 MCP 结果里有没有提示注入；判定模型可以用云端的 Jev，也可以在 Apple 芯片的 Mac 上本地运行 mude 1.0。Terminal-Bench 2.1 上同一模型、同一批任务，mu 的尝试通过率 68.2%，pi 为 58.7%（MIT） |
 | cc-connect | [GitHub](https://github.com/chenhg5/cc-connect) | 通用桥接器（约 1.2 万 star），把 Claude Code / Codex / pi 等编码 Agent 接入微信、企业微信、飞书、QQ、钉钉等国内 IM |
 | OpenCode | [GitHub](https://github.com/sst/opencode) | SST 团队出品的开源终端编码 Agent（Go），客户端-服务端架构，支持 75+ 模型 |
 | Crush | [GitHub](https://github.com/charmbracelet/crush) | Charm 出品的"颜值派"终端编码 Agent，基于 TUI，支持多模型、LSP 与 MCP |
