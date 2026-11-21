@@ -54,3 +54,4 @@
 | 硅基流动 SiliconFlow | [链接](https://siliconflow.cn/) | 国内模型推理云，开源模型 API 价格低，部分模型免费 |
 | Amazon Bedrock | [链接](https://aws.amazon.com/bedrock/) | AWS 托管的 Claude 等模型，Claude Code 原生支持 |
 | Google Vertex AI | [链接](https://cloud.google.com/vertex-ai) | Google Cloud 托管的 Gemini 与 Claude 模型，Claude Code 原生支持 |
+| CodeI Lab | [链接](https://www.codeilab.com) | 面向编码 Agent 的第三方 GPT API 网关：一个 Key 通过 OpenAI 或 Anthropic 协议调用 GPT-6 / GPT-5.6，套餐额度低于官方按量价 |
