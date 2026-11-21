@@ -37,6 +37,7 @@
 - [文心一格](https://yige.baidu.com) — 百度的 AI 艺术创作平台，支持多种风格、对新手友好。
 - [remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) — 开源 CLI / Python 库，用于去除图片中的可见与隐形 AI 水印（如 Gemini/Nano Banana sparkle、SynthID）及来源元数据（C2PA、EXIF、IPTC）。
 - [Kid Story](https://aikidstory.app) — 面向 2–6 岁儿童家庭的 AI 绘本生成工具，上传玩具照片生成可复用角色设定图以保持整书跨页角色一致，支持水彩/蜡笔/油画棒画风与打印级 PDF 导出。
+- [RoomLab.app](https://roomlab.app) — 面向房产经纪人、室内设计师和建筑师的 AI 室内照片与视频编辑工具：虚拟家装（Virtual Staging）、一键更换装修风格、清理杂物或清空房间、按参考图替换家具和材质、对比墙面颜色、把 SketchUp/Revit 视图转成写实渲染图，还能用照片生成漫游视频；已上架 ChatGPT 插件并提供 MCP 服务。
 
 ### AI 视频生成
 
