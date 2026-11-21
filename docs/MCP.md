@@ -110,6 +110,7 @@ MCP（Model Context Protocol，模型上下文协议）是 Anthropic 于 2024 �
 |Sequential Thinking MCP（官方）|[GitHub](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking)|官方顺序思考服务器，引导模型进行分步结构化推理。|
 |MemPalace|[GitHub](https://github.com/MemPalace/mempalace)|开源、免费的 AI 记忆系统（Python，MIT），自称在公开基准上表现领先，基于 ChromaDB 提供向量化长期记忆，并通过 MCP 接入 Claude、Codex 等 Agent 客户端。社区开发活跃，已合并上千 PR。|
 |LLMSlim|[GitHub](https://github.com/Thanatos9404/llmslim)|面向 Agent 的长期记忆 MCP 服务器（Python，MIT），读写不调用 LLM：消息按原文存入本地 SQLite 或自有 Postgres，按问题在 token 预算内召回相关消息；提供 remember、recall、list_memories、forget、fit_context 五个工具。|
+|ClickHouse Loom|[GitHub](https://github.com/ClickHouse/loom)|ClickHouse 开源的自托管 MCP 服务器（Apache-2.0）：为 Claude Code、Codex、Cursor 等 Agent 提供跨会话共享的长期记忆（版本历史、冲突标记、审计与擦除）、带引用的文档检索和代码仓库索引，数据存储在 ClickHouse 中，可选用 Postgres 存储当前记忆状态。|
 
 ### MCP × DeepSeek
 
