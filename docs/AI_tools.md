@@ -96,6 +96,7 @@
 - [flowith](https://flowith.io) — 基于二维画布的 AI 工作空间，可同时与多个模型协作深度工作。
 - [Napkin AI](https://www.napkin.ai) — 把文字一键转为信息图与可视化图表的 AI 工具。
 - [Otter.ai](https://otter.ai) — 实时会议转录与摘要 AI，自动生成纪要、洞察与行动项。
+- [PromptPilot](https://github.com/navasshereef1/PromptPilot) — 开源免费的 Windows 工具，在 ChatGPT、Claude、Gemini 输入框内一键把粗略提示词改写成结构化提示词。
 
 ### [AI 研究所](https://www.aiyjs.com/)
 
