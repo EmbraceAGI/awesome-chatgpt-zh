@@ -67,4 +67,5 @@
 |------|------|------|
 | LMArena Text-to-Image | [链接](https://lmarena.ai/leaderboard/text-to-image) | 匿名对战投票的文生图 / 图像编辑排行榜 |
 | Artificial Analysis Image Arena | [链接](https://artificialanalysis.ai/text-to-image) | 生图模型质量、速度与价格对比 |
+| Spicy Lab | [链接](https://spicyapi.app) | 独立 NSFW（18+）AI 图像（兼视频 / 对话）模型对比与基准站：统一强度等级、并排实测、盲测质量分、公开方法学；不是生成器（数据更新于 2026-11-07：160 个模型，3,854 次实测） |
 | GenExam | [GitHub](https://github.com/OpenGVLab/GenExam) | 上海 AI Lab 的「考试式」多学科文生图基准 |
