@@ -152,6 +152,7 @@
 |[Semantic Kernel](https://github.com/microsoft/semantic-kernel)|![GitHub Repo stars](https://badgen.net/github/stars/microsoft/semantic-kernel)|微软开源 SDK，在 Python/.NET/Java 中快速集成 LLM 能力，构建智能体系统|
 |[OpenFugu](https://github.com/trotsky1997/OpenFugu)|![GitHub Repo stars](https://badgen.net/github/stars/trotsky1997/OpenFugu)|Sakana Fugu「一个模型统御全部」LLM 编排器的开源复现，覆盖读取→运行→训练→服务全链路（Apache-2.0）|
 |[Heym](https://github.com/heymrun/heym)|![GitHub Repo stars](https://badgen.net/github/stars/heymrun/heym)|源码可用的自托管智能体运行时，支持持久化工作流、人工审批、MCP 工具、执行追踪与评测（MIT + Commons Clause）|
+|[OneTag AI](https://github.com/fengyiqicoder/onetagai)|![GitHub Repo stars](https://badgen.net/github/stars/fengyiqicoder/onetagai)|一个 script 标签给任何静态网站加 AI：浏览器里直接调用 onetag.ask(提示词, 输入) 做总结、问答、翻译、抽取 JSON，不需要后端；SDK 开源（MIT），每个账号免费 100 万 token|
 
 ### 一键部署资源
 
