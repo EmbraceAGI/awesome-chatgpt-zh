@@ -45,6 +45,7 @@ MCP（Model Context Protocol，模型上下文协议）是 Anthropic 于 2024 �
 |DeepSeek Harness（dsh）|[GitHub](https://github.com/deepseek-ai/deepseek-harness)|DeepSeek 官方 Agent 框架，内置 MCP 客户端桥接第三方工具服务器，并兼容 Claude Code / Codex 的 Hook 协议与 Skills；生态见 [DeepSeek 生态指南](DeepSeek.md#deepseek-harness官方-agent-框架)。|
 |OpenClaw（"龙虾"）|[GitHub](https://github.com/openclaw/openclaw)|开源个人 AI 助理，接入飞书 / 微信等 IM，支持 MCP 与 Skills，可直接选 DeepSeek 作为模型。|
 |OpenCode / Crush / Goose|[OpenCode](https://github.com/sst/opencode)|主流开源终端编码 Agent 均原生支持 MCP。|
+|BayesChat|[官网](https://bayeschat.xyz)|iOS / iPadOS 原生客户端，用自带 API Key 接任意 OpenAI / Anthropic 兼容端点；MCP 支持远程 Streamable HTTP 的 Tools（Bearer Token 或自定义 Header），不支持 stdio、resources、prompts。无需注册账号，Key 存设备 Keychain。|
 
 ### MCP Servers — 浏览器自动化
 
