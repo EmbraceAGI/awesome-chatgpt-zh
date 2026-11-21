@@ -101,6 +101,7 @@
 | OpenAdapt | [GitHub](https://github.com/OpenAdaptAI/OpenAdapt) | 生成式流程自动化（Generative RPA），录制-回放式桌面自动化 |
 | OpenBot | [GitHub](https://github.com/CopilotKit/OpenBot) | CopilotKit 开源「AI 同事」：每个 Agent 拥有独立的浏览器（自己的登录态）、文件与按需授权的工具，可自带 Agent |
 | Skill Recorder | [GitHub](https://github.com/microsoft/skill-recorder) | 微软开源：录制一次屏幕操作（点击、切窗、网页、口述），自动生成 Agent 可重复执行的 Skill，是「示教式」Computer Use |
+| SPIRITT | [官网](https://spiritt.ai) | 托管式自主 AI 工作区：每个 Agent 拥有独立的云电脑，可在云端浏览器或你自己的 Chrome 中操作网页与应用，同时编写并部署代码、长期运行业务流程；在单个任务中组合多家实验室的模型 |
 
 ## 移动端 GUI Agent（Android / iOS）
 
