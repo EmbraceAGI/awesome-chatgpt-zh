@@ -81,6 +81,7 @@
 - [GenOffice](https://github.com/genspark-ai/genoffice) — Genspark 开源的全功能 AI Office 套件（Word / Excel / PPT，macOS / Windows / Linux，Apache-2.0）。
 - [OpenKnowledge](https://github.com/inkeep/open-knowledge) — Inkeep 开源的 AI 原生 Markdown IDE / LLM wiki：所见即所得编辑、图谱、与 Claude / Codex / OpenCode 并排协作，自带 MCP 与 Skills。
 - [AdVariq](https://advariq.com) — 专为出海独立创作者与营销团队打造的 AI 广告图与宣传物料生成平台，支持复刻爆款广告结构与局部智能微调。
+- [构图AI](https://draw.lzkz.top/) — 基于 Excalidraw 的 AI 手绘风格技术图表工具，一句话生成架构图、时序图、流程图、思维导图、ER 图等 12 种可编辑矢量技术图，支持框选局部精修与 PNG/SVG/`.excalidraw` 导出（另提供 [MIT 开源版](https://github.com/co-pine/ai-excalidraw)）。
 
 ### AI 语音/音乐/数字人
 
