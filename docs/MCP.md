@@ -101,6 +101,7 @@ MCP（Model Context Protocol，模型上下文协议）是 Anthropic 于 2024 �
 |Model Studio CLI（阿里云百炼官方）|[GitHub](https://github.com/modelstudioai/cli)|阿里云百炼官方 CLI（Apache-2.0），面向 Agent 框架暴露 Qwen 对话、图像 / 视频生成、语音、搜索、记忆与知识检索等能力。|
 |Flint（微软）|[GitHub](https://github.com/microsoft/flint-chart)|微软开源的可视化中间语言 + MCP Server（MIT）：Agent 用简单可编辑的图表规格稳定产出美观图表，附多套视觉主题。|
 |Aident Loadout（官方）|[链接](https://aident.ai)|Aident 官方托管的远程 MCP 服务器（`https://loadout.aident.ai/mcp`，Streamable HTTP，首次使用需 OAuth 登录 Aident 账号）：应用账号只需连接一次，即可在 Claude Code、Codex、Cursor、ChatGPT 等 MCP 客户端之间复用，并附带 400+ 现成 Skills；API Key 保存在 Aident Vault 中、不交给模型，每次执行都记入 Audit 日志。闭源商业服务，按量付费可免费起步，内置服务从账户余额扣费。|
+|FlowFeed MCP（官方）|[链接](https://flowfeed.cc)|FlowFeed 官方托管的远程 MCP 服务器（`https://mcp.flowfeed.cc/mcp`，Streamable HTTP，OAuth 登录），为 AI 提供实时宏观、外汇与加密货币新闻（30 个来源，含 Bloomberg、FT 与 8 家央行）、经济日历和央行公告；付费（9 美元/月）。|
 
 ### MCP Servers — 知识与记忆
 
