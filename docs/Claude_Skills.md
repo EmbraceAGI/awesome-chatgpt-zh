@@ -62,6 +62,7 @@ Claude Skills（Agent Skills）是 Anthropic 推出的让 AI 智能体按需加�
 |firecrawl/anydoc（skill）|[GitHub](https://github.com/firecrawl/anydoc)|Firecrawl 的文档转 Markdown 库以 Agent Skill 形式分发，让 Agent 直接读懂 Word / PPT / Excel / PDF / EPUB。|
 |Finderchangchang/brewreel|[GitHub](https://github.com/Finderchangchang/brewreel)|精酿 BrewReel：让 DeepSeek 等低成本模型也能做竖版宣传片的 Agent Skill。写一份产品简报，模型选镜头、写文案，一条命令用 Remotion 渲染 1080×1920 成片；3 种风格配方、6 个行业包（内置广告法校验）、出片质检、中英双语（Apache-2.0）。|
 |krisyangdev/motionboard|[GitHub](https://github.com/krisyangdev/motionboard)|38 个发布片镜头的代码复刻（HyperFrames，MIT），附 agent skill，`npx skills add krisyangdev/motionboard` 安装后让 Claude Code 给你的产品做发布片。|
+|zColdWater/omniforge-skills|[GitHub](https://github.com/zColdWater/omniforge-skills)|50 个零依赖 MIT 开源上线前巡检 Agent Skill（已入 Vercel skills.sh，`npx skills add zColdWater/omniforge-skills` 一键装入 Claude Code / Cursor / Codex / Gemini CLI），覆盖 Supabase/Firebase RLS、Next.js CVE-2025-29927、客户端密钥泄露、CSP/HSTS 安全头、SPF/DKIM/DMARC 邮件送达率、78 个 TLD 域名与 USPTO 商标及 `/llms.txt` AI 搜索就绪度；配套只读 MCP 服务器 [mcp-launch-audit](https://github.com/zColdWater/mcp-launch-audit) 与在线即扫工具。|
 
 ### DeepSeek Harness 技能生态
 
