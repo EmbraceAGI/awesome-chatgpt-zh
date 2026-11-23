@@ -83,6 +83,7 @@ Claude Code（Anthropic）与 Codex（OpenAI）是 2025–2026 年最主流的�
 | security-audit-skill | [GitHub](https://github.com/cloudflare/security-audit-skill) | Cloudflare 开源的多阶段安全审计技能，输出经独立验证、机器可读的发现 |
 | SkillSpector | [GitHub](https://github.com/NVIDIA/SkillSpector) | NVIDIA 开源的 Agent 技能安全扫描器：检测恶意模式、提示注入、数据外泄与供应链风险 |
 | claude-seo | [GitHub](https://github.com/AgriciDaniel/claude-seo) | Claude Code 的 SEO 全家桶技能，含 26 个子技能与 19 个子代理 |
+| sharpen | [GitHub](https://github.com/melthond/sharpen) | 开启后，把每条提示词结合对话、代码库和已安装的技能 / MCP 工具改写成具体的提示词，确认后才开始执行 |
 
 > 安装第三方技能 / 插件前，建议先用 SkillSpector 之类的工具扫描，或至少通读其脚本——技能可以执行任意命令。
 
