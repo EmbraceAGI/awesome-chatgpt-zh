@@ -70,6 +70,7 @@
 - [Grammarly](https://www.grammarly.com) — 跨平台英文写作助手，专注语法纠错与表达润色。
 - [copy.ai](https://www.copy.ai) — 擅长批量生成营销文案、邮件与广告变体的 AI 写作工具。
 - [秘塔写作猫](https://xiezuocat.com) — 国产中文写作助手，主打纠错、改写与全文润色。
+- [ImagineYourBook](https://www.imagineyourbook.com/) - 把一个创意或大纲写成完整书稿（约 5,000 至 120,000 词）并生成原创封面，可导出 Word、EPUB 和 Markdown；底层调用 OpenAI GPT 等模型，7 天 $0 试用需绑定银行卡，之后按月付费。
 
 ### AI PPT/设计
 
