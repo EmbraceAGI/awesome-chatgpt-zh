@@ -76,6 +76,7 @@
 | PlaceCall | [链接](https://voygr.tech/placecall/) | 让 AI 智能体替你给美国商家拨打真实电话（订位、预约、咨询、询价）：能走 IVR 语音菜单、等待和转接，通话中可回头向你确认问题，结束后返回结构化结果、通话转录与录音；提供 REST API、远程 MCP 服务器和 Agent Skill，付费 API，按通话结果计费 |
 | ReadGZH | [链接](https://readgzh.site) ・[GitHub](https://github.com/sweesama/readgzh) | 粘贴微信公众号文章链接，生成 AI 可直接读取的精简页面或 Markdown，解决 ChatGPT / Claude 等读不到公众号文章的问题；提供 REST API 与 MCP，开源（AGPL-3.0），托管服务按积分计费，缓存文章不扣积分 |
 | AI观潮 | [链接](https://aiguanchao.com/) | AI 新闻精选站：每天从上千个信息源的几千条 AI、科技和时事新闻里挑出值得看的，附中文总结和原文链接；另有早晚两期 AI 日报、热门事件追踪和大模型排行榜，网页和 RSS 免费 |
+| Stashkin | [链接](https://stashkin.com) | Chrome 扩展：将 ChatGPT 对话一键导出为可编辑 Word（.docx）、PDF、Markdown、纯文本、PNG 与 JSON，完整保留表格、LaTeX 数学公式、代码块和图片；免费版每日可用且无需账号 |
 
 ### ChatGPT 学习英语
 
