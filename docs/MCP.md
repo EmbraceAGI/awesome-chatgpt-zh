@@ -89,6 +89,7 @@ MCP（Model Context Protocol，模型上下文协议）是 Anthropic 于 2024 �
 |Context7 MCP|[GitHub](https://github.com/upstash/context7)|为 LLM 提供最新版本的库文档与代码示例，解决依赖文档过时问题。|
 |OpenOSINT|[GitHub](https://github.com/OpenOSINT/OpenOSINT)|AI 驱动的 OSINT 情报 Agent（MIT），19 个工具，提供 REPL、MCP server 与 CLI 三种用法。|
 |Serply MCP|[链接](https://serply.io/mcp)|Serply 托管的搜索与抓取 MCP，14 个工具覆盖 Google、Bing、Amazon、Reddit 与网页抓取；多数返回 Markdown，地图返回结构化数据；端点 api.serply.io/mcp，以 X-Api-Key 鉴权，提供免费额度且无需信用卡。|
+|DataXAPI MCP|[链接](https://dataxapi.com/zh/mcp/?ref=awesome-chatgpt-zh)|DataXAPI 官方托管的远程 MCP（`https://api.dataxapi.com/mcp`，Streamable HTTP，API Key 或 OAuth 登录），读取抖音、小红书、公众号、视频号、微博、B站、知乎、快手、TikTok、X、YouTube 等平台的公开帖子、评论、博主、广告和趋势；五个工具 find、describe、call、read_more、account，find 和 describe 不用 Key；按次付费，失败不收费。|
 
 ### MCP Servers — 云平台与第三方官方服务
 
