@@ -60,3 +60,4 @@
 | Butterbase | [GitHub](https://github.com/butterbase-ai/butterbase) | 面向 AI 应用的开源 BaaS（Apache-2.0）：Postgres + RLS、Serverless 函数、LLM 网关、实时订阅、KV、文件存储与 MCP |
 | AgentENV | [GitHub](https://github.com/kvcache-ai/AgentENV) | 清华 KVCache.AI 开源的大规模 Agent 环境平台（MIT）：Firecracker 微虚机 <50ms 启动 / 恢复、增量快照与 fork，为 Kimi K3 的 Agentic RL 训练提供环境 |
 | deed.page | [官网](https://deed.page) ・[GitHub](https://github.com/f-o-x11/deed-page-skill) | 为 AI agent 打造的静态托管：一次 curl 请求或 MCP 调用即可把 HTML 或静态文件夹发布到永久公开 URL，无需注册账号；提供 Agent Skill（`npx skills add f-o-x11/deed-page-skill`）、远程 MCP 服务器与 llms.txt，文档见 [deed.page/docs](https://deed.page/docs) |
+| Kite | [kite.new](https://kite.new) ・[GitHub](https://github.com/kitedotnew/kite-agent-plugins) | Agent-first 的设计工具（免费版可用）：Claude、ChatGPT、Cursor、Codex 通过托管 MCP server（`https://kite.new/api/mcp`）在团队实时协作的同一文件里绘制真实可编辑的图层（Frame、文本、组件、自动布局），可复制到 Figma 或导出 HTML/React/Tailwind |
