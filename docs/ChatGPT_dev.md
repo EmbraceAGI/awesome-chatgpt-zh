@@ -136,6 +136,7 @@
 |[Moonshot (Kimi) API](https://platform.moonshot.ai/)|-|月之暗面 Kimi 开放平台，提供与 OpenAI 兼容的大模型 API|
 |[智谱 BigModel](https://open.bigmodel.cn/)|-|智谱 AI 开放平台，提供 GLM 系列大模型 API 及智能体、知识库等开发能力|
 |[llmtrim](https://github.com/fkiene/llmtrim)|![GitHub Repo stars](https://badgen.net/github/stars/fkiene/llmtrim)|本地代理，在请求发出前无损压缩 LLM API 调用以省费用（实测 -31% 输入 / -74% 输出），不改变回答、不额外调用模型；适配任意供应商，另提供 MCP server 与多语言可嵌入库（Rust/Python/Ruby/Kotlin/Swift/JS-TS）|
+|[Free LLM API Hub](https://github.com/pacocartones/free-llm-api-hub)|![GitHub Repo stars](https://badgen.net/github/stars/pacocartones/free-llm-api-hub)|持续核验的免费额度与试用额度大模型 API 数据集，覆盖 60+ 家供应商，每条注明核验日期与来源（MIT）；提供免鉴权 CORS JSON API、CSV、llms.txt 与 RSS，网站 [freellmapihub.com](https://freellmapihub.com)|
 
 ### LLM 应用开发框架与平台
 
