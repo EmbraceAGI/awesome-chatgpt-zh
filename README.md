@@ -128,6 +128,11 @@ GPT Image 2、Nano Banana、Seedream、Midjourney、FLUX.2 等闭源模型，Qwe
 - 🚀[电报频道：ChatGPT 精选](https://t.me/AwesomeChatGPT)🚀
 - 🚀[电报交流群：ChatGPT 精选 Chat](https://t.me/+cBIhxVSwABg4Y2M5)🚀
 
+
+## 公共数据 API（Apify）
+
+- [Public Records MCP](https://github.com/GeminiGeorge22/publicrecords-mcp/blob/main/README.zh-CN.md) - 18 个托管在 Apify 上的公共数据 MCP 服务器：美国联邦合同与资助（SAM.gov、Grants.gov、USAspending）、欧盟 TED 与英国招标、市议会会议、Ashby/Greenhouse/Lever/SmartRecruiters 职位、公司社交账号、Google 广告透明度、Etsy 销量、体育赔率、Spotify 播放量.
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=yzfly/awesome-chatgpt-zh&type=Date)](https://star-history.com/#yzfly/awesome-chatgpt-zh&Date)
