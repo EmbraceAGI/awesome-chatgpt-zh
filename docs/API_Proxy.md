@@ -54,3 +54,4 @@
 | 硅基流动 SiliconFlow | [链接](https://siliconflow.cn/) | 国内模型推理云，开源模型 API 价格低，部分模型免费 |
 | Amazon Bedrock | [链接](https://aws.amazon.com/bedrock/) | AWS 托管的 Claude 等模型，Claude Code 原生支持 |
 | Google Vertex AI | [链接](https://cloud.google.com/vertex-ai) | Google Cloud 托管的 Gemini 与 Claude 模型，Claude Code 原生支持 |
+| HiAPI | [链接](https://hiapi.ai/?utm_source=github&utm_medium=awesome-list&utm_campaign=bf26&utm_content=awesome-chatgpt-zh) | 一个 Key 覆盖图片、视频、音频和文本模型：文本模型兼容 OpenAI Responses 与 Chat Completions，图片、视频、音频走异步任务接口；按美元按量付费、每个模型价格公开，任务失败自动退款 |
