@@ -96,6 +96,7 @@
 - [flowith](https://flowith.io) — 基于二维画布的 AI 工作空间，可同时与多个模型协作深度工作。
 - [Napkin AI](https://www.napkin.ai) — 把文字一键转为信息图与可视化图表的 AI 工具。
 - [Otter.ai](https://otter.ai) — 实时会议转录与摘要 AI，自动生成纪要、洞察与行动项。
+- [AI 工具价格与免费额度数据集](https://github.com/AMPM-AIOPS-HQ/awesome-ai-tools-pricing) — 240 个 AI 工具（ChatGPT、Claude、Cursor 等）的免费额度、最低付费月费（美元）与商用条款，每天自动更新，每条附官方来源与查核日期，JSON / CSV 免费下载。
 
 ### [AI 研究所](https://www.aiyjs.com/)
 
