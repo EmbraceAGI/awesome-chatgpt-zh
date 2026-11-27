@@ -278,7 +278,7 @@ V4 系列为开放权重，可自建服务。V4-Flash（13B 激活）是本地 /
 |------|------|------|
 | AstrBot | [GitHub](https://github.com/AstrBotDevs/AstrBot) | 多平台聊天机器人（QQ / 飞书 / Telegram），记忆、RAG、MCP |
 | LangBot | [GitHub](https://github.com/RockChinQ/LangBot) | IM 机器人框架 |
-| chatgpt-on-wechat | [GitHub](https://github.com/zhayujie/chatgpt-on-wechat) | 微信 / 企微 / 飞书 / 钉钉机器人 |
+| CowAgent | [GitHub](https://github.com/zhayujie/CowAgent) | 开源的超级 AI 助理，桌面、手机 App 与源码部署均可使用，支持 DeepSeek 等主流模型；可接入微信 / 企微 / 飞书 / 钉钉 / QQ，带长期记忆、自进化、Skills、MCP 与多 Agent 团队 |
 | HuixiangDou 茴香豆 | [GitHub](https://github.com/InternLM/HuixiangDou) | 微信 / 飞书群知识助手 |
 | NoneBot DeepSeek 插件 | [GitHub](https://github.com/KomoriDev/nonebot-plugin-deepseek) | NoneBot 生态 |
 | 钉钉 / 飞书 / 企业微信 | 官方 | 三大办公平台均已内置 DeepSeek 模型 |
