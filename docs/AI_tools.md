@@ -21,7 +21,7 @@
 - [Genspark](https://www.genspark.ai) — AI Agent 搜索引擎，可自动生成专题页。
 - [天工 AI 搜索](https://www.tiangong.cn) — 昆仑万维出品，无广告结果的国产 AI 搜索。
 - [LLocalSearch](https://github.com/nilsherzig/LLocalSearch) — 完全本地运行的开源 AI 搜索聚合器，用 LLM 智能体链回答问题并展示推理进度，无需 OpenAI/Google API key。
-- [多问AI](https://www.duowen.app) — 托管式中文 AI 问答，用户不必自备 Key；可打开联网搜索，并用核验清单核对答案要点。英文品牌 Askmore。
+- [多问AI](https://www.duowen.app) — 托管式中文多模型问答（英文品牌 Askmore），用户不必自备 Key。可自动选主答并决定要不要一起问几家，对比共同点与分歧（异同分析），需要时联网搜索，并可展开要点、核验主张出处。
 
 - [AiMovieFinder](https://www.aimoviefinder.com) — 免费、无需注册的 AI 找电影工具，可根据截图、场景、台词、剧情、演员、歌曲、海报或视频片段识别电影。
 ### AI 绘画/图像
