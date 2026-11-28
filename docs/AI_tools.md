@@ -81,6 +81,7 @@
 - [GenOffice](https://github.com/genspark-ai/genoffice) — Genspark 开源的全功能 AI Office 套件（Word / Excel / PPT，macOS / Windows / Linux，Apache-2.0）。
 - [OpenKnowledge](https://github.com/inkeep/open-knowledge) — Inkeep 开源的 AI 原生 Markdown IDE / LLM wiki：所见即所得编辑、图谱、与 Claude / Codex / OpenCode 并排协作，自带 MCP 与 Skills。
 - [AdVariq](https://advariq.com) — 专为出海独立创作者与营销团队打造的 AI 广告图与宣传物料生成平台，支持复刻爆款广告结构与局部智能微调。
+- [Tweenery](https://tweenery.com) — AI 社媒内容智能体：输入一个想法或粘贴喜欢的 Instagram/TikTok 帖子链接，自动写好钩子与每页文案并设计成可直接发布的轮播图/图文 slideshow，提供免费额度。
 
 ### AI 语音/音乐/数字人
 
