@@ -272,6 +272,7 @@ DeepSeek-V4（Pro / Flash）默认开启**思考模式**（Thinking Mode），�
 |[understand-prompt](https://github.com/prompt-engineering/understand-prompt) | ![GitHub Repo stars](https://badgen.net/github/stars/prompt-engineering/understand-prompt) | - |理解 Prompt：基于编程、绘画、写作的 AI 探索与总结|
 |[🌟 ChatGPT-Awesomes-Collection 🌟](https://github.com/yzfly/my-awesomes-collection/blob/main/docs/chatgpt.md) | ![GitHub Repo stars](https://badgen.net/github/stars/yzfly/my-awesomes-collection) | - |ChatGPT prompt 合集的精选合集|
 | [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | ![GitHub Repo stars](https://badgen.net/github/stars/x1xhlol/system-prompts-and-models-of-ai-tools) | System prompts, tools and internal configurations of popular AI tools. | 汇总 Cursor、v0、Devin、Windsurf、Manus 等主流 AI 编程/Agent 工具的系统提示词、工具定义与内部配置，研究提示词工程与 Agent 设计的一手资料。|
+| [cn-personas](https://github.com/meiqiu912/cn-personas) | ![GitHub Repo stars](https://badgen.net/github/stars/meiqiu912/cn-personas) | Six ready-to-copy Chinese role-play persona prompt packs for practicing difficult conversations. | 六个可直接复制的中文角色扮演人设提示词包（甲方、老会计、县城亲戚、压力面试官、老摊主、毒舌点评），粘进任意 AI 练难聊的对话；MIT 许可。 |
 
 ### ChatGPT 越狱
 
